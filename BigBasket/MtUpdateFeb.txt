@@ -1,0 +1,2355 @@
+2105
+count shipment check ---  1  --- shNo----->FRETSH000020734
+count shipment check ---  2  --- shNo----->FRETSH000020733
+count shipment check ---  3  --- shNo----->FRETSH000020732
+count shipment check ---  4  --- shNo----->FRETSH000020731
+count shipment check ---  5  --- shNo----->FRETSH000020730
+count shipment check ---  6  --- shNo----->FRETSH000020729
+count shipment check ---  7  --- shNo----->FRETSH000020728
+count shipment check ---  8  --- shNo----->FRETSH000020727
+count shipment check ---  9  --- shNo----->FRETSH000020726
+count shipment check ---  10  --- shNo----->FRETSH000020725
+count shipment check ---  11  --- shNo----->FRETSH000020724
+count shipment check ---  12  --- shNo----->FRETSH000020721
+count shipment check ---  13  --- shNo----->FRETSH000020722
+count shipment check ---  14  --- shNo----->FRETSH000020720
+count shipment check ---  15  --- shNo----->FRETSH000020719
+count shipment check ---  16  --- shNo----->FRETSH000020718
+count shipment check ---  17  --- shNo----->FRETSH000020717
+executing FRETSH000020717 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020717
+count shCf updated ------->  1
+count cn Material updated ------> 1
+0072093256 updatedLoadInfoRes  200
+count shipment check ---  18  --- shNo----->FRETSH000020716
+count shipment check ---  19  --- shNo----->FRETSH000020715
+count shipment check ---  20  --- shNo----->FRETSH000020714
+count shipment check ---  21  --- shNo----->FRETSH000020713
+count shipment check ---  22  --- shNo----->FRETSH000020712
+count shipment check ---  23  --- shNo----->FRETSH000020711
+count shipment check ---  24  --- shNo----->FRETSH000020710
+count shipment check ---  25  --- shNo----->FRETSH000020709
+count shipment check ---  26  --- shNo----->FRETSH000020706
+count shipment check ---  27  --- shNo----->FRETSH000020704
+count shipment check ---  28  --- shNo----->FRETSH000020703
+count shipment check ---  29  --- shNo----->FRETSH000020702
+count shipment check ---  30  --- shNo----->FRETSH000020701
+count shipment check ---  31  --- shNo----->FRETSH000020700
+count shipment check ---  32  --- shNo----->FRETSH000020698
+count shipment check ---  33  --- shNo----->FRETSH000020695
+count shipment check ---  34  --- shNo----->FRETSH000020694
+count shipment check ---  35  --- shNo----->FRETSH000020693
+count shipment check ---  36  --- shNo----->FRETSH000020692
+count shipment check ---  37  --- shNo----->FRETSH000020691
+count shipment check ---  38  --- shNo----->FRETSH000020690
+count shipment check ---  39  --- shNo----->FRETSH000020689
+count shipment check ---  40  --- shNo----->FRETSH000020688
+count shipment check ---  41  --- shNo----->FRETSH000020686
+count shipment check ---  42  --- shNo----->FRETSH000020685
+count shipment check ---  43  --- shNo----->FRETSH000020684
+count shipment check ---  44  --- shNo----->FRETSH000020683
+count shipment check ---  45  --- shNo----->FRETSH000020681
+count shipment check ---  46  --- shNo----->FRETSH000020680
+count shipment check ---  47  --- shNo----->FRETSH000020679
+count shipment check ---  48  --- shNo----->FRETSH000020678
+count shipment check ---  49  --- shNo----->FRETSH000020677
+count shipment check ---  50  --- shNo----->FRETSH000020676
+count shipment check ---  51  --- shNo----->FRETSH000020675
+count shipment check ---  52  --- shNo----->FRETSH000020673
+count shipment check ---  53  --- shNo----->FRETSH000020672
+count shipment check ---  54  --- shNo----->FRETSH000020671
+count shipment check ---  55  --- shNo----->FRETSH000020670
+count shipment check ---  56  --- shNo----->FRETSH000020669
+count shipment check ---  57  --- shNo----->FRETSH000020668
+count shipment check ---  58  --- shNo----->FRETSH000020667
+count shipment check ---  59  --- shNo----->FRETSH000020666
+count shipment check ---  60  --- shNo----->FRETSH000020663
+count shipment check ---  61  --- shNo----->FRETSH000020662
+count shipment check ---  62  --- shNo----->FRETSH000020661
+count shipment check ---  63  --- shNo----->FRETSH000020660
+count shipment check ---  64  --- shNo----->FRETSH000020659
+count shipment check ---  65  --- shNo----->FRETSH000020658
+count shipment check ---  66  --- shNo----->FRETSH000020657
+count shipment check ---  67  --- shNo----->FRETSH000020656
+count shipment check ---  68  --- shNo----->FRETSH000020655
+count shipment check ---  69  --- shNo----->FRETSH000020654
+count shipment check ---  70  --- shNo----->FRETSH000020653
+count shipment check ---  71  --- shNo----->FRETSH000020652
+count shipment check ---  72  --- shNo----->FRETSH000020651
+count shipment check ---  73  --- shNo----->FRETSH000020649
+count shipment check ---  74  --- shNo----->FRETSH000020648
+count shipment check ---  75  --- shNo----->FRETSH000020647
+count shipment check ---  76  --- shNo----->FRETSH000020645
+count shipment check ---  77  --- shNo----->FRETSH000020643
+count shipment check ---  78  --- shNo----->FRETSH000020642
+count shipment check ---  79  --- shNo----->FRETSH000020641
+count shipment check ---  80  --- shNo----->FRETSH000020634
+count shipment check ---  81  --- shNo----->FRETSH000020633
+count shipment check ---  82  --- shNo----->FRETSH000020632
+count shipment check ---  83  --- shNo----->FRETSH000020630
+count shipment check ---  84  --- shNo----->FRETSH000020631
+count shipment check ---  85  --- shNo----->FRETSH000020629
+count shipment check ---  86  --- shNo----->FRETSH000020628
+count shipment check ---  87  --- shNo----->FRETSH000020627
+count shipment check ---  88  --- shNo----->FRETSH000020626
+executing FRETSH000020626 : material TRAILER
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020626
+count shCf updated ------->  2
+count cn Material updated ------> 2
+0072093190 updatedLoadInfoRes  200
+count shipment check ---  89  --- shNo----->FRETSH000020625
+count shipment check ---  90  --- shNo----->FRETSH000020624
+count shipment check ---  91  --- shNo----->FRETSH000020623
+count shipment check ---  92  --- shNo----->FRETSH000020622
+count shipment check ---  93  --- shNo----->FRETSH000020621
+count shipment check ---  94  --- shNo----->FRETSH000020620
+count shipment check ---  95  --- shNo----->FRETSH000020619
+count shipment check ---  96  --- shNo----->FRETSH000020618
+count shipment check ---  97  --- shNo----->FRETSH000020617
+count shipment check ---  98  --- shNo----->FRETSH000020616
+count shipment check ---  99  --- shNo----->FRETSH000020615
+count shipment check ---  100  --- shNo----->FRETSH000020614
+count shipment check ---  101  --- shNo----->FRETSH000020613
+count shipment check ---  102  --- shNo----->FRETSH000020612
+count shipment check ---  103  --- shNo----->FRETSH000020611
+count shipment check ---  104  --- shNo----->FRETSH000020610
+count shipment check ---  105  --- shNo----->FRETSH000020609
+count shipment check ---  106  --- shNo----->FRETSH000020605
+count shipment check ---  107  --- shNo----->FRETSH000020604
+count shipment check ---  108  --- shNo----->FRETSH000020603
+count shipment check ---  109  --- shNo----->FRETSH000020602
+count shipment check ---  110  --- shNo----->FRETSH000020601
+count shipment check ---  111  --- shNo----->FRETSH000020600
+count shipment check ---  112  --- shNo----->FRETSH000020599
+count shipment check ---  113  --- shNo----->FRETSH000020598
+count shipment check ---  114  --- shNo----->FRETSH000020597
+count shipment check ---  115  --- shNo----->FRETSH000020595
+count shipment check ---  116  --- shNo----->FRETSH000020594
+count shipment check ---  117  --- shNo----->FRETSH000020592
+count shipment check ---  118  --- shNo----->FRETSH000020593
+count shipment check ---  119  --- shNo----->FRETSH000020591
+count shipment check ---  120  --- shNo----->FRETSH000020590
+count shipment check ---  121  --- shNo----->FRETSH000020589
+count shipment check ---  122  --- shNo----->FRETSH000020588
+count shipment check ---  123  --- shNo----->FRETSH000020587
+count shipment check ---  124  --- shNo----->FRETSH000020586
+count shipment check ---  125  --- shNo----->FRETSH000020585
+count shipment check ---  126  --- shNo----->FRETSH000020584
+count shipment check ---  127  --- shNo----->FRETSH000020583
+count shipment check ---  128  --- shNo----->FRETSH000020582
+count shipment check ---  129  --- shNo----->FRETSH000020581
+count shipment check ---  130  --- shNo----->FRETSH000020580
+count shipment check ---  131  --- shNo----->FRETSH000020579
+count shipment check ---  132  --- shNo----->FRETSH000020578
+count shipment check ---  133  --- shNo----->FRETSH000020577
+count shipment check ---  134  --- shNo----->FRETSH000020576
+count shipment check ---  135  --- shNo----->FRETSH000020575
+count shipment check ---  136  --- shNo----->FRETSH000020574
+count shipment check ---  137  --- shNo----->FRETSH000020573
+count shipment check ---  138  --- shNo----->FRETSH000020572
+count shipment check ---  139  --- shNo----->FRETSH000020571
+count shipment check ---  140  --- shNo----->FRETSH000020570
+count shipment check ---  141  --- shNo----->FRETSH000020567
+count shipment check ---  142  --- shNo----->FRETSH000020566
+count shipment check ---  143  --- shNo----->FRETSH000020565
+count shipment check ---  144  --- shNo----->FRETSH000020564
+count shipment check ---  145  --- shNo----->FRETSH000020563
+count shipment check ---  146  --- shNo----->FRETSH000020562
+count shipment check ---  147  --- shNo----->FRETSH000020561
+count shipment check ---  148  --- shNo----->FRETSH000020560
+count shipment check ---  149  --- shNo----->FRETSH000020559
+count shipment check ---  150  --- shNo----->FRETSH000020558
+count shipment check ---  151  --- shNo----->FRETSH000020557
+count shipment check ---  152  --- shNo----->FRETSH000020556
+count shipment check ---  153  --- shNo----->FRETSH000020555
+count shipment check ---  154  --- shNo----->FRETSH000020554
+count shipment check ---  155  --- shNo----->FRETSH000020553
+executing FRETSH000020553 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020553
+count shCf updated ------->  3
+count cn Material updated ------> 3
+0072093061 updatedLoadInfoRes  200
+count shipment check ---  156  --- shNo----->FRETSH000020552
+count shipment check ---  157  --- shNo----->FRETSH000020550
+count shipment check ---  158  --- shNo----->FRETSH000020549
+count shipment check ---  159  --- shNo----->FRETSH000020546
+executing FRETSH000020546 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020546
+count shCf updated ------->  4
+count cn Material updated ------> 4
+0072093094 updatedLoadInfoRes  200
+count shipment check ---  160  --- shNo----->FRETSH000020545
+count shipment check ---  161  --- shNo----->FRETSH000020544
+count shipment check ---  162  --- shNo----->FRETSH000020543
+count shipment check ---  163  --- shNo----->FRETSH000020542
+count shipment check ---  164  --- shNo----->FRETSH000020541
+executing FRETSH000020541 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020541
+count shCf updated ------->  5
+count cn Material updated ------> 5
+0072093150 updatedLoadInfoRes  200
+count shipment check ---  165  --- shNo----->FRETSH000020539
+count shipment check ---  166  --- shNo----->FRETSH000020538
+count shipment check ---  167  --- shNo----->FRETSH000020537
+count shipment check ---  168  --- shNo----->FRETSH000020536
+count shipment check ---  169  --- shNo----->FRETSH000020535
+count shipment check ---  170  --- shNo----->FRETSH000020534
+count shipment check ---  171  --- shNo----->FRETSH000020533
+count shipment check ---  172  --- shNo----->FRETSH000020532
+count shipment check ---  173  --- shNo----->FRETSH000020531
+count shipment check ---  174  --- shNo----->FRETSH000020530
+count shipment check ---  175  --- shNo----->FRETSH000020529
+count shipment check ---  176  --- shNo----->FRETSH000020528
+count shipment check ---  177  --- shNo----->FRETSH000020527
+count shipment check ---  178  --- shNo----->FRETSH000020526
+count shipment check ---  179  --- shNo----->FRETSH000020525
+count shipment check ---  180  --- shNo----->FRETSH000020524
+count shipment check ---  181  --- shNo----->FRETSH000020523
+count shipment check ---  182  --- shNo----->FRETSH000020522
+count shipment check ---  183  --- shNo----->FRETSH000020521
+count shipment check ---  184  --- shNo----->FRETSH000020520
+count shipment check ---  185  --- shNo----->FRETSH000020519
+count shipment check ---  186  --- shNo----->FRETSH000020518
+count shipment check ---  187  --- shNo----->FRETSH000020517
+count shipment check ---  188  --- shNo----->FRETSH000020516
+count shipment check ---  189  --- shNo----->FRETSH000020514
+count shipment check ---  190  --- shNo----->FRETSH000020515
+count shipment check ---  191  --- shNo----->FRETSH000020513
+count shipment check ---  192  --- shNo----->FRETSH000020512
+count shipment check ---  193  --- shNo----->FRETSH000020511
+count shipment check ---  194  --- shNo----->FRETSH000020510
+count shipment check ---  195  --- shNo----->FRETSH000020508
+count shipment check ---  196  --- shNo----->FRETSH000020509
+count shipment check ---  197  --- shNo----->FRETSH000020507
+count shipment check ---  198  --- shNo----->FRETSH000020506
+count shipment check ---  199  --- shNo----->FRETSH000020504
+count shipment check ---  200  --- shNo----->FRETSH000020505
+count shipment check ---  201  --- shNo----->FRETSH000020503
+count shipment check ---  202  --- shNo----->FRETSH000020502
+count shipment check ---  203  --- shNo----->FRETSH000020501
+count shipment check ---  204  --- shNo----->FRETSH000020500
+count shipment check ---  205  --- shNo----->FRETSH000020499
+count shipment check ---  206  --- shNo----->FRETSH000020498
+count shipment check ---  207  --- shNo----->FRETSH000020497
+count shipment check ---  208  --- shNo----->FRETSH000020496
+count shipment check ---  209  --- shNo----->FRETSH000020495
+count shipment check ---  210  --- shNo----->FRETSH000020494
+count shipment check ---  211  --- shNo----->FRETSH000020493
+count shipment check ---  212  --- shNo----->FRETSH000020492
+count shipment check ---  213  --- shNo----->FRETSH000020491
+count shipment check ---  214  --- shNo----->FRETSH000020490
+count shipment check ---  215  --- shNo----->FRETSH000020489
+count shipment check ---  216  --- shNo----->FRETSH000020488
+count shipment check ---  217  --- shNo----->FRETSH000020487
+count shipment check ---  218  --- shNo----->FRETSH000020486
+executing FRETSH000020486 : material TRAILER
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020486
+count shCf updated ------->  6
+count cn Material updated ------> 6
+0072092973 updatedLoadInfoRes  200
+count shipment check ---  219  --- shNo----->FRETSH000020485
+count shipment check ---  220  --- shNo----->FRETSH000020484
+count shipment check ---  221  --- shNo----->FRETSH000020483
+count shipment check ---  222  --- shNo----->FRETSH000020481
+count shipment check ---  223  --- shNo----->FRETSH000020482
+count shipment check ---  224  --- shNo----->FRETSH000020479
+count shipment check ---  225  --- shNo----->FRETSH000020480
+count shipment check ---  226  --- shNo----->FRETSH000020478
+count shipment check ---  227  --- shNo----->FRETSH000020476
+count shipment check ---  228  --- shNo----->FRETSH000020475
+count shipment check ---  229  --- shNo----->FRETSH000020473
+count shipment check ---  230  --- shNo----->FRETSH000020472
+count shipment check ---  231  --- shNo----->FRETSH000020471
+count shipment check ---  232  --- shNo----->FRETSH000020469
+count shipment check ---  233  --- shNo----->FRETSH000020467
+count shipment check ---  234  --- shNo----->FRETSH000020466
+count shipment check ---  235  --- shNo----->FRETSH000020465
+count shipment check ---  236  --- shNo----->FRETSH000020464
+count shipment check ---  237  --- shNo----->FRETSH000020463
+count shipment check ---  238  --- shNo----->FRETSH000020461
+count shipment check ---  239  --- shNo----->FRETSH000020460
+count shipment check ---  240  --- shNo----->FRETSH000020459
+count shipment check ---  241  --- shNo----->FRETSH000020458
+count shipment check ---  242  --- shNo----->FRETSH000020457
+count shipment check ---  243  --- shNo----->FRETSH000020456
+count shipment check ---  244  --- shNo----->FRETSH000020455
+count shipment check ---  245  --- shNo----->FRETSH000020453
+count shipment check ---  246  --- shNo----->FRETSH000020452
+count shipment check ---  247  --- shNo----->FRETSH000020451
+count shipment check ---  248  --- shNo----->FRETSH000020450
+count shipment check ---  249  --- shNo----->FRETSH000020449
+count shipment check ---  250  --- shNo----->FRETSH000020448
+count shipment check ---  251  --- shNo----->FRETSH000020447
+count shipment check ---  252  --- shNo----->FRETSH000020446
+count shipment check ---  253  --- shNo----->FRETSH000020445
+count shipment check ---  254  --- shNo----->FRETSH000020444
+count shipment check ---  255  --- shNo----->FRETSH000020442
+count shipment check ---  256  --- shNo----->FRETSH000020443
+count shipment check ---  257  --- shNo----->FRETSH000020441
+count shipment check ---  258  --- shNo----->FRETSH000020440
+count shipment check ---  259  --- shNo----->FRETSH000020439
+count shipment check ---  260  --- shNo----->FRETSH000020438
+count shipment check ---  261  --- shNo----->FRETSH000020437
+count shipment check ---  262  --- shNo----->FRETSH000020436
+count shipment check ---  263  --- shNo----->FRETSH000020435
+count shipment check ---  264  --- shNo----->FRETSH000020434
+count shipment check ---  265  --- shNo----->FRETSH000020433
+count shipment check ---  266  --- shNo----->FRETSH000020432
+count shipment check ---  267  --- shNo----->FRETSH000020431
+count shipment check ---  268  --- shNo----->FRETSH000020430
+count shipment check ---  269  --- shNo----->FRETSH000020429
+count shipment check ---  270  --- shNo----->FRETSH000020428
+count shipment check ---  271  --- shNo----->FRETSH000020427
+count shipment check ---  272  --- shNo----->FRETSH000020426
+count shipment check ---  273  --- shNo----->FRETSH000020425
+count shipment check ---  274  --- shNo----->FRETSH000020424
+count shipment check ---  275  --- shNo----->FRETSH000020423
+count shipment check ---  276  --- shNo----->FRETSH000020422
+count shipment check ---  277  --- shNo----->FRETSH000020421
+count shipment check ---  278  --- shNo----->FRETSH000020420
+count shipment check ---  279  --- shNo----->FRETSH000020419
+count shipment check ---  280  --- shNo----->FRETSH000020418
+count shipment check ---  281  --- shNo----->FRETSH000020417
+count shipment check ---  282  --- shNo----->FRETSH000020415
+count shipment check ---  283  --- shNo----->FRETSH000020413
+count shipment check ---  284  --- shNo----->FRETSH000020414
+count shipment check ---  285  --- shNo----->FRETSH000020412
+count shipment check ---  286  --- shNo----->FRETSH000020411
+count shipment check ---  287  --- shNo----->FRETSH000020410
+count shipment check ---  288  --- shNo----->FRETSH000020409
+count shipment check ---  289  --- shNo----->FRETSH000020408
+count shipment check ---  290  --- shNo----->FRETSH000020406
+count shipment check ---  291  --- shNo----->FRETSH000020407
+count shipment check ---  292  --- shNo----->FRETSH000020405
+count shipment check ---  293  --- shNo----->FRETSH000020404
+count shipment check ---  294  --- shNo----->FRETSH000020403
+count shipment check ---  295  --- shNo----->FRETSH000020402
+count shipment check ---  296  --- shNo----->FRETSH000020401
+count shipment check ---  297  --- shNo----->FRETSH000020400
+count shipment check ---  298  --- shNo----->FRETSH000020399
+count shipment check ---  299  --- shNo----->FRETSH000020398
+count shipment check ---  300  --- shNo----->FRETSH000020397
+count shipment check ---  301  --- shNo----->FRETSH000020396
+count shipment check ---  302  --- shNo----->FRETSH000020395
+count shipment check ---  303  --- shNo----->FRETSH000020394
+count shipment check ---  304  --- shNo----->FRETSH000020393
+count shipment check ---  305  --- shNo----->FRETSH000020392
+count shipment check ---  306  --- shNo----->FRETSH000020391
+count shipment check ---  307  --- shNo----->FRETSH000020390
+count shipment check ---  308  --- shNo----->FRETSH000020389
+count shipment check ---  309  --- shNo----->FRETSH000020388
+count shipment check ---  310  --- shNo----->FRETSH000020387
+count shipment check ---  311  --- shNo----->FRETSH000020386
+count shipment check ---  312  --- shNo----->FRETSH000020385
+count shipment check ---  313  --- shNo----->FRETSH000020384
+count shipment check ---  314  --- shNo----->FRETSH000020383
+count shipment check ---  315  --- shNo----->FRETSH000020382
+count shipment check ---  316  --- shNo----->FRETSH000020381
+count shipment check ---  317  --- shNo----->FRETSH000020380
+count shipment check ---  318  --- shNo----->FRETSH000020379
+count shipment check ---  319  --- shNo----->FRETSH000020378
+count shipment check ---  320  --- shNo----->FRETSH000020377
+count shipment check ---  321  --- shNo----->FRETSH000020376
+count shipment check ---  322  --- shNo----->FRETSH000020375
+count shipment check ---  323  --- shNo----->FRETSH000020370
+count shipment check ---  324  --- shNo----->FRETSH000020369
+count shipment check ---  325  --- shNo----->FRETSH000020368
+count shipment check ---  326  --- shNo----->FRETSH000020367
+count shipment check ---  327  --- shNo----->FRETSH000020365
+executing FRETSH000020365 : material TRAILER
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020365
+count shCf updated ------->  7
+count cn Material updated ------> 7
+0072092839 updatedLoadInfoRes  200
+count shipment check ---  328  --- shNo----->FRETSH000020364
+count shipment check ---  329  --- shNo----->FRETSH000020362
+count shipment check ---  330  --- shNo----->FRETSH000020363
+count shipment check ---  331  --- shNo----->FRETSH000020361
+count shipment check ---  332  --- shNo----->FRETSH000020360
+executing FRETSH000020360 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020360
+count shCf updated ------->  8
+count cn Material updated ------> 8
+0072092834 updatedLoadInfoRes  200
+count shipment check ---  333  --- shNo----->FRETSH000020359
+count shipment check ---  334  --- shNo----->FRETSH000020358
+count shipment check ---  335  --- shNo----->FRETSH000020357
+executing FRETSH000020357 : material TRAILER
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020357
+count shCf updated ------->  9
+count cn Material updated ------> 9
+0072092831 updatedLoadInfoRes  200
+count shipment check ---  336  --- shNo----->FRETSH000020356
+count shipment check ---  337  --- shNo----->FRETSH000020355
+count shipment check ---  338  --- shNo----->FRETSH000020354
+count shipment check ---  339  --- shNo----->FRETSH000020353
+count shipment check ---  340  --- shNo----->FRETSH000020352
+count shipment check ---  341  --- shNo----->FRETSH000020351
+count shipment check ---  342  --- shNo----->FRETSH000020350
+count shipment check ---  343  --- shNo----->FRETSH000020348
+count shipment check ---  344  --- shNo----->FRETSH000020347
+count shipment check ---  345  --- shNo----->FRETSH000020346
+count shipment check ---  346  --- shNo----->FRETSH000020345
+count shipment check ---  347  --- shNo----->FRETSH000020344
+count shipment check ---  348  --- shNo----->FRETSH000020343
+count shipment check ---  349  --- shNo----->FRETSH000020342
+count shipment check ---  350  --- shNo----->FRETSH000020340
+count shipment check ---  351  --- shNo----->FRETSH000020338
+count shipment check ---  352  --- shNo----->FRETSH000020339
+count shipment check ---  353  --- shNo----->FRETSH000020336
+count shipment check ---  354  --- shNo----->FRETSH000020337
+count shipment check ---  355  --- shNo----->FRETSH000020335
+count shipment check ---  356  --- shNo----->FRETSH000020334
+count shipment check ---  357  --- shNo----->FRETSH000020332
+count shipment check ---  358  --- shNo----->FRETSH000020331
+count shipment check ---  359  --- shNo----->FRETSH000020330
+count shipment check ---  360  --- shNo----->FRETSH000020329
+count shipment check ---  361  --- shNo----->FRETSH000020327
+count shipment check ---  362  --- shNo----->FRETSH000020326
+count shipment check ---  363  --- shNo----->FRETSH000020325
+count shipment check ---  364  --- shNo----->FRETSH000020324
+count shipment check ---  365  --- shNo----->FRETSH000020323
+count shipment check ---  366  --- shNo----->FRETSH000020322
+count shipment check ---  367  --- shNo----->FRETSH000020321
+count shipment check ---  368  --- shNo----->FRETSH000020320
+count shipment check ---  369  --- shNo----->FRETSH000020319
+count shipment check ---  370  --- shNo----->FRETSH000020317
+count shipment check ---  371  --- shNo----->FRETSH000020316
+count shipment check ---  372  --- shNo----->FRETSH000020315
+count shipment check ---  373  --- shNo----->FRETSH000020314
+count shipment check ---  374  --- shNo----->FRETSH000020313
+count shipment check ---  375  --- shNo----->FRETSH000020312
+count shipment check ---  376  --- shNo----->FRETSH000020311
+count shipment check ---  377  --- shNo----->FRETSH000020310
+executing FRETSH000020310 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020310
+count shCf updated ------->  10
+count cn Material updated ------> 10
+0072092768 updatedLoadInfoRes  200
+count shipment check ---  378  --- shNo----->FRETSH000020309
+count shipment check ---  379  --- shNo----->FRETSH000020308
+count shipment check ---  380  --- shNo----->FRETSH000020307
+count shipment check ---  381  --- shNo----->FRETSH000020306
+count shipment check ---  382  --- shNo----->FRETSH000020305
+count shipment check ---  383  --- shNo----->FRETSH000020304
+count shipment check ---  384  --- shNo----->FRETSH000020303
+count shipment check ---  385  --- shNo----->FRETSH000020302
+count shipment check ---  386  --- shNo----->FRETSH000020300
+count shipment check ---  387  --- shNo----->FRETSH000020301
+count shipment check ---  388  --- shNo----->FRETSH000020299
+count shipment check ---  389  --- shNo----->FRETSH000020298
+count shipment check ---  390  --- shNo----->FRETSH000020297
+count shipment check ---  391  --- shNo----->FRETSH000020296
+count shipment check ---  392  --- shNo----->FRETSH000020295
+count shipment check ---  393  --- shNo----->FRETSH000020294
+count shipment check ---  394  --- shNo----->FRETSH000020293
+count shipment check ---  395  --- shNo----->FRETSH000020292
+count shipment check ---  396  --- shNo----->FRETSH000020290
+count shipment check ---  397  --- shNo----->FRETSH000020291
+count shipment check ---  398  --- shNo----->FRETSH000020289
+count shipment check ---  399  --- shNo----->FRETSH000020288
+count shipment check ---  400  --- shNo----->FRETSH000020287
+count shipment check ---  401  --- shNo----->FRETSH000020286
+count shipment check ---  402  --- shNo----->FRETSH000020285
+count shipment check ---  403  --- shNo----->FRETSH000020284
+count shipment check ---  404  --- shNo----->FRETSH000020283
+count shipment check ---  405  --- shNo----->FRETSH000020282
+count shipment check ---  406  --- shNo----->FRETSH000020281
+count shipment check ---  407  --- shNo----->FRETSH000020280
+count shipment check ---  408  --- shNo----->FRETSH000020279
+count shipment check ---  409  --- shNo----->FRETSH000020278
+count shipment check ---  410  --- shNo----->FRETSH000020277
+count shipment check ---  411  --- shNo----->FRETSH000020276
+count shipment check ---  412  --- shNo----->FRETSH000020275
+count shipment check ---  413  --- shNo----->FRETSH000020274
+count shipment check ---  414  --- shNo----->FRETSH000020273
+count shipment check ---  415  --- shNo----->FRETSH000020272
+count shipment check ---  416  --- shNo----->FRETSH000020270
+count shipment check ---  417  --- shNo----->FRETSH000020271
+count shipment check ---  418  --- shNo----->FRETSH000020269
+count shipment check ---  419  --- shNo----->FRETSH000020268
+count shipment check ---  420  --- shNo----->FRETSH000020267
+count shipment check ---  421  --- shNo----->FRETSH000020266
+count shipment check ---  422  --- shNo----->FRETSH000020265
+count shipment check ---  423  --- shNo----->FRETSH000020264
+count shipment check ---  424  --- shNo----->FRETSH000020263
+executing FRETSH000020263 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020263
+count shCf updated ------->  11
+count cn Material updated ------> 11
+0072092693 updatedLoadInfoRes  200
+count shipment check ---  425  --- shNo----->FRETSH000020262
+count shipment check ---  426  --- shNo----->FRETSH000020261
+count shipment check ---  427  --- shNo----->FRETSH000020260
+count shipment check ---  428  --- shNo----->FRETSH000020259
+count shipment check ---  429  --- shNo----->FRETSH000020258
+count shipment check ---  430  --- shNo----->FRETSH000020257
+count shipment check ---  431  --- shNo----->FRETSH000020256
+count shipment check ---  432  --- shNo----->FRETSH000020254
+count shipment check ---  433  --- shNo----->FRETSH000020253
+count shipment check ---  434  --- shNo----->FRETSH000020252
+count shipment check ---  435  --- shNo----->FRETSH000020251
+count shipment check ---  436  --- shNo----->FRETSH000020250
+count shipment check ---  437  --- shNo----->FRETSH000020249
+count shipment check ---  438  --- shNo----->FRETSH000020248
+count shipment check ---  439  --- shNo----->FRETSH000020247
+count shipment check ---  440  --- shNo----->FRETSH000020245
+count shipment check ---  441  --- shNo----->FRETSH000020244
+count shipment check ---  442  --- shNo----->FRETSH000020243
+count shipment check ---  443  --- shNo----->FRETSH000020242
+count shipment check ---  444  --- shNo----->FRETSH000020241
+count shipment check ---  445  --- shNo----->FRETSH000020240
+count shipment check ---  446  --- shNo----->FRETSH000020239
+count shipment check ---  447  --- shNo----->FRETSH000020238
+count shipment check ---  448  --- shNo----->FRETSH000020237
+count shipment check ---  449  --- shNo----->FRETSH000020236
+count shipment check ---  450  --- shNo----->FRETSH000020233
+count shipment check ---  451  --- shNo----->FRETSH000020232
+count shipment check ---  452  --- shNo----->FRETSH000020230
+count shipment check ---  453  --- shNo----->FRETSH000020228
+count shipment check ---  454  --- shNo----->FRETSH000020227
+count shipment check ---  455  --- shNo----->FRETSH000020226
+count shipment check ---  456  --- shNo----->FRETSH000020225
+count shipment check ---  457  --- shNo----->FRETSH000020224
+count shipment check ---  458  --- shNo----->FRETSH000020223
+count shipment check ---  459  --- shNo----->FRETSH000020222
+count shipment check ---  460  --- shNo----->FRETSH000020215
+count shipment check ---  461  --- shNo----->FRETSH000020214
+count shipment check ---  462  --- shNo----->FRETSH000020212
+count shipment check ---  463  --- shNo----->FRETSH000020213
+count shipment check ---  464  --- shNo----->FRETSH000020210
+count shipment check ---  465  --- shNo----->FRETSH000020207
+count shipment check ---  466  --- shNo----->FRETSH000020205
+executing FRETSH000020205 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020205
+count shCf updated ------->  12
+count cn Material updated ------> 12
+0072092607 updatedLoadInfoRes  200
+count shipment check ---  467  --- shNo----->FRETSH000020204
+executing FRETSH000020204 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020204
+count shCf updated ------->  13
+count cn Material updated ------> 13
+0072092606 updatedLoadInfoRes  200
+count shipment check ---  468  --- shNo----->FRETSH000020203
+count shipment check ---  469  --- shNo----->FRETSH000020202
+count shipment check ---  470  --- shNo----->FRETSH000020201
+count shipment check ---  471  --- shNo----->FRETSH000020200
+count shipment check ---  472  --- shNo----->FRETSH000020199
+count shipment check ---  473  --- shNo----->FRETSH000020198
+count shipment check ---  474  --- shNo----->FRETSH000020196
+executing FRETSH000020196 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020196
+count shCf updated ------->  14
+count cn Material updated ------> 14
+0072092835 updatedLoadInfoRes  200
+count shipment check ---  475  --- shNo----->FRETSH000020195
+count shipment check ---  476  --- shNo----->FRETSH000020194
+count shipment check ---  477  --- shNo----->FRETSH000020193
+count shipment check ---  478  --- shNo----->FRETSH000020192
+count shipment check ---  479  --- shNo----->FRETSH000020190
+count shipment check ---  480  --- shNo----->FRETSH000020189
+count shipment check ---  481  --- shNo----->FRETSH000020187
+count shipment check ---  482  --- shNo----->FRETSH000020186
+count shipment check ---  483  --- shNo----->FRETSH000020185
+count shipment check ---  484  --- shNo----->FRETSH000020183
+count shipment check ---  485  --- shNo----->FRETSH000020182
+count shipment check ---  486  --- shNo----->FRETSH000020181
+count shipment check ---  487  --- shNo----->FRETSH000020180
+count shipment check ---  488  --- shNo----->FRETSH000020179
+count shipment check ---  489  --- shNo----->FRETSH000020178
+count shipment check ---  490  --- shNo----->FRETSH000020177
+count shipment check ---  491  --- shNo----->FRETSH000020176
+count shipment check ---  492  --- shNo----->FRETSH000020175
+executing FRETSH000020175 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020175
+count shCf updated ------->  15
+count cn Material updated ------> 15
+0072092569 updatedLoadInfoRes  200
+count shipment check ---  493  --- shNo----->FRETSH000020173
+count shipment check ---  494  --- shNo----->FRETSH000020172
+count shipment check ---  495  --- shNo----->FRETSH000020171
+count shipment check ---  496  --- shNo----->FRETSH000020170
+count shipment check ---  497  --- shNo----->FRETSH000020169
+count shipment check ---  498  --- shNo----->FRETSH000020168
+count shipment check ---  499  --- shNo----->FRETSH000020167
+count shipment check ---  500  --- shNo----->FRETSH000020166
+count shipment check ---  501  --- shNo----->FRETSH000020165
+count shipment check ---  502  --- shNo----->FRETSH000020164
+count shipment check ---  503  --- shNo----->FRETSH000020163
+count shipment check ---  504  --- shNo----->FRETSH000020162
+count shipment check ---  505  --- shNo----->FRETSH000020161
+count shipment check ---  506  --- shNo----->FRETSH000020160
+count shipment check ---  507  --- shNo----->FRETSH000020159
+count shipment check ---  508  --- shNo----->FRETSH000020158
+count shipment check ---  509  --- shNo----->FRETSH000020156
+count shipment check ---  510  --- shNo----->FRETSH000020155
+count shipment check ---  511  --- shNo----->FRETSH000020154
+count shipment check ---  512  --- shNo----->FRETSH000020153
+count shipment check ---  513  --- shNo----->FRETSH000020152
+count shipment check ---  514  --- shNo----->FRETSH000020150
+count shipment check ---  515  --- shNo----->FRETSH000020149
+count shipment check ---  516  --- shNo----->FRETSH000020148
+count shipment check ---  517  --- shNo----->FRETSH000020147
+count shipment check ---  518  --- shNo----->FRETSH000020146
+count shipment check ---  519  --- shNo----->FRETSH000020145
+count shipment check ---  520  --- shNo----->FRETSH000020144
+count shipment check ---  521  --- shNo----->FRETSH000020143
+count shipment check ---  522  --- shNo----->FRETSH000020142
+count shipment check ---  523  --- shNo----->FRETSH000020141
+count shipment check ---  524  --- shNo----->FRETSH000020140
+count shipment check ---  525  --- shNo----->FRETSH000020138
+count shipment check ---  526  --- shNo----->FRETSH000020137
+count shipment check ---  527  --- shNo----->FRETSH000020136
+count shipment check ---  528  --- shNo----->FRETSH000020134
+count shipment check ---  529  --- shNo----->FRETSH000020133
+count shipment check ---  530  --- shNo----->FRETSH000020131
+count shipment check ---  531  --- shNo----->FRETSH000020130
+count shipment check ---  532  --- shNo----->FRETSH000020129
+count shipment check ---  533  --- shNo----->FRETSH000020128
+count shipment check ---  534  --- shNo----->FRETSH000020127
+count shipment check ---  535  --- shNo----->FRETSH000020126
+count shipment check ---  536  --- shNo----->FRETSH000020125
+count shipment check ---  537  --- shNo----->FRETSH000020123
+count shipment check ---  538  --- shNo----->FRETSH000020122
+count shipment check ---  539  --- shNo----->FRETSH000020121
+count shipment check ---  540  --- shNo----->FRETSH000020120
+count shipment check ---  541  --- shNo----->FRETSH000020119
+count shipment check ---  542  --- shNo----->FRETSH000020117
+count shipment check ---  543  --- shNo----->FRETSH000020118
+count shipment check ---  544  --- shNo----->FRETSH000020115
+count shipment check ---  545  --- shNo----->FRETSH000020114
+count shipment check ---  546  --- shNo----->FRETSH000020113
+count shipment check ---  547  --- shNo----->FRETSH000020111
+count shipment check ---  548  --- shNo----->FRETSH000020112
+count shipment check ---  549  --- shNo----->FRETSH000020110
+count shipment check ---  550  --- shNo----->FRETSH000020109
+count shipment check ---  551  --- shNo----->FRETSH000020108
+count shipment check ---  552  --- shNo----->FRETSH000020107
+count shipment check ---  553  --- shNo----->FRETSH000020106
+count shipment check ---  554  --- shNo----->FRETSH000020105
+count shipment check ---  555  --- shNo----->FRETSH000020104
+count shipment check ---  556  --- shNo----->FRETSH000020103
+count shipment check ---  557  --- shNo----->FRETSH000020102
+count shipment check ---  558  --- shNo----->FRETSH000020100
+count shipment check ---  559  --- shNo----->FRETSH000020099
+count shipment check ---  560  --- shNo----->FRETSH000020098
+count shipment check ---  561  --- shNo----->FRETSH000020097
+count shipment check ---  562  --- shNo----->FRETSH000020096
+count shipment check ---  563  --- shNo----->FRETSH000020095
+count shipment check ---  564  --- shNo----->FRETSH000020093
+count shipment check ---  565  --- shNo----->FRETSH000020094
+count shipment check ---  566  --- shNo----->FRETSH000020091
+count shipment check ---  567  --- shNo----->FRETSH000020090
+count shipment check ---  568  --- shNo----->FRETSH000020087
+count shipment check ---  569  --- shNo----->FRETSH000020086
+count shipment check ---  570  --- shNo----->FRETSH000020085
+count shipment check ---  571  --- shNo----->FRETSH000020081
+executing FRETSH000020081 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020081
+count shCf updated ------->  16
+count cn Material updated ------> 16
+0072092402 updatedLoadInfoRes  200
+count shipment check ---  572  --- shNo----->FRETSH000020080
+count shipment check ---  573  --- shNo----->FRETSH000020078
+count shipment check ---  574  --- shNo----->FRETSH000020077
+executing FRETSH000020077 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000020077
+count shCf updated ------->  17
+count cn Material updated ------> 17
+0072092404 updatedLoadInfoRes  200
+count shipment check ---  575  --- shNo----->FRETSH000020076
+count shipment check ---  576  --- shNo----->FRETSH000020075
+count shipment check ---  577  --- shNo----->FRETSH000020074
+count shipment check ---  578  --- shNo----->FRETSH000020073
+count shipment check ---  579  --- shNo----->FRETSH000020072
+count shipment check ---  580  --- shNo----->FRETSH000020071
+count shipment check ---  581  --- shNo----->FRETSH000020070
+count shipment check ---  582  --- shNo----->FRETSH000020069
+count shipment check ---  583  --- shNo----->FRETSH000020068
+count shipment check ---  584  --- shNo----->FRETSH000020067
+count shipment check ---  585  --- shNo----->FRETSH000020066
+count shipment check ---  586  --- shNo----->FRETSH000020065
+count shipment check ---  587  --- shNo----->FRETSH000020063
+count shipment check ---  588  --- shNo----->FRETSH000020064
+count shipment check ---  589  --- shNo----->FRETSH000020062
+count shipment check ---  590  --- shNo----->FRETSH000020060
+count shipment check ---  591  --- shNo----->FRETSH000020061
+count shipment check ---  592  --- shNo----->FRETSH000020058
+count shipment check ---  593  --- shNo----->FRETSH000020056
+count shipment check ---  594  --- shNo----->FRETSH000020055
+count shipment check ---  595  --- shNo----->FRETSH000020054
+count shipment check ---  596  --- shNo----->FRETSH000020052
+count shipment check ---  597  --- shNo----->FRETSH000020051
+count shipment check ---  598  --- shNo----->FRETSH000020050
+count shipment check ---  599  --- shNo----->FRETSH000020049
+count shipment check ---  600  --- shNo----->FRETSH000020048
+count shipment check ---  601  --- shNo----->FRETSH000020047
+count shipment check ---  602  --- shNo----->FRETSH000020046
+count shipment check ---  603  --- shNo----->FRETSH000020045
+count shipment check ---  604  --- shNo----->FRETSH000020043
+count shipment check ---  605  --- shNo----->FRETSH000020042
+count shipment check ---  606  --- shNo----->FRETSH000020041
+count shipment check ---  607  --- shNo----->FRETSH000020040
+count shipment check ---  608  --- shNo----->FRETSH000020039
+count shipment check ---  609  --- shNo----->FRETSH000020038
+count shipment check ---  610  --- shNo----->FRETSH000020037
+count shipment check ---  611  --- shNo----->FRETSH000020036
+count shipment check ---  612  --- shNo----->FRETSH000020034
+count shipment check ---  613  --- shNo----->FRETSH000020033
+count shipment check ---  614  --- shNo----->FRETSH000020032
+count shipment check ---  615  --- shNo----->FRETSH000020031
+count shipment check ---  616  --- shNo----->FRETSH000020030
+count shipment check ---  617  --- shNo----->FRETSH000020029
+count shipment check ---  618  --- shNo----->FRETSH000020028
+count shipment check ---  619  --- shNo----->FRETSH000020027
+count shipment check ---  620  --- shNo----->FRETSH000020026
+count shipment check ---  621  --- shNo----->FRETSH000020025
+count shipment check ---  622  --- shNo----->FRETSH000020024
+count shipment check ---  623  --- shNo----->FRETSH000020023
+count shipment check ---  624  --- shNo----->FRETSH000020022
+count shipment check ---  625  --- shNo----->FRETSH000020021
+count shipment check ---  626  --- shNo----->FRETSH000020020
+count shipment check ---  627  --- shNo----->FRETSH000020019
+count shipment check ---  628  --- shNo----->FRETSH000020018
+count shipment check ---  629  --- shNo----->FRETSH000020017
+count shipment check ---  630  --- shNo----->FRETSH000020016
+count shipment check ---  631  --- shNo----->FRETSH000020015
+count shipment check ---  632  --- shNo----->FRETSH000020014
+count shipment check ---  633  --- shNo----->FRETSH000020013
+count shipment check ---  634  --- shNo----->FRETSH000020012
+count shipment check ---  635  --- shNo----->FRETSH000020011
+count shipment check ---  636  --- shNo----->FRETSH000020008
+count shipment check ---  637  --- shNo----->FRETSH000020006
+count shipment check ---  638  --- shNo----->FRETSH000020005
+count shipment check ---  639  --- shNo----->FRETSH000020004
+count shipment check ---  640  --- shNo----->FRETSH000020003
+count shipment check ---  641  --- shNo----->FRETSH000020002
+count shipment check ---  642  --- shNo----->FRETSH000019999
+count shipment check ---  643  --- shNo----->FRETSH000019998
+count shipment check ---  644  --- shNo----->FRETSH000019997
+count shipment check ---  645  --- shNo----->FRETSH000019996
+count shipment check ---  646  --- shNo----->FRETSH000019995
+count shipment check ---  647  --- shNo----->FRETSH000019994
+count shipment check ---  648  --- shNo----->FRETSH000019993
+count shipment check ---  649  --- shNo----->FRETSH000019992
+count shipment check ---  650  --- shNo----->FRETSH000019990
+count shipment check ---  651  --- shNo----->FRETSH000019989
+count shipment check ---  652  --- shNo----->FRETSH000019988
+count shipment check ---  653  --- shNo----->FRETSH000019987
+count shipment check ---  654  --- shNo----->FRETSH000019986
+count shipment check ---  655  --- shNo----->FRETSH000019985
+count shipment check ---  656  --- shNo----->FRETSH000019984
+count shipment check ---  657  --- shNo----->FRETSH000019982
+count shipment check ---  658  --- shNo----->FRETSH000019981
+count shipment check ---  659  --- shNo----->FRETSH000019980
+count shipment check ---  660  --- shNo----->FRETSH000019979
+count shipment check ---  661  --- shNo----->FRETSH000019978
+count shipment check ---  662  --- shNo----->FRETSH000019977
+count shipment check ---  663  --- shNo----->FRETSH000019976
+count shipment check ---  664  --- shNo----->FRETSH000019975
+count shipment check ---  665  --- shNo----->FRETSH000019974
+count shipment check ---  666  --- shNo----->FRETSH000019973
+count shipment check ---  667  --- shNo----->FRETSH000019972
+count shipment check ---  668  --- shNo----->FRETSH000019971
+count shipment check ---  669  --- shNo----->FRETSH000019970
+count shipment check ---  670  --- shNo----->FRETSH000019969
+count shipment check ---  671  --- shNo----->FRETSH000019968
+count shipment check ---  672  --- shNo----->FRETSH000019967
+count shipment check ---  673  --- shNo----->FRETSH000019966
+count shipment check ---  674  --- shNo----->FRETSH000019965
+count shipment check ---  675  --- shNo----->FRETSH000019964
+count shipment check ---  676  --- shNo----->FRETSH000019963
+count shipment check ---  677  --- shNo----->FRETSH000019962
+count shipment check ---  678  --- shNo----->FRETSH000019961
+count shipment check ---  679  --- shNo----->FRETSH000019960
+count shipment check ---  680  --- shNo----->FRETSH000019959
+count shipment check ---  681  --- shNo----->FRETSH000019958
+count shipment check ---  682  --- shNo----->FRETSH000019957
+executing FRETSH000019957 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019957
+count shCf updated ------->  18
+count cn Material updated ------> 18
+0072092262 updatedLoadInfoRes  200
+count shipment check ---  683  --- shNo----->FRETSH000019956
+count shipment check ---  684  --- shNo----->FRETSH000019955
+executing FRETSH000019955 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019955
+count shCf updated ------->  19
+count cn Material updated ------> 19
+0072092257 updatedLoadInfoRes  200
+count shipment check ---  685  --- shNo----->FRETSH000019954
+executing FRETSH000019954 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019954
+count shCf updated ------->  20
+count cn Material updated ------> 20
+0072092256 updatedLoadInfoRes  200
+count shipment check ---  686  --- shNo----->FRETSH000019953
+count shipment check ---  687  --- shNo----->FRETSH000019952
+count shipment check ---  688  --- shNo----->FRETSH000019951
+count shipment check ---  689  --- shNo----->FRETSH000019950
+count shipment check ---  690  --- shNo----->FRETSH000019949
+count shipment check ---  691  --- shNo----->FRETSH000019948
+count shipment check ---  692  --- shNo----->FRETSH000019947
+count shipment check ---  693  --- shNo----->FRETSH000019946
+count shipment check ---  694  --- shNo----->FRETSH000019945
+count shipment check ---  695  --- shNo----->FRETSH000019943
+count shipment check ---  696  --- shNo----->FRETSH000019944
+count shipment check ---  697  --- shNo----->FRETSH000019942
+count shipment check ---  698  --- shNo----->FRETSH000019941
+count shipment check ---  699  --- shNo----->FRETSH000019940
+count shipment check ---  700  --- shNo----->FRETSH000019939
+count shipment check ---  701  --- shNo----->FRETSH000019938
+count shipment check ---  702  --- shNo----->FRETSH000019937
+count shipment check ---  703  --- shNo----->FRETSH000019936
+count shipment check ---  704  --- shNo----->FRETSH000019935
+count shipment check ---  705  --- shNo----->FRETSH000019934
+count shipment check ---  706  --- shNo----->FRETSH000019933
+count shipment check ---  707  --- shNo----->FRETSH000019932
+count shipment check ---  708  --- shNo----->FRETSH000019931
+count shipment check ---  709  --- shNo----->FRETSH000019930
+count shipment check ---  710  --- shNo----->FRETSH000019929
+count shipment check ---  711  --- shNo----->FRETSH000019928
+count shipment check ---  712  --- shNo----->FRETSH000019927
+count shipment check ---  713  --- shNo----->FRETSH000019926
+executing FRETSH000019926 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019926
+count shCf updated ------->  21
+count cn Material updated ------> 21
+0072092234 updatedLoadInfoRes  200
+count shipment check ---  714  --- shNo----->FRETSH000019924
+count shipment check ---  715  --- shNo----->FRETSH000019923
+count shipment check ---  716  --- shNo----->FRETSH000019922
+count shipment check ---  717  --- shNo----->FRETSH000019921
+count shipment check ---  718  --- shNo----->FRETSH000019920
+count shipment check ---  719  --- shNo----->FRETSH000019919
+count shipment check ---  720  --- shNo----->FRETSH000019918
+count shipment check ---  721  --- shNo----->FRETSH000019917
+count shipment check ---  722  --- shNo----->FRETSH000019916
+count shipment check ---  723  --- shNo----->FRETSH000019915
+count shipment check ---  724  --- shNo----->FRETSH000019914
+count shipment check ---  725  --- shNo----->FRETSH000019913
+count shipment check ---  726  --- shNo----->FRETSH000019912
+count shipment check ---  727  --- shNo----->FRETSH000019911
+count shipment check ---  728  --- shNo----->FRETSH000019910
+count shipment check ---  729  --- shNo----->FRETSH000019907
+count shipment check ---  730  --- shNo----->FRETSH000019906
+count shipment check ---  731  --- shNo----->FRETSH000019905
+count shipment check ---  732  --- shNo----->FRETSH000019904
+count shipment check ---  733  --- shNo----->FRETSH000019902
+count shipment check ---  734  --- shNo----->FRETSH000019901
+count shipment check ---  735  --- shNo----->FRETSH000019903
+count shipment check ---  736  --- shNo----->FRETSH000019900
+executing FRETSH000019900 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019900
+count shCf updated ------->  22
+count cn Material updated ------> 22
+0072092188 updatedLoadInfoRes  200
+count shipment check ---  737  --- shNo----->FRETSH000019899
+count shipment check ---  738  --- shNo----->FRETSH000019898
+count shipment check ---  739  --- shNo----->FRETSH000019897
+count shipment check ---  740  --- shNo----->FRETSH000019895
+count shipment check ---  741  --- shNo----->FRETSH000019893
+count shipment check ---  742  --- shNo----->FRETSH000019892
+count shipment check ---  743  --- shNo----->FRETSH000019890
+count shipment check ---  744  --- shNo----->FRETSH000019891
+count shipment check ---  745  --- shNo----->FRETSH000019889
+count shipment check ---  746  --- shNo----->FRETSH000019888
+count shipment check ---  747  --- shNo----->FRETSH000019887
+count shipment check ---  748  --- shNo----->FRETSH000019886
+count shipment check ---  749  --- shNo----->FRETSH000019885
+count shipment check ---  750  --- shNo----->FRETSH000019884
+count shipment check ---  751  --- shNo----->FRETSH000019883
+count shipment check ---  752  --- shNo----->FRETSH000019882
+count shipment check ---  753  --- shNo----->FRETSH000019881
+count shipment check ---  754  --- shNo----->FRETSH000019880
+count shipment check ---  755  --- shNo----->FRETSH000019879
+count shipment check ---  756  --- shNo----->FRETSH000019878
+count shipment check ---  757  --- shNo----->FRETSH000019877
+count shipment check ---  758  --- shNo----->FRETSH000019876
+count shipment check ---  759  --- shNo----->FRETSH000019875
+count shipment check ---  760  --- shNo----->FRETSH000019874
+count shipment check ---  761  --- shNo----->FRETSH000019873
+count shipment check ---  762  --- shNo----->FRETSH000019872
+count shipment check ---  763  --- shNo----->FRETSH000019871
+count shipment check ---  764  --- shNo----->FRETSH000019870
+count shipment check ---  765  --- shNo----->FRETSH000019869
+count shipment check ---  766  --- shNo----->FRETSH000019868
+count shipment check ---  767  --- shNo----->FRETSH000019866
+count shipment check ---  768  --- shNo----->FRETSH000019865
+count shipment check ---  769  --- shNo----->FRETSH000019864
+count shipment check ---  770  --- shNo----->FRETSH000019863
+count shipment check ---  771  --- shNo----->FRETSH000019861
+count shipment check ---  772  --- shNo----->FRETSH000019857
+count shipment check ---  773  --- shNo----->FRETSH000019856
+count shipment check ---  774  --- shNo----->FRETSH000019855
+count shipment check ---  775  --- shNo----->FRETSH000019854
+count shipment check ---  776  --- shNo----->FRETSH000019853
+count shipment check ---  777  --- shNo----->FRETSH000019852
+count shipment check ---  778  --- shNo----->FRETSH000019851
+count shipment check ---  779  --- shNo----->FRETSH000019849
+count shipment check ---  780  --- shNo----->FRETSH000019848
+count shipment check ---  781  --- shNo----->FRETSH000019847
+count shipment check ---  782  --- shNo----->FRETSH000019846
+count shipment check ---  783  --- shNo----->FRETSH000019845
+count shipment check ---  784  --- shNo----->FRETSH000019844
+count shipment check ---  785  --- shNo----->FRETSH000019843
+count shipment check ---  786  --- shNo----->FRETSH000019842
+count shipment check ---  787  --- shNo----->FRETSH000019841
+count shipment check ---  788  --- shNo----->FRETSH000019840
+count shipment check ---  789  --- shNo----->FRETSH000019839
+count shipment check ---  790  --- shNo----->FRETSH000019838
+count shipment check ---  791  --- shNo----->FRETSH000019837
+count shipment check ---  792  --- shNo----->FRETSH000019836
+executing FRETSH000019836 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019836
+count shCf updated ------->  23
+count cn Material updated ------> 23
+0072092113 updatedLoadInfoRes  200
+count shipment check ---  793  --- shNo----->FRETSH000019835
+count shipment check ---  794  --- shNo----->FRETSH000019834
+count shipment check ---  795  --- shNo----->FRETSH000019833
+count shipment check ---  796  --- shNo----->FRETSH000019832
+count shipment check ---  797  --- shNo----->FRETSH000019831
+count shipment check ---  798  --- shNo----->FRETSH000019829
+count shipment check ---  799  --- shNo----->FRETSH000019828
+count shipment check ---  800  --- shNo----->FRETSH000019827
+count shipment check ---  801  --- shNo----->FRETSH000019826
+count shipment check ---  802  --- shNo----->FRETSH000019825
+count shipment check ---  803  --- shNo----->FRETSH000019824
+count shipment check ---  804  --- shNo----->FRETSH000019823
+count shipment check ---  805  --- shNo----->FRETSH000019822
+count shipment check ---  806  --- shNo----->FRETSH000019821
+count shipment check ---  807  --- shNo----->FRETSH000019819
+count shipment check ---  808  --- shNo----->FRETSH000019817
+count shipment check ---  809  --- shNo----->FRETSH000019815
+count shipment check ---  810  --- shNo----->FRETSH000019814
+count shipment check ---  811  --- shNo----->FRETSH000019813
+count shipment check ---  812  --- shNo----->FRETSH000019812
+count shipment check ---  813  --- shNo----->FRETSH000019811
+count shipment check ---  814  --- shNo----->FRETSH000019810
+count shipment check ---  815  --- shNo----->FRETSH000019809
+count shipment check ---  816  --- shNo----->FRETSH000019808
+count shipment check ---  817  --- shNo----->FRETSH000019807
+count shipment check ---  818  --- shNo----->FRETSH000019806
+count shipment check ---  819  --- shNo----->FRETSH000019805
+count shipment check ---  820  --- shNo----->FRETSH000019804
+count shipment check ---  821  --- shNo----->FRETSH000019803
+count shipment check ---  822  --- shNo----->FRETSH000019802
+count shipment check ---  823  --- shNo----->FRETSH000019801
+count shipment check ---  824  --- shNo----->FRETSH000019800
+count shipment check ---  825  --- shNo----->FRETSH000019799
+count shipment check ---  826  --- shNo----->FRETSH000019798
+count shipment check ---  827  --- shNo----->FRETSH000019797
+count shipment check ---  828  --- shNo----->FRETSH000019795
+count shipment check ---  829  --- shNo----->FRETSH000019794
+count shipment check ---  830  --- shNo----->FRETSH000019793
+count shipment check ---  831  --- shNo----->FRETSH000019791
+count shipment check ---  832  --- shNo----->FRETSH000019790
+count shipment check ---  833  --- shNo----->FRETSH000019789
+count shipment check ---  834  --- shNo----->FRETSH000019788
+count shipment check ---  835  --- shNo----->FRETSH000019787
+count shipment check ---  836  --- shNo----->FRETSH000019786
+count shipment check ---  837  --- shNo----->FRETSH000019785
+count shipment check ---  838  --- shNo----->FRETSH000019784
+count shipment check ---  839  --- shNo----->FRETSH000019783
+count shipment check ---  840  --- shNo----->FRETSH000019782
+count shipment check ---  841  --- shNo----->FRETSH000019781
+count shipment check ---  842  --- shNo----->FRETSH000019780
+count shipment check ---  843  --- shNo----->FRETSH000019779
+count shipment check ---  844  --- shNo----->FRETSH000019778
+count shipment check ---  845  --- shNo----->FRETSH000019777
+count shipment check ---  846  --- shNo----->FRETSH000019776
+count shipment check ---  847  --- shNo----->FRETSH000019775
+count shipment check ---  848  --- shNo----->FRETSH000019774
+count shipment check ---  849  --- shNo----->FRETSH000019773
+count shipment check ---  850  --- shNo----->FRETSH000019772
+count shipment check ---  851  --- shNo----->FRETSH000019771
+count shipment check ---  852  --- shNo----->FRETSH000019769
+count shipment check ---  853  --- shNo----->FRETSH000019768
+count shipment check ---  854  --- shNo----->FRETSH000019770
+count shipment check ---  855  --- shNo----->FRETSH000019767
+count shipment check ---  856  --- shNo----->FRETSH000019766
+count shipment check ---  857  --- shNo----->FRETSH000019765
+count shipment check ---  858  --- shNo----->FRETSH000019764
+count shipment check ---  859  --- shNo----->FRETSH000019763
+count shipment check ---  860  --- shNo----->FRETSH000019762
+count shipment check ---  861  --- shNo----->FRETSH000019761
+count shipment check ---  862  --- shNo----->FRETSH000019760
+count shipment check ---  863  --- shNo----->FRETSH000019759
+count shipment check ---  864  --- shNo----->FRETSH000019758
+count shipment check ---  865  --- shNo----->FRETSH000019756
+count shipment check ---  866  --- shNo----->FRETSH000019757
+count shipment check ---  867  --- shNo----->FRETSH000019753
+count shipment check ---  868  --- shNo----->FRETSH000019751
+count shipment check ---  869  --- shNo----->FRETSH000019752
+count shipment check ---  870  --- shNo----->FRETSH000019750
+count shipment check ---  871  --- shNo----->FRETSH000019748
+count shipment check ---  872  --- shNo----->FRETSH000019746
+count shipment check ---  873  --- shNo----->FRETSH000019745
+count shipment check ---  874  --- shNo----->FRETSH000019744
+count shipment check ---  875  --- shNo----->FRETSH000019743
+count shipment check ---  876  --- shNo----->FRETSH000019742
+count shipment check ---  877  --- shNo----->FRETSH000019741
+count shipment check ---  878  --- shNo----->FRETSH000019740
+count shipment check ---  879  --- shNo----->FRETSH000019738
+count shipment check ---  880  --- shNo----->FRETSH000019737
+count shipment check ---  881  --- shNo----->FRETSH000019736
+count shipment check ---  882  --- shNo----->FRETSH000019735
+count shipment check ---  883  --- shNo----->FRETSH000019732
+count shipment check ---  884  --- shNo----->FRETSH000019733
+count shipment check ---  885  --- shNo----->FRETSH000019731
+count shipment check ---  886  --- shNo----->FRETSH000019730
+count shipment check ---  887  --- shNo----->FRETSH000019729
+count shipment check ---  888  --- shNo----->FRETSH000019728
+count shipment check ---  889  --- shNo----->FRETSH000019727
+executing FRETSH000019727 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019727
+count shCf updated ------->  24
+count cn Material updated ------> 24
+0072091973 updatedLoadInfoRes  200
+count shipment check ---  890  --- shNo----->FRETSH000019726
+count shipment check ---  891  --- shNo----->FRETSH000019725
+count shipment check ---  892  --- shNo----->FRETSH000019724
+count shipment check ---  893  --- shNo----->FRETSH000019722
+count shipment check ---  894  --- shNo----->FRETSH000019723
+count shipment check ---  895  --- shNo----->FRETSH000019721
+count shipment check ---  896  --- shNo----->FRETSH000019720
+count shipment check ---  897  --- shNo----->FRETSH000019719
+count shipment check ---  898  --- shNo----->FRETSH000019718
+count shipment check ---  899  --- shNo----->FRETSH000019717
+count shipment check ---  900  --- shNo----->FRETSH000019716
+count shipment check ---  901  --- shNo----->FRETSH000019715
+count shipment check ---  902  --- shNo----->FRETSH000019714
+count shipment check ---  903  --- shNo----->FRETSH000019713
+count shipment check ---  904  --- shNo----->FRETSH000019712
+count shipment check ---  905  --- shNo----->FRETSH000019711
+count shipment check ---  906  --- shNo----->FRETSH000019710
+count shipment check ---  907  --- shNo----->FRETSH000019709
+count shipment check ---  908  --- shNo----->FRETSH000019708
+count shipment check ---  909  --- shNo----->FRETSH000019707
+count shipment check ---  910  --- shNo----->FRETSH000019706
+count shipment check ---  911  --- shNo----->FRETSH000019705
+count shipment check ---  912  --- shNo----->FRETSH000019704
+count shipment check ---  913  --- shNo----->FRETSH000019703
+count shipment check ---  914  --- shNo----->FRETSH000019702
+executing FRETSH000019702 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019702
+count shCf updated ------->  25
+count cn Material updated ------> 25
+0072091948 updatedLoadInfoRes  200
+count shipment check ---  915  --- shNo----->FRETSH000019701
+count shipment check ---  916  --- shNo----->FRETSH000019700
+count shipment check ---  917  --- shNo----->FRETSH000019698
+count shipment check ---  918  --- shNo----->FRETSH000019697
+count shipment check ---  919  --- shNo----->FRETSH000019696
+count shipment check ---  920  --- shNo----->FRETSH000019695
+count shipment check ---  921  --- shNo----->FRETSH000019694
+executing FRETSH000019694 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019694
+count shCf updated ------->  26
+count cn Material updated ------> 26
+0072091933 updatedLoadInfoRes  200
+count shipment check ---  922  --- shNo----->FRETSH000019693
+count shipment check ---  923  --- shNo----->FRETSH000019692
+count shipment check ---  924  --- shNo----->FRETSH000019691
+count shipment check ---  925  --- shNo----->FRETSH000019690
+count shipment check ---  926  --- shNo----->FRETSH000019689
+count shipment check ---  927  --- shNo----->FRETSH000019688
+count shipment check ---  928  --- shNo----->FRETSH000019687
+count shipment check ---  929  --- shNo----->FRETSH000019686
+count shipment check ---  930  --- shNo----->FRETSH000019685
+count shipment check ---  931  --- shNo----->FRETSH000019684
+count shipment check ---  932  --- shNo----->FRETSH000019683
+count shipment check ---  933  --- shNo----->FRETSH000019682
+count shipment check ---  934  --- shNo----->FRETSH000019681
+executing FRETSH000019681 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019681
+count shCf updated ------->  27
+count cn Material updated ------> 27
+0072091929 updatedLoadInfoRes  200
+count shipment check ---  935  --- shNo----->FRETSH000019680
+count shipment check ---  936  --- shNo----->FRETSH000019679
+count shipment check ---  937  --- shNo----->FRETSH000019677
+count shipment check ---  938  --- shNo----->FRETSH000019678
+count shipment check ---  939  --- shNo----->FRETSH000019676
+count shipment check ---  940  --- shNo----->FRETSH000019675
+count shipment check ---  941  --- shNo----->FRETSH000019674
+count shipment check ---  942  --- shNo----->FRETSH000019673
+count shipment check ---  943  --- shNo----->FRETSH000019671
+count shipment check ---  944  --- shNo----->FRETSH000019672
+count shipment check ---  945  --- shNo----->FRETSH000019670
+count shipment check ---  946  --- shNo----->FRETSH000019668
+count shipment check ---  947  --- shNo----->FRETSH000019666
+count shipment check ---  948  --- shNo----->FRETSH000019665
+count shipment check ---  949  --- shNo----->FRETSH000019664
+count shipment check ---  950  --- shNo----->FRETSH000019663
+count shipment check ---  951  --- shNo----->FRETSH000019662
+count shipment check ---  952  --- shNo----->FRETSH000019661
+count shipment check ---  953  --- shNo----->FRETSH000019660
+count shipment check ---  954  --- shNo----->FRETSH000019659
+count shipment check ---  955  --- shNo----->FRETSH000019658
+count shipment check ---  956  --- shNo----->FRETSH000019657
+count shipment check ---  957  --- shNo----->FRETSH000019656
+count shipment check ---  958  --- shNo----->FRETSH000019655
+count shipment check ---  959  --- shNo----->FRETSH000019654
+count shipment check ---  960  --- shNo----->FRETSH000019653
+count shipment check ---  961  --- shNo----->FRETSH000019652
+count shipment check ---  962  --- shNo----->FRETSH000019651
+count shipment check ---  963  --- shNo----->FRETSH000019650
+count shipment check ---  964  --- shNo----->FRETSH000019649
+count shipment check ---  965  --- shNo----->FRETSH000019648
+count shipment check ---  966  --- shNo----->FRETSH000019647
+count shipment check ---  967  --- shNo----->FRETSH000019646
+count shipment check ---  968  --- shNo----->FRETSH000019645
+count shipment check ---  969  --- shNo----->FRETSH000019643
+count shipment check ---  970  --- shNo----->FRETSH000019642
+count shipment check ---  971  --- shNo----->FRETSH000019641
+count shipment check ---  972  --- shNo----->FRETSH000019640
+count shipment check ---  973  --- shNo----->FRETSH000019639
+count shipment check ---  974  --- shNo----->FRETSH000019637
+count shipment check ---  975  --- shNo----->FRETSH000019635
+count shipment check ---  976  --- shNo----->FRETSH000019634
+count shipment check ---  977  --- shNo----->FRETSH000019633
+count shipment check ---  978  --- shNo----->FRETSH000019632
+count shipment check ---  979  --- shNo----->FRETSH000019631
+count shipment check ---  980  --- shNo----->FRETSH000019630
+count shipment check ---  981  --- shNo----->FRETSH000019629
+count shipment check ---  982  --- shNo----->FRETSH000019628
+count shipment check ---  983  --- shNo----->FRETSH000019627
+count shipment check ---  984  --- shNo----->FRETSH000019626
+count shipment check ---  985  --- shNo----->FRETSH000019625
+count shipment check ---  986  --- shNo----->FRETSH000019624
+count shipment check ---  987  --- shNo----->FRETSH000019623
+count shipment check ---  988  --- shNo----->FRETSH000019622
+count shipment check ---  989  --- shNo----->FRETSH000019620
+count shipment check ---  990  --- shNo----->FRETSH000019621
+count shipment check ---  991  --- shNo----->FRETSH000019619
+count shipment check ---  992  --- shNo----->FRETSH000019618
+count shipment check ---  993  --- shNo----->FRETSH000019617
+count shipment check ---  994  --- shNo----->FRETSH000019616
+count shipment check ---  995  --- shNo----->FRETSH000019615
+count shipment check ---  996  --- shNo----->FRETSH000019614
+count shipment check ---  997  --- shNo----->FRETSH000019613
+count shipment check ---  998  --- shNo----->FRETSH000019581
+count shipment check ---  999  --- shNo----->FRETSH000019611
+count shipment check ---  1000  --- shNo----->FRETSH000019610
+count shipment check ---  1001  --- shNo----->FRETSH000019609
+count shipment check ---  1002  --- shNo----->FRETSH000019608
+count shipment check ---  1003  --- shNo----->FRETSH000019607
+count shipment check ---  1004  --- shNo----->FRETSH000019606
+count shipment check ---  1005  --- shNo----->FRETSH000019605
+count shipment check ---  1006  --- shNo----->FRETSH000019604
+count shipment check ---  1007  --- shNo----->FRETSH000019603
+count shipment check ---  1008  --- shNo----->FRETSH000019602
+executing FRETSH000019602 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019602
+count shCf updated ------->  28
+count cn Material updated ------> 28
+0072091831 updatedLoadInfoRes  200
+count shipment check ---  1009  --- shNo----->FRETSH000019601
+count shipment check ---  1010  --- shNo----->FRETSH000019600
+count shipment check ---  1011  --- shNo----->FRETSH000019599
+count shipment check ---  1012  --- shNo----->FRETSH000019597
+count shipment check ---  1013  --- shNo----->FRETSH000019596
+count shipment check ---  1014  --- shNo----->FRETSH000019595
+count shipment check ---  1015  --- shNo----->FRETSH000019594
+count shipment check ---  1016  --- shNo----->FRETSH000019593
+count shipment check ---  1017  --- shNo----->FRETSH000019592
+count shipment check ---  1018  --- shNo----->FRETSH000019591
+count shipment check ---  1019  --- shNo----->FRETSH000019590
+count shipment check ---  1020  --- shNo----->FRETSH000019589
+count shipment check ---  1021  --- shNo----->FRETSH000019588
+count shipment check ---  1022  --- shNo----->FRETSH000019587
+count shipment check ---  1023  --- shNo----->FRETSH000019586
+count shipment check ---  1024  --- shNo----->FRETSH000019585
+count shipment check ---  1025  --- shNo----->FRETSH000019584
+executing FRETSH000019584 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019584
+count shCf updated ------->  29
+count cn Material updated ------> 29
+0072091809 updatedLoadInfoRes  200
+count shipment check ---  1026  --- shNo----->FRETSH000019583
+executing FRETSH000019583 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019583
+count shCf updated ------->  30
+count cn Material updated ------> 30
+0072091815 updatedLoadInfoRes  200
+count shipment check ---  1027  --- shNo----->FRETSH000019582
+count shipment check ---  1028  --- shNo----->FRETSH000019580
+count shipment check ---  1029  --- shNo----->FRETSH000019579
+count shipment check ---  1030  --- shNo----->FRETSH000019578
+count shipment check ---  1031  --- shNo----->FRETSH000019577
+count shipment check ---  1032  --- shNo----->FRETSH000019576
+count shipment check ---  1033  --- shNo----->FRETSH000019575
+count shipment check ---  1034  --- shNo----->FRETSH000019574
+count shipment check ---  1035  --- shNo----->FRETSH000019573
+count shipment check ---  1036  --- shNo----->FRETSH000019572
+count shipment check ---  1037  --- shNo----->FRETSH000019571
+count shipment check ---  1038  --- shNo----->FRETSH000019570
+count shipment check ---  1039  --- shNo----->FRETSH000019569
+count shipment check ---  1040  --- shNo----->FRETSH000019568
+count shipment check ---  1041  --- shNo----->FRETSH000019566
+count shipment check ---  1042  --- shNo----->FRETSH000019567
+count shipment check ---  1043  --- shNo----->FRETSH000019565
+count shipment check ---  1044  --- shNo----->FRETSH000019564
+count shipment check ---  1045  --- shNo----->FRETSH000019563
+count shipment check ---  1046  --- shNo----->FRETSH000019562
+count shipment check ---  1047  --- shNo----->FRETSH000019561
+count shipment check ---  1048  --- shNo----->FRETSH000019560
+count shipment check ---  1049  --- shNo----->FRETSH000019559
+count shipment check ---  1050  --- shNo----->FRETSH000019558
+count shipment check ---  1051  --- shNo----->FRETSH000019557
+count shipment check ---  1052  --- shNo----->FRETSH000019556
+count shipment check ---  1053  --- shNo----->FRETSH000019555
+count shipment check ---  1054  --- shNo----->FRETSH000019554
+count shipment check ---  1055  --- shNo----->FRETSH000019553
+count shipment check ---  1056  --- shNo----->FRETSH000019552
+count shipment check ---  1057  --- shNo----->FRETSH000019551
+count shipment check ---  1058  --- shNo----->FRETSH000019550
+count shipment check ---  1059  --- shNo----->FRETSH000019548
+count shipment check ---  1060  --- shNo----->FRETSH000019549
+count shipment check ---  1061  --- shNo----->FRETSH000019547
+count shipment check ---  1062  --- shNo----->FRETSH000019546
+count shipment check ---  1063  --- shNo----->FRETSH000019545
+count shipment check ---  1064  --- shNo----->FRETSH000019544
+count shipment check ---  1065  --- shNo----->FRETSH000019543
+count shipment check ---  1066  --- shNo----->FRETSH000019542
+count shipment check ---  1067  --- shNo----->FRETSH000019541
+count shipment check ---  1068  --- shNo----->FRETSH000019540
+count shipment check ---  1069  --- shNo----->FRETSH000019538
+count shipment check ---  1070  --- shNo----->FRETSH000019537
+count shipment check ---  1071  --- shNo----->FRETSH000019536
+count shipment check ---  1072  --- shNo----->FRETSH000019535
+count shipment check ---  1073  --- shNo----->FRETSH000019534
+count shipment check ---  1074  --- shNo----->FRETSH000019533
+count shipment check ---  1075  --- shNo----->FRETSH000019532
+count shipment check ---  1076  --- shNo----->FRETSH000019531
+count shipment check ---  1077  --- shNo----->FRETSH000019530
+count shipment check ---  1078  --- shNo----->FRETSH000019529
+count shipment check ---  1079  --- shNo----->FRETSH000019527
+count shipment check ---  1080  --- shNo----->FRETSH000019526
+count shipment check ---  1081  --- shNo----->FRETSH000019525
+count shipment check ---  1082  --- shNo----->FRETSH000019524
+count shipment check ---  1083  --- shNo----->FRETSH000019523
+count shipment check ---  1084  --- shNo----->FRETSH000019522
+count shipment check ---  1085  --- shNo----->FRETSH000019520
+count shipment check ---  1086  --- shNo----->FRETSH000019521
+count shipment check ---  1087  --- shNo----->FRETSH000019519
+count shipment check ---  1088  --- shNo----->FRETSH000019518
+count shipment check ---  1089  --- shNo----->FRETSH000019517
+count shipment check ---  1090  --- shNo----->FRETSH000019516
+count shipment check ---  1091  --- shNo----->FRETSH000019515
+count shipment check ---  1092  --- shNo----->FRETSH000019513
+count shipment check ---  1093  --- shNo----->FRETSH000019512
+count shipment check ---  1094  --- shNo----->FRETSH000019511
+count shipment check ---  1095  --- shNo----->FRETSH000019509
+count shipment check ---  1096  --- shNo----->FRETSH000019508
+count shipment check ---  1097  --- shNo----->FRETSH000019507
+count shipment check ---  1098  --- shNo----->FRETSH000019506
+count shipment check ---  1099  --- shNo----->FRETSH000019505
+count shipment check ---  1100  --- shNo----->FRETSH000019504
+count shipment check ---  1101  --- shNo----->FRETSH000019503
+count shipment check ---  1102  --- shNo----->FRETSH000019502
+count shipment check ---  1103  --- shNo----->FRETSH000019501
+executing FRETSH000019501 : material u bend
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019501
+count shCf updated ------->  31
+count cn Material updated ------> 31
+0072091705 updatedLoadInfoRes  200
+count shipment check ---  1104  --- shNo----->FRETSH000019500
+count shipment check ---  1105  --- shNo----->FRETSH000019499
+executing FRETSH000019499 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019499
+count shCf updated ------->  32
+consignments not found for this shipment FRETSH000019499
+count shipment check ---  1106  --- shNo----->FRETSH000019498
+count shipment check ---  1107  --- shNo----->FRETSH000019495
+count shipment check ---  1108  --- shNo----->FRETSH000019494
+count shipment check ---  1109  --- shNo----->FRETSH000019491
+count shipment check ---  1110  --- shNo----->FRETSH000019490
+count shipment check ---  1111  --- shNo----->FRETSH000019489
+count shipment check ---  1112  --- shNo----->FRETSH000019488
+count shipment check ---  1113  --- shNo----->FRETSH000019487
+count shipment check ---  1114  --- shNo----->FRETSH000019486
+count shipment check ---  1115  --- shNo----->FRETSH000019485
+count shipment check ---  1116  --- shNo----->FRETSH000019484
+count shipment check ---  1117  --- shNo----->FRETSH000019483
+count shipment check ---  1118  --- shNo----->FRETSH000019482
+count shipment check ---  1119  --- shNo----->FRETSH000019481
+count shipment check ---  1120  --- shNo----->FRETSH000019480
+count shipment check ---  1121  --- shNo----->FRETSH000019479
+count shipment check ---  1122  --- shNo----->FRETSH000019478
+count shipment check ---  1123  --- shNo----->FRETSH000019477
+count shipment check ---  1124  --- shNo----->FRETSH000019476
+count shipment check ---  1125  --- shNo----->FRETSH000019474
+count shipment check ---  1126  --- shNo----->FRETSH000019475
+count shipment check ---  1127  --- shNo----->FRETSH000019473
+count shipment check ---  1128  --- shNo----->FRETSH000019472
+count shipment check ---  1129  --- shNo----->FRETSH000019470
+count shipment check ---  1130  --- shNo----->FRETSH000019468
+count shipment check ---  1131  --- shNo----->FRETSH000019467
+count shipment check ---  1132  --- shNo----->FRETSH000019465
+count shipment check ---  1133  --- shNo----->FRETSH000019466
+count shipment check ---  1134  --- shNo----->FRETSH000019464
+count shipment check ---  1135  --- shNo----->FRETSH000019463
+count shipment check ---  1136  --- shNo----->FRETSH000019462
+count shipment check ---  1137  --- shNo----->FRETSH000019461
+count shipment check ---  1138  --- shNo----->FRETSH000019460
+count shipment check ---  1139  --- shNo----->FRETSH000019459
+count shipment check ---  1140  --- shNo----->FRETSH000019458
+count shipment check ---  1141  --- shNo----->FRETSH000019457
+count shipment check ---  1142  --- shNo----->FRETSH000019456
+count shipment check ---  1143  --- shNo----->FRETSH000019455
+count shipment check ---  1144  --- shNo----->FRETSH000019454
+count shipment check ---  1145  --- shNo----->FRETSH000019452
+count shipment check ---  1146  --- shNo----->FRETSH000019451
+count shipment check ---  1147  --- shNo----->FRETSH000019450
+count shipment check ---  1148  --- shNo----->FRETSH000019449
+count shipment check ---  1149  --- shNo----->FRETSH000019448
+count shipment check ---  1150  --- shNo----->FRETSH000019446
+count shipment check ---  1151  --- shNo----->FRETSH000019447
+count shipment check ---  1152  --- shNo----->FRETSH000019445
+count shipment check ---  1153  --- shNo----->FRETSH000019444
+count shipment check ---  1154  --- shNo----->FRETSH000019443
+executing FRETSH000019443 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019443
+count shCf updated ------->  33
+count cn Material updated ------> 32
+0072091794 updatedLoadInfoRes  200
+count cn Material updated ------> 33
+0072091793 updatedLoadInfoRes  200
+count shipment check ---  1155  --- shNo----->FRETSH000019442
+count shipment check ---  1156  --- shNo----->FRETSH000019441
+count shipment check ---  1157  --- shNo----->FRETSH000019440
+count shipment check ---  1158  --- shNo----->FRETSH000019439
+count shipment check ---  1159  --- shNo----->FRETSH000019438
+count shipment check ---  1160  --- shNo----->FRETSH000019435
+count shipment check ---  1161  --- shNo----->FRETSH000019434
+count shipment check ---  1162  --- shNo----->FRETSH000019433
+count shipment check ---  1163  --- shNo----->FRETSH000019432
+count shipment check ---  1164  --- shNo----->FRETSH000019431
+count shipment check ---  1165  --- shNo----->FRETSH000019430
+count shipment check ---  1166  --- shNo----->FRETSH000019429
+count shipment check ---  1167  --- shNo----->FRETSH000019428
+count shipment check ---  1168  --- shNo----->FRETSH000019427
+count shipment check ---  1169  --- shNo----->FRETSH000019426
+count shipment check ---  1170  --- shNo----->FRETSH000019424
+count shipment check ---  1171  --- shNo----->FRETSH000019423
+count shipment check ---  1172  --- shNo----->FRETSH000019421
+count shipment check ---  1173  --- shNo----->FRETSH000019420
+count shipment check ---  1174  --- shNo----->FRETSH000019419
+count shipment check ---  1175  --- shNo----->FRETSH000019417
+count shipment check ---  1176  --- shNo----->FRETSH000019418
+count shipment check ---  1177  --- shNo----->FRETSH000019416
+count shipment check ---  1178  --- shNo----->FRETSH000019415
+count shipment check ---  1179  --- shNo----->FRETSH000019413
+count shipment check ---  1180  --- shNo----->FRETSH000019414
+count shipment check ---  1181  --- shNo----->FRETSH000019412
+count shipment check ---  1182  --- shNo----->FRETSH000019411
+count shipment check ---  1183  --- shNo----->FRETSH000019410
+count shipment check ---  1184  --- shNo----->FRETSH000019409
+count shipment check ---  1185  --- shNo----->FRETSH000019408
+count shipment check ---  1186  --- shNo----->FRETSH000019407
+count shipment check ---  1187  --- shNo----->FRETSH000019406
+count shipment check ---  1188  --- shNo----->FRETSH000019405
+count shipment check ---  1189  --- shNo----->FRETSH000019404
+count shipment check ---  1190  --- shNo----->FRETSH000019403
+count shipment check ---  1191  --- shNo----->FRETSH000019402
+count shipment check ---  1192  --- shNo----->FRETSH000019401
+count shipment check ---  1193  --- shNo----->FRETSH000019400
+count shipment check ---  1194  --- shNo----->FRETSH000019398
+count shipment check ---  1195  --- shNo----->FRETSH000019397
+count shipment check ---  1196  --- shNo----->FRETSH000019396
+count shipment check ---  1197  --- shNo----->FRETSH000019395
+count shipment check ---  1198  --- shNo----->FRETSH000019394
+count shipment check ---  1199  --- shNo----->FRETSH000019393
+count shipment check ---  1200  --- shNo----->FRETSH000019392
+count shipment check ---  1201  --- shNo----->FRETSH000019391
+count shipment check ---  1202  --- shNo----->FRETSH000019390
+count shipment check ---  1203  --- shNo----->FRETSH000019387
+count shipment check ---  1204  --- shNo----->FRETSH000019386
+count shipment check ---  1205  --- shNo----->FRETSH000019384
+count shipment check ---  1206  --- shNo----->FRETSH000019385
+count shipment check ---  1207  --- shNo----->FRETSH000019383
+count shipment check ---  1208  --- shNo----->FRETSH000019382
+count shipment check ---  1209  --- shNo----->FRETSH000019381
+count shipment check ---  1210  --- shNo----->FRETSH000019380
+count shipment check ---  1211  --- shNo----->FRETSH000019379
+count shipment check ---  1212  --- shNo----->FRETSH000019378
+count shipment check ---  1213  --- shNo----->FRETSH000019377
+count shipment check ---  1214  --- shNo----->FRETSH000019376
+count shipment check ---  1215  --- shNo----->FRETSH000019375
+count shipment check ---  1216  --- shNo----->FRETSH000019374
+count shipment check ---  1217  --- shNo----->FRETSH000019373
+count shipment check ---  1218  --- shNo----->FRETSH000019372
+count shipment check ---  1219  --- shNo----->FRETSH000019371
+count shipment check ---  1220  --- shNo----->FRETSH000019370
+count shipment check ---  1221  --- shNo----->FRETSH000019369
+count shipment check ---  1222  --- shNo----->FRETSH000019368
+count shipment check ---  1223  --- shNo----->FRETSH000019367
+count shipment check ---  1224  --- shNo----->FRETSH000019366
+count shipment check ---  1225  --- shNo----->FRETSH000019365
+count shipment check ---  1226  --- shNo----->FRETSH000019364
+count shipment check ---  1227  --- shNo----->FRETSH000019362
+count shipment check ---  1228  --- shNo----->FRETSH000019361
+count shipment check ---  1229  --- shNo----->FRETSH000019360
+count shipment check ---  1230  --- shNo----->FRETSH000019359
+count shipment check ---  1231  --- shNo----->FRETSH000019357
+count shipment check ---  1232  --- shNo----->FRETSH000019356
+count shipment check ---  1233  --- shNo----->FRETSH000019355
+executing FRETSH000019355 : material TRAILER
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019355
+count shCf updated ------->  34
+count cn Material updated ------> 34
+0072091443 updatedLoadInfoRes  200
+count shipment check ---  1234  --- shNo----->FRETSH000019354
+count shipment check ---  1235  --- shNo----->FRETSH000019353
+count shipment check ---  1236  --- shNo----->FRETSH000019352
+count shipment check ---  1237  --- shNo----->FRETSH000019351
+count shipment check ---  1238  --- shNo----->FRETSH000019350
+count shipment check ---  1239  --- shNo----->FRETSH000019348
+count shipment check ---  1240  --- shNo----->FRETSH000019347
+count shipment check ---  1241  --- shNo----->FRETSH000019346
+count shipment check ---  1242  --- shNo----->FRETSH000019344
+count shipment check ---  1243  --- shNo----->FRETSH000019343
+count shipment check ---  1244  --- shNo----->FRETSH000019342
+count shipment check ---  1245  --- shNo----->FRETSH000019339
+count shipment check ---  1246  --- shNo----->FRETSH000019340
+executing FRETSH000019340 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019340
+count shCf updated ------->  35
+count cn Material updated ------> 35
+0072091814 updatedLoadInfoRes  200
+count shipment check ---  1247  --- shNo----->FRETSH000019338
+count shipment check ---  1248  --- shNo----->FRETSH000019337
+count shipment check ---  1249  --- shNo----->FRETSH000019336
+count shipment check ---  1250  --- shNo----->FRETSH000019335
+count shipment check ---  1251  --- shNo----->FRETSH000019334
+count shipment check ---  1252  --- shNo----->FRETSH000019333
+count shipment check ---  1253  --- shNo----->FRETSH000019332
+count shipment check ---  1254  --- shNo----->FRETSH000019331
+count shipment check ---  1255  --- shNo----->FRETSH000019329
+count shipment check ---  1256  --- shNo----->FRETSH000019330
+count shipment check ---  1257  --- shNo----->FRETSH000019328
+count shipment check ---  1258  --- shNo----->FRETSH000019327
+count shipment check ---  1259  --- shNo----->FRETSH000019326
+count shipment check ---  1260  --- shNo----->FRETSH000019325
+count shipment check ---  1261  --- shNo----->FRETSH000019324
+count shipment check ---  1262  --- shNo----->FRETSH000019323
+count shipment check ---  1263  --- shNo----->FRETSH000019322
+count shipment check ---  1264  --- shNo----->FRETSH000019321
+count shipment check ---  1265  --- shNo----->FRETSH000019320
+count shipment check ---  1266  --- shNo----->FRETSH000019318
+count shipment check ---  1267  --- shNo----->FRETSH000019319
+count shipment check ---  1268  --- shNo----->FRETSH000019316
+count shipment check ---  1269  --- shNo----->FRETSH000019315
+count shipment check ---  1270  --- shNo----->FRETSH000019314
+count shipment check ---  1271  --- shNo----->FRETSH000019313
+count shipment check ---  1272  --- shNo----->FRETSH000019312
+count shipment check ---  1273  --- shNo----->FRETSH000019309
+count shipment check ---  1274  --- shNo----->FRETSH000019308
+count shipment check ---  1275  --- shNo----->FRETSH000019307
+executing FRETSH000019307 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019307
+count shCf updated ------->  36
+count cn Material updated ------> 36
+0072091810 updatedLoadInfoRes  200
+count shipment check ---  1276  --- shNo----->FRETSH000019306
+count shipment check ---  1277  --- shNo----->FRETSH000019305
+count shipment check ---  1278  --- shNo----->FRETSH000019304
+count shipment check ---  1279  --- shNo----->FRETSH000019303
+count shipment check ---  1280  --- shNo----->FRETSH000019302
+count shipment check ---  1281  --- shNo----->FRETSH000019301
+count shipment check ---  1282  --- shNo----->FRETSH000019300
+count shipment check ---  1283  --- shNo----->FRETSH000019299
+count shipment check ---  1284  --- shNo----->FRETSH000019298
+count shipment check ---  1285  --- shNo----->FRETSH000019297
+count shipment check ---  1286  --- shNo----->FRETSH000019296
+count shipment check ---  1287  --- shNo----->FRETSH000019295
+count shipment check ---  1288  --- shNo----->FRETSH000019294
+count shipment check ---  1289  --- shNo----->FRETSH000019293
+count shipment check ---  1290  --- shNo----->FRETSH000019292
+count shipment check ---  1291  --- shNo----->FRETSH000019291
+count shipment check ---  1292  --- shNo----->FRETSH000019290
+count shipment check ---  1293  --- shNo----->FRETSH000019289
+count shipment check ---  1294  --- shNo----->FRETSH000019288
+count shipment check ---  1295  --- shNo----->FRETSH000019287
+count shipment check ---  1296  --- shNo----->FRETSH000019286
+count shipment check ---  1297  --- shNo----->FRETSH000019284
+count shipment check ---  1298  --- shNo----->FRETSH000019283
+count shipment check ---  1299  --- shNo----->FRETSH000019282
+count shipment check ---  1300  --- shNo----->FRETSH000019281
+count shipment check ---  1301  --- shNo----->FRETSH000019280
+count shipment check ---  1302  --- shNo----->FRETSH000019279
+count shipment check ---  1303  --- shNo----->FRETSH000019278
+count shipment check ---  1304  --- shNo----->FRETSH000019276
+count shipment check ---  1305  --- shNo----->FRETSH000019277
+count shipment check ---  1306  --- shNo----->FRETSH000019275
+count shipment check ---  1307  --- shNo----->FRETSH000019274
+executing FRETSH000019274 : material TRUCK
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000019274
+count shCf updated ------->  37
+count cn Material updated ------> 37
+0072091811 updatedLoadInfoRes  200
+count shipment check ---  1308  --- shNo----->FRETSH000019273
+count shipment check ---  1309  --- shNo----->FRETSH000019272
+count shipment check ---  1310  --- shNo----->FRETSH000019271
+count shipment check ---  1311  --- shNo----->FRETSH000019270
+count shipment check ---  1312  --- shNo----->FRETSH000019269
+count shipment check ---  1313  --- shNo----->FRETSH000019268
+count shipment check ---  1314  --- shNo----->FRETSH000019267
+count shipment check ---  1315  --- shNo----->FRETSH000019266
+count shipment check ---  1316  --- shNo----->FRETSH000019265
+count shipment check ---  1317  --- shNo----->FRETSH000019264
+count shipment check ---  1318  --- shNo----->FRETSH000019263
+count shipment check ---  1319  --- shNo----->FRETSH000019262
+count shipment check ---  1320  --- shNo----->FRETSH000019261
+count shipment check ---  1321  --- shNo----->FRETSH000019260
+count shipment check ---  1322  --- shNo----->FRETSH000019259
+count shipment check ---  1323  --- shNo----->FRETSH000019258
+count shipment check ---  1324  --- shNo----->FRETSH000019257
+count shipment check ---  1325  --- shNo----->FRETSH000019256
+count shipment check ---  1326  --- shNo----->FRETSH000019255
+count shipment check ---  1327  --- shNo----->FRETSH000019254
+count shipment check ---  1328  --- shNo----->FRETSH000019252
+count shipment check ---  1329  --- shNo----->FRETSH000019250
+count shipment check ---  1330  --- shNo----->FRETSH000019249
+count shipment check ---  1331  --- shNo----->FRETSH000019248
+count shipment check ---  1332  --- shNo----->FRETSH000019247
+count shipment check ---  1333  --- shNo----->FRETSH000019246
+count shipment check ---  1334  --- shNo----->FRETSH000019245
+count shipment check ---  1335  --- shNo----->FRETSH000019244
+count shipment check ---  1336  --- shNo----->FRETSH000019243
+count shipment check ---  1337  --- shNo----->FRETSH000019242
+count shipment check ---  1338  --- shNo----->FRETSH000019241
+count shipment check ---  1339  --- shNo----->FRETSH000019240
+count shipment check ---  1340  --- shNo----->FRETSH000019239
+count shipment check ---  1341  --- shNo----->FRETSH000019238
+count shipment check ---  1342  --- shNo----->FRETSH000019237
+count shipment check ---  1343  --- shNo----->FRETSH000019236
+count shipment check ---  1344  --- shNo----->FRETSH000019235
+count shipment check ---  1345  --- shNo----->FRETSH000019234
+count shipment check ---  1346  --- shNo----->FRETSH000019233
+count shipment check ---  1347  --- shNo----->FRETSH000019232
+count shipment check ---  1348  --- shNo----->FRETSH000019231
+count shipment check ---  1349  --- shNo----->FRETSH000019230
+count shipment check ---  1350  --- shNo----->FRETSH000019229
+count shipment check ---  1351  --- shNo----->FRETSH000019228
+count shipment check ---  1352  --- shNo----->FRETSH000019227
+count shipment check ---  1353  --- shNo----->FRETSH000019226
+count shipment check ---  1354  --- shNo----->FRETSH000019225
+count shipment check ---  1355  --- shNo----->FRETSH000019224
+count shipment check ---  1356  --- shNo----->FRETSH000019223
+count shipment check ---  1357  --- shNo----->FRETSH000019222
+count shipment check ---  1358  --- shNo----->FRETSH000019221
+count shipment check ---  1359  --- shNo----->FRETSH000019220
+count shipment check ---  1360  --- shNo----->FRETSH000019219
+count shipment check ---  1361  --- shNo----->FRETSH000019217
+count shipment check ---  1362  --- shNo----->FRETSH000019216
+count shipment check ---  1363  --- shNo----->FRETSH000019215
+count shipment check ---  1364  --- shNo----->FRETSH000019214
+count shipment check ---  1365  --- shNo----->FRETSH000019213
+count shipment check ---  1366  --- shNo----->FRETSH000019212
+count shipment check ---  1367  --- shNo----->FRETSH000019211
+count shipment check ---  1368  --- shNo----->FRETSH000019210
+count shipment check ---  1369  --- shNo----->FRETSH000019209
+count shipment check ---  1370  --- shNo----->FRETSH000019207
+count shipment check ---  1371  --- shNo----->FRETSH000019208
+count shipment check ---  1372  --- shNo----->FRETSH000019206
+count shipment check ---  1373  --- shNo----->FRETSH000019204
+count shipment check ---  1374  --- shNo----->FRETSH000019203
+count shipment check ---  1375  --- shNo----->FRETSH000019202
+count shipment check ---  1376  --- shNo----->FRETSH000019201
+count shipment check ---  1377  --- shNo----->FRETSH000019200
+count shipment check ---  1378  --- shNo----->FRETSH000019199
+count shipment check ---  1379  --- shNo----->FRETSH000019198
+count shipment check ---  1380  --- shNo----->FRETSH000019197
+count shipment check ---  1381  --- shNo----->FRETSH000019196
+count shipment check ---  1382  --- shNo----->FRETSH000019195
+count shipment check ---  1383  --- shNo----->FRETSH000019194
+count shipment check ---  1384  --- shNo----->FRETSH000019193
+count shipment check ---  1385  --- shNo----->FRETSH000019192
+count shipment check ---  1386  --- shNo----->FRETSH000019191
+count shipment check ---  1387  --- shNo----->FRETSH000019190
+count shipment check ---  1388  --- shNo----->FRETSH000019189
+count shipment check ---  1389  --- shNo----->FRETSH000019188
+count shipment check ---  1390  --- shNo----->FRETSH000019187
+count shipment check ---  1391  --- shNo----->FRETSH000019184
+count shipment check ---  1392  --- shNo----->FRETSH000019182
+count shipment check ---  1393  --- shNo----->FRETSH000019181
+count shipment check ---  1394  --- shNo----->FRETSH000019180
+count shipment check ---  1395  --- shNo----->FRETSH000019178
+count shipment check ---  1396  --- shNo----->FRETSH000019177
+count shipment check ---  1397  --- shNo----->FRETSH000019175
+count shipment check ---  1398  --- shNo----->FRETSH000019174
+count shipment check ---  1399  --- shNo----->FRETSH000019173
+count shipment check ---  1400  --- shNo----->FRETSH000019172
+count shipment check ---  1401  --- shNo----->FRETSH000019169
+count shipment check ---  1402  --- shNo----->FRETSH000019168
+count shipment check ---  1403  --- shNo----->FRETSH000019166
+count shipment check ---  1404  --- shNo----->FRETSH000019165
+count shipment check ---  1405  --- shNo----->FRETSH000019164
+count shipment check ---  1406  --- shNo----->FRETSH000019162
+count shipment check ---  1407  --- shNo----->FRETSH000019161
+count shipment check ---  1408  --- shNo----->FRETSH000019160
+count shipment check ---  1409  --- shNo----->FRETSH000019158
+count shipment check ---  1410  --- shNo----->FRETSH000019159
+count shipment check ---  1411  --- shNo----->FRETSH000019157
+count shipment check ---  1412  --- shNo----->FRETSH000019156
+count shipment check ---  1413  --- shNo----->FRETSH000019155
+count shipment check ---  1414  --- shNo----->FRETSH000019152
+count shipment check ---  1415  --- shNo----->FRETSH000019151
+count shipment check ---  1416  --- shNo----->FRETSH000019150
+count shipment check ---  1417  --- shNo----->FRETSH000019149
+count shipment check ---  1418  --- shNo----->FRETSH000019148
+count shipment check ---  1419  --- shNo----->FRETSH000019147
+count shipment check ---  1420  --- shNo----->FRETSH000019146
+count shipment check ---  1421  --- shNo----->FRETSH000019145
+count shipment check ---  1422  --- shNo----->FRETSH000019144
+count shipment check ---  1423  --- shNo----->FRETSH000019143
+count shipment check ---  1424  --- shNo----->FRETSH000019142
+count shipment check ---  1425  --- shNo----->FRETSH000019141
+count shipment check ---  1426  --- shNo----->FRETSH000019140
+count shipment check ---  1427  --- shNo----->FRETSH000019139
+count shipment check ---  1428  --- shNo----->FRETSH000019134
+count shipment check ---  1429  --- shNo----->FRETSH000019133
+count shipment check ---  1430  --- shNo----->FRETSH000019132
+count shipment check ---  1431  --- shNo----->FRETSH000019131
+count shipment check ---  1432  --- shNo----->FRETSH000019130
+count shipment check ---  1433  --- shNo----->FRETSH000019129
+count shipment check ---  1434  --- shNo----->FRETSH000019128
+count shipment check ---  1435  --- shNo----->FRETSH000019126
+count shipment check ---  1436  --- shNo----->FRETSH000019125
+count shipment check ---  1437  --- shNo----->FRETSH000019123
+count shipment check ---  1438  --- shNo----->FRETSH000019124
+count shipment check ---  1439  --- shNo----->FRETSH000019122
+count shipment check ---  1440  --- shNo----->FRETSH000019121
+count shipment check ---  1441  --- shNo----->FRETSH000019120
+count shipment check ---  1442  --- shNo----->FRETSH000019119
+count shipment check ---  1443  --- shNo----->FRETSH000019118
+count shipment check ---  1444  --- shNo----->FRETSH000019117
+count shipment check ---  1445  --- shNo----->FRETSH000019116
+count shipment check ---  1446  --- shNo----->FRETSH000019115
+count shipment check ---  1447  --- shNo----->FRETSH000019114
+count shipment check ---  1448  --- shNo----->FRETSH000019112
+count shipment check ---  1449  --- shNo----->FRETSH000019111
+count shipment check ---  1450  --- shNo----->FRETSH000019110
+count shipment check ---  1451  --- shNo----->FRETSH000019109
+count shipment check ---  1452  --- shNo----->FRETSH000019108
+count shipment check ---  1453  --- shNo----->FRETSH000019107
+count shipment check ---  1454  --- shNo----->FRETSH000019106
+count shipment check ---  1455  --- shNo----->FRETSH000019105
+count shipment check ---  1456  --- shNo----->FRETSH000019104
+count shipment check ---  1457  --- shNo----->FRETSH000019103
+count shipment check ---  1458  --- shNo----->FRETSH000019102
+count shipment check ---  1459  --- shNo----->FRETSH000019101
+count shipment check ---  1460  --- shNo----->FRETSH000019100
+count shipment check ---  1461  --- shNo----->FRETSH000019098
+count shipment check ---  1462  --- shNo----->FRETSH000019097
+count shipment check ---  1463  --- shNo----->FRETSH000019096
+count shipment check ---  1464  --- shNo----->FRETSH000019094
+count shipment check ---  1465  --- shNo----->FRETSH000019093
+count shipment check ---  1466  --- shNo----->FRETSH000019092
+count shipment check ---  1467  --- shNo----->FRETSH000019091
+count shipment check ---  1468  --- shNo----->FRETSH000019090
+count shipment check ---  1469  --- shNo----->FRETSH000019089
+count shipment check ---  1470  --- shNo----->FRETSH000019088
+count shipment check ---  1471  --- shNo----->FRETSH000019087
+count shipment check ---  1472  --- shNo----->FRETSH000019086
+count shipment check ---  1473  --- shNo----->FRETSH000019085
+count shipment check ---  1474  --- shNo----->FRETSH000019084
+count shipment check ---  1475  --- shNo----->FRETSH000019083
+count shipment check ---  1476  --- shNo----->FRETSH000019082
+count shipment check ---  1477  --- shNo----->FRETSH000019081
+count shipment check ---  1478  --- shNo----->FRETSH000019080
+count shipment check ---  1479  --- shNo----->FRETSH000019079
+count shipment check ---  1480  --- shNo----->FRETSH000019078
+count shipment check ---  1481  --- shNo----->FRETSH000019077
+count shipment check ---  1482  --- shNo----->FRETSH000019076
+count shipment check ---  1483  --- shNo----->FRETSH000019075
+count shipment check ---  1484  --- shNo----->FRETSH000019074
+count shipment check ---  1485  --- shNo----->FRETSH000019073
+count shipment check ---  1486  --- shNo----->FRETSH000019072
+count shipment check ---  1487  --- shNo----->FRETSH000019070
+count shipment check ---  1488  --- shNo----->FRETSH000019069
+count shipment check ---  1489  --- shNo----->FRETSH000019068
+count shipment check ---  1490  --- shNo----->FRETSH000019067
+count shipment check ---  1491  --- shNo----->FRETSH000019065
+count shipment check ---  1492  --- shNo----->FRETSH000019064
+count shipment check ---  1493  --- shNo----->FRETSH000019063
+count shipment check ---  1494  --- shNo----->FRETSH000019071
+count shipment check ---  1495  --- shNo----->FRETSH000019062
+count shipment check ---  1496  --- shNo----->FRETSH000019061
+count shipment check ---  1497  --- shNo----->FRETSH000019060
+count shipment check ---  1498  --- shNo----->FRETSH000019059
+count shipment check ---  1499  --- shNo----->FRETSH000019058
+count shipment check ---  1500  --- shNo----->FRETSH000019057
+count shipment check ---  1501  --- shNo----->FRETSH000019056
+count shipment check ---  1502  --- shNo----->FRETSH000019055
+count shipment check ---  1503  --- shNo----->FRETSH000019054
+count shipment check ---  1504  --- shNo----->FRETSH000019053
+count shipment check ---  1505  --- shNo----->FRETSH000019052
+count shipment check ---  1506  --- shNo----->FRETSH000019051
+count shipment check ---  1507  --- shNo----->FRETSH000019050
+count shipment check ---  1508  --- shNo----->FRETSH000019049
+count shipment check ---  1509  --- shNo----->FRETSH000019048
+count shipment check ---  1510  --- shNo----->FRETSH000019047
+count shipment check ---  1511  --- shNo----->FRETSH000019046
+count shipment check ---  1512  --- shNo----->FRETSH000019045
+count shipment check ---  1513  --- shNo----->FRETSH000019044
+count shipment check ---  1514  --- shNo----->FRETSH000019043
+count shipment check ---  1515  --- shNo----->FRETSH000019042
+count shipment check ---  1516  --- shNo----->FRETSH000019041
+count shipment check ---  1517  --- shNo----->FRETSH000019040
+count shipment check ---  1518  --- shNo----->FRETSH000019039
+count shipment check ---  1519  --- shNo----->FRETSH000019038
+count shipment check ---  1520  --- shNo----->FRETSH000019037
+count shipment check ---  1521  --- shNo----->FRETSH000019035
+count shipment check ---  1522  --- shNo----->FRETSH000019033
+count shipment check ---  1523  --- shNo----->FRETSH000019032
+count shipment check ---  1524  --- shNo----->FRETSH000019034
+count shipment check ---  1525  --- shNo----->FRETSH000019031
+count shipment check ---  1526  --- shNo----->FRETSH000019030
+count shipment check ---  1527  --- shNo----->FRETSH000019029
+count shipment check ---  1528  --- shNo----->FRETSH000019028
+count shipment check ---  1529  --- shNo----->FRETSH000019027
+count shipment check ---  1530  --- shNo----->FRETSH000019026
+count shipment check ---  1531  --- shNo----->FRETSH000019025
+count shipment check ---  1532  --- shNo----->FRETSH000019022
+count shipment check ---  1533  --- shNo----->FRETSH000019021
+count shipment check ---  1534  --- shNo----->FRETSH000019020
+count shipment check ---  1535  --- shNo----->FRETSH000019019
+count shipment check ---  1536  --- shNo----->FRETSH000019018
+count shipment check ---  1537  --- shNo----->FRETSH000019013
+count shipment check ---  1538  --- shNo----->FRETSH000019012
+count shipment check ---  1539  --- shNo----->FRETSH000019011
+count shipment check ---  1540  --- shNo----->FRETSH000019010
+count shipment check ---  1541  --- shNo----->FRETSH000019008
+count shipment check ---  1542  --- shNo----->FRETSH000019007
+count shipment check ---  1543  --- shNo----->FRETSH000019006
+count shipment check ---  1544  --- shNo----->FRETSH000019005
+count shipment check ---  1545  --- shNo----->FRETSH000019004
+count shipment check ---  1546  --- shNo----->FRETSH000019003
+count shipment check ---  1547  --- shNo----->FRETSH000019002
+count shipment check ---  1548  --- shNo----->FRETSH000019001
+count shipment check ---  1549  --- shNo----->FRETSH000019000
+count shipment check ---  1550  --- shNo----->FRETSH000018999
+count shipment check ---  1551  --- shNo----->FRETSH000018998
+count shipment check ---  1552  --- shNo----->FRETSH000018995
+count shipment check ---  1553  --- shNo----->FRETSH000018994
+count shipment check ---  1554  --- shNo----->FRETSH000018993
+count shipment check ---  1555  --- shNo----->FRETSH000018992
+count shipment check ---  1556  --- shNo----->FRETSH000018991
+count shipment check ---  1557  --- shNo----->FRETSH000018990
+count shipment check ---  1558  --- shNo----->FRETSH000018997
+count shipment check ---  1559  --- shNo----->FRETSH000018985
+count shipment check ---  1560  --- shNo----->FRETSH000018984
+count shipment check ---  1561  --- shNo----->FRETSH000018983
+count shipment check ---  1562  --- shNo----->FRETSH000018982
+count shipment check ---  1563  --- shNo----->FRETSH000018980
+count shipment check ---  1564  --- shNo----->FRETSH000018981
+count shipment check ---  1565  --- shNo----->FRETSH000018979
+executing FRETSH000018979 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018979
+count shCf updated ------->  38
+consignments not found for this shipment FRETSH000018979
+count shipment check ---  1566  --- shNo----->FRETSH000018978
+count shipment check ---  1567  --- shNo----->FRETSH000018977
+count shipment check ---  1568  --- shNo----->FRETSH000018976
+count shipment check ---  1569  --- shNo----->FRETSH000018974
+count shipment check ---  1570  --- shNo----->FRETSH000018973
+count shipment check ---  1571  --- shNo----->FRETSH000018972
+count shipment check ---  1572  --- shNo----->FRETSH000018971
+count shipment check ---  1573  --- shNo----->FRETSH000018970
+count shipment check ---  1574  --- shNo----->FRETSH000018969
+count shipment check ---  1575  --- shNo----->FRETSH000018968
+count shipment check ---  1576  --- shNo----->FRETSH000018967
+count shipment check ---  1577  --- shNo----->FRETSH000018966
+count shipment check ---  1578  --- shNo----->FRETSH000018965
+count shipment check ---  1579  --- shNo----->FRETSH000018964
+count shipment check ---  1580  --- shNo----->FRETSH000018963
+count shipment check ---  1581  --- shNo----->FRETSH000018962
+count shipment check ---  1582  --- shNo----->FRETSH000018961
+count shipment check ---  1583  --- shNo----->FRETSH000018960
+count shipment check ---  1584  --- shNo----->FRETSH000018959
+count shipment check ---  1585  --- shNo----->FRETSH000018958
+count shipment check ---  1586  --- shNo----->FRETSH000018957
+count shipment check ---  1587  --- shNo----->FRETSH000018956
+count shipment check ---  1588  --- shNo----->FRETSH000018955
+count shipment check ---  1589  --- shNo----->FRETSH000018954
+count shipment check ---  1590  --- shNo----->FRETSH000018953
+count shipment check ---  1591  --- shNo----->FRETSH000018952
+count shipment check ---  1592  --- shNo----->FRETSH000018951
+count shipment check ---  1593  --- shNo----->FRETSH000018950
+count shipment check ---  1594  --- shNo----->FRETSH000018949
+count shipment check ---  1595  --- shNo----->FRETSH000018948
+count shipment check ---  1596  --- shNo----->FRETSH000018947
+count shipment check ---  1597  --- shNo----->FRETSH000018946
+count shipment check ---  1598  --- shNo----->FRETSH000018945
+count shipment check ---  1599  --- shNo----->FRETSH000018944
+count shipment check ---  1600  --- shNo----->FRETSH000018943
+count shipment check ---  1601  --- shNo----->FRETSH000018942
+count shipment check ---  1602  --- shNo----->FRETSH000018941
+count shipment check ---  1603  --- shNo----->FRETSH000018937
+count shipment check ---  1604  --- shNo----->FRETSH000018935
+count shipment check ---  1605  --- shNo----->FRETSH000018934
+count shipment check ---  1606  --- shNo----->FRETSH000018932
+count shipment check ---  1607  --- shNo----->FRETSH000018931
+count shipment check ---  1608  --- shNo----->FRETSH000018929
+count shipment check ---  1609  --- shNo----->FRETSH000018928
+count shipment check ---  1610  --- shNo----->FRETSH000018927
+count shipment check ---  1611  --- shNo----->FRETSH000018926
+count shipment check ---  1612  --- shNo----->FRETSH000018925
+count shipment check ---  1613  --- shNo----->FRETSH000018924
+count shipment check ---  1614  --- shNo----->FRETSH000018922
+count shipment check ---  1615  --- shNo----->FRETSH000018923
+count shipment check ---  1616  --- shNo----->FRETSH000018921
+count shipment check ---  1617  --- shNo----->FRETSH000018920
+count shipment check ---  1618  --- shNo----->FRETSH000018919
+count shipment check ---  1619  --- shNo----->FRETSH000018918
+count shipment check ---  1620  --- shNo----->FRETSH000018917
+count shipment check ---  1621  --- shNo----->FRETSH000018916
+count shipment check ---  1622  --- shNo----->FRETSH000018915
+count shipment check ---  1623  --- shNo----->FRETSH000018914
+count shipment check ---  1624  --- shNo----->FRETSH000018912
+count shipment check ---  1625  --- shNo----->FRETSH000018911
+count shipment check ---  1626  --- shNo----->FRETSH000018909
+count shipment check ---  1627  --- shNo----->FRETSH000018908
+count shipment check ---  1628  --- shNo----->FRETSH000018907
+count shipment check ---  1629  --- shNo----->FRETSH000018906
+count shipment check ---  1630  --- shNo----->FRETSH000018904
+count shipment check ---  1631  --- shNo----->FRETSH000018903
+count shipment check ---  1632  --- shNo----->FRETSH000018902
+count shipment check ---  1633  --- shNo----->FRETSH000018900
+count shipment check ---  1634  --- shNo----->FRETSH000018899
+count shipment check ---  1635  --- shNo----->FRETSH000018898
+count shipment check ---  1636  --- shNo----->FRETSH000018897
+count shipment check ---  1637  --- shNo----->FRETSH000018896
+count shipment check ---  1638  --- shNo----->FRETSH000018894
+count shipment check ---  1639  --- shNo----->FRETSH000018893
+count shipment check ---  1640  --- shNo----->FRETSH000018892
+count shipment check ---  1641  --- shNo----->FRETSH000018890
+count shipment check ---  1642  --- shNo----->FRETSH000018889
+count shipment check ---  1643  --- shNo----->FRETSH000018888
+count shipment check ---  1644  --- shNo----->FRETSH000018887
+count shipment check ---  1645  --- shNo----->FRETSH000018886
+count shipment check ---  1646  --- shNo----->FRETSH000018884
+count shipment check ---  1647  --- shNo----->FRETSH000018881
+count shipment check ---  1648  --- shNo----->FRETSH000018882
+count shipment check ---  1649  --- shNo----->FRETSH000018880
+count shipment check ---  1650  --- shNo----->FRETSH000018879
+count shipment check ---  1651  --- shNo----->FRETSH000018878
+count shipment check ---  1652  --- shNo----->FRETSH000018877
+count shipment check ---  1653  --- shNo----->FRETSH000018876
+count shipment check ---  1654  --- shNo----->FRETSH000018875
+count shipment check ---  1655  --- shNo----->FRETSH000018874
+count shipment check ---  1656  --- shNo----->FRETSH000018872
+count shipment check ---  1657  --- shNo----->FRETSH000018871
+count shipment check ---  1658  --- shNo----->FRETSH000018870
+count shipment check ---  1659  --- shNo----->FRETSH000018869
+count shipment check ---  1660  --- shNo----->FRETSH000018868
+count shipment check ---  1661  --- shNo----->FRETSH000018867
+count shipment check ---  1662  --- shNo----->FRETSH000018866
+count shipment check ---  1663  --- shNo----->FRETSH000018865
+count shipment check ---  1664  --- shNo----->FRETSH000018864
+count shipment check ---  1665  --- shNo----->FRETSH000018863
+count shipment check ---  1666  --- shNo----->FRETSH000018862
+count shipment check ---  1667  --- shNo----->FRETSH000018861
+count shipment check ---  1668  --- shNo----->FRETSH000018860
+count shipment check ---  1669  --- shNo----->FRETSH000018859
+count shipment check ---  1670  --- shNo----->FRETSH000018858
+count shipment check ---  1671  --- shNo----->FRETSH000018857
+count shipment check ---  1672  --- shNo----->FRETSH000018856
+count shipment check ---  1673  --- shNo----->FRETSH000018855
+count shipment check ---  1674  --- shNo----->FRETSH000018854
+count shipment check ---  1675  --- shNo----->FRETSH000018853
+count shipment check ---  1676  --- shNo----->FRETSH000018852
+count shipment check ---  1677  --- shNo----->FRETSH000018851
+count shipment check ---  1678  --- shNo----->FRETSH000018850
+count shipment check ---  1679  --- shNo----->FRETSH000018848
+count shipment check ---  1680  --- shNo----->FRETSH000018847
+count shipment check ---  1681  --- shNo----->FRETSH000018845
+count shipment check ---  1682  --- shNo----->FRETSH000018846
+count shipment check ---  1683  --- shNo----->FRETSH000018843
+count shipment check ---  1684  --- shNo----->FRETSH000018842
+count shipment check ---  1685  --- shNo----->FRETSH000018841
+count shipment check ---  1686  --- shNo----->FRETSH000018840
+count shipment check ---  1687  --- shNo----->FRETSH000018839
+count shipment check ---  1688  --- shNo----->FRETSH000018838
+count shipment check ---  1689  --- shNo----->FRETSH000018837
+count shipment check ---  1690  --- shNo----->FRETSH000018836
+count shipment check ---  1691  --- shNo----->FRETSH000018835
+count shipment check ---  1692  --- shNo----->FRETSH000018834
+count shipment check ---  1693  --- shNo----->FRETSH000018833
+count shipment check ---  1694  --- shNo----->FRETSH000018832
+count shipment check ---  1695  --- shNo----->FRETSH000018831
+count shipment check ---  1696  --- shNo----->FRETSH000018830
+count shipment check ---  1697  --- shNo----->FRETSH000018829
+count shipment check ---  1698  --- shNo----->FRETSH000018827
+count shipment check ---  1699  --- shNo----->FRETSH000018826
+count shipment check ---  1700  --- shNo----->FRETSH000018825
+count shipment check ---  1701  --- shNo----->FRETSH000018823
+count shipment check ---  1702  --- shNo----->FRETSH000018822
+count shipment check ---  1703  --- shNo----->FRETSH000018821
+count shipment check ---  1704  --- shNo----->FRETSH000018820
+count shipment check ---  1705  --- shNo----->FRETSH000018816
+count shipment check ---  1706  --- shNo----->FRETSH000018815
+count shipment check ---  1707  --- shNo----->FRETSH000018814
+count shipment check ---  1708  --- shNo----->FRETSH000018813
+count shipment check ---  1709  --- shNo----->FRETSH000018812
+count shipment check ---  1710  --- shNo----->FRETSH000018811
+count shipment check ---  1711  --- shNo----->FRETSH000018810
+count shipment check ---  1712  --- shNo----->FRETSH000018809
+count shipment check ---  1713  --- shNo----->FRETSH000018808
+executing FRETSH000018808 : material tmt
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018808
+count shCf updated ------->  39
+count cn Material updated ------> 38
+0072090755 updatedLoadInfoRes  200
+count shipment check ---  1714  --- shNo----->FRETSH000018807
+executing FRETSH000018807 : material tmt
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018807
+count shCf updated ------->  40
+count cn Material updated ------> 39
+0072090731 updatedLoadInfoRes  200
+count shipment check ---  1715  --- shNo----->FRETSH000018806
+count shipment check ---  1716  --- shNo----->FRETSH000018805
+count shipment check ---  1717  --- shNo----->FRETSH000018804
+count shipment check ---  1718  --- shNo----->FRETSH000018803
+count shipment check ---  1719  --- shNo----->FRETSH000018802
+count shipment check ---  1720  --- shNo----->FRETSH000018801
+count shipment check ---  1721  --- shNo----->FRETSH000018800
+count shipment check ---  1722  --- shNo----->FRETSH000018799
+count shipment check ---  1723  --- shNo----->FRETSH000018798
+count shipment check ---  1724  --- shNo----->FRETSH000018797
+count shipment check ---  1725  --- shNo----->FRETSH000018796
+count shipment check ---  1726  --- shNo----->FRETSH000018795
+count shipment check ---  1727  --- shNo----->FRETSH000018794
+count shipment check ---  1728  --- shNo----->FRETSH000018793
+count shipment check ---  1729  --- shNo----->FRETSH000018792
+count shipment check ---  1730  --- shNo----->FRETSH000018791
+count shipment check ---  1731  --- shNo----->FRETSH000018790
+count shipment check ---  1732  --- shNo----->FRETSH000018789
+count shipment check ---  1733  --- shNo----->FRETSH000018788
+count shipment check ---  1734  --- shNo----->FRETSH000018785
+count shipment check ---  1735  --- shNo----->FRETSH000018787
+count shipment check ---  1736  --- shNo----->FRETSH000018786
+count shipment check ---  1737  --- shNo----->FRETSH000018784
+count shipment check ---  1738  --- shNo----->FRETSH000018783
+count shipment check ---  1739  --- shNo----->FRETSH000018782
+count shipment check ---  1740  --- shNo----->FRETSH000018781
+count shipment check ---  1741  --- shNo----->FRETSH000018780
+count shipment check ---  1742  --- shNo----->FRETSH000018779
+count shipment check ---  1743  --- shNo----->FRETSH000018778
+count shipment check ---  1744  --- shNo----->FRETSH000018777
+count shipment check ---  1745  --- shNo----->FRETSH000018776
+count shipment check ---  1746  --- shNo----->FRETSH000018775
+count shipment check ---  1747  --- shNo----->FRETSH000018774
+count shipment check ---  1748  --- shNo----->FRETSH000018773
+count shipment check ---  1749  --- shNo----->FRETSH000018771
+count shipment check ---  1750  --- shNo----->FRETSH000018769
+count shipment check ---  1751  --- shNo----->FRETSH000018768
+count shipment check ---  1752  --- shNo----->FRETSH000018767
+count shipment check ---  1753  --- shNo----->FRETSH000018765
+count shipment check ---  1754  --- shNo----->FRETSH000018763
+count shipment check ---  1755  --- shNo----->FRETSH000018762
+count shipment check ---  1756  --- shNo----->FRETSH000018761
+count shipment check ---  1757  --- shNo----->FRETSH000018760
+count shipment check ---  1758  --- shNo----->FRETSH000018759
+count shipment check ---  1759  --- shNo----->FRETSH000018758
+count shipment check ---  1760  --- shNo----->FRETSH000018756
+count shipment check ---  1761  --- shNo----->FRETSH000018755
+count shipment check ---  1762  --- shNo----->FRETSH000018753
+count shipment check ---  1763  --- shNo----->FRETSH000018752
+count shipment check ---  1764  --- shNo----->FRETSH000018751
+count shipment check ---  1765  --- shNo----->FRETSH000018750
+count shipment check ---  1766  --- shNo----->FRETSH000018749
+count shipment check ---  1767  --- shNo----->FRETSH000018748
+count shipment check ---  1768  --- shNo----->FRETSH000018747
+count shipment check ---  1769  --- shNo----->FRETSH000018746
+count shipment check ---  1770  --- shNo----->FRETSH000018745
+count shipment check ---  1771  --- shNo----->FRETSH000018744
+count shipment check ---  1772  --- shNo----->FRETSH000018743
+count shipment check ---  1773  --- shNo----->FRETSH000018742
+count shipment check ---  1774  --- shNo----->FRETSH000018741
+count shipment check ---  1775  --- shNo----->FRETSH000018739
+count shipment check ---  1776  --- shNo----->FRETSH000018738
+count shipment check ---  1777  --- shNo----->FRETSH000018737
+count shipment check ---  1778  --- shNo----->FRETSH000018734
+executing FRETSH000018734 : material tmt
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018734
+count shCf updated ------->  41
+count cn Material updated ------> 40
+0072090620 updatedLoadInfoRes  200
+count shipment check ---  1779  --- shNo----->FRETSH000018733
+count shipment check ---  1780  --- shNo----->FRETSH000018732
+count shipment check ---  1781  --- shNo----->FRETSH000018730
+count shipment check ---  1782  --- shNo----->FRETSH000018729
+count shipment check ---  1783  --- shNo----->FRETSH000018728
+count shipment check ---  1784  --- shNo----->FRETSH000018727
+count shipment check ---  1785  --- shNo----->FRETSH000018726
+count shipment check ---  1786  --- shNo----->FRETSH000018725
+count shipment check ---  1787  --- shNo----->FRETSH000018724
+count shipment check ---  1788  --- shNo----->FRETSH000018723
+count shipment check ---  1789  --- shNo----->FRETSH000018722
+count shipment check ---  1790  --- shNo----->FRETSH000018721
+count shipment check ---  1791  --- shNo----->FRETSH000018720
+count shipment check ---  1792  --- shNo----->FRETSH000018718
+count shipment check ---  1793  --- shNo----->FRETSH000018717
+count shipment check ---  1794  --- shNo----->FRETSH000018716
+count shipment check ---  1795  --- shNo----->FRETSH000018715
+count shipment check ---  1796  --- shNo----->FRETSH000018714
+count shipment check ---  1797  --- shNo----->FRETSH000018713
+count shipment check ---  1798  --- shNo----->FRETSH000018712
+count shipment check ---  1799  --- shNo----->FRETSH000018710
+count shipment check ---  1800  --- shNo----->FRETSH000018709
+count shipment check ---  1801  --- shNo----->FRETSH000018708
+count shipment check ---  1802  --- shNo----->FRETSH000018707
+count shipment check ---  1803  --- shNo----->FRETSH000018705
+count shipment check ---  1804  --- shNo----->FRETSH000018703
+count shipment check ---  1805  --- shNo----->FRETSH000018702
+count shipment check ---  1806  --- shNo----->FRETSH000018701
+count shipment check ---  1807  --- shNo----->FRETSH000018700
+count shipment check ---  1808  --- shNo----->FRETSH000018699
+count shipment check ---  1809  --- shNo----->FRETSH000018697
+count shipment check ---  1810  --- shNo----->FRETSH000018696
+count shipment check ---  1811  --- shNo----->FRETSH000018695
+count shipment check ---  1812  --- shNo----->FRETSH000018694
+count shipment check ---  1813  --- shNo----->FRETSH000018693
+count shipment check ---  1814  --- shNo----->FRETSH000018692
+count shipment check ---  1815  --- shNo----->FRETSH000018691
+count shipment check ---  1816  --- shNo----->FRETSH000018690
+count shipment check ---  1817  --- shNo----->FRETSH000018688
+executing FRETSH000018688 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018688
+count shCf updated ------->  42
+consignments not found for this shipment FRETSH000018688
+count shipment check ---  1818  --- shNo----->FRETSH000018687
+count shipment check ---  1819  --- shNo----->FRETSH000018686
+count shipment check ---  1820  --- shNo----->FRETSH000018685
+count shipment check ---  1821  --- shNo----->FRETSH000018684
+count shipment check ---  1822  --- shNo----->FRETSH000018683
+count shipment check ---  1823  --- shNo----->FRETSH000018682
+count shipment check ---  1824  --- shNo----->FRETSH000018681
+count shipment check ---  1825  --- shNo----->FRETSH000018680
+count shipment check ---  1826  --- shNo----->FRETSH000018679
+count shipment check ---  1827  --- shNo----->FRETSH000018678
+count shipment check ---  1828  --- shNo----->FRETSH000018677
+count shipment check ---  1829  --- shNo----->FRETSH000018675
+count shipment check ---  1830  --- shNo----->FRETSH000018674
+count shipment check ---  1831  --- shNo----->FRETSH000018673
+count shipment check ---  1832  --- shNo----->FRETSH000018672
+count shipment check ---  1833  --- shNo----->FRETSH000018671
+count shipment check ---  1834  --- shNo----->FRETSH000018670
+count shipment check ---  1835  --- shNo----->FRETSH000018669
+executing FRETSH000018669 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018669
+count shCf updated ------->  43
+count cn Material updated ------> 41
+0072090588 updatedLoadInfoRes  200
+count cn Material updated ------> 42
+0072090511 updatedLoadInfoRes  200
+count shipment check ---  1836  --- shNo----->FRETSH000018668
+count shipment check ---  1837  --- shNo----->FRETSH000018667
+count shipment check ---  1838  --- shNo----->FRETSH000018666
+count shipment check ---  1839  --- shNo----->FRETSH000018665
+count shipment check ---  1840  --- shNo----->FRETSH000018663
+count shipment check ---  1841  --- shNo----->FRETSH000018661
+count shipment check ---  1842  --- shNo----->FRETSH000018660
+count shipment check ---  1843  --- shNo----->FRETSH000018659
+count shipment check ---  1844  --- shNo----->FRETSH000018658
+count shipment check ---  1845  --- shNo----->FRETSH000018657
+count shipment check ---  1846  --- shNo----->FRETSH000018656
+count shipment check ---  1847  --- shNo----->FRETSH000018655
+count shipment check ---  1848  --- shNo----->FRETSH000018654
+count shipment check ---  1849  --- shNo----->FRETSH000018651
+count shipment check ---  1850  --- shNo----->FRETSH000018650
+count shipment check ---  1851  --- shNo----->FRETSH000018649
+count shipment check ---  1852  --- shNo----->FRETSH000018648
+count shipment check ---  1853  --- shNo----->FRETSH000018647
+count shipment check ---  1854  --- shNo----->FRETSH000018646
+count shipment check ---  1855  --- shNo----->FRETSH000018645
+count shipment check ---  1856  --- shNo----->FRETSH000018643
+count shipment check ---  1857  --- shNo----->FRETSH000018642
+count shipment check ---  1858  --- shNo----->FRETSH000018641
+count shipment check ---  1859  --- shNo----->FRETSH000018640
+count shipment check ---  1860  --- shNo----->FRETSH000018639
+count shipment check ---  1861  --- shNo----->FRETSH000018638
+count shipment check ---  1862  --- shNo----->FRETSH000018637
+count shipment check ---  1863  --- shNo----->FRETSH000018636
+count shipment check ---  1864  --- shNo----->FRETSH000018635
+count shipment check ---  1865  --- shNo----->FRETSH000018633
+count shipment check ---  1866  --- shNo----->FRETSH000018634
+count shipment check ---  1867  --- shNo----->FRETSH000018632
+count shipment check ---  1868  --- shNo----->FRETSH000018631
+count shipment check ---  1869  --- shNo----->FRETSH000018630
+count shipment check ---  1870  --- shNo----->FRETSH000018629
+count shipment check ---  1871  --- shNo----->FRETSH000018628
+count shipment check ---  1872  --- shNo----->FRETSH000018627
+count shipment check ---  1873  --- shNo----->FRETSH000018626
+count shipment check ---  1874  --- shNo----->FRETSH000018625
+count shipment check ---  1875  --- shNo----->FRETSH000018624
+count shipment check ---  1876  --- shNo----->FRETSH000018623
+count shipment check ---  1877  --- shNo----->FRETSH000018622
+count shipment check ---  1878  --- shNo----->FRETSH000018620
+count shipment check ---  1879  --- shNo----->FRETSH000018619
+count shipment check ---  1880  --- shNo----->FRETSH000018618
+executing FRETSH000018618 : material tmt
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018618
+count shCf updated ------->  44
+count cn Material updated ------> 43
+0072090421 updatedLoadInfoRes  200
+count shipment check ---  1881  --- shNo----->FRETSH000018617
+count shipment check ---  1882  --- shNo----->FRETSH000018616
+count shipment check ---  1883  --- shNo----->FRETSH000018615
+count shipment check ---  1884  --- shNo----->FRETSH000018614
+count shipment check ---  1885  --- shNo----->FRETSH000018613
+count shipment check ---  1886  --- shNo----->FRETSH000018610
+count shipment check ---  1887  --- shNo----->FRETSH000018611
+count shipment check ---  1888  --- shNo----->FRETSH000018609
+count shipment check ---  1889  --- shNo----->FRETSH000018608
+count shipment check ---  1890  --- shNo----->FRETSH000018607
+count shipment check ---  1891  --- shNo----->FRETSH000018606
+count shipment check ---  1892  --- shNo----->FRETSH000018605
+count shipment check ---  1893  --- shNo----->FRETSH000018604
+count shipment check ---  1894  --- shNo----->FRETSH000018603
+count shipment check ---  1895  --- shNo----->FRETSH000018602
+count shipment check ---  1896  --- shNo----->FRETSH000018601
+count shipment check ---  1897  --- shNo----->FRETSH000018600
+count shipment check ---  1898  --- shNo----->FRETSH000018599
+count shipment check ---  1899  --- shNo----->FRETSH000018598
+count shipment check ---  1900  --- shNo----->FRETSH000018596
+count shipment check ---  1901  --- shNo----->FRETSH000018597
+count shipment check ---  1902  --- shNo----->FRETSH000018595
+count shipment check ---  1903  --- shNo----->FRETSH000018594
+count shipment check ---  1904  --- shNo----->FRETSH000018593
+count shipment check ---  1905  --- shNo----->FRETSH000018592
+count shipment check ---  1906  --- shNo----->FRETSH000018591
+count shipment check ---  1907  --- shNo----->FRETSH000018590
+count shipment check ---  1908  --- shNo----->FRETSH000018589
+count shipment check ---  1909  --- shNo----->FRETSH000018588
+executing FRETSH000018588 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018588
+count shCf updated ------->  45
+count cn Material updated ------> 44
+0072090345 updatedLoadInfoRes  200
+count shipment check ---  1910  --- shNo----->FRETSH000018585
+count shipment check ---  1911  --- shNo----->FRETSH000018584
+count shipment check ---  1912  --- shNo----->FRETSH000018582
+count shipment check ---  1913  --- shNo----->FRETSH000018581
+count shipment check ---  1914  --- shNo----->FRETSH000018580
+count shipment check ---  1915  --- shNo----->FRETSH000018578
+count shipment check ---  1916  --- shNo----->FRETSH000018579
+count shipment check ---  1917  --- shNo----->FRETSH000018577
+count shipment check ---  1918  --- shNo----->FRETSH000018576
+count shipment check ---  1919  --- shNo----->FRETSH000018575
+count shipment check ---  1920  --- shNo----->FRETSH000018574
+count shipment check ---  1921  --- shNo----->FRETSH000018573
+count shipment check ---  1922  --- shNo----->FRETSH000018572
+count shipment check ---  1923  --- shNo----->FRETSH000018571
+count shipment check ---  1924  --- shNo----->FRETSH000018570
+count shipment check ---  1925  --- shNo----->FRETSH000018569
+count shipment check ---  1926  --- shNo----->FRETSH000018568
+count shipment check ---  1927  --- shNo----->FRETSH000018567
+count shipment check ---  1928  --- shNo----->FRETSH000018566
+count shipment check ---  1929  --- shNo----->FRETSH000018565
+count shipment check ---  1930  --- shNo----->FRETSH000018564
+count shipment check ---  1931  --- shNo----->FRETSH000018563
+count shipment check ---  1932  --- shNo----->FRETSH000018562
+count shipment check ---  1933  --- shNo----->FRETSH000018560
+count shipment check ---  1934  --- shNo----->FRETSH000018561
+count shipment check ---  1935  --- shNo----->FRETSH000018559
+count shipment check ---  1936  --- shNo----->FRETSH000018558
+count shipment check ---  1937  --- shNo----->FRETSH000018557
+count shipment check ---  1938  --- shNo----->FRETSH000018556
+count shipment check ---  1939  --- shNo----->FRETSH000018555
+count shipment check ---  1940  --- shNo----->FRETSH000018554
+count shipment check ---  1941  --- shNo----->FRETSH000018553
+count shipment check ---  1942  --- shNo----->FRETSH000018552
+count shipment check ---  1943  --- shNo----->FRETSH000018551
+count shipment check ---  1944  --- shNo----->FRETSH000018550
+count shipment check ---  1945  --- shNo----->FRETSH000018549
+count shipment check ---  1946  --- shNo----->FRETSH000018548
+count shipment check ---  1947  --- shNo----->FRETSH000018547
+count shipment check ---  1948  --- shNo----->FRETSH000018546
+count shipment check ---  1949  --- shNo----->FRETSH000018545
+count shipment check ---  1950  --- shNo----->FRETSH000018544
+count shipment check ---  1951  --- shNo----->FRETSH000018542
+count shipment check ---  1952  --- shNo----->FRETSH000018543
+count shipment check ---  1953  --- shNo----->FRETSH000018541
+count shipment check ---  1954  --- shNo----->FRETSH000018540
+count shipment check ---  1955  --- shNo----->FRETSH000018539
+count shipment check ---  1956  --- shNo----->FRETSH000018538
+count shipment check ---  1957  --- shNo----->FRETSH000018537
+count shipment check ---  1958  --- shNo----->FRETSH000018536
+count shipment check ---  1959  --- shNo----->FRETSH000018535
+count shipment check ---  1960  --- shNo----->FRETSH000018534
+count shipment check ---  1961  --- shNo----->FRETSH000018533
+count shipment check ---  1962  --- shNo----->FRETSH000018531
+count shipment check ---  1963  --- shNo----->FRETSH000018530
+count shipment check ---  1964  --- shNo----->FRETSH000018529
+count shipment check ---  1965  --- shNo----->FRETSH000018528
+count shipment check ---  1966  --- shNo----->FRETSH000018527
+executing FRETSH000018527 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018527
+count shCf updated ------->  46
+consignments not found for this shipment FRETSH000018527
+count shipment check ---  1967  --- shNo----->FRETSH000018526
+count shipment check ---  1968  --- shNo----->FRETSH000018524
+count shipment check ---  1969  --- shNo----->FRETSH000018523
+count shipment check ---  1970  --- shNo----->FRETSH000018521
+count shipment check ---  1971  --- shNo----->FRETSH000018520
+count shipment check ---  1972  --- shNo----->FRETSH000018519
+count shipment check ---  1973  --- shNo----->FRETSH000018518
+count shipment check ---  1974  --- shNo----->FRETSH000018517
+count shipment check ---  1975  --- shNo----->FRETSH000018516
+count shipment check ---  1976  --- shNo----->FRETSH000018515
+count shipment check ---  1977  --- shNo----->FRETSH000018514
+count shipment check ---  1978  --- shNo----->FRETSH000018513
+count shipment check ---  1979  --- shNo----->FRETSH000018512
+count shipment check ---  1980  --- shNo----->FRETSH000018510
+count shipment check ---  1981  --- shNo----->FRETSH000018509
+count shipment check ---  1982  --- shNo----->FRETSH000018507
+count shipment check ---  1983  --- shNo----->FRETSH000018506
+count shipment check ---  1984  --- shNo----->FRETSH000018505
+count shipment check ---  1985  --- shNo----->FRETSH000018503
+count shipment check ---  1986  --- shNo----->FRETSH000018502
+count shipment check ---  1987  --- shNo----->FRETSH000018501
+count shipment check ---  1988  --- shNo----->FRETSH000018499
+count shipment check ---  1989  --- shNo----->FRETSH000018498
+count shipment check ---  1990  --- shNo----->FRETSH000018497
+count shipment check ---  1991  --- shNo----->FRETSH000018495
+count shipment check ---  1992  --- shNo----->FRETSH000018494
+count shipment check ---  1993  --- shNo----->FRETSH000018493
+count shipment check ---  1994  --- shNo----->FRETSH000018492
+count shipment check ---  1995  --- shNo----->FRETSH000018490
+count shipment check ---  1996  --- shNo----->FRETSH000018491
+count shipment check ---  1997  --- shNo----->FRETSH000018489
+count shipment check ---  1998  --- shNo----->FRETSH000018488
+count shipment check ---  1999  --- shNo----->FRETSH000018487
+count shipment check ---  2000  --- shNo----->FRETSH000018486
+count shipment check ---  2001  --- shNo----->FRETSH000018485
+count shipment check ---  2002  --- shNo----->FRETSH000018484
+count shipment check ---  2003  --- shNo----->FRETSH000018483
+count shipment check ---  2004  --- shNo----->FRETSH000018482
+count shipment check ---  2005  --- shNo----->FRETSH000018481
+count shipment check ---  2006  --- shNo----->FRETSH000018480
+count shipment check ---  2007  --- shNo----->FRETSH000018479
+count shipment check ---  2008  --- shNo----->FRETSH000018478
+count shipment check ---  2009  --- shNo----->FRETSH000018477
+count shipment check ---  2010  --- shNo----->FRETSH000018476
+count shipment check ---  2011  --- shNo----->FRETSH000018474
+count shipment check ---  2012  --- shNo----->FRETSH000018473
+count shipment check ---  2013  --- shNo----->FRETSH000018472
+count shipment check ---  2014  --- shNo----->FRETSH000018471
+executing FRETSH000018471 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018471
+count shCf updated ------->  47
+consignments not found for this shipment FRETSH000018471
+count shipment check ---  2015  --- shNo----->FRETSH000018470
+executing FRETSH000018470 : material wire rod
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018470
+count shCf updated ------->  48
+count cn Material updated ------> 45
+0072090202 updatedLoadInfoRes  200
+count cn Material updated ------> 46
+0072090201 updatedLoadInfoRes  200
+count shipment check ---  2016  --- shNo----->FRETSH000018469
+count shipment check ---  2017  --- shNo----->FRETSH000018467
+count shipment check ---  2018  --- shNo----->FRETSH000018466
+count shipment check ---  2019  --- shNo----->FRETSH000018464
+count shipment check ---  2020  --- shNo----->FRETSH000018463
+count shipment check ---  2021  --- shNo----->FRETSH000018462
+count shipment check ---  2022  --- shNo----->FRETSH000018461
+count shipment check ---  2023  --- shNo----->FRETSH000018459
+count shipment check ---  2024  --- shNo----->FRETSH000018457
+count shipment check ---  2025  --- shNo----->FRETSH000018456
+count shipment check ---  2026  --- shNo----->FRETSH000018455
+count shipment check ---  2027  --- shNo----->FRETSH000018453
+count shipment check ---  2028  --- shNo----->FRETSH000018454
+count shipment check ---  2029  --- shNo----->FRETSH000018452
+count shipment check ---  2030  --- shNo----->FRETSH000018451
+count shipment check ---  2031  --- shNo----->FRETSH000018450
+count shipment check ---  2032  --- shNo----->FRETSH000018449
+count shipment check ---  2033  --- shNo----->FRETSH000018446
+count shipment check ---  2034  --- shNo----->FRETSH000018445
+executing FRETSH000018445 : material CUT BEND
+shMaterialTypeUpdated  shipmentNumber --------> FRETSH000018445
+count shCf updated ------->  49
+consignments not found for this shipment FRETSH000018445
+count shipment check ---  2035  --- shNo----->FRETSH000018444
+count shipment check ---  2036  --- shNo----->FRETSH000018443
+count shipment check ---  2037  --- shNo----->FRETSH000018442
+count shipment check ---  2038  --- shNo----->FRETSH000018441
+count shipment check ---  2039  --- shNo----->FRETSH000018440
+count shipment check ---  2040  --- shNo----->FRETSH000018439
+count shipment check ---  2041  --- shNo----->FRETSH000018438
+count shipment check ---  2042  --- shNo----->FRETSH000018437
+count shipment check ---  2043  --- shNo----->FRETSH000018436
+count shipment check ---  2044  --- shNo----->FRETSH000018435
+count shipment check ---  2045  --- shNo----->FRETSH000018434
+count shipment check ---  2046  --- shNo----->FRETSH000018433
+count shipment check ---  2047  --- shNo----->FRETSH000018432
+count shipment check ---  2048  --- shNo----->FRETSH000018431
+count shipment check ---  2049  --- shNo----->FRETSH000018429
+count shipment check ---  2050  --- shNo----->FRETSH000018428
+count shipment check ---  2051  --- shNo----->FRETSH000018425
+count shipment check ---  2052  --- shNo----->FRETSH000018424
+count shipment check ---  2053  --- shNo----->FRETSH000018421
+count shipment check ---  2054  --- shNo----->FRETSH000018420
+count shipment check ---  2055  --- shNo----->FRETSH000018418
+count shipment check ---  2056  --- shNo----->FRETSH000018419
+count shipment check ---  2057  --- shNo----->FRETSH000018417
+count shipment check ---  2058  --- shNo----->FRETSH000018415
+count shipment check ---  2059  --- shNo----->FRETSH000018414
+count shipment check ---  2060  --- shNo----->FRETSH000018413
+count shipment check ---  2061  --- shNo----->FRETSH000018412
+count shipment check ---  2062  --- shNo----->FRETSH000018411
+count shipment check ---  2063  --- shNo----->FRETSH000018410
+count shipment check ---  2064  --- shNo----->FRETSH000018409
+count shipment check ---  2065  --- shNo----->FRETSH000018408
+count shipment check ---  2066  --- shNo----->FRETSH000018407
+count shipment check ---  2067  --- shNo----->FRETSH000018406
+count shipment check ---  2068  --- shNo----->FRETSH000018405
+count shipment check ---  2069  --- shNo----->FRETSH000018404
+count shipment check ---  2070  --- shNo----->FRETSH000018403
+count shipment check ---  2071  --- shNo----->FRETSH000018402
+count shipment check ---  2072  --- shNo----->FRETSH000018401
+count shipment check ---  2073  --- shNo----->FRETSH000018400
+count shipment check ---  2074  --- shNo----->FRETSH000018399
+count shipment check ---  2075  --- shNo----->FRETSH000018398
+count shipment check ---  2076  --- shNo----->FRETSH000018397
+count shipment check ---  2077  --- shNo----->FRETSH000018396
+count shipment check ---  2078  --- shNo----->FRETSH000018395
+count shipment check ---  2079  --- shNo----->FRETSH000018394
+count shipment check ---  2080  --- shNo----->FRETSH000018393
+count shipment check ---  2081  --- shNo----->FRETSH000018392
+count shipment check ---  2082  --- shNo----->FRETSH000018391
+count shipment check ---  2083  --- shNo----->FRETSH000018390
+count shipment check ---  2084  --- shNo----->FRETSH000018389
+count shipment check ---  2085  --- shNo----->FRETSH000018387
+count shipment check ---  2086  --- shNo----->FRETSH000018386
+count shipment check ---  2087  --- shNo----->FRETSH000018385
+count shipment check ---  2088  --- shNo----->FRETSH000018384
+count shipment check ---  2089  --- shNo----->FRETSH000018383
+count shipment check ---  2090  --- shNo----->FRETSH000018382
+count shipment check ---  2091  --- shNo----->FRETSH000018381
+count shipment check ---  2092  --- shNo----->FRETSH000018380
+count shipment check ---  2093  --- shNo----->FRETSH000018379
+count shipment check ---  2094  --- shNo----->FRETSH000018378
+count shipment check ---  2095  --- shNo----->FRETSH000018377
+count shipment check ---  2096  --- shNo----->FRETSH000018376
+count shipment check ---  2097  --- shNo----->FRETSH000018375
+count shipment check ---  2098  --- shNo----->FRETSH000018374
+count shipment check ---  2099  --- shNo----->FRETSH000018373
+count shipment check ---  2100  --- shNo----->FRETSH000018372
+count shipment check ---  2101  --- shNo----->FRETSH000018371
+count shipment check ---  2102  --- shNo----->FRETSH000018370
+count shipment check ---  2103  --- shNo----->FRETSH000018369
+count shipment check ---  2104  --- shNo----->FRETSH000018368
+count shipment check ---  2105  --- shNo----->FRETSH000018367
+Total Sh Material Updated ---> 49
+Total Cn Material Updated  ----> 46
+correctedData    --->49
+[{"shNo":"FRETSH000020717","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020626","oldMaterialType":"TRAILER","currentMaterialType":"FLAT"},{"shNo":"FRETSH000020553","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020546","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020541","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000020486","oldMaterialType":"TRAILER","currentMaterialType":"FLAT"},{"shNo":"FRETSH000020365","oldMaterialType":"TRAILER","currentMaterialType":"FLAT"},{"shNo":"FRETSH000020360","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020357","oldMaterialType":"TRAILER","currentMaterialType":"FLAT"},{"shNo":"FRETSH000020310","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020263","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020205","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020204","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020196","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020175","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020081","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000020077","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019957","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019955","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019954","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019926","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019900","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019836","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019727","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019702","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019694","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019681","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019602","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019584","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019583","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019501","oldMaterialType":"u bend","currentMaterialType":"U BEND"},{"shNo":"FRETSH000019499","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000019443","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000019355","oldMaterialType":"TRAILER","currentMaterialType":"FLAT"},{"shNo":"FRETSH000019340","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019307","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000019274","oldMaterialType":"TRUCK","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000018979","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000018808","oldMaterialType":"tmt","currentMaterialType":"TMT"},{"shNo":"FRETSH000018807","oldMaterialType":"tmt","currentMaterialType":"TMT"},{"shNo":"FRETSH000018734","oldMaterialType":"tmt","currentMaterialType":"TMT"},{"shNo":"FRETSH000018688","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000018669","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000018618","oldMaterialType":"tmt","currentMaterialType":"TMT"},{"shNo":"FRETSH000018588","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000018527","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000018471","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"},{"shNo":"FRETSH000018470","oldMaterialType":"wire rod","currentMaterialType":"WIRE ROD"},{"shNo":"FRETSH000018445","oldMaterialType":"CUT BEND","currentMaterialType":"U BEND"}]

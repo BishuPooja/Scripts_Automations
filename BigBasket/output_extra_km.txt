@@ -1,0 +1,3340 @@
+3275
+shipment Number FRETSH000025195
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104827223 : from 1681330835000 : till 1681348823000
+timelineDistance: 59.5
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 1 
+----------------
+shipment Number FRETSH000025191
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.3548&destinationLng=85.4308
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 354017111929275 : from 1681332284000 : till 1681347585000
+timelineDistance: 73.05
+calculatedDistance: 53.62
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 2 
+----------------
+shipment Number FRETSH000025189
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104825961 : from 1681323098000 : till 1681348812000
+timelineDistance: 59.72
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 3 
+----------------
+shipment Number FRETSH000025150
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172105474207 : from 1681314556000 : till 1681334513000
+timelineDistance: 52.99
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 4 
+----------------
+shipment Number FRETSH000025130
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 19 : imei 355172104830730 : from 1681291084000 : till 1681352964000
+timelineDistance: 291.75
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 5 
+----------------
+shipment Number FRETSH000025114
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.73092&destinationLng=84.97268444
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 354017111930141 : from 1681290514000 : till 1681339614000
+timelineDistance: 193.98
+calculatedDistance: 191
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 6 
+----------------
+shipment Number FRETSH000025109
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 8 : imei 355172104808884 : from 1681286441000 : till 1681299410117
+timelineDistance: 59.82
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 7 
+----------------
+shipment Number FRETSH000025092
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 16 : imei 355172104819881 : from 1681262490000 : till 1681324216000
+timelineDistance: 290.92
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 8 
+----------------
+shipment Number FRETSH000025091
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 355172105467490 : from 1681265912000 : till 1681351659000
+timelineDistance: 293.08
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 9 
+----------------
+shipment Number FRETSH000025090
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 38 : imei 355172104820491 : from 1681266600000 : till 1681344998000
+timelineDistance: 293.26
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 10 
+----------------
+shipment Number FRETSH000025089
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 351777090354273 : from 1681264572000 : till 1681354698221
+timelineDistance: 292.28
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 11 
+----------------
+shipment Number FRETSH000025087
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 18 : imei 355172105464794 : from 1681268417000 : till 1681340856000
+timelineDistance: 271.39
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 12 
+----------------
+shipment Number FRETSH000025080
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.73092&destinationLng=84.97268444
+CalKm by shipment Stage status : 200
+Total timelines 17 : imei 355172105469926 : from 1681270243000 : till 1681339190000
+timelineDistance: 191.72
+calculatedDistance: 191
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 13 
+----------------
+shipment Number FRETSH000025068
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 4 : imei 355172104826258 : from 1681266459000 : till 1681277605000
+timelineDistance: 59.83
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 14 
+----------------
+shipment Number FRETSH000025064
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.842916&destinationLng=86.482033
+CalKm by shipment Stage status : 200
+Total timelines 15 : imei 355172104811581 : from 1681264697000 : till 1681343275000
+timelineDistance: 161.15
+calculatedDistance: 152.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 15 
+----------------
+shipment Number FRETSH000025059
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.86888889&destinationLng=85.43466667
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172104810476 : from 1681279116000 : till 1681367732000
+timelineDistance: 52.64
+calculatedDistance: 53.31
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 16 
+----------------
+shipment Number FRETSH000025052
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104805245 : from 1681266731000 : till 1681292457122
+timelineDistance: 59.41
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 17 
+----------------
+shipment Number FRETSH000025044
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 12 : imei 355172104820103 : from 1681270740000 : till 1681313180000
+timelineDistance: 59.25
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 18 
+----------------
+shipment Number FRETSH000025038
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.842916&destinationLng=86.482033
+CalKm by shipment Stage status : 200
+Total timelines 20 : imei 355172104810419 : from 1681244727000 : till 1681291593000
+timelineDistance: 164.48
+calculatedDistance: 152.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 19 
+----------------
+shipment Number FRETSH000025037
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172105470296 : from 1681268961000 : till 1681292928000
+timelineDistance: 59.76
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 20 
+----------------
+shipment Number FRETSH000025027
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 359633108868881 : from 1681236545000 : till 1681339056000
+timelineDistance: 310.13
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 21 
+----------------
+shipment Number FRETSH000025023
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.6778&destinationLng=84.9675
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 354017111928947 : from 1681243579000 : till 1681295270000
+timelineDistance: 189.24
+calculatedDistance: 185.68
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 22 
+----------------
+shipment Number FRETSH000025016
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.7513&destinationLng=84.4945
+CalKm by shipment Stage status : 200
+Total timelines 19 : imei 355172105389793 : from 1681229887000 : till 1681354201000
+timelineDistance: 137.37
+calculatedDistance: 104.74
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 23 
+----------------
+shipment Number FRETSH000024997
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 3 : imei 355172104827694 : from 1681229241000 : till 1681241876982
+timelineDistance: 28.32
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 24 
+----------------
+shipment Number FRETSH000024989
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172109421949 : from 1681232475000 : till 1681276856000
+timelineDistance: 66.78
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 25 
+----------------
+shipment Number FRETSH000024982
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104805211 : from 1681269047000 : till 1681281872000
+timelineDistance: 60.25
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 26 
+----------------
+shipment Number FRETSH000024979
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172109421683 : from 1681236127000 : till 1681276858000
+timelineDistance: 66.62
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 27 
+----------------
+shipment Number FRETSH000024964
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 359633108853610 : from 1681192902000 : till 1681310424000
+timelineDistance: 520.31
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 28 
+----------------
+shipment Number FRETSH000024952
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 354017111962433 : from 1681221613000 : till 1681340887000
+timelineDistance: 296.96
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 29 
+----------------
+shipment Number FRETSH000024946
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 24 : imei 355172104824428 : from 1681221396000 : till 1681345118000
+timelineDistance: 295.99
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 30 
+----------------
+shipment Number FRETSH000024941
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172105474389 : from 1681242607000 : till 1681257386000
+timelineDistance: 60.15
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 31 
+----------------
+shipment Number FRETSH000024940
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104824246 : from 1681238454000 : till 1681254512000
+timelineDistance: 66.58
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 32 
+----------------
+shipment Number FRETSH000024937
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 354017112557828 : from 1681183990000 : till 1681306574000
+timelineDistance: 520.29
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 33 
+----------------
+shipment Number FRETSH000024924
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 4 : imei 355172104827421 : from 1681301475000 : till 1681313750000
+timelineDistance: 58.62
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 34 
+----------------
+shipment Number FRETSH000024919
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104808884 : from 1681211638000 : till 1681222586300
+timelineDistance: 60.1
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 35 
+----------------
+shipment Number FRETSH000024918
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=21.113841&destinationLng=78.986357
+CalKm by shipment Stage status : 200
+Total timelines 40 : imei 355172105473985 : from 1681158381000 : till 1681351931000
+timelineDistance: 913.15
+calculatedDistance: 900.15
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 36 
+----------------
+shipment Number FRETSH000024917
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172104827223 : from 1681239524000 : till 1681250371000
+timelineDistance: 59.05
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 37 
+----------------
+shipment Number FRETSH000024916
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172104825961 : from 1681239328000 : till 1681250354000
+timelineDistance: 59.77
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 38 
+----------------
+shipment Number FRETSH000024914
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104809239 : from 1681223789000 : till 1681238326000
+timelineDistance: 58.87
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 39 
+----------------
+shipment Number FRETSH000024910
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172105472557 : from 1681212618000 : till 1681237991000
+timelineDistance: 65.19
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 40 
+----------------
+shipment Number FRETSH000024909
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 359633108866265 : from 1681144966000 : till 1681155122000
+timelineDistance: 52.82
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 41 
+----------------
+shipment Number FRETSH000024908
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 3 : imei 359633108858437 : from 1681149761000 : till 1681181760000
+timelineDistance: 52.99
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 42 
+----------------
+shipment Number FRETSH000024907
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104832934 : from 1681145122000 : till 1681179000000
+timelineDistance: 52.73
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 43 
+----------------
+shipment Number FRETSH000024901
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 355172109352490 : from 1681146680000 : till 1681174942000
+timelineDistance: 87.06
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 44 
+----------------
+shipment Number FRETSH000024898
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 23 : imei 355172109437788 : from 1681186308000 : till 1681273692000
+timelineDistance: 482.44
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 45 
+----------------
+shipment Number FRETSH000024897
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 23 : imei 354017111929945 : from 1681203988000 : till 1681273166000
+timelineDistance: 482.24
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 46 
+----------------
+shipment Number FRETSH000024889
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 355172105473662 : from 1681137404000 : till 1681193688000
+timelineDistance: 66.7
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 47 
+----------------
+shipment Number FRETSH000024888
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5566495&destinationLng=85.2567237
+CalKm by shipment Stage status : 200
+Total timelines 18 : imei 355172104809742 : from 1681134140000 : till 1681210209000
+timelineDistance: 297.69
+calculatedDistance: 286.86
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 48 
+----------------
+shipment Number FRETSH000024887
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.354391&destinationLng=77.307106
+CalKm by shipment Stage status : 200
+Total timelines 52 : imei 354017111928111 : from 1681151577000 : till 1681327296000
+timelineDistance: 1161.95
+calculatedDistance: 1179.43
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 49 
+----------------
+shipment Number FRETSH000024886
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 354017112017211 : from 1681133251000 : till 1681253159000
+timelineDistance: 310.4
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 50 
+----------------
+shipment Number FRETSH000024879
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 359633108868030 : from 1681133640000 : till 1681263357000
+timelineDistance: 553.38
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 51 
+----------------
+shipment Number FRETSH000024878
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172104833379 : from 1681133559000 : till 1681263407000
+timelineDistance: 523.66
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 52 
+----------------
+shipment Number FRETSH000024876
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 355172105472995 : from 1681136017000 : till 1681307840740
+timelineDistance: 550.01
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 53 
+----------------
+shipment Number FRETSH000024873
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 354017111923344 : from 1681138891000 : till 1681303903000
+timelineDistance: 550.63
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 54 
+----------------
+shipment Number FRETSH000024871
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 354017111949976 : from 1681133063000 : till 1681253181000
+timelineDistance: 310.9
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 55 
+----------------
+shipment Number FRETSH000024870
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 35 : imei 359633108973459 : from 1681133152000 : till 1681261625000
+timelineDistance: 278.44
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 56 
+----------------
+shipment Number FRETSH000024865
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104820616 : from 1681129170000 : till 1681145248000
+timelineDistance: 59.78
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 57 
+----------------
+shipment Number FRETSH000024864
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104805245 : from 1681121782000 : till 1681136442000
+timelineDistance: 60.04
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 58 
+----------------
+shipment Number FRETSH000024863
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172104826258 : from 1681117321000 : till 1681136501000
+timelineDistance: 60.22
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 59 
+----------------
+shipment Number FRETSH000024860
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 359633108868253 : from 1681122998000 : till 1681303867000
+timelineDistance: 550.45
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 60 
+----------------
+shipment Number FRETSH000024859
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 35 : imei 355172105473290 : from 1681126478000 : till 1681316578000
+timelineDistance: 518.46
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 61 
+----------------
+shipment Number FRETSH000024858
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172104810625 : from 1681126397000 : till 1681317599000
+timelineDistance: 519.23
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 62 
+----------------
+shipment Number FRETSH000024852
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172105474207 : from 1681105714000 : till 1681125074000
+timelineDistance: 59.74
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 63 
+----------------
+shipment Number FRETSH000024851
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 359633108858684 : from 1681120790000 : till 1681242274000
+timelineDistance: 519.67
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 64 
+----------------
+shipment Number FRETSH000024843
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 355172104831555 : from 1681101625000 : till 1681238679830
+timelineDistance: 524.16
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 65 
+----------------
+shipment Number FRETSH000024841
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 4 : imei 355172104827694 : from 1681088328000 : till 1681102557000
+timelineDistance: 60.15
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 66 
+----------------
+shipment Number FRETSH000024840
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 359633108858460 : from 1681082369000 : till 1681095091000
+timelineDistance: 60.19
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 67 
+----------------
+shipment Number FRETSH000024838
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.789343&destinationLng=86.13949
+CalKm by shipment Stage status : 200
+Total timelines 12 : imei 355172104833007 : from 1681120834000 : till 1681191767000
+timelineDistance: 179.64
+calculatedDistance: 163.41
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 68 
+----------------
+shipment Number FRETSH000024836
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 4 : imei 355172104827223 : from 1681065868000 : till 1681076695000
+timelineDistance: 58.11
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 69 
+----------------
+shipment Number FRETSH000024835
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 354017111930224 : from 1681101731000 : till 1681238113000
+timelineDistance: 519.54
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 70 
+----------------
+shipment Number FRETSH000024833
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.842916&destinationLng=86.482033
+CalKm by shipment Stage status : 200
+Total timelines 15 : imei 355172104811581 : from 1681088199000 : till 1681170756000
+timelineDistance: 161.07
+calculatedDistance: 152.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 71 
+----------------
+shipment Number FRETSH000024832
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 28 : imei 355172109271112 : from 1681101437000 : till 1681238776974
+timelineDistance: 523.84
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 72 
+----------------
+shipment Number FRETSH000024831
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 359633108859203 : from 1681118034000 : till 1681263922000
+timelineDistance: 322.89
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 73 
+----------------
+shipment Number FRETSH000024830
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 16 : imei 354017112246661 : from 1681131660000 : till 1681219188000
+timelineDistance: 253.86
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 74 
+----------------
+shipment Number FRETSH000024828
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172109352896 : from 1681106051000 : till 1681298820000
+timelineDistance: 549.21
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 75 
+----------------
+shipment Number FRETSH000024827
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 359633108511861 : from 1681104356000 : till 1681298848000
+timelineDistance: 550.47
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 76 
+----------------
+shipment Number FRETSH000024825
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 359633108868261 : from 1681093598000 : till 1681273597000
+timelineDistance: 518.97
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 77 
+----------------
+shipment Number FRETSH000024821
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172105470296 : from 1681067339000 : till 1681092815000
+timelineDistance: 59.8
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 78 
+----------------
+shipment Number FRETSH000024820
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 354017112237249 : from 1681118182000 : till 1681263924000
+timelineDistance: 324.09
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 79 
+----------------
+shipment Number FRETSH000024818
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 354017111966574 : from 1681096465000 : till 1681269291000
+timelineDistance: 553.91
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 80 
+----------------
+shipment Number FRETSH000024815
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172104828981 : from 1681097225000 : till 1681269317000
+timelineDistance: 552.25
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 81 
+----------------
+shipment Number FRETSH000024810
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 38 : imei 355172104831464 : from 1681049331000 : till 1681181123000
+timelineDistance: 304.83
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 82 
+----------------
+shipment Number FRETSH000024807
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172104831373 : from 1681092904000 : till 1681239220000
+timelineDistance: 515.39
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 83 
+----------------
+shipment Number FRETSH000024806
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.3852&destinationLng=86.0131
+CalKm by shipment Stage status : 200
+Total timelines 63 : imei 354017113009076 : from 1681068032000 : till 1681290693000
+timelineDistance: 438.96
+calculatedDistance: 285.8
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 84 
+----------------
+shipment Number FRETSH000024804
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.842916&destinationLng=86.482033
+CalKm by shipment Stage status : 200
+Total timelines 15 : imei 355172104808710 : from 1681059037000 : till 1681108991000
+timelineDistance: 178.7
+calculatedDistance: 152.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 85 
+----------------
+shipment Number FRETSH000024803
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172104805708 : from 1681041436000 : till 1681173999000
+timelineDistance: 287.18
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 86 
+----------------
+shipment Number FRETSH000024802
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172105468001 : from 1681066187000 : till 1681269407000
+timelineDistance: 550.06
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 87 
+----------------
+shipment Number FRETSH000024801
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 355172104826654 : from 1681053244000 : till 1681160551000
+timelineDistance: 512.09
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 88 
+----------------
+shipment Number FRETSH000024800
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 40 : imei 355172104817323 : from 1681060683000 : till 1681237075000
+timelineDistance: 319.25
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 89 
+----------------
+shipment Number FRETSH000024798
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172104831548 : from 1681053686000 : till 1681160614000
+timelineDistance: 517.84
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 90 
+----------------
+shipment Number FRETSH000024797
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 355172105472896 : from 1681053321000 : till 1681170730000
+timelineDistance: 517.68
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 91 
+----------------
+shipment Number FRETSH000024792
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 354017111936635 : from 1681052749000 : till 1681296348000
+timelineDistance: 550.93
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 92 
+----------------
+shipment Number FRETSH000024790
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 31 : imei 355172104832926 : from 1681052549000 : till 1681296340000
+timelineDistance: 549.47
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 93 
+----------------
+shipment Number FRETSH000024789
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 355172104808801 : from 1681053057000 : till 1681180482000
+timelineDistance: 305.82
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 94 
+----------------
+shipment Number FRETSH000024787
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 354017111928012 : from 1681046998000 : till 1681199129000
+timelineDistance: 252.3
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 95 
+----------------
+shipment Number FRETSH000024784
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 354017111929093 : from 1681047111000 : till 1681198990000
+timelineDistance: 323.88
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 96 
+----------------
+shipment Number FRETSH000024781
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 61 : imei 359633108973434 : from 1681050069000 : till 1681230741000
+timelineDistance: 550.94
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 97 
+----------------
+shipment Number FRETSH000024780
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 23 : imei 359633108278107 : from 1681043054000 : till 1681186146000
+timelineDistance: 272.6
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 98 
+----------------
+shipment Number FRETSH000024778
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.8647739&destinationLng=88.3932104
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 354017111928285 : from 1681043452000 : till 1681256368000
+timelineDistance: 442.43
+calculatedDistance: 392.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 99 
+----------------
+shipment Number FRETSH000024777
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 354017111929192 : from 1681033568000 : till 1681117145000
+timelineDistance: 272.38
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 100 
+----------------
+shipment Number FRETSH000024776
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.1697&destinationLng=85.6553
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 354017111930133 : from 1681036774000 : till 1681162068000
+timelineDistance: 582.32
+calculatedDistance: 517.59
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 101 
+----------------
+shipment Number FRETSH000024774
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 354017111923328 : from 1681039726000 : till 1681251671000
+timelineDistance: 304.31
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 102 
+----------------
+shipment Number FRETSH000024772
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.6461&destinationLng=87.1057
+CalKm by shipment Stage status : 200
+Total timelines 19 : imei 359633108999017 : from 1681062268000 : till 1681178846000
+timelineDistance: 240.91
+calculatedDistance: 215.56
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 103 
+----------------
+shipment Number FRETSH000024766
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 359633108866364 : from 1681034971000 : till 1681190322000
+timelineDistance: 314.39
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 104 
+----------------
+shipment Number FRETSH000024765
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 34 : imei 354017113525204 : from 1681034322000 : till 1681190303000
+timelineDistance: 314.45
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 105 
+----------------
+shipment Number FRETSH000024764
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=27.953655860000005&destinationLng=79.40970647999998
+CalKm by shipment Stage status : 200
+Total timelines 88 : imei 355172104820327 : from 1681033693000 : till 1681277500897
+timelineDistance: 983.51
+calculatedDistance: 917.56
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 106 
+----------------
+shipment Number FRETSH000024761
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172104823768 : from 1681028148000 : till 1681044246000
+timelineDistance: 60.21
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 107 
+----------------
+shipment Number FRETSH000024760
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 351777090354273 : from 1681018139000 : till 1681103846000
+timelineDistance: 306.27
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 108 
+----------------
+shipment Number FRETSH000024758
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 23 : imei 354017111930141 : from 1681018821000 : till 1681088705000
+timelineDistance: 307.59
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 109 
+----------------
+shipment Number FRETSH000024757
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.1697&destinationLng=85.6553
+CalKm by shipment Stage status : 200
+Total timelines 23 : imei 354017111930109 : from 1681005879000 : till 1681162046000
+timelineDistance: 508.65
+calculatedDistance: 517.59
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 110 
+----------------
+shipment Number FRETSH000024756
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 21 : imei 354017111929275 : from 1681023259000 : till 1681084834000
+timelineDistance: 301.82
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 111 
+----------------
+shipment Number FRETSH000024755
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.8906166&destinationLng=76.58677303286473
+CalKm by shipment Stage status : 200
+Total timelines 79 : imei 354017111928889 : from 1681139300000 : till 1681345464000
+timelineDistance: 1257.98
+calculatedDistance: 1294.8
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 112 
+----------------
+shipment Number FRETSH000024754
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 53 : imei 354017112155011 : from 1681047668000 : till 1681297244000
+timelineDistance: 550.52
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 113 
+----------------
+shipment Number FRETSH000024752
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 354017111923484 : from 1681047587000 : till 1681296956000
+timelineDistance: 550.27
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 114 
+----------------
+shipment Number FRETSH000024750
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 359633108868287 : from 1681026719000 : till 1681288927000
+timelineDistance: 552.59
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 115 
+----------------
+shipment Number FRETSH000024748
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104805211 : from 1681059294000 : till 1681091258000
+timelineDistance: 60.26
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 116 
+----------------
+shipment Number FRETSH000024745
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.81101778&destinationLng=87.54357333
+CalKm by shipment Stage status : 200
+Total timelines 54 : imei 359633108853602 : from 1681006291000 : till 1681208341000
+timelineDistance: 509.28
+calculatedDistance: 437.57
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 117 
+----------------
+shipment Number FRETSH000024744
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 8 : imei 355172104826258 : from 1681003281000 : till 1681014575000
+timelineDistance: 58.85
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 118 
+----------------
+shipment Number FRETSH000024743
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.634515735422884&destinationLng=85.17289907305681
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172105469215 : from 1681006136000 : till 1681148541000
+timelineDistance: 294.12
+calculatedDistance: 223.31
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 119 
+----------------
+shipment Number FRETSH000024742
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 26 : imei 355172109267441 : from 1681023725000 : till 1681190694000
+timelineDistance: 403.88
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 120 
+----------------
+shipment Number FRETSH000024741
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 8 : imei 355172104825961 : from 1681008934000 : till 1681022227000
+timelineDistance: 60.11
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 121 
+----------------
+shipment Number FRETSH000024740
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 48 : imei 355172104825482 : from 1681021028000 : till 1681297404000
+timelineDistance: 555.86
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 122 
+----------------
+shipment Number FRETSH000024739
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 355172104804701 : from 1681021302000 : till 1681297258000
+timelineDistance: 550.68
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 123 
+----------------
+shipment Number FRETSH000024738
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104804883 : from 1681020860000 : till 1681297940182
+timelineDistance: 549.43
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 124 
+----------------
+shipment Number FRETSH000024737
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 53 : imei 355172104832843 : from 1681021470000 : till 1681296649000
+timelineDistance: 550.99
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 125 
+----------------
+shipment Number FRETSH000024736
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 359633108866265 : from 1681006411000 : till 1681018641000
+timelineDistance: 59.86
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 126 
+----------------
+shipment Number FRETSH000024735
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.224003&destinationLng=77.30043
+CalKm by shipment Stage status : 200
+Total timelines 64 : imei 355172104830425 : from 1681049935000 : till 1681269713000
+timelineDistance: 1146.85
+calculatedDistance: 1164.76
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 127 
+----------------
+shipment Number FRETSH000024734
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104808884 : from 1681039228000 : till 1681055688495
+timelineDistance: 59.75
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 128 
+----------------
+shipment Number FRETSH000024733
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172109421683 : from 1681058895000 : till 1681098794000
+timelineDistance: 66.77
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 129 
+----------------
+shipment Number FRETSH000024731
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 355172109421949 : from 1681040911000 : till 1681098820000
+timelineDistance: 66.75
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 130 
+----------------
+shipment Number FRETSH000024730
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172109352862 : from 1680986075000 : till 1681072235251
+timelineDistance: 291.24
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 131 
+----------------
+shipment Number FRETSH000024729
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172104824246 : from 1681035888000 : till 1681096130000
+timelineDistance: 66.68
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 132 
+----------------
+shipment Number FRETSH000024728
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 359633108858437 : from 1681012916000 : till 1681025674000
+timelineDistance: 60.24
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 133 
+----------------
+shipment Number FRETSH000024727
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172104827421 : from 1681029917000 : till 1681041431440
+timelineDistance: 59.98
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 134 
+----------------
+shipment Number FRETSH000024724
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 22 : imei 355172109421485 : from 1680980161000 : till 1681063877000
+timelineDistance: 307.83
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 135 
+----------------
+shipment Number FRETSH000024723
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172104830441 : from 1680974554000 : till 1681078685000
+timelineDistance: 509.35
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 136 
+----------------
+shipment Number FRETSH000024722
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172104830631 : from 1681015719000 : till 1681272170010
+timelineDistance: 551.59
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 137 
+----------------
+shipment Number FRETSH000024721
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 21 : imei 355172104805682 : from 1680974693000 : till 1681082914000
+timelineDistance: 269.24
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 138 
+----------------
+shipment Number FRETSH000024720
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104809239 : from 1681026833000 : till 1681040758000
+timelineDistance: 59.66
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 139 
+----------------
+shipment Number FRETSH000024717
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 359633108546966 : from 1681007487000 : till 1681171226000
+timelineDistance: 525.05
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 140 
+----------------
+shipment Number FRETSH000024716
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172105474389 : from 1681036234000 : till 1681055521000
+timelineDistance: 60.11
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 141 
+----------------
+shipment Number FRETSH000024715
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172104805245 : from 1681002152000 : till 1681014646000
+timelineDistance: 58.36
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 142 
+----------------
+shipment Number FRETSH000024713
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172105474207 : from 1680985458000 : till 1681005388000
+timelineDistance: 58.92
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 143 
+----------------
+shipment Number FRETSH000024712
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 10 : imei 355172105472557 : from 1681014899000 : till 1681029478000
+timelineDistance: 62.46
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 144 
+----------------
+shipment Number FRETSH000024710
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.569134&destinationLng=85.272563
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172104832918 : from 1680965460000 : till 1681263589000
+timelineDistance: 308.88
+calculatedDistance: 284.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 145 
+----------------
+shipment Number FRETSH000024709
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.34587178613221&destinationLng=77.32508936201917
+CalKm by shipment Stage status : 200
+Total timelines 59 : imei 355172105453789 : from 1680984288000 : till 1681197898000
+timelineDistance: 1174.21
+calculatedDistance: 1178.12
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 146 
+----------------
+shipment Number FRETSH000024707
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172109437804 : from 1680962276000 : till 1680975534000
+timelineDistance: 59.05
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 147 
+----------------
+shipment Number FRETSH000024706
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172109358638 : from 1680964983000 : till 1681136674000
+timelineDistance: 519.17
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 148 
+----------------
+shipment Number FRETSH000024705
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.660931&destinationLng=85.22485
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172104807803 : from 1680957992000 : till 1681103974000
+timelineDistance: 304.94
+calculatedDistance: 304.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 149 
+----------------
+shipment Number FRETSH000024704
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 355172104820871 : from 1680966664000 : till 1681138981833
+timelineDistance: 542.34
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 150 
+----------------
+shipment Number FRETSH000024702
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 53 : imei 355172104805047 : from 1680980757000 : till 1681205983000
+timelineDistance: 544.34
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 151 
+----------------
+shipment Number FRETSH000024700
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172109426112 : from 1681015105000 : till 1681035706000
+timelineDistance: 68.9
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 152 
+----------------
+shipment Number FRETSH000024699
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172104817125 : from 1680966826000 : till 1681114807000
+timelineDistance: 310.49
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 153 
+----------------
+shipment Number FRETSH000024696
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172109196699 : from 1680958661000 : till 1681213106000
+timelineDistance: 115.98
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 154 
+----------------
+shipment Number FRETSH000024695
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 354017111927592 : from 1680972593000 : till 1681009053000
+timelineDistance: 66.66
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 155 
+----------------
+shipment Number FRETSH000024694
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 10 : imei 355172104809072 : from 1680972881000 : till 1681010933000
+timelineDistance: 66.11
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 156 
+----------------
+shipment Number FRETSH000024693
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 42 : imei 355172104804594 : from 1680957815000 : till 1681115990000
+timelineDistance: 280.98
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 157 
+----------------
+shipment Number FRETSH000024692
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 55 : imei 355172104830714 : from 1680958557000 : till 1681152179000
+timelineDistance: 326.86
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 158 
+----------------
+shipment Number FRETSH000024691
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 36 : imei 355172105396509 : from 1680958078000 : till 1681116122000
+timelineDistance: 263.41
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 159 
+----------------
+shipment Number FRETSH000024689
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.3869&destinationLng=77.2567
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 355172104816804 : from 1680955158000 : till 1681101514000
+timelineDistance: 1167.68
+calculatedDistance: 1187.75
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 160 
+----------------
+shipment Number FRETSH000024683
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 359633108859054 : from 1681095895000 : till 1681284858000
+timelineDistance: 552.11
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 161 
+----------------
+shipment Number FRETSH000024681
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.212665&destinationLng=77.262154
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172104819840 : from 1681054228000 : till 1681207005000
+timelineDistance: 1154.87
+calculatedDistance: 1166.09
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 162 
+----------------
+shipment Number FRETSH000024679
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.5640079014037&destinationLng=88.49241701698938
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172104809296 : from 1680956373000 : till 1681161246000
+timelineDistance: 420.81
+calculatedDistance: 389.13
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 163 
+----------------
+shipment Number FRETSH000024678
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.81101778&destinationLng=87.54357333
+CalKm by shipment Stage status : 200
+Total timelines 34 : imei 355172105453714 : from 1680947096000 : till 1681117756939
+timelineDistance: 507.91
+calculatedDistance: 437.57
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 164 
+----------------
+shipment Number FRETSH000024671
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.634515735422884&destinationLng=85.17289907305681
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172104809106 : from 1680963000000 : till 1681154185945
+timelineDistance: 304.69
+calculatedDistance: 223.31
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 165 
+----------------
+shipment Number FRETSH000024670
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.634515735422884&destinationLng=85.17289907305681
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172104809627 : from 1680954771000 : till 1681149459000
+timelineDistance: 297.69
+calculatedDistance: 223.31
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 166 
+----------------
+shipment Number FRETSH000024669
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 355172105474801 : from 1680953847000 : till 1681151209000
+timelineDistance: 310.08
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 167 
+----------------
+shipment Number FRETSH000024668
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104833007 : from 1680947977000 : till 1680960894000
+timelineDistance: 60.16
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 168 
+----------------
+shipment Number FRETSH000024667
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.224003&destinationLng=77.30043
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172109352599 : from 1681013305000 : till 1681149774000
+timelineDistance: 1150.44
+calculatedDistance: 1164.76
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 169 
+----------------
+shipment Number FRETSH000024666
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 35 : imei 355172105407777 : from 1680964622000 : till 1681144207000
+timelineDistance: 518.34
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 170 
+----------------
+shipment Number FRETSH000024665
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=12.952124&destinationLng=79.962513
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172109423333 : from 1680986770000 : till 1681246121000
+timelineDistance: 1701.81
+calculatedDistance: 1685.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 171 
+----------------
+shipment Number FRETSH000024663
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.3348&destinationLng=77.3031
+CalKm by shipment Stage status : 200
+Total timelines 59 : imei 355172104827868 : from 1680940901000 : till 1681087461204
+timelineDistance: 1155.37
+calculatedDistance: 1176.55
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 172 
+----------------
+shipment Number FRETSH000024661
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.212665&destinationLng=77.262154
+CalKm by shipment Stage status : 200
+Total timelines 72 : imei 355172109422194 : from 1681067664000 : till 1681289044000
+timelineDistance: 1175.79
+calculatedDistance: 1166.09
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 173 
+----------------
+shipment Number FRETSH000024659
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 31 : imei 355172104826563 : from 1680945418000 : till 1681068278823
+timelineDistance: 312.02
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 174 
+----------------
+shipment Number FRETSH000024658
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 35 : imei 354017112244906 : from 1680927072000 : till 1681070022000
+timelineDistance: 323.72
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 175 
+----------------
+shipment Number FRETSH000024657
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104810500 : from 1680984470000 : till 1681236773000
+timelineDistance: 549.32
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 176 
+----------------
+shipment Number FRETSH000024656
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.3348&destinationLng=77.3031
+CalKm by shipment Stage status : 200
+Total timelines 83 : imei 355172105474769 : from 1680929934000 : till 1681168821000
+timelineDistance: 1157.42
+calculatedDistance: 1176.55
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 177 
+----------------
+shipment Number FRETSH000024654
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=26.6748&destinationLng=84.8872
+CalKm by shipment Stage status : 200
+Total timelines 38 : imei 355172105470015 : from 1680954677000 : till 1681178358000
+timelineDistance: 465.73
+calculatedDistance: 437.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 178 
+----------------
+shipment Number FRETSH000024650
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.476319&destinationLng=85.895948
+CalKm by shipment Stage status : 200
+Total timelines 40 : imei 355172105467623 : from 1680926212000 : till 1681132206134
+timelineDistance: 570.99
+calculatedDistance: 465.93
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 179 
+----------------
+shipment Number FRETSH000024649
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.476319&destinationLng=85.895948
+CalKm by shipment Stage status : 200
+Total timelines 42 : imei 355172105424913 : from 1680924853000 : till 1681108222000
+timelineDistance: 573
+calculatedDistance: 465.93
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 180 
+----------------
+shipment Number FRETSH000024648
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104826258 : from 1680923634000 : till 1680942610000
+timelineDistance: 60.12
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 181 
+----------------
+shipment Number FRETSH000024644
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.7932&destinationLng=86.2639
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172105453631 : from 1680917680000 : till 1681017694000
+timelineDistance: 183
+calculatedDistance: 175.12
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 182 
+----------------
+shipment Number FRETSH000024641
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 49 : imei 355172105471997 : from 1680978995000 : till 1681206210049
+timelineDistance: 543.69
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 183 
+----------------
+shipment Number FRETSH000024640
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104808884 : from 1680916173000 : till 1680930143000
+timelineDistance: 59.66
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 184 
+----------------
+shipment Number FRETSH000024639
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172104825698 : from 1681013630000 : till 1681211473000
+timelineDistance: 543.84
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 185 
+----------------
+shipment Number FRETSH000024638
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.39058889&destinationLng=77.26203556
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172105469918 : from 1680954040000 : till 1681253160000
+timelineDistance: 1029.02
+calculatedDistance: 1188.42
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 186 
+----------------
+shipment Number FRETSH000024637
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172105467490 : from 1680917910000 : till 1681070019000
+timelineDistance: 331.79
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 187 
+----------------
+shipment Number FRETSH000024636
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 19 : imei 355172105464794 : from 1680942093000 : till 1681018800000
+timelineDistance: 154.12
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 188 
+----------------
+shipment Number FRETSH000024635
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 359633108858437 : from 1680918792000 : till 1680929787000
+timelineDistance: 59.65
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 189 
+----------------
+shipment Number FRETSH000024634
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172104832959 : from 1680925582000 : till 1681095804000
+timelineDistance: 1101.89
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 190 
+----------------
+shipment Number FRETSH000024633
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104827223 : from 1680933747000 : till 1680955333000
+timelineDistance: 59.9
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 191 
+----------------
+shipment Number FRETSH000024632
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104825961 : from 1680925435000 : till 1680937489000
+timelineDistance: 56.09
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 192 
+----------------
+shipment Number FRETSH000024631
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 49 : imei 355172105453722 : from 1680932093000 : till 1681203241000
+timelineDistance: 550.05
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 193 
+----------------
+shipment Number FRETSH000024630
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.0567&destinationLng=84.0678
+CalKm by shipment Stage status : 200
+Total timelines 28 : imei 355172109421923 : from 1680919282000 : till 1681052982000
+timelineDistance: 240.79
+calculatedDistance: 169.41
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 194 
+----------------
+shipment Number FRETSH000024629
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.842916&destinationLng=86.482033
+CalKm by shipment Stage status : 200
+Total timelines 10 : imei 355172104811581 : from 1680918186000 : till 1680993907000
+timelineDistance: 160.28
+calculatedDistance: 152.14
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 195 
+----------------
+shipment Number FRETSH000024627
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104827694 : from 1680947225000 : till 1680968455000
+timelineDistance: 57.51
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 196 
+----------------
+shipment Number FRETSH000024626
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 31 : imei 355172104826639 : from 1680964548000 : till 1681144113000
+timelineDistance: 517.63
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 197 
+----------------
+shipment Number FRETSH000024624
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.3348&destinationLng=77.3031
+CalKm by shipment Stage status : 200
+Total timelines 60 : imei 355172104831241 : from 1681031673000 : till 1681201510000
+timelineDistance: 1152.09
+calculatedDistance: 1176.55
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 198 
+----------------
+shipment Number FRETSH000024623
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 42 : imei 355172104830763 : from 1680896655000 : till 1681127375000
+timelineDistance: 524.48
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 199 
+----------------
+shipment Number FRETSH000024622
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 38 : imei 355172105465759 : from 1681032092000 : till 1681217210000
+timelineDistance: 544.19
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 200 
+----------------
+shipment Number FRETSH000024621
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.324961&destinationLng=77.353512
+CalKm by shipment Stage status : 200
+Total timelines 77 : imei 355172104805807 : from 1680920585000 : till 1681171335000
+timelineDistance: 1160.98
+calculatedDistance: 1180.7
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 201 
+----------------
+shipment Number FRETSH000024620
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172105472771 : from 1680929994000 : till 1681007962000
+timelineDistance: 348.58
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 202 
+----------------
+shipment Number FRETSH000024619
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.3348&destinationLng=77.3031
+CalKm by shipment Stage status : 200
+Total timelines 54 : imei 355172104820517 : from 1680922603000 : till 1681156947000
+timelineDistance: 1153.11
+calculatedDistance: 1176.55
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 203 
+----------------
+shipment Number FRETSH000024618
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 50 : imei 355172104832983 : from 1680897370000 : till 1681206160000
+timelineDistance: 549.82
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 204 
+----------------
+shipment Number FRETSH000024617
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.39484305272327&destinationLng=84.70825454293113
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104831415 : from 1680893494000 : till 1681003490000
+timelineDistance: 67.92
+calculatedDistance: 106.87
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 205 
+----------------
+shipment Number FRETSH000024616
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104809239 : from 1680892770000 : till 1680903528000
+timelineDistance: 59.64
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 206 
+----------------
+shipment Number FRETSH000024614
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.634515735422884&destinationLng=85.17289907305681
+CalKm by shipment Stage status : 200
+Total timelines 21 : imei 359633108969911 : from 1681058784000 : till 1681148370000
+timelineDistance: 295.13
+calculatedDistance: 223.31
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 207 
+----------------
+shipment Number FRETSH000024613
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172104830730 : from 1680902517000 : till 1681070107384
+timelineDistance: 314.36
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 208 
+----------------
+shipment Number FRETSH000024610
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 8 : imei 355172104805245 : from 1680891915000 : till 1680904060000
+timelineDistance: 60
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 209 
+----------------
+shipment Number FRETSH000024608
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=30.736881&destinationLng=76.169355
+CalKm by shipment Stage status : 200
+Total timelines 85 : imei 355172104831167 : from 1680890393000 : till 1681352423000
+timelineDistance: 1442.85
+calculatedDistance: 1513.35
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 210 
+----------------
+shipment Number FRETSH000024607
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 354017113525246 : from 1680908444000 : till 1681142385000
+timelineDistance: 523.4
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 211 
+----------------
+shipment Number FRETSH000024606
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172104809783 : from 1680920757000 : till 1681061323000
+timelineDistance: 301.31
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 212 
+----------------
+shipment Number FRETSH000024605
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172104811847 : from 1680920298000 : till 1681032657000
+timelineDistance: 301.06
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 213 
+----------------
+shipment Number FRETSH000024599
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.7066846&destinationLng=85.9386057
+CalKm by shipment Stage status : 200
+Total timelines 30 : imei 355172105470346 : from 1680894688000 : till 1681019552000
+timelineDistance: 186.45
+calculatedDistance: 173.03
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 214 
+----------------
+shipment Number FRETSH000024598
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=13.2067&destinationLng=80.2651
+CalKm by shipment Stage status : 200
+Total timelines 76 : imei 355172104826431 : from 1680948115000 : till 1681196600000
+timelineDistance: 1803.15
+calculatedDistance: 1648.06
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 215 
+----------------
+shipment Number FRETSH000024597
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172104827421 : from 1680895001000 : till 1680914760000
+timelineDistance: 59.36
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 216 
+----------------
+shipment Number FRETSH000024596
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.6461&destinationLng=87.1057
+CalKm by shipment Stage status : 200
+Total timelines 17 : imei 355172105474116 : from 1680922423000 : till 1681028957000
+timelineDistance: 231.28
+calculatedDistance: 215.56
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 217 
+----------------
+shipment Number FRETSH000024595
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 11 : imei 355172105473662 : from 1680923999000 : till 1680949250000
+timelineDistance: 68.92
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 218 
+----------------
+shipment Number FRETSH000024594
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=13.2067&destinationLng=80.2651
+CalKm by shipment Stage status : 200
+Total timelines 94 : imei 355172105454100 : from 1680939454000 : till 1681261906000
+timelineDistance: 1796.73
+calculatedDistance: 1648.06
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 219 
+----------------
+shipment Number FRETSH000024593
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 41 : imei 355172105398406 : from 1680888666000 : till 1681057627000
+timelineDistance: 549.87
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 220 
+----------------
+shipment Number FRETSH000024591
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.484245&destinationLng=86.718739
+CalKm by shipment Stage status : 200
+Total timelines 22 : imei 355172104827850 : from 1680885824000 : till 1680998597000
+timelineDistance: 269.16
+calculatedDistance: 249.73
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 221 
+----------------
+shipment Number FRETSH000024590
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.1288&destinationLng=84.9855
+CalKm by shipment Stage status : 200
+Total timelines 26 : imei 355172105467888 : from 1680902712000 : till 1680994414000
+timelineDistance: 244.03
+calculatedDistance: 239.48
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 222 
+----------------
+shipment Number FRETSH000024589
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.632&destinationLng=85.1278
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104825904 : from 1680919409000 : till 1681152131061
+timelineDistance: 327.14
+calculatedDistance: 301.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 223 
+----------------
+shipment Number FRETSH000024588
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104805211 : from 1680878730000 : till 1680903616000
+timelineDistance: 58.98
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 224 
+----------------
+shipment Number FRETSH000024587
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.569134&destinationLng=85.272563
+CalKm by shipment Stage status : 200
+Total timelines 24 : imei 355172104824139 : from 1680874869000 : till 1681178827000
+timelineDistance: 267.46
+calculatedDistance: 284.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 225 
+----------------
+shipment Number FRETSH000024586
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 61 : imei 355172109425254 : from 1680894094000 : till 1681087359000
+timelineDistance: 1144.79
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 226 
+----------------
+shipment Number FRETSH000024585
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.1288&destinationLng=84.9855
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 355172104809742 : from 1680869726000 : till 1680994400000
+timelineDistance: 246.37
+calculatedDistance: 239.48
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 227 
+----------------
+shipment Number FRETSH000024583
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172105467185 : from 1680875502000 : till 1681071004000
+timelineDistance: 211.9
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 228 
+----------------
+shipment Number FRETSH000024582
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172104834146 : from 1680879697000 : till 1681070974000
+timelineDistance: 211.04
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 229 
+----------------
+shipment Number FRETSH000024581
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.1288&destinationLng=84.9855
+CalKm by shipment Stage status : 200
+Total timelines 34 : imei 355172104817133 : from 1680875743000 : till 1681005198000
+timelineDistance: 251.28
+calculatedDistance: 239.48
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 230 
+----------------
+shipment Number FRETSH000024580
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 8 : imei 355172105472557 : from 1680879155000 : till 1680898741000
+timelineDistance: 63.41
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 231 
+----------------
+shipment Number FRETSH000024578
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.6322&destinationLng=75.5988
+CalKm by shipment Stage status : 200
+Total timelines 89 : imei 355172105474322 : from 1680899050000 : till 1681269695000
+timelineDistance: 1557.63
+calculatedDistance: 1263.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 232 
+----------------
+shipment Number FRETSH000024577
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 24 : imei 355172104806631 : from 1680996831000 : till 1681223381513
+timelineDistance: 524.47
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 233 
+----------------
+shipment Number FRETSH000024573
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 31 : imei 355172104826530 : from 1681034744000 : till 1681129991000
+timelineDistance: 413.37
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 234 
+----------------
+shipment Number FRETSH000024572
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172104820723 : from 1681034633000 : till 1681129966000
+timelineDistance: 416.45
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 235 
+----------------
+shipment Number FRETSH000024571
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.926123&destinationLng=78.969734
+CalKm by shipment Stage status : 200
+Total timelines 40 : imei 355172105467730 : from 1680944404000 : till 1681192773000
+timelineDistance: 896.39
+calculatedDistance: 906.56
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 236 
+----------------
+shipment Number FRETSH000024569
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172104808926 : from 1680885281000 : till 1681058026000
+timelineDistance: 549.57
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 237 
+----------------
+shipment Number FRETSH000024567
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 47 : imei 355172104808793 : from 1680884356000 : till 1681055595000
+timelineDistance: 550.08
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 238 
+----------------
+shipment Number FRETSH000024566
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 77 : imei 355172104808629 : from 1680860197000 : till 1681081431823
+timelineDistance: 1146.69
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 239 
+----------------
+shipment Number FRETSH000024565
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172105468787 : from 1680880603000 : till 1681055652000
+timelineDistance: 550.71
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 240 
+----------------
+shipment Number FRETSH000024561
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.789314&destinationLng=86.13949
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172105472888 : from 1680890925000 : till 1681009726000
+timelineDistance: 172.06
+calculatedDistance: 163.41
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 241 
+----------------
+shipment Number FRETSH000024560
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.6322&destinationLng=75.5988
+CalKm by shipment Stage status : 200
+Total timelines 69 : imei 355172104828916 : from 1680891626000 : till 1681195991200
+timelineDistance: 1445.58
+calculatedDistance: 1263.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 242 
+----------------
+shipment Number FRETSH000024559
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.569134&destinationLng=85.272563
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 359633108270260 : from 1680862520000 : till 1681019017000
+timelineDistance: 298.14
+calculatedDistance: 284.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 243 
+----------------
+shipment Number FRETSH000024558
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=26.7537&destinationLng=88.4514
+CalKm by shipment Stage status : 200
+Total timelines 52 : imei 355172105472011 : from 1680867579000 : till 1681148666459
+timelineDistance: 705.5
+calculatedDistance: 603.09
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 244 
+----------------
+shipment Number FRETSH000024557
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 44 : imei 355172104820491 : from 1680862875000 : till 1681018730000
+timelineDistance: 313.18
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 245 
+----------------
+shipment Number FRETSH000024556
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172104819675 : from 1680856408000 : till 1681018511000
+timelineDistance: 317.98
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 246 
+----------------
+shipment Number FRETSH000024555
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 85 : imei 355172109359073 : from 1680866310000 : till 1681083238921
+timelineDistance: 1141.18
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 247 
+----------------
+shipment Number FRETSH000024554
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.1288&destinationLng=84.9855
+CalKm by shipment Stage status : 200
+Total timelines 18 : imei 355172105465973 : from 1680859653000 : till 1681012998683
+timelineDistance: 233.47
+calculatedDistance: 239.48
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 248 
+----------------
+shipment Number FRETSH000024553
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104833007 : from 1680864056000 : till 1680876538000
+timelineDistance: 60.08
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 249 
+----------------
+shipment Number FRETSH000024551
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 33 : imei 355172104805153 : from 1680849618000 : till 1680975215000
+timelineDistance: 206.85
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 250 
+----------------
+shipment Number FRETSH000024550
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.96395333&destinationLng=76.53784889
+CalKm by shipment Stage status : 200
+Total timelines 36 : imei 355172104819774 : from 1680978238000 : till 1681181464000
+timelineDistance: 1167.4
+calculatedDistance: 1304.02
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 251 
+----------------
+shipment Number FRETSH000024547
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 32 : imei 355172104808827 : from 1680847959000 : till 1681011828000
+timelineDistance: 301.57
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 252 
+----------------
+shipment Number FRETSH000024546
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 35 : imei 355172104819881 : from 1680835032000 : till 1681070012000
+timelineDistance: 318.6
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 253 
+----------------
+shipment Number FRETSH000024544
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.6618&destinationLng=85.3702
+CalKm by shipment Stage status : 200
+Total timelines 53 : imei 355172105472805 : from 1680837471000 : till 1680980125000
+timelineDistance: 340.98
+calculatedDistance: 320.08
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 254 
+----------------
+shipment Number FRETSH000024542
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104805179 : from 1680843178000 : till 1681123548000
+timelineDistance: 1136.68
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 255 
+----------------
+shipment Number FRETSH000024541
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.39484305272327&destinationLng=84.70825454293113
+CalKm by shipment Stage status : 200
+Total timelines 16 : imei 355172104823768 : from 1680845172000 : till 1680915670000
+timelineDistance: 67.62
+calculatedDistance: 106.87
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 256 
+----------------
+shipment Number FRETSH000024540
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.396145618641015&destinationLng=85.32228329996502
+CalKm by shipment Stage status : 200
+Total timelines 12 : imei 355172109352490 : from 1680857002000 : till 1680921223000
+timelineDistance: 63.01
+calculatedDistance: 39.02
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 257 
+----------------
+shipment Number FRETSH000024539
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 37 : imei 355172105474538 : from 1680848677000 : till 1681037883000
+timelineDistance: 304.35
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 258 
+----------------
+shipment Number FRETSH000024537
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.894&destinationLng=76.5461
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104809544 : from 1680878610000 : till 1681032861000
+timelineDistance: 1215.35
+calculatedDistance: 1298.84
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 259 
+----------------
+shipment Number FRETSH000024536
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.569134&destinationLng=85.272563
+CalKm by shipment Stage status : 200
+Total timelines 38 : imei 355172105472730 : from 1680837207000 : till 1681019037000
+timelineDistance: 300.01
+calculatedDistance: 284.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 260 
+----------------
+shipment Number FRETSH000024535
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 44 : imei 355172104811714 : from 1680850491000 : till 1681037865000
+timelineDistance: 298.62
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 261 
+----------------
+shipment Number FRETSH000024534
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 36 : imei 354017112237165 : from 1680846575000 : till 1681006785000
+timelineDistance: 279.86
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 262 
+----------------
+shipment Number FRETSH000024533
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 39 : imei 355172104830524 : from 1680872556000 : till 1681144548000
+timelineDistance: 518.37
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 263 
+----------------
+shipment Number FRETSH000024532
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 36 : imei 355172105467672 : from 1680907178000 : till 1681144296000
+timelineDistance: 517.39
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 264 
+----------------
+shipment Number FRETSH000024531
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104824246 : from 1680860988000 : till 1680911168000
+timelineDistance: 66.46
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 265 
+----------------
+shipment Number FRETSH000024530
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.569134&destinationLng=85.272563
+CalKm by shipment Stage status : 200
+Total timelines 40 : imei 355172105469736 : from 1680851302000 : till 1681019000000
+timelineDistance: 299
+calculatedDistance: 284.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 266 
+----------------
+shipment Number FRETSH000024529
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172105471989 : from 1680830761000 : till 1681043597000
+timelineDistance: 316.32
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 267 
+----------------
+shipment Number FRETSH000024528
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 355172104804719 : from 1680814113000 : till 1681042074706
+timelineDistance: 307.16
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 268 
+----------------
+shipment Number FRETSH000024527
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172105474512 : from 1680813972000 : till 1681042067043
+timelineDistance: 306.85
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 269 
+----------------
+shipment Number FRETSH000024526
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.6618&destinationLng=85.3702
+CalKm by shipment Stage status : 200
+Total timelines 55 : imei 355172105473951 : from 1680839412000 : till 1680980092000
+timelineDistance: 331.29
+calculatedDistance: 320.08
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 270 
+----------------
+shipment Number FRETSH000024525
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=28.216667&destinationLng=77.298935
+CalKm by shipment Stage status : 200
+Total timelines 109 : imei 355172104820640 : from 1680841326000 : till 1681153234000
+timelineDistance: 1144.58
+calculatedDistance: 1162.79
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 271 
+----------------
+shipment Number FRETSH000024523
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.021223&destinationLng=83.378294
+CalKm by shipment Stage status : 200
+Total timelines 25 : imei 355172104827249 : from 1680857789000 : till 1681015549000
+timelineDistance: 381.98
+calculatedDistance: 380.6
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 272 
+----------------
+shipment Number FRETSH000024522
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 24 : imei 355172104827785 : from 1680831158000 : till 1680949264000
+timelineDistance: 289.63
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 273 
+----------------
+shipment Number FRETSH000024521
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 36 : imei 355172104832884 : from 1680805742000 : till 1681037978000
+timelineDistance: 302.45
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 274 
+----------------
+shipment Number FRETSH000024520
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 26 : imei 355172105453730 : from 1680847391000 : till 1680951528000
+timelineDistance: 287.8
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 275 
+----------------
+shipment Number FRETSH000024519
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.631778200000003&destinationLng=85.27706065238097
+CalKm by shipment Stage status : 200
+Total timelines 28 : imei 355172104817323 : from 1680840170000 : till 1680934567000
+timelineDistance: 305.79
+calculatedDistance: 222.54
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 276 
+----------------
+shipment Number FRETSH000024518
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.6322&destinationLng=75.5988
+CalKm by shipment Stage status : 200
+Total timelines 80 : imei 355172104810260 : from 1680894839000 : till 1681237696000
+timelineDistance: 1450.79
+calculatedDistance: 1263.33
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 277 
+----------------
+shipment Number FRETSH000024517
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 6 : imei 355172105474389 : from 1680860998000 : till 1680898996000
+timelineDistance: 65.03
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 278 
+----------------
+shipment Number FRETSH000024516
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=13.2067&destinationLng=80.2651
+CalKm by shipment Stage status : 200
+Total timelines 57 : imei 355172104827363 : from 1680855275000 : till 1681086392601
+timelineDistance: 1860.14
+calculatedDistance: 1648.06
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 279 
+----------------
+shipment Number FRETSH000024515
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104826951 : from 1680845407000 : till 1680920996000
+timelineDistance: 326.03
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 280 
+----------------
+shipment Number FRETSH000024514
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 34 : imei 355172104809361 : from 1680857087000 : till 1681091640000
+timelineDistance: 284.03
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 281 
+----------------
+shipment Number FRETSH000024513
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.396145618641015&destinationLng=85.32228329996502
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 355172105469645 : from 1680804878000 : till 1680892794000
+timelineDistance: 52.1
+calculatedDistance: 39.02
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 282 
+----------------
+shipment Number FRETSH000024511
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 27 : imei 355172104823859 : from 1680858109000 : till 1680975200000
+timelineDistance: 206.25
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 283 
+----------------
+shipment Number FRETSH000024510
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172104819618 : from 1680844815000 : till 1681061407000
+timelineDistance: 311.91
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 284 
+----------------
+shipment Number FRETSH000024509
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=22.088633&destinationLng=85.47369
+CalKm by shipment Stage status : 200
+Total timelines 45 : imei 355172104827959 : from 1680845018000 : till 1681061329000
+timelineDistance: 311.88
+calculatedDistance: 258.27
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 285 
+----------------
+shipment Number FRETSH000024508
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 355172104826258 : from 1680847616000 : till 1680861182000
+timelineDistance: 60.39
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 286 
+----------------
+shipment Number FRETSH000024507
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104808884 : from 1680846164000 : till 1680858649000
+timelineDistance: 59.98
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 287 
+----------------
+shipment Number FRETSH000024505
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 49 : imei 359633108278057 : from 1680870863000 : till 1681013896000
+timelineDistance: 524.96
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 288 
+----------------
+shipment Number FRETSH000024504
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=29.690167752171025&destinationLng=76.99677883603941
+CalKm by shipment Stage status : 200
+Total timelines 69 : imei 355172109358737 : from 1680946949000 : till 1681171053000
+timelineDistance: 1336.97
+calculatedDistance: 1355.9
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 289 
+----------------
+shipment Number FRETSH000024500
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 5 : imei 355172104827694 : from 1680834018000 : till 1680846571000
+timelineDistance: 60.27
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 290 
+----------------
+shipment Number FRETSH000024499
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=28.223694&originLng=77.301916&destinationLat=28.224003&destinationLng=77.30043
+CalKm by shipment Stage status : 200
+Total timelines 91 : imei 355172104828932 : from 1680847095000 : till 1681121224000
+timelineDistance: 1143.38
+calculatedDistance: 6.96
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 291 
+----------------
+shipment Number FRETSH000024498
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 9 : imei 359633108858437 : from 1680835181000 : till 1680846177000
+timelineDistance: 60.17
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 292 
+----------------
+shipment Number FRETSH000024496
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=25.5561&destinationLng=85.0309
+CalKm by shipment Stage status : 200
+Total timelines 43 : imei 355172105473738 : from 1680859828000 : till 1681111777000
+timelineDistance: 331.94
+calculatedDistance: 299.45
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 293 
+----------------
+shipment Number FRETSH000024495
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104827223 : from 1680829126000 : till 1680842482000
+timelineDistance: 59.89
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 294 
+----------------
+shipment Number FRETSH000024494
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172105474207 : from 1680860871000 : till 1680887924000
+timelineDistance: 59.81
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 295 
+----------------
+shipment Number FRETSH000024493
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.39484305272327&destinationLng=84.70825454293113
+CalKm by shipment Stage status : 200
+Total timelines 17 : imei 355172104827827 : from 1680809389000 : till 1680910209000
+timelineDistance: 78
+calculatedDistance: 106.87
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 296 
+----------------
+shipment Number FRETSH000024492
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.891152&destinationLng=84.988358
+CalKm by shipment Stage status : 200
+Total timelines 63 : imei 355172105472813 : from 1680874170000 : till 1681055756000
+timelineDistance: 517.66
+calculatedDistance: 466.47
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 297 
+----------------
+shipment Number FRETSH000024491
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.476319&destinationLng=85.895948
+CalKm by shipment Stage status : 200
+Total timelines 75 : imei 354017112155433 : from 1680836062000 : till 1681108169000
+timelineDistance: 645.29
+calculatedDistance: 465.93
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 298 
+----------------
+shipment Number FRETSH000024490
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=20.476319&destinationLng=85.895948
+CalKm by shipment Stage status : 200
+Total timelines 71 : imei 355172104820095 : from 1680839519000 : till 1681108252000
+timelineDistance: 642.51
+calculatedDistance: 465.93
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 299 
+----------------
+shipment Number FRETSH000024488
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 44 : imei 355172104827439 : from 1680809145000 : till 1681070948000
+timelineDistance: 231.66
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 300 
+----------------
+shipment Number FRETSH000024487
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 29 : imei 355172105467334 : from 1680809486000 : till 1680975314000
+timelineDistance: 206.62
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 301 
+----------------
+shipment Number FRETSH000024486
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.396145618641015&destinationLng=85.32228329996502
+CalKm by shipment Stage status : 200
+Total timelines 18 : imei 355172104808801 : from 1680794056000 : till 1680893290000
+timelineDistance: 69.58
+calculatedDistance: 39.02
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 302 
+----------------
+shipment Number FRETSH000024485
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=24.7988&destinationLng=84.9835
+CalKm by shipment Stage status : 200
+Total timelines 28 : imei 355172104810476 : from 1680799190000 : till 1680975400000
+timelineDistance: 196.21
+calculatedDistance: 200.81
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 303 
+----------------
+shipment Number FRETSH000024482
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.3218&destinationLng=85.2924
+CalKm by shipment Stage status : 200
+Total timelines 13 : imei 354017113009019 : from 1680851440000 : till 1680903077000
+timelineDistance: 91.04
+calculatedDistance: 49.94

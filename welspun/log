@@ -1,0 +1,56 @@
+GJ234U7891
+FRETSH000000027
+Bulk Sync api response status : 200
+fu id found 9d6881b7-f852-4da8-81c1-4f1effb51db0
+c8b73445-89c2-4232-a31f-9b20d27f81db
+{
+  departureTime: null,
+  gateInTime: null,
+  actualActivityStartTime: null,
+  actualActivityEndTime: null,
+  uuid: 'b0694ade-efa1-4e4d-8cfb-e3d65981667c',
+  consignmentDelivered: [],
+  eta: null,
+  stageName: null,
+  hub: null,
+  arrivalTime: 1689241482119,
+  expectedActivityStartTime: null,
+  secondaryStatus: 'WaitingForGateIn',
+  consignmentPickUps: [],
+  tripPoint: {
+    remainingDistance: null,
+    isAutoCompleted: false,
+    coveredDistance: null,
+    purpose: 'Pickup',
+    isDisconnected: false
+  },
+  place: { name: 'Adani Port' },
+  status: 'AT'
+}
+{
+  departureTime: null,
+  gateInTime: null,
+  actualActivityStartTime: null,
+  actualActivityEndTime: null,
+  uuid: 'fcce5221-e4f8-4023-8441-881e35736344',
+  consignmentDelivered: [],
+  eta: null,
+  stageName: null,
+  hub: null,
+  arrivalTime: null,
+  expectedActivityStartTime: null,
+  secondaryStatus: null,
+  consignmentPickUps: [],
+  tripPoint: {
+    remainingDistance: 0,
+    isAutoCompleted: false,
+    coveredDistance: null,
+    purpose: 'Delivery',
+    isDisconnected: false
+  },
+  place: { name: 'Welspun' },
+  status: 'NEXT'
+}
+{"shipmentId":"64ac8fb5-3e7d-4fae-8d30-eee2516e6d28","cnAdded":["c8b73445-89c2-4232-a31f-9b20d27f81db"],"cnRemoved":[],"rearrange":false,"stageList":[{"departureTime":null,"gateInTime":null,"actualActivityStartTime":null,"actualActivityEndTime":null,"uuid":"b0694ade-efa1-4e4d-8cfb-e3d65981667c","consignmentDelivered":[],"eta":null,"stageName":null,"hub":null,"arrivalTime":1689241482119,"expectedActivityStartTime":null,"secondaryStatus":"WaitingForGateIn","consignmentPickUps":[],"tripPoint":{"remainingDistance":null,"isAutoCompleted":false,"coveredDistance":null,"purpose":"Pickup","isDisconnected":false},"place":{"name":"Adani Port"},"status":"AT"},{"departureTime":null,"gateInTime":null,"actualActivityStartTime":null,"actualActivityEndTime":null,"uuid":"fcce5221-e4f8-4023-8441-881e35736344","consignmentDelivered":[],"eta":null,"stageName":null,"hub":null,"arrivalTime":null,"expectedActivityStartTime":null,"secondaryStatus":null,"consignmentPickUps":[],"tripPoint":{"remainingDistance":0,"isAutoCompleted":false,"coveredDistance":null,"purpose":"Delivery","isDisconnected":false},"place":{"name":"Welspun"},"status":"NEXT"}],"stageMapping":[{"consignmentPickUps":{"departureTime":null,"gateInTime":null,"actualActivityStartTime":null,"actualActivityEndTime":null,"uuid":"b0694ade-efa1-4e4d-8cfb-e3d65981667c","consignmentDelivered":[],"eta":null,"stageName":null,"hub":null,"arrivalTime":1689241482119,"expectedActivityStartTime":null,"secondaryStatus":"WaitingForGateIn","consignmentPickUps":[],"tripPoint":{"remainingDistance":null,"isAutoCompleted":false,"coveredDistance":null,"purpose":"Pickup","isDisconnected":false},"place":{"name":"Adani Port"},"status":"AT"},"consignmentDelivered":{"departureTime":null,"gateInTime":null,"actualActivityStartTime":null,"actualActivityEndTime":null,"uuid":"fcce5221-e4f8-4023-8441-881e35736344","consignmentDelivered":[],"eta":null,"stageName":null,"hub":null,"arrivalTime":null,"expectedActivityStartTime":null,"secondaryStatus":null,"consignmentPickUps":[],"tripPoint":{"remainingDistance":0,"isAutoCompleted":false,"coveredDistance":null,"purpose":"Delivery","isDisconnected":false},"place":{"name":"Welspun"},"status":"NEXT"}}]}
+sh-cn link {"data":null,"error":"Some server exception occured","status":400}
+error in linking sh cn Some server exception occured

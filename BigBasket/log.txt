@@ -1,0 +1,710 @@
+4
+Total Shipments for filter {"locationTrackingStatus.keyword":["DUE","OVERDUE"],"_shipmentStatus_":{"shipmentStatus":["Completed"],"completionTime":{"isTillExpression":false,"isFromExpression":false,"from":1677004200000,"till":1677067431406}},"__version":2} ------ 0
+Total Shipments for filter {"locationTrackingStatus.keyword":["DUE","OVERDUE"],"_shipmentTrackingStatus_":{"_or":{"_at_delivery_":{"shipmentTrackingStatus":["At Delivery Point"]}}},"__version":2} ------ 139
+3000272839
+{
+  shipmentId: '0cac3561-d8de-4e59-a223-0633b1ed55b3',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100218267
+{
+  shipmentId: 'a7239c4b-fd49-463b-b69e-b56cdcd4f1d7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801794
+{
+  shipmentId: 'fcfed414-9642-4c1d-95f4-f6cbe161e2fd',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801787
+{
+  shipmentId: 'f6906a00-44c1-4501-abcd-d9382ac83496',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272554
+{
+  shipmentId: '6c5cd384-51f9-4355-8746-f60dfe774da0',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801784
+{
+  shipmentId: '675a983f-ad63-47fa-9a3c-4efb3a2cb1b8',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272540
+{
+  shipmentId: '535a9a83-1c73-44b9-8369-7f842832e7b3',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272788
+{
+  shipmentId: '3c16abc4-5255-4904-b9e8-467d5f1232fe',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801783
+{
+  shipmentId: '303a61f3-984f-4e66-bd2c-62799e0047c0',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272535
+{
+  shipmentId: '1915da78-aa1c-4cf3-ad4c-aa4c8ff21ccf',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272309
+{
+  shipmentId: 'e9d138b2-ab79-4567-82b7-99b77c405c81',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272304
+{
+  shipmentId: '5f011679-4d5e-4806-b0c8-dfcfd5810ad5',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272369
+{
+  shipmentId: '496afc9b-f849-44bd-b2a4-cdc9e7a18927',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272130
+{
+  shipmentId: 'a762771f-7298-422a-99ca-389165f61eb2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+858451
+{
+  shipmentId: 'eed264ca-1695-4638-adb3-165b0016e91e',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272049
+{
+  shipmentId: 'c7893d87-9c1a-463f-a548-afabaebcd454',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272190
+{
+  shipmentId: 'a10bde13-e97d-47ed-a825-bb6073379c0f',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272192
+{
+  shipmentId: '7e21146c-f49b-4d7f-99ce-acb6dd5b406b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801771
+{
+  shipmentId: '6376c433-8f97-453b-aece-a47b6b297ad8',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000272058
+{
+  shipmentId: '46a2da77-9ba7-4fcc-97cf-de2ff9109060',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100216868
+{
+  shipmentId: '6dae3b63-09ca-4d6c-8643-39a82360f708',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100216787
+{
+  shipmentId: '22eba8a8-8c3b-4d06-be70-689af15c3035',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271836
+{
+  shipmentId: 'db1a0324-c1d2-45c9-b8d3-1e7b95d98338',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801768
+{
+  shipmentId: 'f918d20c-bb5f-475c-83aa-1013ede50a9d',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+JH02U8147
+{
+  shipmentId: '9e0b5b8e-1a00-4b37-b565-09695bba1979',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801765
+{
+  shipmentId: '78f63371-0b43-4fcb-9b80-f8617fd98886',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271981
+{
+  shipmentId: '6986915e-5123-4a3e-b7e5-7d18858c13a3',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801628
+{
+  shipmentId: '523cc626-b616-43c1-8677-919ab6184167',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100216247
+{
+  shipmentId: '9d5de099-1650-4940-a6e8-340a4097e531',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100216171
+{
+  shipmentId: '42cd9e7b-c53d-4567-989b-7d0b572e8440',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271682
+{
+  shipmentId: 'f54d6144-8c2e-476f-ae26-a6713365d029',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271670
+{
+  shipmentId: 'b72d84a0-07ee-4c18-8642-20b90cf759d2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271496
+{
+  shipmentId: '06eb9e78-8977-45fe-8e15-dcf5a5709f69',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215853
+{
+  shipmentId: 'f8d08abc-0767-4a1b-bee0-31219b26f5f7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215851
+{
+  shipmentId: '9236bf1f-1f05-496a-8893-929209afa8cd',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215852
+{
+  shipmentId: '18c895a4-a26f-45f9-b0b6-0155e4f5d7e2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+858101
+{
+  shipmentId: '9c293d0c-3ffb-44ec-a0f4-582a8d447790',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271084
+{
+  shipmentId: 'e026a7a7-629a-48a3-8ccf-f4da126342af',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271323
+{
+  shipmentId: 'c7d2e56a-5e20-4986-87b4-6220ed69cb10',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271083
+{
+  shipmentId: 'a2451d63-4bca-4fde-b842-515c709680fe',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271089
+{
+  shipmentId: '81ed9d4f-edd2-4716-8d1d-2b308e3e1855',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271176
+{
+  shipmentId: '433d088a-360a-4f64-acc6-0c1f217880b2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271320
+{
+  shipmentId: '335bc0ec-3907-43a3-9f60-9335fae4c791',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271087
+{
+  shipmentId: '065a8238-4b52-4f6f-b10b-6d28e67e1c53',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215205
+{
+  shipmentId: '28c85e22-ec68-4a65-bfde-4a3a5044e28e',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215204
+{
+  shipmentId: 'ac0a3783-e460-4fa6-b276-e2d050c80841',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215189
+{
+  shipmentId: 'ae18b2bc-0a86-40c5-b5d5-ccc33e12aa34',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100215140
+{
+  shipmentId: '8864a783-a4ce-4452-8e94-180a2a498007',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801759
+{
+  shipmentId: 'e741af4a-d8a1-4dbe-9dc0-a3330d461aaa',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271038
+{
+  shipmentId: 'd88038a8-7c5a-4ffc-b614-b5bfd58e9aaf',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801636
+{
+  shipmentId: 'b79c63c7-2ec5-41a2-b2a3-ab939e21633d',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270901
+{
+  shipmentId: 'b55f7138-1c75-4867-9576-090191114384',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271024
+{
+  shipmentId: 'ae19dac5-a4ec-42ad-a70f-863f1f528be1',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270970
+{
+  shipmentId: '96f49e61-a540-447a-b903-0685488d31a2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270874
+{
+  shipmentId: '7e63e230-378b-4594-a394-22248ff1b715',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270888
+{
+  shipmentId: '38a9471b-b74a-47d1-bdac-56bba53d6349',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271064
+{
+  shipmentId: '319969cd-7e79-41ea-be78-a9fd04583862',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270904
+{
+  shipmentId: '2b8aeb18-2d91-4745-bc3e-d4ec48ebd820',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222400164
+{
+  shipmentId: '22269f86-babd-4d52-966f-ccc76fd70ac0',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000271090
+{
+  shipmentId: '1a321c3b-7dfb-4794-a5ce-76ffd0b1771d',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100214617
+{
+  shipmentId: '27b8788b-d1c5-499d-b03b-47a2a1369a37',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100214569
+{
+  shipmentId: 'f694f26e-6d63-40fd-a02c-a9ce4e5f09aa',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100214507
+{
+  shipmentId: 'e02fd851-f344-4948-a2b2-be9845568193',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270726
+{
+  shipmentId: 'dcc35911-3204-412f-b35f-3c8d257725fb',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270624
+{
+  shipmentId: '9792b9d7-e3cf-45ed-905a-bd2854ba1d54',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270709
+{
+  shipmentId: '9098d914-2857-4f28-8220-139ace988f12',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213922
+{
+  shipmentId: 'a70d1b6d-f16b-4317-8ecc-e752da7b47b5',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213711
+{
+  shipmentId: 'a562367f-12b1-49c0-9c50-6549a28ae2b7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270398
+{
+  shipmentId: 'd71ee1a5-4e9e-45d6-9b2a-b0cd654f5365',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270499
+{
+  shipmentId: 'b5483d46-3404-4b3c-9e8f-321b184fd8ee',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270407
+{
+  shipmentId: '8887189c-3501-4243-a501-fba260c4ac23',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270323
+{
+  shipmentId: '0e3a60bf-8238-4b4d-a13f-64e95e446378',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213403
+{
+  shipmentId: '361fb9c0-adcf-4317-9c41-4d95499d565c',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213392
+{
+  shipmentId: '11ca4b69-3de1-4a63-bda0-2d9d45781c1a',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213391
+{
+  shipmentId: '4fd9389b-ed9e-4ea3-b9b9-6522682f2ab5',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100213326
+{
+  shipmentId: '342378a1-05bc-4209-8ebb-e7084ccb00e5',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+RJ19GE3995
+{
+  shipmentId: 'cbe2fd9c-0162-4c97-b561-0217b9cf5173',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270293
+{
+  shipmentId: '7d5d8be1-40b4-4c5c-b63d-59a960b82746',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270243
+{
+  shipmentId: '6bc72113-1598-4948-8e00-ecf8acf1d3bb',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270242
+{
+  shipmentId: '5525ad43-e480-49b9-88b3-4a95fd1b77ea',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270064
+{
+  shipmentId: '3b5a8e8f-9de2-4048-8065-65f6625ba8ac',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270297
+{
+  shipmentId: '27a5545a-dada-43b4-bf20-4eaf5b066a48',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000270295
+{
+  shipmentId: '1d38fdb5-9142-418a-996f-747b7344d218',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212840
+{
+  shipmentId: '0a0a1987-8442-4051-a530-932a5de7bf63',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212835
+{
+  shipmentId: '4e74735f-02ab-48fd-af89-69b23222bc3b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212825
+{
+  shipmentId: '2e8efcd8-68ad-4469-b794-40d33d002935',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212821
+{
+  shipmentId: '85ce87b6-dec7-44c6-bc76-ad83203eaaf4',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212791
+{
+  shipmentId: 'c5fddfcd-e5db-4ceb-89da-b19f85cebea2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212787
+{
+  shipmentId: '810f664d-aed1-4ada-b6da-203138fbd65f',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212786
+{
+  shipmentId: '18ad43e9-c0d3-46c6-87d5-6bd4e6351736',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212783
+{
+  shipmentId: 'ce2bfe78-c7e1-46e6-ada5-3f3441ad6c54',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212780
+{
+  shipmentId: '801aec3b-1c42-4ae9-b31a-c985c4ccba13',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212776
+{
+  shipmentId: 'dc6cabd0-6c21-44a3-9a7a-31d677d16755',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212687
+{
+  shipmentId: 'a3255e9a-3547-4375-b70f-10ccd5113022',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801653
+{
+  shipmentId: 'fec13ff0-1548-4950-9f65-c97b4f73b399',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801570
+{
+  shipmentId: 'f7d245c9-6a08-45ef-8c7d-14d21263b117',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801668
+{
+  shipmentId: 'ed2526c2-e47a-49d1-a549-96c29bc99ac7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+3000269967
+{
+  shipmentId: 'e0f6582a-7180-43e1-8079-9cb86b95c13d',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801670
+{
+  shipmentId: 'c3ec116b-5ac0-47b1-8273-86101993436f',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801638
+{
+  shipmentId: '4cb2582f-54c5-42bf-8cb6-b293763606fc',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+1222801708
+{
+  shipmentId: '455a9deb-9afc-454a-9dfd-3e3818528863',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+GJ06BT2478
+{
+  shipmentId: '01140efe-b739-4fd1-8e69-c6a8f73a95bf',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212355
+{
+  shipmentId: '7a20a7f0-7996-4ade-967a-8c6febe40253',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212331
+{
+  shipmentId: '2eba325e-7114-4f91-a973-4680075bdbd7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212323
+{
+  shipmentId: '7f53ff79-65b4-4343-8f9d-d48288e8a4a7',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100212322
+{
+  shipmentId: 'dd708b88-6c94-44f1-b3a7-bef6c7b4540a',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211961
+{
+  shipmentId: '709b5a61-4eff-4ace-bd6d-d8ab43bdcf6b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211957
+{
+  shipmentId: 'd0eb4edf-1d11-40f0-9831-867dd46b1628',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211954
+{
+  shipmentId: '94b285ab-c16f-49fc-9ef2-0b12f2b9c55d',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211935
+{
+  shipmentId: '675d90ab-82e4-47e4-a1fa-893ba6088a70',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211931
+{
+  shipmentId: 'ce05af61-e2a3-44d8-bc34-c3b248cfe4e0',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211923
+{
+  shipmentId: '6597d2ee-8bf1-4f13-817d-e1607bc64a55',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211553
+{
+  shipmentId: 'd806c62e-ea50-4799-ba53-c05bffcad0d4',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211552
+{
+  shipmentId: '96b18ec0-cf18-4ab1-9256-eb5388831b69',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211548
+{
+  shipmentId: 'feefbd7a-a670-4acd-8c6e-4b6b45ff6ebe',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211550
+{
+  shipmentId: '0e79c042-4033-4a01-9126-0c4039491251',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211546
+{
+  shipmentId: '7508e790-1299-4072-8020-8d1c68687d66',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211489
+{
+  shipmentId: '1fc562a9-177c-4a57-8566-d9480e479d57',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211445
+{
+  shipmentId: 'b065279f-e245-421a-83e3-669f9a33c751',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100211417
+{
+  shipmentId: 'f87baf93-2aea-42f9-946d-8e970234e0b1',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100210920
+{
+  shipmentId: '50778360-02e2-4dfe-8e60-90aba11a2067',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100209397
+{
+  shipmentId: 'eb44e4b7-538d-440b-9a2e-aab9ff1c6723',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100209389
+{
+  shipmentId: '5853609e-b27a-41e0-9812-f05d5bc87f71',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208871
+{
+  shipmentId: 'f11bf24b-3b81-4122-b198-ac09c2255bab',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208858
+{
+  shipmentId: '7bd46061-36cf-4e54-8ba5-1a38d2d08d0c',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208736
+{
+  shipmentId: 'a6f7fb24-3f35-4961-8206-4152009df82b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208565
+{
+  shipmentId: '5c51c848-a918-449a-9549-bd8baacad437',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208119
+{
+  shipmentId: '58da2a38-62c3-4e30-9360-37bbc2d874d6',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100208084
+{
+  shipmentId: 'e879fcf1-d8d1-42a5-8f2d-373bdd56ffc9',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207965
+{
+  shipmentId: '45b70643-0e70-4974-b419-69e8cce75456',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207914
+{
+  shipmentId: 'eb30c66d-5b40-4560-a317-ae7a7685dae2',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207320
+{
+  shipmentId: 'c63f5385-ab89-4bd3-83b3-b62a3afe7a6a',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207321
+{
+  shipmentId: '9d803ca0-312b-4f2e-a839-9b51f315b735',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207317
+{
+  shipmentId: '0bd99dbb-ebec-4718-93b6-ddb1ca8aa31b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207246
+{
+  shipmentId: 'f71c840e-7ad9-4013-82b6-ac97952de971',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100207244
+{
+  shipmentId: '2f38da51-a611-45b6-9b36-43d9e4aa4eb6',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100206546
+{
+  shipmentId: 'b1708d92-e18b-4f47-a654-673d45d10c3e',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100206530
+{
+  shipmentId: 'fd7be24a-566f-4f6b-8782-5a73a6ab5d0a',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100205927
+{
+  shipmentId: '9badf27b-4348-421d-ba64-d379243e6e9b',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+Total Shipments for filter {"delayTrackingStatus.keyword":["DUE","OVERDUE"],"_shipmentTrackingStatus_":{"_or":{"_at_delivery_":{"shipmentTrackingStatus":["At Delivery Point"]}}},"__version":2} ------ 2
+00000000006100217477
+{
+  shipmentId: '0c559ed1-7129-45de-9163-4b64d78bc796',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+00000000006100217418
+{
+  shipmentId: '5d6ba775-41a0-43f6-bb77-7da98b0b79ce',
+  updates: [ { keyToUpdate: 'nullyfyDelayTrackingPolicy' } ]
+}
+Total Shipments for filter {"delayTrackingStatus.keyword":["DUE","OVERDUE"],"_shipmentStatus_":{"shipmentStatus":["Completed"],"completionTime":{"isTillExpression":false,"isFromExpression":false,"from":1677004200000,"till":1677067431406}},"__version":2} ------ 0

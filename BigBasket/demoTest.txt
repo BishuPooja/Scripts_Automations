@@ -1,0 +1,2 @@
+Total shipment EFD and IsfinalizationDone NO  ->58
+filteredData length 58

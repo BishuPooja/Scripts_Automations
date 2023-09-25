@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        table,
+        td,
+        th,
+        tr {
+            border: 1.5px solid #000000;
+            border-collapse: collapse;
+            padding: auto;
+            margin: 10px;
+        }
+
+        th {
+            font-weight: bold;
+            background-color: rgb(10, 226, 10);
+        }
+    </style>
+
+
+
+</head>
+
+<body>
+    <p>Dear Team,</p><br>
+    <table>
+        <tr>
+            <th>Order Date</th>
+            <th>Order Number</th>
+            <th>Invoice Number</th>
+            <th>Consignee</th>
+            <th>Dispatch From Location</th>
+            <th>Dispatch To Town</th>
+            <th>State</th>
+            <th>Vehicle Number</th>
+            <th>TPT Name</th>
+            <th>Eway Bill No.</th>
+            <th>Eway Bill Expiry Date</th>
+        </tr>
+
+        <tr>
+            <td>${orderDate??"N/A"}</td>
+            <td>${orderNo??"N/A"}</td>
+            <td>${invoice??"N/A"}</td>
+            <td>${consignee??"N/A"}</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+
+</body>
+
+</html>

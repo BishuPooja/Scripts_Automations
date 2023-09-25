@@ -1,0 +1,11 @@
+3275
+shipment Number FRETSH000025195
+URL : https://apis.fretron.com/itinerary/admin/calculateDistance?originLat=23.633114&originLng=85.322884&destinationLat=23.369911&destinationLng=85.427761
+CalKm by shipment Stage status : 200
+Total timelines 7 : imei 355172104827223 : from 1681330835000 : till 1681348823000
+timelineDistance: 59.5
+calculatedDistance: 54.51
+Add cf Actual Distance : 200
+Add cf Distance by GPS : 200
+Add cf Extra KM Travelled : 200
+total count 1 

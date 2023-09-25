@@ -1,0 +1,2789 @@
+360
+Executing for 2705865
+place api call null
+place api call null
+place api call null
+place master map found  
+OK Case  2705865
+Executing for FRETSH001000000606
+place master map found  
+OK Case  FRETSH001000000606
+Executing for 2701259
+place master map found  
+place api call null
+place master map found  
+OK Case  2701259
+Executing for 2701273
+place master map found  
+place api call null
+place master map found  
+OK Case  2701273
+Executing for FRETSH001000000605
+place master map found  
+OK Case  FRETSH001000000605
+Executing for FRETSH001000000604
+place master map found  
+OK Case  FRETSH001000000604
+Executing for FRETSH001000000603
+place master map found  
+OK Case  FRETSH001000000603
+Executing for FRETSH001000000602
+place master map found  
+OK Case  FRETSH001000000602
+Executing for FRETSH001000000600
+place master map found  
+OK Case  FRETSH001000000600
+Executing for 2701257
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701257
+Executing for 2701255
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701255
+Executing for 2701271
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701271
+Executing for 2701269
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701269
+Executing for 2701253
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701253
+Executing for FRETSH001000000596
+place master map found  
+OK Case  FRETSH001000000596
+Executing for 2701251
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701251
+Executing for 2701265
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701265
+Executing for 2705329
+place master map found  
+place api call null
+place api call null
+place api call null
+place api call null
+place api call null
+place master map found  
+OK Case  2705329
+Executing for 2701347
+place master map found  
+place api call null
+place master map found  
+OK Case  2701347
+Executing for 2701377
+place master map found  
+OK Case  2701377
+Executing for 2705263
+place master map found  
+place api call null
+place master map found  
+OK Case  2705263
+Executing for 2701333
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701333
+Executing for 2701341
+place master map found  
+place api call null
+place master map found  
+place master map found  
+OK Case  2701341
+Executing for FRETSH001000000592
+place master map found  
+OK Case  FRETSH001000000592
+Executing for 2701327
+place master map found  
+place api call null
+place api call null
+place master map found  
+OK Case  2701327
+Executing for 2705077
+place master map found  
+place api call null
+place api call null
+place master map found  
+OK Case  2705077
+Executing for 2704807
+place master map found  
+place api call null
+place master map found  
+OK Case  2704807
+Executing for 2703179
+place master map found  
+place master map found  
+place master map found  
+OK Case  2703179
+Executing for 2702327
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2702327
+Executing for 2702291
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2702291
+Executing for 2702279
+place master map found  
+place master map found  
+place master map found  
+OK Case  2702279
+Executing for 2702313
+place master map found  
+place api call null
+place master map found  
+OK Case  2702313
+Executing for FRETSH001000000578
+place master map found  
+OK Case  FRETSH001000000578
+Executing for 2701017
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701017
+Executing for 2701005
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701005
+Executing for 2701003
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701003
+Executing for 2702301
+place master map found  
+place master map found  
+place master map found  
+OK Case  2702301
+Executing for 2701015
+place master map found  
+place master map found  
+place master map found  
+OK Case  2701015
+Executing for 2700813
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700813
+Executing for 2700755
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700755
+Executing for 2700913
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700913
+Executing for 2700915
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700915
+Executing for 2700639
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700639
+Executing for 2700969
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700969
+Executing for 2700799
+place master map found  
+place api call null
+place master map found  
+OK Case  2700799
+Executing for 2699499
+place master map found  
+place api call null
+place master map found  
+OK Case  2699499
+Executing for FRETSH001000000559
+place master map found  
+OK Case  FRETSH001000000559
+Executing for 2700955
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700955
+Executing for 2700835
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700835
+Executing for 2700917
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700917
+Executing for 2699379
+place master map found  
+place api call null
+place master map found  
+OK Case  2699379
+Executing for 2699369
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699369
+Executing for 2700735
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700735
+Executing for 2699377
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699377
+Executing for 2699381
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699381
+Executing for 2700735
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700735
+Executing for 2699347
+place master map found  
+place api call null
+place api call null
+place master map found  
+OK Case  2699347
+Executing for 2699305
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699305
+Executing for 2699437
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699437
+Executing for 2699375
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699375
+Executing for 2699275
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699275
+Executing for 2699227
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699227
+Executing for 2699241
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699241
+Executing for 2699405
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699405
+Executing for 2699457
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699457
+Executing for 2699185
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699185
+Executing for 2699201
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699201
+Executing for 2698937
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698937
+Executing for 2698839
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698839
+Executing for 2699129
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699129
+Executing for 2699093
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699093
+Executing for 2699197
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699197
+Executing for 2699123
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699123
+Executing for 2699195
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699195
+Executing for 2699143
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699143
+Executing for 2699133
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699133
+Executing for 2699255
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699255
+Executing for 2699063
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699063
+Executing for 2698399
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698399
+Executing for 2698305
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698305
+Executing for 2698269
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698269
+Executing for 2698401
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698401
+Executing for 2698397
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698397
+Executing for 2698299
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698299
+Executing for 2698199
+place master map found  
+place master map found  
+place master map found  
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call null
+placeId different in shipment 2698199
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call null
+placeId different in shipment 2698199
+place master map found  
+place api call null
+place master map found  
+shipmentStage update case 
+shipment put status 200
+Executing for 2698297
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698297
+Executing for 2698841
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698841
+Executing for 2698239
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698239
+Executing for 2698237
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698237
+Executing for 2698631
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698631
+Executing for 2698673
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698673
+Executing for 2698629
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698629
+Executing for 2698995
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698995
+Executing for 2698647
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698647
+Executing for 2698139
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698139
+Executing for 2698091
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698091
+Executing for 2698037
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698037
+Executing for 2699193
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2699193
+Executing for 2698873
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698873
+Executing for 2697999
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697999
+Executing for 2697375
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697375
+Executing for 2698173
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698173
+Executing for 2697345
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697345
+Executing for 2697057
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697057
+Executing for 2697355
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697355
+Executing for 2696921
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696921
+Executing for 2697083
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697083
+Executing for 2696909
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696909
+Executing for 2696883
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696883
+Executing for 2696881
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696881
+Executing for 2696737
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696737
+Executing for 2696871
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696871
+Executing for 2696639
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696639
+Executing for 2696643
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696643
+Executing for 2698143
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698143
+Executing for 2696641
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696641
+Executing for 2696685
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696685
+Executing for 2696591
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696591
+Executing for 2696543
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696543
+Executing for 2700733
+place master map found  
+place master map found  
+place master map found  
+OK Case  2700733
+Executing for 2696577
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696577
+Executing for 2696479
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696479
+Executing for 2697243
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697243
+Executing for 2697245
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697245
+Executing for 2696755
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696755
+Executing for 2697347
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697347
+Executing for 2697269
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697269
+Executing for 2697247
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697247
+Executing for 2697253
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697253
+Executing for 2698027
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2698027
+Executing for 2697053
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697053
+Executing for 2696409
+place master map found  
+different category Loading Point for shipment 2696409 stage 0
+Noida DC stage Index 0 stageId 78c8eb49-21c2-4e85-93fe-fc227dba0fb3
+place master map found  
+place master map found  
+different category Loading Point for shipment 2696409 stage 2
+Noida DC stage Index 2 stageId 4d2a8fba-f399-42e6-b79a-90ed4c290cb2
+shipmentStage update case 
+shipment put status 200
+Executing for 2699023
+place master map found  
+different category Loading Point for shipment 2699023 stage 0
+Noida DC stage Index 0 stageId 0254b6c2-4c5e-4200-ba71-431092f842f2
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+different category Loading Point for shipment 2699023 stage 7
+Noida DC stage Index 7 stageId 7df612e8-3f65-4885-a4b3-f0399f2cea48
+shipmentStage update case 
+shipment put status 200
+Executing for 2697201
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2697201
+Executing for 2696463
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696463
+Executing for 2696733
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696733
+Executing for 2696275
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696275
+Executing for 2696699
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696699
+Executing for 2696697
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696697
+Executing for 2696005
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696005
+Executing for 2696021
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696021
+Executing for FRETSH001000000275
+place api call null
+place api call null
+place api call null
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000275
+Executing for 2696725
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696725
+Executing for 2696003
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696003
+Executing for 2683953
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683953
+Executing for 2683927
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683927
+Executing for 2696465
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696465
+Executing for 2696289
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696289
+Executing for 2683567
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683567
+Executing for 2696899
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696899
+Executing for 2683951
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683951
+Executing for 2679557
+place master map found  
+place api call null
+OK Case  2679557
+Executing for 2679599
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679599
+Executing for 2696505
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696505
+Executing for 2683885
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683885
+Executing for 2679319
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679319
+Executing for FRETSH001000000446
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000446
+Executing for 2679485
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679485
+Executing for 2679525
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679525
+Executing for 2679519
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679519
+Executing for 2679565
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679565
+Executing for 2679319
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679319
+Executing for 2683955
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683955
+Executing for 2679345
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679345
+Executing for 2679361
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679361
+Executing for 2679373
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679373
+Executing for 2679357
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679357
+Executing for 2679371
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679371
+Executing for 2696623
+place master map found  
+place api call place not found.
+Error getting place Master place not found.
+place api call 0
+place api call place not found.
+Error getting place Master place not found.
+OK Case  2696623
+Executing for 2679481
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679481
+Executing for 2679317
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679317
+Executing for 2696561
+place master map found  
+place master map found  
+place master map found  
+OK Case  2696561
+Executing for 2679319
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679319
+Executing for 2679359
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679359
+Executing for 2679547
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679547
+Executing for 2678847
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678847
+Executing for 2678849
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678849
+Executing for 2678653
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678653
+Executing for 2678643
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678643
+Executing for FRETSH001000000277
+place master map found  
+place api call null
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000277
+Executing for 2678697
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678697
+Executing for 2678679
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678679
+Executing for 2678869
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678869
+Executing for 2678733
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678733
+Executing for 2678647
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678647
+Executing for 2678259
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678259
+Executing for 2678247
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678247
+Executing for 2678261
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678261
+Executing for 2678411
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678411
+Executing for 2678249
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678249
+Executing for 2678361
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678361
+Executing for 2674569
+place master map found  
+place master map found  
+place master map found  
+OK Case  2674569
+Executing for 2674565
+place master map found  
+place master map found  
+place master map found  
+OK Case  2674565
+Executing for 2677287
+place master map found  
+place master map found  
+place master map found  
+OK Case  2677287
+Executing for 2674589
+place master map found  
+place master map found  
+place master map found  
+OK Case  2674589
+Executing for 2677293
+place master map found  
+place master map found  
+place master map found  
+OK Case  2677293
+Executing for 2674567
+place master map found  
+place master map found  
+place master map found  
+OK Case  2674567
+Executing for 2679493
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679493
+Executing for 2683931
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2683931
+Executing for 2678739
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678739
+Executing for 2671109
+place master map found  
+place master map found  
+OK Case  2671109
+Executing for 2671099
+place master map found  
+place master map found  
+place master map found  
+OK Case  2671099
+Executing for 2671073
+place master map found  
+place master map found  
+place master map found  
+OK Case  2671073
+Executing for 2667839
+place master map found  
+place master map found  
+place master map found  
+OK Case  2667839
+Executing for 2671045
+place master map found  
+place master map found  
+place master map found  
+OK Case  2671045
+Executing for 2667841
+place master map found  
+place master map found  
+place master map found  
+OK Case  2667841
+Executing for 2668107
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2668107
+Executing for 2667899
+place master map found  
+place master map found  
+place master map found  
+OK Case  2667899
+Executing for 2668533
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2668533
+Executing for 2678409
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678409
+Executing for 2663839
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663839
+Executing for 2663947
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663947
+Executing for 2663799
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663799
+Executing for 2663769
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663769
+Executing for 2663829
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663829
+Executing for 2663949
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663949
+Executing for 2663951
+place master map found  
+place master map found  
+place master map found  
+OK Case  2663951
+Executing for 2678695
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2678695
+Executing for 2662891
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662891
+Executing for 2662923
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662923
+Executing for 2662933
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662933
+Executing for 2662979
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662979
+Executing for 2662837
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662837
+Executing for 2662973
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662973
+Executing for 2662947
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662947
+Executing for 2662299
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662299
+Executing for 2662301
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662301
+Executing for 2662297
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662297
+Executing for 2662107
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662107
+Executing for 2662103
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662103
+Executing for 2662111
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662111
+Executing for 2662013
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662013
+Executing for 2662007
+place master map found  
+place master map found  
+place master map found  
+OK Case  2662007
+Executing for 2661995
+place master map found  
+place master map found  
+place master map found  
+OK Case  2661995
+Executing for 2661511
+place master map found  
+place master map found  
+place master map found  
+OK Case  2661511
+Executing for 2659381
+place master map found  
+place master map found  
+place master map found  
+OK Case  2659381
+Executing for 2657969
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657969
+Executing for 2658439
+place master map found  
+place master map found  
+place master map found  
+OK Case  2658439
+Executing for 2659383
+place master map found  
+place master map found  
+place master map found  
+OK Case  2659383
+Executing for 2658435
+place master map found  
+place master map found  
+place master map found  
+OK Case  2658435
+Executing for 2659621
+place master map found  
+place master map found  
+place master map found  
+OK Case  2659621
+Executing for 2657849
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657849
+Executing for 2658437
+place master map found  
+place master map found  
+place master map found  
+OK Case  2658437
+Executing for 2661477
+place master map found  
+place master map found  
+place master map found  
+OK Case  2661477
+Executing for 2657845
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657845
+Executing for 2659619
+place master map found  
+place master map found  
+place master map found  
+OK Case  2659619
+Executing for 2661519222
+place master map found  
+place master map found  
+place master map found  
+OK Case  2661519222
+Executing for 2657861
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657861
+Executing for 2658417
+place master map found  
+place master map found  
+place master map found  
+OK Case  2658417
+Executing for 2661459
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2661459
+Executing for FRETSH001000000333
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000333
+Executing for 2657463
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657463
+Executing for 2657465
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657465
+Executing for 2657507
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657507
+Executing for 2657441
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657441
+Executing for 2657479
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657479
+Executing for 2657513
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657513
+Executing for 2657509
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657509
+Executing for 2657833
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657833
+Executing for 2657749
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657749
+Executing for 2657797
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2657797
+Executing for 2654316
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654316
+Executing for 2654473
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654473
+Executing for 2654229
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654229
+Executing for 2654239
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654239
+Executing for 2654317
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654317
+Executing for 2652973
+place master map found  
+place master map found  
+place master map found  
+OK Case  2652973
+Executing for FRETSH001000000317
+place master map found  
+place api call null
+OK Case  FRETSH001000000317
+Executing for 2679245
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2679245
+Executing for FRETSH001000000315
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000315
+Executing for FRETSH001000000314
+place api call null
+place api call null
+place master map found  
+OK Case  FRETSH001000000314
+Executing for 2650081
+place master map found  
+place master map found  
+place master map found  
+OK Case  2650081
+Executing for 2650043
+place master map found  
+place master map found  
+place master map found  
+OK Case  2650043
+Executing for 2650049
+place master map found  
+place master map found  
+place master map found  
+OK Case  2650049
+Executing for 2650023
+place master map found  
+place master map found  
+place master map found  
+OK Case  2650023
+Executing for FRETSH001000000306
+place master map found  
+place master map found  
+OK Case  FRETSH001000000306
+Executing for 2650073
+place master map found  
+place master map found  
+place master map found  
+OK Case  2650073
+Executing for 2632287
+place master map found  
+place master map found  
+place master map found  
+OK Case  2632287
+Executing for 2632247
+place master map found  
+place master map found  
+place master map found  
+OK Case  2632247
+Executing for 2632273
+place master map found  
+place master map found  
+place master map found  
+OK Case  2632273
+Executing for 2632283
+place master map found  
+place master map found  
+place master map found  
+OK Case  2632283
+Executing for 2629393
+place master map found  
+place master map found  
+place master map found  
+OK Case  2629393
+Executing for FRETSH001000000288
+place master map found  
+place master map found  
+OK Case  FRETSH001000000288
+Executing for 2626913
+place master map found  
+place master map found  
+place master map found  
+OK Case  2626913
+Executing for 2623157
+place master map found  
+place master map found  
+place master map found  
+OK Case  2623157
+Executing for 2623177
+place master map found  
+place master map found  
+place master map found  
+OK Case  2623177
+Executing for 2623179
+place master map found  
+place master map found  
+place master map found  
+OK Case  2623179
+Executing for 2623191
+place master map found  
+place master map found  
+place master map found  
+OK Case  2623191
+Executing for 2623193
+place master map found  
+place master map found  
+place master map found  
+OK Case  2623193
+Executing for 2654315
+place master map found  
+place master map found  
+place master map found  
+OK Case  2654315
+Executing for FRETSH001000000286
+place master map found  
+place master map found  
+OK Case  FRETSH001000000286
+Executing for FRETSH001000000276
+place api call null
+different category Pick up - Delivery Area for shipment FRETSH001000000276 stage 0
+Big Basket-CC stage Index 0 stageId ad63c150-8376-45c8-bab6-1b917813c1f1
+place master map found  
+shipmentStage update case 
+shipment put status 200
+Executing for FRETSH001000000274
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000274
+Executing for FRETSH001000000273
+place master map found  
+place master map found  
+place api call null
+place master map found  
+OK Case  FRETSH001000000273
+Executing for 2620457
+place master map found  
+place master map found  
+place master map found  
+OK Case  2620457
+Executing for 2617499
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617499
+Executing for 2622127
+place master map found  
+place master map found  
+place master map found  
+OK Case  2622127
+Executing for 2617581
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617581
+Executing for 2622125
+place master map found  
+place master map found  
+place master map found  
+OK Case  2622125
+Executing for 2621833
+place master map found  
+place master map found  
+place master map found  
+OK Case  2621833
+Executing for 2617539
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617539
+Executing for 2621907
+place master map found  
+place master map found  
+place master map found  
+OK Case  2621907
+Executing for 2617345
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617345
+Executing for 2617527
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617527
+Executing for 2621893
+place master map found  
+place master map found  
+place master map found  
+OK Case  2621893
+Executing for 2621917
+place master map found  
+place master map found  
+place master map found  
+OK Case  2621917
+Executing for 2617535
+place master map found  
+place master map found  
+place master map found  
+OK Case  2617535
+Executing for FRETSH001000000252
+place master map found  
+different category Pick up - Delivery Area for shipment FRETSH001000000252 stage 0
+Big Basket-CC stage Index 0 stageId fec9d6fe-6ec6-4ef6-985f-48247914eb72
+place master map found  
+shipmentStage update case 
+shipment put status 200
+Executing for 2612875
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612875
+Executing for FRETSH001000000249
+place master map found  
+place master map found  
+place master map found  
+OK Case  FRETSH001000000249
+Executing for 2612631
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612631
+Executing for 2612629
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612629
+Executing for 2612571
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612571
+Executing for 2612559
+place master map found  
+place master map found  
+OK Case  2612559
+Executing for 2612639
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612639
+Executing for 2612463
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612463
+Executing for 2611603
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611603
+Executing for 2611649
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611649
+Executing for 2611629
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611629
+Executing for 2611429
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611429
+Executing for 2611387
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611387
+Executing for 2612561
+place master map found  
+place master map found  
+place master map found  
+OK Case  2612561
+Executing for 2611399
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611399
+Executing for 2611295
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611295
+Executing for 2610059
+place master map found  
+place master map found  
+place master map found  
+OK Case  2610059
+Executing for 2610063
+place master map found  
+place master map found  
+place master map found  
+OK Case  2610063
+Executing for 2611307
+place master map found  
+place master map found  
+place master map found  
+OK Case  2611307
+Executing for 2609769
+place master map found  
+place master map found  
+place master map found  
+OK Case  2609769
+Executing for 2609757
+place master map found  
+place master map found  
+place master map found  
+OK Case  2609757
+Executing for 2609753
+place master map found  
+different category Loading Point for shipment 2609753 stage 0
+Noida DC stage Index 0 stageId b752bd53-c4d4-45e3-83ab-5a21485dcb18
+place master map found  
+place master map found  
+different category Loading Point for shipment 2609753 stage 2
+Noida DC stage Index 2 stageId 10c342c1-c7bf-44c4-9999-ae1c18ee7744
+shipmentStage update case 
+shipment put status 200
+Executing for 2609927
+place master map found  
+different category Loading Point for shipment 2609927 stage 0
+Noida DC stage Index 0 stageId af9b249b-6ccf-4e15-856d-466b62dc0109
+place master map found  
+place master map found  
+different category Loading Point for shipment 2609927 stage 2
+Noida DC stage Index 2 stageId d422e984-a61b-435c-b86a-8f34a6a7ec40
+shipmentStage update case 
+shipment put status 200
+Executing for FRETSH001000000204
+place master map found  
+OK Case  FRETSH001000000204
+Executing for 2609923
+place master map found  
+place master map found  
+place master map found  
+OK Case  2609923
+Executing for 2605987
+place master map found  
+place master map found  
+place master map found  
+OK Case  2605987
+Executing for 2610061
+place master map found  
+different category Loading Point for shipment 2610061 stage 0
+Noida DC stage Index 0 stageId d7bd82ee-1200-4786-be49-660a0ab83277
+place master map found  
+place master map found  
+different category Loading Point for shipment 2610061 stage 2
+Noida DC stage Index 2 stageId 60b8916f-cd7e-4d57-a353-eb0389c129f6
+shipmentStage update case 
+shipment put status 200
+Executing for FRETSH001000000198
+place master map found  
+place master map found  
+OK Case  FRETSH001000000198
+Executing for 2602217
+place master map found  
+place master map found  
+place master map found  
+OK Case  2602217
+Executing for 2609925
+place master map found  
+different category Loading Point for shipment 2609925 stage 0
+Noida DC stage Index 0 stageId 342e4b0f-df15-4f1f-8012-66383f356c8f
+place master map found  
+place master map found  
+different category Loading Point for shipment 2609925 stage 2
+Noida DC stage Index 2 stageId 40ac2f22-db89-4d03-ba8e-fb11da2e85bb
+shipmentStage update case 
+shipment put status 200
+Executing for 2606019
+place master map found  
+different category Loading Point for shipment 2606019 stage 0
+Noida DC stage Index 0 stageId 5b422273-e6e9-4d47-82e1-332dcf4cb73d
+place master map found  
+place master map found  
+different category Loading Point for shipment 2606019 stage 2
+Noida DC stage Index 2 stageId 608f7ea8-973f-4542-aa49-4230b2e851bd
+shipmentStage update case 
+shipment put status 200
+Executing for 2602201
+place master map found  
+different category Loading Point for shipment 2602201 stage 0
+Noida DC stage Index 0 stageId f6fc0b7e-eae6-40eb-a0ff-c0696bec2178
+place master map found  
+place master map found  
+different category Loading Point for shipment 2602201 stage 2
+Noida DC stage Index 2 stageId d1718101-d4f4-44c0-b0e2-e8e92854960a
+shipmentStage update case 
+shipment put status 200
+Executing for 2601061
+place master map found  
+different category Loading Point for shipment 2601061 stage 0
+Noida DC stage Index 0 stageId 6594db68-eb9b-4f8f-aee4-a6f1125a73f3
+place master map found  
+place master map found  
+different category Loading Point for shipment 2601061 stage 2
+Noida DC stage Index 2 stageId 24069063-b428-4455-bb40-338e568ee050
+shipmentStage update case 
+shipment put status 200
+Executing for 2602219
+place master map found  
+place master map found  
+place master map found  
+OK Case  2602219
+Executing for 2606013
+place master map found  
+different category Loading Point for shipment 2606013 stage 0
+Noida DC stage Index 0 stageId 7cb0e66b-c739-4260-97f6-a68d79388d4a
+place master map found  
+place master map found  
+different category Loading Point for shipment 2606013 stage 2
+Noida DC stage Index 2 stageId 04a9054f-1552-4a93-bc95-68a19d422670
+shipmentStage update case 
+shipment put status 200
+Executing for 2600769
+place master map found  
+place master map found  
+place master map found  
+place master map found  
+OK Case  2600769
+Executing for 2601037
+place master map found  
+place master map found  
+place master map found  
+OK Case  2601037
+Executing for 2602189
+place master map found  
+place master map found  
+place master map found  
+OK Case  2602189
+Executing for 2600799
+place master map found  
+different category Loading Point for shipment 2600799 stage 0
+Noida DC stage Index 0 stageId 85932e8a-0ddb-45a0-bb19-c6273a328f74
+place master map found  
+place master map found  
+different category Loading Point for shipment 2600799 stage 2
+Noida DC stage Index 2 stageId 03c2811b-b09f-4a29-8cd6-0cbea04a1a00
+shipmentStage update case 
+shipment put status 200
+Executing for 2600541
+place master map found  
+place master map found  
+place master map found  
+OK Case  2600541
+Executing for 2600525
+place master map found  
+place master map found  
+place master map found  
+OK Case  2600525
+Executing for 2599359
+place master map found  
+place master map found  
+place master map found  
+OK Case  2599359
+Executing for 2600617
+place master map found  
+different category Loading Point for shipment 2600617 stage 0
+Noida DC stage Index 0 stageId ffffbc2e-5e1c-4e16-884f-245e2299c4ca
+place master map found  
+place master map found  
+different category Loading Point for shipment 2600617 stage 2
+Noida DC stage Index 2 stageId 5f3f8056-a80d-4a41-89d3-39807f1a92bd
+shipmentStage update case 
+shipment put status 200
+Executing for 2600623
+place master map found  
+different category Loading Point for shipment 2600623 stage 0
+Noida DC stage Index 0 stageId 21e23920-4812-4725-ac46-ee7468d3ff4c
+place master map found  
+place master map found  
+different category Loading Point for shipment 2600623 stage 2
+Noida DC stage Index 2 stageId c614a6dd-56a2-4c1e-8a99-eecb04b7ba1d
+shipmentStage update case 
+shipment put status 200
+Executing for 2602221
+place master map found  
+different category Loading Point for shipment 2602221 stage 0
+Noida DC stage Index 0 stageId 82f5b244-da7f-4154-9858-14f75a055bad
+place master map found  
+place master map found  
+different category Loading Point for shipment 2602221 stage 2
+Noida DC stage Index 2 stageId 548f362a-3868-4b5d-8559-7219575f4a19
+shipmentStage update case 
+shipment put status 200
+Executing for 2599061
+place master map found  
+place master map found  
+place master map found  
+OK Case  2599061
+Executing for 2599063
+place master map found  
+place master map found  
+place master map found  
+OK Case  2599063
+Executing for 2596891
+place master map found  
+place master map found  
+place master map found  
+OK Case  2596891
+Executing for 2596859
+place master map found  
+place master map found  
+place master map found  
+OK Case  2596859
+Executing for 2596817
+place master map found  
+place master map found  
+place master map found  
+OK Case  2596817
+Executing for 2600519
+place master map found  
+place master map found  
+place master map found  
+OK Case  2600519
+Executing for 2596785
+place master map found  
+place master map found  
+OK Case  2596785
+{
+  '3f5d040d-d855-415d-a3a1-025a19f56a1b': {
+    hubId: null,
+    boundary: null,
+    address: 'Dadri Main Rd, Ecotech III, Greater Noida, Uttar Pradesh 201306, India',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.533540873967606, longitude: 77.4478201571039 },
+    suggestedRadius: 251,
+    isOwned: false,
+    centerCoordinates: [ 77.4478201571039, 28.533540873967606 ],
+    placeId: '3f5d040d-d855-415d-a3a1-025a19f56a1b',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Noida DC',
+    state: null,
+    category: 'DC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '287fed39-1e57-407e-a4d1-1b4ac8228f35': {
+    hubId: null,
+    boundary: null,
+    address: 'Sadarpur Main Rd, Block B, Sector 43, Noida, Uttar Pradesh 201303',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.557923, longitude: 77.34639 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.34639, 28.557923 ],
+    placeId: '287fed39-1e57-407e-a4d1-1b4ac8228f35',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec-44',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '1f6eb6fc-2170-42f2-bd99-56ba975c74d2': {
+    hubId: null,
+    boundary: null,
+    address: 'A-2, Block A, Sector 4, Noida, Uttar Pradesh 201301',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.580723, longitude: 77.322627 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.322627, 28.580723 ],
+    placeId: '1f6eb6fc-2170-42f2-bd99-56ba975c74d2',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec-4',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '10c31222-d870-4f60-b073-bc9fe74b1815': {
+    hubId: null,
+    boundary: null,
+    address: 'SUPERMARKET GROCERY SUPPLIES PVT LTD(BIGBASKET))WH No 01, Sector 67Noida 201309',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.608450587384, longitude: 77.387772404113 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.387772404113, 28.608450587384 ],
+    placeId: '10c31222-d870-4f60-b073-bc9fe74b1815',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Noida Sec 67',
+    state: null,
+    category: '5K',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '11f1799b-f855-4414-97f1-8f893283cc7e': {
+    hubId: null,
+    boundary: null,
+    address: 'A-26 , Site 4 Industrial Area , SahibabadGhaziabad ,Uttar Pradesh',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.672407476298, longitude: 77.375595175183 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.375595175183, 28.672407476298 ],
+    placeId: '11f1799b-f855-4414-97f1-8f893283cc7e',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Mohan Nagar CWC',
+    state: null,
+    category: '5K',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '85a8d043-0f0f-40bf-9232-504bc4c7615e': {
+    hubId: null,
+    boundary: null,
+    address: 'NH-9 Pillar no 78, opposite Ritu Collection, Pilkhuwa Distt Hapur',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.707491, longitude: 77.653324 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.653324, 28.707491 ],
+    placeId: '85a8d043-0f0f-40bf-9232-504bc4c7615e',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Pilkhuwa',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '76e6fdfa-b6ea-4399-9e3f-98d665c63b9e': {
+    hubId: null,
+    boundary: null,
+    address: 'Delhi Road Near Shiv Bajaj Showroom Hapur 245101',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.728017, longitude: 77.76146 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.76146, 28.728017 ],
+    placeId: '76e6fdfa-b6ea-4399-9e3f-98d665c63b9e',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Hapur',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '646e5106-3642-40b8-8cff-cbabd097324f': {
+    hubId: null,
+    boundary: null,
+    address: '123, SH14, Shahpur Chaudhary, Uttar Pradesh 245205, India',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.791021790260544, longitude: 78.0819644629955 },
+    suggestedRadius: 338,
+    isOwned: false,
+    centerCoordinates: [ 78.0819644629955, 28.791021790260544 ],
+    placeId: '646e5106-3642-40b8-8cff-cbabd097324f',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Garhmukteshwar',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'c3f814ff-370d-4ad6-9533-9741dfd37e4b': {
+    hubId: null,
+    boundary: null,
+    address: 'Bhadana Villa, Gajraula - Chandpur Rd, Gajraula, Uttar Pradesh 244235, India',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.83936285437076, longitude: 78.24200892467518 },
+    suggestedRadius: 500,
+    isOwned: false,
+    centerCoordinates: [ 78.24200892467518, 28.83936285437076 ],
+    placeId: 'c3f814ff-370d-4ad6-9533-9741dfd37e4b',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Gajraula',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '12aa1a49-a744-4ee1-8a36-9a76afb1791b': {
+    hubId: null,
+    boundary: null,
+    address: 'Ashok brothers Bada Bazaar,Amorha',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.90799691, longitude: 78.4738333 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 78.4738333, 28.90799691 ],
+    placeId: '12aa1a49-a744-4ee1-8a36-9a76afb1791b',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Amorha',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'f22d8c76-b42c-42f6-b2db-ea47990b4ec6': {
+    hubId: null,
+    boundary: null,
+    address: 'Khasra No 59 Village ParthalaKhanjarpur Sector-122Noida G.Budh Nagar 201307',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.574193, longitude: 77.443033 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.443033, 28.574193 ],
+    placeId: 'f22d8c76-b42c-42f6-b2db-ea47990b4ec6',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Aminabad',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '0180933f-73a2-4e97-b2e1-319fe6125518': {
+    hubId: null,
+    boundary: null,
+    address: 'H9HM+PHP, near royal Avenue appartment, Sector 75, Noida, Uttar Pradesh',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.579452, longitude: 77.383932 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.383932, 28.579452 ],
+    placeId: '0180933f-73a2-4e97-b2e1-319fe6125518',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec-75',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'f6c7849b-3dca-42b1-b6cb-391c6aba62f8': {
+    hubId: null,
+    boundary: null,
+    address: 'Khasra no.344, Village-Gijhoresector -53 Noida, Pargana & Teshil-Dadri,Gautam Buddha Nagar,Uttar Pradesh-201301',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.589156, longitude: 77.360826 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.360826, 28.589156 ],
+    placeId: 'f6c7849b-3dca-42b1-b6cb-391c6aba62f8',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec-53',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '36ef0077-284e-407d-8162-1f854d44ac4e': {
+    hubId: null,
+    boundary: null,
+    address: 'Plot No./Khasra No. 996,Opp Sahjyog Mandir,Ansal API (Crossing Republic),  Village-Dundhera,Tehsil & Distt-Ghaziabad, Uttar Pradesh-201009',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.627539, longitude: 77.441988 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.441988, 28.627539 ],
+    placeId: '36ef0077-284e-407d-8162-1f854d44ac4e',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Dundhera',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'f566306c-39d1-4e93-b075-0546bd6f656d': {
+    hubId: null,
+    boundary: null,
+    address: 'Raj Nagar Extn, Landcraft River Heights Block-17,Sehani Khurd, Ghukna, Ghaziabad,Uttar Pradesh 201003',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.70053994, longitude: 77.41785606 },
+    suggestedRadius: 590,
+    isOwned: true,
+    centerCoordinates: [ 77.41785606, 28.70053994 ],
+    placeId: 'f566306c-39d1-4e93-b075-0546bd6f656d',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Raj Nagar',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '5e424c96-84bd-4303-9f77-b33a69c48067': {
+    hubId: null,
+    boundary: null,
+    address: 'Makanpur, Nyay Khand III, Indirapuram, Ghaziabad, Uttar Pradesh 201014',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.641318, longitude: 77.356775 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.356775, 28.641318 ],
+    placeId: '5e424c96-84bd-4303-9f77-b33a69c48067',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Nyay Khand',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'd1529540-57bc-486b-a5aa-a07fd2a89c27': {
+    hubId: null,
+    boundary: null,
+    address: 'Mani Ben Marg, Niti Khand 3,Manoj Vihar, Indirapuram,Ghaziabad, Uttar Pradesh 201014',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.64353087, longitude: 77.37443378 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.37443378, 28.64353087 ],
+    placeId: 'd1529540-57bc-486b-a5aa-a07fd2a89c27',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Indirapuram',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'b5e4313e-eb8e-4c0c-9498-9dd4e096cd64': {
+    hubId: null,
+    boundary: null,
+    address: 'Block C, Sector 122, Noida, Uttar Pradesh 201307',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.591818, longitude: 77.396881 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.396881, 28.591818 ],
+    placeId: 'b5e4313e-eb8e-4c0c-9498-9dd4e096cd64',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sarfabad sec-122',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '9c534c1a-b45a-4f3b-85ae-c2fa04f171cf': {
+    hubId: null,
+    boundary: null,
+    address: 'D003, Phase-2, Sector 80, NoidaNoida-',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.558334717901, longitude: 77.412751816671 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.412751816671, 28.558334717901 ],
+    placeId: '9c534c1a-b45a-4f3b-85ae-c2fa04f171cf',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Noida Sec 80',
+    state: null,
+    category: '5K',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '67cd616e-f3c6-480e-b4e6-8b1ec6c2b207': {
+    hubId: null,
+    boundary: null,
+    address: 'Sakipur, Greater Noida,Gautam Buddha Nagar,Uttar Pradesh',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.499645, longitude: 77.522478 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.522478, 28.499645 ],
+    placeId: '67cd616e-f3c6-480e-b4e6-8b1ec6c2b207',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BB-Now Rasoolpur',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'e4cecdf9-e66d-442c-8ccd-6175343e6b75': {
+    hubId: null,
+    boundary: null,
+    address: 'Shahdara, Sector 141, Noida, Uttar Pradesh 201305',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.507699, longitude: 77.414617 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.414617, 28.507699 ],
+    placeId: 'e4cecdf9-e66d-442c-8ccd-6175343e6b75',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec 141 - Noida',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'd1f90bc8-ec00-4876-aecb-e2e5ba085056': {
+    hubId: null,
+    boundary: null,
+    address: 'sector 104, Hajipur, Ozone building, shop no-4 B,ground floor, noida, Uttar Pradesh 201301-',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.54039563, longitude: 77.36796161 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.36796161, 28.54039563 ],
+    placeId: 'd1f90bc8-ec00-4876-aecb-e2e5ba085056',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Sec 104- Noida',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '12f28588-456f-4203-966a-c744998eed97': {
+    hubId: null,
+    boundary: null,
+    address: 'Major Mohit Sharma Marg, Block 8, Sector 3, Rajendra Nagar, Ghaziabad, Uttar Pradesh 201005',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.68837, longitude: 77.35879 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.35879, 28.68837 ],
+    placeId: '12f28588-456f-4203-966a-c744998eed97',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Rajendranagar',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'ebef2a25-daeb-478c-8894-9a41d670b1ac': {
+    hubId: null,
+    boundary: null,
+    address: 'Plot No. 11/127C,Rajnagar, Ghaziabad,Uttar Pradesh - 201002',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.681693, longitude: 77.448642 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.448642, 28.681693 ],
+    placeId: 'ebef2a25-daeb-478c-8894-9a41d670b1ac',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-RDC-GHAZIABAD',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '3b0bf304-d14b-4fd1-b840-fd0d8e394957': {
+    hubId: null,
+    boundary: null,
+    address: '123, SH14, Shahpur Chaudhary, Uttar Pradesh 245205, India',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.791021790260544, longitude: 78.0819644629955 },
+    suggestedRadius: 338,
+    isOwned: false,
+    centerCoordinates: [ 78.0819644629955, 28.791021790260544 ],
+    placeId: '646e5106-3642-40b8-8cff-cbabd097324f',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Garhmukteshwar',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '717153e9-a2fe-4e0e-8cea-cf12a5490855': {
+    hubId: null,
+    boundary: null,
+    address: 'Bhadana Villa, Gajraula - Chandpur Rd, Gajraula, Uttar Pradesh 244235, India',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.83936285437076, longitude: 78.24200892467518 },
+    suggestedRadius: 500,
+    isOwned: false,
+    centerCoordinates: [ 78.24200892467518, 28.83936285437076 ],
+    placeId: 'c3f814ff-370d-4ad6-9533-9741dfd37e4b',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Gajraula',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'ee713460-0662-474f-9dd4-ba1449a1252e': {
+    hubId: null,
+    boundary: null,
+    address: 'Old Telephone Exchange Road Hallu sarai Sambhal',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.5816385, longitude: 78.5711862 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 78.5711862, 28.5816385 ],
+    placeId: 'ee713460-0662-474f-9dd4-ba1449a1252e',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'T4-Sambhal',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '8da9d033-585c-4002-b55c-30a8e9358b15': {
+    hubId: null,
+    boundary: null,
+    address: 'VILLAGE- TAMSABAD , SANOLI KHURD, NEAR LAL MANDIR,DISTT- PANIPAT ,HARYANA -(132103)',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 29.3865029, longitude: 77.1161561 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.1161561, 29.3865029 ],
+    placeId: '8da9d033-585c-4002-b55c-30a8e9358b15',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Tamsabad-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '7d162753-ad9a-4d37-ba0b-61d82f7e78da': {
+    hubId: null,
+    boundary: null,
+    address: 'KHATA NO 1006 VILLAGE PRAGPURA JAIPUR- (303107)',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 27.6063903, longitude: 76.0899511 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 76.0899511, 27.6063903 ],
+    placeId: '7d162753-ad9a-4d37-ba0b-61d82f7e78da',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Pragpura-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'b73b7eae-8788-4192-b0f7-3eaf6b718fc0': {
+    hubId: null,
+    boundary: null,
+    address: 'Aditya City Badrana Johar Near Mahindra Tractor Agency Nawalgarh Jhunjhunu -333042',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 27.8454214, longitude: 75.2546476 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 75.2546476, 27.8454214 ],
+    placeId: 'b73b7eae-8788-4192-b0f7-3eaf6b718fc0',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Nawalgarh-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'd2874277-e943-4fd6-a6a1-29e82c159045': {
+    hubId: null,
+    boundary: null,
+    address: 'Rani Laxmibai Nagar, Yusufpur, Nai Basti Dundahera, Ghaziabad, Uttar Pradesh 201009',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.619907, longitude: 77.417296 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.417296, 28.619907 ],
+    placeId: 'd2874277-e943-4fd6-a6a1-29e82c159045',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'BBNow-NOI-Yusufpur Chok',
+    state: null,
+    category: 'BBN',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  undefined: null,
+  N3405440318: null,
+  '95f55180-a30d-4d53-b785-e80e125342a3': {
+    hubId: null,
+    boundary: null,
+    address: 'SHAHABAD CC NEARBY NARANG COLD STORE SHAHABAD MARKANDA (KURUKSHETRA ) HARYANA- (136135)',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 30.166548, longitude: 76.8701643 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 76.8701643, 30.166548 ],
+    placeId: '95f55180-a30d-4d53-b785-e80e125342a3',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Shahabad-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '6232e39b-96cf-4bba-9e69-4135be5742b2': {
+    hubId: null,
+    boundary: null,
+    address: 'R.N Mukherjee Road, Basirhat Municipality, Basirhat Health District, West Bengal 743411',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 22.6612563, longitude: 88.868838 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 88.868838, 22.6612563 ],
+    placeId: '6232e39b-96cf-4bba-9e69-4135be5742b2',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Basirhat',
+    state: null,
+    category: 'T4',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '5e3bd60e-0741-4dba-9603-4f087a5bb923': {
+    hubId: null,
+    boundary: null,
+    address: 'SOLAN CC NATIONAL HIGHWAY 5, SOLAN BREWERY (SOLAN ) HIMACHALPRADESH- (173214)',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 30.9413887, longitude: 77.1319076 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.1319076, 30.9413887 ],
+    placeId: '5e3bd60e-0741-4dba-9603-4f087a5bb923',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Solan-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'f577f478-d871-4586-9d20-89ecb2936950': {
+    hubId: null,
+    boundary: null,
+    address: 'Plot No-1 New Sabzi Mandi Azadpur Delhi - 110033',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.7166913, longitude: 77.1664318 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.1664318, 28.7166913 ],
+    placeId: 'f577f478-d871-4586-9d20-89ecb2936950',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Azadpur-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  '567df1c0-0858-4d35-b685-698c9f24a56a': {
+    hubId: null,
+    boundary: null,
+    address: ',Dadri,Gautam Buddha Nagar,Uttar Pradesh,India,in',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 28.54679275, longitude: 77.49950856628618 },
+    suggestedRadius: 500,
+    isOwned: false,
+    centerCoordinates: [ 77.49950856628618, 28.54679275 ],
+    placeId: '567df1c0-0858-4d35-b685-698c9f24a56a',
+    geoJsonBoundry: null,
+    externalId: null,
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Big Basket-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  },
+  'bbe44316-3832-4d4e-a6b3-9924c33b1067': {
+    hubId: null,
+    boundary: null,
+    address: 'KHASRA NO 88 ,NEARBY HDFC BANK KUMASPUR (SONIPAT ) HARYANA- (131021)',
+    accessibility: 'public',
+    addedBy: '06acac7f-5697-4fef-9a61-eef47f75367a',
+    center: { latitude: 29.0004503, longitude: 77.0899529 },
+    suggestedRadius: 500,
+    isOwned: true,
+    centerCoordinates: [ 77.0899529, 29.0004503 ],
+    placeId: 'bbe44316-3832-4d4e-a6b3-9924c33b1067',
+    geoJsonBoundry: null,
+    externalId: '',
+    source: 'FRETRON',
+    places: null,
+    viewport: null,
+    district: null,
+    name: 'Kumashpur-CC',
+    state: null,
+    category: 'CC',
+    subDistrict: null,
+    controllingBranchId: null
+  }
+}
+[ { placeName: undefined, placeId: 'N3405440318', shNo: '2696623' } ]

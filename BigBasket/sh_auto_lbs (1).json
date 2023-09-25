@@ -1,0 +1,137 @@
+[
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "aa035daa-bce9-4ac8-8dab-253e8d019acc",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "aa035daa-bce9-4ac8-8dab-253e8d019acc"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "0342f251-5439-4fe6-a5a4-fe440fd2ecf5",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "0342f251-5439-4fe6-a5a4-fe440fd2ecf5"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "aa035daa-bce9-4ac8-8dab-253e8d019acc",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "aa035daa-bce9-4ac8-8dab-253e8d019acc"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "9443eaab-812a-4a28-ac86-c5a48365dcb5",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "9443eaab-812a-4a28-ac86-c5a48365dcb5"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "d98b2364-5198-473d-85a2-c9d89fa933a0",
+    "_score": 1.9356517,
+    "_source": {
+      "uuid": "d98b2364-5198-473d-85a2-c9d89fa933a0"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "91159e63-7270-4a46-b3b3-0bb1fc801c5d",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "91159e63-7270-4a46-b3b3-0bb1fc801c5d"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "53f478d2-d035-4209-a78d-21eb05fbb6fe",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "53f478d2-d035-4209-a78d-21eb05fbb6fe"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "d078e725-1f98-4b0e-be4a-00f8162e476a",
+    "_score": 1.8775676,
+    "_source": {
+      "uuid": "d078e725-1f98-4b0e-be4a-00f8162e476a"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "c408d373-865d-4203-aff2-905b0596d9e9",
+    "_score": 1.9959917,
+    "_source": {
+      "uuid": "c408d373-865d-4203-aff2-905b0596d9e9"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "8ed6f64b-4a48-4612-ba7c-76dfd1dedbfd",
+    "_score": 1.9959917,
+    "_source": {
+      "uuid": "8ed6f64b-4a48-4612-ba7c-76dfd1dedbfd"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "b9de711a-0337-497c-9812-d3a148d5a1f9",
+    "_score": 1.9959917,
+    "_source": {
+      "uuid": "b9de711a-0337-497c-9812-d3a148d5a1f9"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "248140e0-4cbc-470b-abe8-5e794c9cebac",
+    "_score": 1.9588193,
+    "_source": {
+      "uuid": "248140e0-4cbc-470b-abe8-5e794c9cebac"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "00df318d-3160-4054-950e-3cc523e90cb3",
+    "_score": 1.9588193,
+    "_source": {
+      "uuid": "00df318d-3160-4054-950e-3cc523e90cb3"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "9d163cee-158e-40e8-ba4f-c3137c60b9e8",
+    "_score": 1.9959917,
+    "_source": {
+      "uuid": "9d163cee-158e-40e8-ba4f-c3137c60b9e8"
+    }
+  },
+  {
+    "_index": "shipments_v2",
+    "_type": "kafka-connect",
+    "_id": "fe505a19-14af-457e-9d2b-077820acbcf0",
+    "_score": 1.9959917,
+    "_source": {
+      "uuid": "fe505a19-14af-457e-9d2b-077820acbcf0"
+    }
+  }
+]
