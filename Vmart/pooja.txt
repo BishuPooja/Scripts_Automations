@@ -1,0 +1,206 @@
+46968
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D
+orderId ff70d139-c224-4672-84ac-8497fe1aca02
+Not Sheet open order BP16361095
+orderId ff5db47e-bcfa-44d2-9ba4-b99a00d17427
+Not Sheet open order BP15911612
+orderId fd229c7a-abfc-4144-bc97-194a752c8463
+Not Sheet open order BP16361106
+orderId ef1d8275-ad48-4ed7-8407-901091d58cf7
+Not Sheet open order BP16552145
+orderId eaad7952-cf01-4d92-9481-1fa057831b3e
+Not Sheet open order BP16361090
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 5
+Total Orders: 5
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"eaad7952-cf01-4d92-9481-1fa057831b3e"]
+Total Orders: 5
+orderId e3382634-8609-40b0-830d-daabbf355419
+Not Sheet open order BP15911433
+orderId e2e192ed-e546-4af6-9c00-cdf7817d865a
+Not Sheet open order BP16361092
+orderId d420d700-de64-474a-85d8-783ccfae768d
+Not Sheet open order BP16551560
+orderId d3d8d883-a2ac-4b6a-bebb-f22a253cf116
+Not Sheet open order BP16552087
+orderId d12768fa-e094-458c-9ef4-10d9a14becf0
+Not Sheet open order BP16552148
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 10
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"d12768fa-e094-458c-9ef4-10d9a14becf0"]
+Total Orders: 5
+orderId d0d936a7-2fd5-4200-abac-1ac632dd95d7
+Not Sheet open order BP16552173
+orderId d0097b1a-44b7-46a5-90d6-a7d18e50713a
+Not Sheet open order BP15911502
+orderId cb44ae92-fbb4-40c6-8942-bff3dfd1b225
+Not Sheet open order BP16361137
+orderId c6800863-959f-47e4-a823-e0aaaab5d2a2
+Not Sheet open order BP16552154
+orderId c65e57d3-3cca-4f75-af5c-e4eef85cdb52
+Not Sheet open order BP16552177
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 15
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"c65e57d3-3cca-4f75-af5c-e4eef85cdb52"]
+Total Orders: 5
+orderId c5f54f65-65da-4d58-91d2-bc49792b7106
+Not Sheet open order BP16552180
+orderId c1033c32-b9a3-452c-ac8c-3afa3fe320bc
+Not Sheet open order BP16551555
+orderId b3e4d552-edfc-491b-b7c0-6f74c698d6fd
+Not Sheet open order BP15911613
+orderId b2f0ca83-fc5b-4d58-a3c3-a489c2e6e459
+Not Sheet open order BP16552107
+orderId b252962d-c5c2-4b8f-80fd-bf17af3107e1
+Not Sheet open order BP16361134
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 20
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"b252962d-c5c2-4b8f-80fd-bf17af3107e1"]
+Total Orders: 5
+orderId ad490f84-7b49-4bea-912c-8b870eba51d4
+Not Sheet open order BP16552115
+orderId ace4a372-6189-476a-9314-2ddfcc7667ea
+Not Sheet open order BP16552016
+orderId aabfd322-d179-491f-adbe-95769072f508
+Not Sheet open order BP16552085
+orderId a4e744f6-751b-46bd-87e0-3fe0e12d6e8d
+Not Sheet open order BP16552070
+orderId a36e8ba9-0fa3-4d53-973b-3c2537b0c6bd
+Not Sheet open order BP16552065
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 25
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"a36e8ba9-0fa3-4d53-973b-3c2537b0c6bd"]
+Total Orders: 5
+orderId 9aa68c7e-d6e4-41da-a9d1-4cf37b8d03d2
+Not Sheet open order BP16552174
+orderId 96466d46-eb30-4de1-ad4b-c4f19c99a2c7
+Not Sheet open order BP16552114
+orderId 95005958-4bb3-464e-b4c9-44d9a57ddc65
+Not Sheet open order BP16361141
+orderId 8ea8c397-a3de-4ab0-8c7a-f0a9aa586bad
+Not Sheet open order BP15911500
+orderId 8e846c45-9bee-4d00-afe5-bf2cf3827d85
+Not Sheet open order BP16552212
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 30
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"8e846c45-9bee-4d00-afe5-bf2cf3827d85"]
+Total Orders: 5
+orderId 8cbe31eb-eb5e-4acd-82ec-e6a208e81247
+Not Sheet open order BP16552066
+orderId 881bc90e-fc83-48aa-b659-f3939500bafd
+Not Sheet open order BP16552162
+orderId 8356e253-1f43-49d2-9c56-82b80c6415cf
+Not Sheet open order BP16361140
+orderId 809e59b7-486f-4256-b140-d9db5d9d00de
+Not Sheet open order BP16552113
+orderId 80125b26-e29c-4469-9abd-9b313fbcabee
+Not Sheet open order BP15911434
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 35
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"80125b26-e29c-4469-9abd-9b313fbcabee"]
+Total Orders: 5
+orderId 7caab2eb-2637-43f1-b992-17950d5a5d94
+Not Sheet open order BP16552069
+orderId 761fca83-0ad2-4352-bd70-7687031edb47
+Not Sheet open order BP16361136
+orderId 6aa2cf29-eac7-40c8-91a9-3fafe1836575
+Not Sheet open order BP16552083
+orderId 65fd17d3-b7e2-4126-9db1-87c996dc26f1
+Not Sheet open order BP16552150
+orderId 659e6580-cb44-445c-bd52-5fa358effd41
+Not Sheet open order BP16552181
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 40
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"659e6580-cb44-445c-bd52-5fa358effd41"]
+Total Orders: 5
+orderId 623927fa-56c4-41da-aaba-9c7bb9e828b4
+Not Sheet open order BP16361093
+orderId 6008e486-99c7-466c-a23d-3adb39007119
+Not Sheet open order BP15911432
+orderId 5efaad49-c54d-4b88-bdc0-a7b0e103214e
+Not Sheet open order BP16551559
+orderId 5e82fbf1-86ea-42b8-9fee-5effcbcb6096
+Not Sheet open order BP16552092
+orderId 57111d19-7e26-4d42-980a-f2edc15bb95d
+Not Sheet open order BP16552143
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 45
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"57111d19-7e26-4d42-980a-f2edc15bb95d"]
+Total Orders: 5
+orderId 54fc57c4-a353-453e-b80c-0882e78fefbb
+Not Sheet open order BP16552068
+orderId 4a64f3f7-b667-4ebb-9960-52410e55c74a
+Not Sheet open order BP16552209
+orderId 4a617f17-9907-4706-a083-d49c641e6a81
+Not Sheet open order BP16551557
+orderId 49af5d9d-8239-4790-aa8f-7bf1cbb1bbe4
+Not Sheet open order BP16552112
+orderId 44661f7b-823e-4343-a8a0-29e874b230d3
+Not Sheet open order BP16361094
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 50
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"44661f7b-823e-4343-a8a0-29e874b230d3"]
+Total Orders: 5
+orderId 430c7abb-d50b-491c-ba18-ba9a2c4f6e13
+Not Sheet open order BP16361110
+orderId 402bd8fa-ca2d-443a-961a-b153a6f6c031
+Not Sheet open order BP16552109
+orderId 3d404db2-06a2-4146-8ab5-c44c52320062
+Not Sheet open order BP15911431
+orderId 3be7c939-5607-4974-b643-6bd967445240
+Not Sheet open order BP16552097
+orderId 3724fbb9-9020-4996-87f3-295bbdb3c814
+Not Sheet open order BP16552086
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 55
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"3724fbb9-9020-4996-87f3-295bbdb3c814"]
+Total Orders: 5
+orderId 2afad1b1-8677-4de3-ab37-262dc5dfc0ab
+Not Sheet open order BP16551558
+orderId 2ad01973-422f-4564-bde1-ba1a156d1771
+Not Sheet open order BP16552159
+orderId 2a90321c-248f-47df-8181-b0274bdbb61a
+Not Sheet open order BP16552081
+orderId 2a1855a1-5635-44d7-bc35-5602c1877709
+Not Sheet open order BP16552175
+orderId 29e99733-9d7a-499d-9d2a-1f3d5c73911b
+Not Sheet open order BP15911615
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+count 60
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=5&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D&offset=[1690265994000,"29e99733-9d7a-499d-9d2a-1f3d5c73911b"]

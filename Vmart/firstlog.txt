@@ -1,0 +1,28 @@
+46968
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D
+externalId BP16361095
+order closed successfully ff70d139-c224-4672-84ac-8497fe1aca02
+externalId BP15911612
+order closed successfully ff5db47e-bcfa-44d2-9ba4-b99a00d17427
+externalId BP16361106
+order closed successfully fd229c7a-abfc-4144-bc97-194a752c8463
+externalId BP16552145
+order closed successfully ef1d8275-ad48-4ed7-8407-901091d58cf7
+externalId BP16361090
+order closed successfully eaad7952-cf01-4d92-9481-1fa057831b3e
+externalId BP15911433
+order closed successfully e3382634-8609-40b0-830d-daabbf355419
+externalId BP16361092
+order closed successfully e2e192ed-e546-4af6-9c00-cdf7817d865a
+externalId BP16551560
+order closed successfully d420d700-de64-474a-85d8-783ccfae768d
+externalId BP16552087
+order closed successfully d3d8d883-a2ac-4b6a-bebb-f22a253cf116
+externalId BP16552148
+order closed successfully d12768fa-e094-458c-9ef4-10d9a14becf0
+orderOpenSheet length 0
+[]
+closeOrders length 10
+["BP16361095","BP15911612","BP16361106","BP16552145","BP16361090","BP15911433","BP16361092","BP16551560","BP16552087","BP16552148"]
+closeOrderCount 10
+Total Orders: 10

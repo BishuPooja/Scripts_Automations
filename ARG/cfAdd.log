@@ -1,0 +1,170 @@
+shipments  40
+Added CF on consignment! Status: 200
+Added CF on consignment! Status: 200
+Added CF on consignment! Status: 200
+Added CF on consignment! Status: 200
+Added CF on consignment! Status: 200
+[
+  {
+    vehicleNumber: 'WB12345',
+    customerCode: '0000046630',
+    foNumber: '1234',
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=PYbuZYm7'
+  },
+  {
+    vehicleNumber: 'TEST_890',
+    customerCode: null,
+    foNumber: 'LR12345890',
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=MDFuWtk8M'
+  },
+  {
+    vehicleNumber: 'HR39E7292',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=gAWGjr1n'
+  },
+  {
+    vehicleNumber: 'WB19G5227',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=uGp4lWka'
+  },
+  {
+    vehicleNumber: 'UP153442112',
+    customerCode: '0000046630',
+    foNumber: '12324',
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=5M4EQLd'
+  },
+  {
+    vehicleNumber: 'WB123344',
+    customerCode: '0010063111',
+    foNumber: '1420',
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=juGqdpMPH'
+  },
+  {
+    vehicleNumber: 'WB123344',
+    customerCode: 'ROHK',
+    foNumber: '1421',
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=y62MLxp9'
+  },
+  {
+    vehicleNumber: 'HT34H8907',
+    customerCode: 'CAL ELC123',
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=RnU3xkR'
+  },
+  {
+    vehicleNumber: 'HT34H8907',
+    customerCode: 'CAL ELC123',
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=RnU3xkR'
+  },
+  {
+    vehicleNumber: 'RJ4566J',
+    customerCode: '0010096695',
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=7NaA7olg'
+  },
+  {
+    vehicleNumber: 'MH12T1235',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=N9ilAw3lk'
+  },
+  {
+    vehicleNumber: 'MH12T1235',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=N9ilAw3lk'
+  },
+  {
+    vehicleNumber: 'HR55AN5858',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=BBpRuYC'
+  },
+  {
+    vehicleNumber: 'HR55AN5858',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=BBpRuYC'
+  },
+  {
+    vehicleNumber: 'DL8CU4684',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=9ujXVPemq'
+  },
+  {
+    vehicleNumber: 'DL8CU4684',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=9ujXVPemq'
+  },
+  {
+    vehicleNumber: 'DL8CU4567',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=hRKVY3Qq'
+  },
+  {
+    vehicleNumber: 'DL8CU4567',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=hRKVY3Qq'
+  },
+  {
+    vehicleNumber: 'RJ6789',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=3dYmMlSRj'
+  },
+  {
+    vehicleNumber: 'RJ6789',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=3dYmMlSRj'
+  },
+  {
+    vehicleNumber: 'HR39E7292',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=ZpOp0muP'
+  },
+  {
+    vehicleNumber: 'HR39E7292',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=ZpOp0muP'
+  },
+  {
+    vehicleNumber: 'DL8CU4684',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=xMDlg6xi'
+  },
+  {
+    vehicleNumber: 'DL8CU4684',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=xMDlg6xi'
+  },
+  {
+    vehicleNumber: 'DL8CU4680',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: '65432'
+  },
+  {
+    vehicleNumber: 'DL8CU4680',
+    customerCode: null,
+    foNumber: '65432',
+    trackingLink: '65432'
+  },
+  {
+    vehicleNumber: 'JH02AR3591',
+    customerCode: null,
+    foNumber: null,
+    trackingLink: 'https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=ipLZamlT'
+  }
+]

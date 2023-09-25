@@ -1,0 +1,8 @@
+46968
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&allFields=%5B%22uuid%22%2C%22externalId%22%2C%22orderDate%22%5D
+orderOpenSheet length 0
+[]
+closeOrders length 10
+[{"id":"d0d936a7-2fd5-4200-abac-1ac632dd95d7","extId":"BP16552173"},{"id":"d0097b1a-44b7-46a5-90d6-a7d18e50713a","extId":"BP15911502"},{"id":"cb44ae92-fbb4-40c6-8942-bff3dfd1b225","extId":"BP16361137"},{"id":"c6800863-959f-47e4-a823-e0aaaab5d2a2","extId":"BP16552154"},{"id":"c65e57d3-3cca-4f75-af5c-e4eef85cdb52","extId":"BP16552177"},{"id":"c5f54f65-65da-4d58-91d2-bc49792b7106","extId":"BP16552180"},{"id":"c1033c32-b9a3-452c-ac8c-3afa3fe320bc","extId":"BP16551555"},{"id":"b3e4d552-edfc-491b-b7c0-6f74c698d6fd","extId":"BP15911613"},{"id":"b2f0ca83-fc5b-4d58-a3c3-a489c2e6e459","extId":"BP16552107"},{"id":"b252962d-c5c2-4b8f-80fd-bf17af3107e1","extId":"BP16361134"}]
+closeOrderCount 10
+Total Orders: 10

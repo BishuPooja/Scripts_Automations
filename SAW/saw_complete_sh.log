@@ -1,0 +1,4957 @@
+354
+--- shNo  FRETSH000066260 : 0 -----
+1
+{
+  shipmentId: 'aa1d669f-1ef6-469c-ac0a-dbd79bfdd234',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681807432864,
+      stageId: '7aeb7e7c-7d13-45c2-bb24-aad44a52a9b2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065898 : 1 -----
+2
+{
+  shipmentId: 'bce323ee-e389-4c39-b6f4-f56605cea446',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681751362206,
+      stageId: 'a1bca337-c2e1-4517-a3dc-27981ec300aa',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065882 : 2 -----
+3
+{
+  shipmentId: '42fdac9a-7840-4e8e-ab2d-a68802549b2c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1682124832156,
+      stageId: '60418856-befe-488e-bb37-2df58e9cbd71',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065866 : 3 -----
+4
+{
+  shipmentId: 'ffe7bb28-f099-401d-abf1-2bdcc9fb9218',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681650318074,
+      stageId: '359b6a7e-e563-4cb0-80e9-99138d1821c8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065847 : 4 -----
+5
+{
+  shipmentId: 'b5a61ec8-9377-4802-b12f-f942cafd7377',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681810092469,
+      stageId: 'a04bb6f1-9a8f-4178-b7ae-7d36b4e7d3d2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065780 : 5 -----
+6
+{
+  shipmentId: 'acee5a92-030b-4c3b-8100-6d8575958460',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681677964048,
+      stageId: 'ff9f6101-9ba2-4a9c-8f01-f3564524adee',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065777 : 6 -----
+7
+{
+  shipmentId: 'c51ced42-29f1-40ad-8a91-3705959cf176',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681649171981,
+      stageId: 'b87a72b3-8d56-4301-b221-e6a2ebc56200',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065767 : 7 -----
+8
+{
+  shipmentId: '26f5f39f-7900-4ee0-b3fc-525a70f32a55',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681649216566,
+      stageId: '40a300d0-1b3f-4d0a-a280-04ddc8c20860',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065671 : 8 -----
+9
+{
+  shipmentId: 'fa3a5621-391a-44d7-b1d4-1668d641f136',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681867785570,
+      stageId: '06e3bc7a-19c0-46c3-9fe7-40ef73d0c9e1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065666 : 9 -----
+10
+{
+  shipmentId: '1ea48554-86b5-4211-8c08-47a8e30c6fa2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681548273077,
+      stageId: 'e61ad9c5-0b11-4461-a868-b4246e30a15a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065663 : 10 -----
+11
+{
+  shipmentId: 'ef3a92b2-5b58-47e5-963c-b4a887f1da65',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681549518487,
+      stageId: '5681927f-61d7-4c00-88d9-0aad32e7623b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065609 : 11 -----
+12
+{
+  shipmentId: 'fda8d9dd-6f12-4e3c-b7b5-e3346ba828f9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681578493356,
+      stageId: 'a2f317f1-1df2-4fb8-b4b6-209143cdbad4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065603 : 12 -----
+13
+{
+  shipmentId: 'c2558dd5-a614-4e72-b866-03cff840f274',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681562840446,
+      stageId: '6aabe600-b9d1-4b2a-b13f-cf673c2080c8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065482 : 13 -----
+14
+{
+  shipmentId: '3498443a-e48c-488e-b77e-a632eeb9050a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681463038052,
+      stageId: '01a07bcf-6732-4b23-8121-ef9260381537',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065431 : 14 -----
+15
+{
+  shipmentId: 'ac2b0e20-7f38-4625-abce-812caa5112b6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681506377537,
+      stageId: 'd9f16b03-0ef5-4a6e-8ef2-37873824a737',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065429 : 15 -----
+16
+{
+  shipmentId: '62d02fcf-f9d0-4d49-b806-be7247bc8041',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681490882683,
+      stageId: 'f5b2b876-741a-4091-b0fe-c12803b7db09',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065416 : 16 -----
+17
+{
+  shipmentId: 'dae4d9a3-96c1-4e87-81ef-3ce2394e2ed3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681461960352,
+      stageId: '78b0582e-6bb8-4670-9b0e-cad4d1402130',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065413 : 17 -----
+18
+{
+  shipmentId: 'e61b579e-545e-4438-9110-b0dca06939fa',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681492124131,
+      stageId: '420838fd-027a-4d07-84bd-320912434c9e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065409 : 18 -----
+19
+{
+  shipmentId: '5f273796-139e-420d-9984-988448df1ab4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681490926665,
+      stageId: '2c18bfe5-1d07-4cda-b313-65edd2b406f5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065340 : 19 -----
+20
+{
+  shipmentId: '34321cc7-e764-4b00-835e-be0a5b2fd1ee',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681564259114,
+      stageId: 'cb677b7b-ee91-4933-ae7f-99d05e460f3e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065271 : 20 -----
+21
+{
+  shipmentId: 'e43bffeb-8d93-4c8a-8881-8d641d5e7fb8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681854058632,
+      stageId: '4d344167-713f-4d61-a681-0f0403db5441',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065263 : 21 -----
+22
+{
+  shipmentId: 'eb0c92ab-d6f6-4be6-8743-85d57116a608',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681519671613,
+      stageId: 'dbedd59b-8d28-4965-b900-2f57c6799a6b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065142 : 22 -----
+23
+{
+  shipmentId: 'a9721b28-0dd9-4cce-9bf8-3f33b53c81e9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681346610389,
+      stageId: 'f0387076-6646-4273-817c-3c7f24650ec0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065112 : 23 -----
+24
+{
+  shipmentId: 'fd6ea79f-3836-423d-901c-cdafdde3aca5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681290177754,
+      stageId: '80d2a0d7-be98-46f3-a621-5fb43ee8a856',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065073 : 24 -----
+25
+{
+  shipmentId: 'ca1dfe2a-78d9-4926-be16-fa4dd4a96beb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681317909358,
+      stageId: 'b696d1b0-3df9-4f51-8b15-f120f3d1d8d8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065060 : 25 -----
+26
+{
+  shipmentId: 'd7450744-74e8-4880-9a4b-f70324ab07d0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681376687534,
+      stageId: '7d85fc7f-5b93-4367-88fb-61ed036163b1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000065058 : 26 -----
+27
+{
+  shipmentId: 'f7d0943b-2c21-425d-b898-945640146067',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681290288012,
+      stageId: '2e13d69d-69b9-4f6c-a7f7-c2c8cf289066',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064941 : 27 -----
+28
+{
+  shipmentId: 'f79da1b1-fd15-49ae-89ce-c86f1e9fb8df',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681261284976,
+      stageId: '0f1645a6-94d4-4096-aae9-aab2ee1da5da',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064940 : 28 -----
+29
+{
+  shipmentId: '3e4a7e4e-c542-458b-aba8-a55bdc47c48d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681305966707,
+      stageId: 'b666799c-d20e-4163-ab06-cb4bd143884a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064859 : 29 -----
+30
+{
+  shipmentId: 'b8bceb84-6e58-4578-8c6b-0a60ce0c7db5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681551290000,
+      stageId: '750e7ffe-4327-4cdc-af14-f0661894b27d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064659 : 30 -----
+31
+{
+  shipmentId: 'f575de9e-4d47-4fed-a9f0-8da32e90b3e3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681059825574,
+      stageId: 'a0b7501a-af40-4165-b3ea-38eafbebeb18',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064657 : 31 -----
+32
+{
+  shipmentId: 'c3ea362b-1d96-4d52-8146-c956cd138110',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681131846860,
+      stageId: '9862aeff-f5c0-4f46-afda-2e35543fc7d1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064550 : 32 -----
+33
+{
+  shipmentId: '64c71408-f16c-490e-84bd-94bddbc5fb1b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681220096535,
+      stageId: '46c91dfa-00f0-43f4-b4ab-831d68fae005',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064534 : 33 -----
+34
+{
+  shipmentId: '8889abe1-59d4-4c60-b729-5dcd3f15b460',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680944530922,
+      stageId: '61f0300c-bd50-4cf2-aff6-75fa78173186',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064523 : 34 -----
+35
+{
+  shipmentId: '609d790b-3828-4d36-b934-7599fb40160a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681217114326,
+      stageId: '633fbfbf-4941-448a-a33b-a6d2393f3939',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064505 : 35 -----
+36
+{
+  shipmentId: 'bba39d41-f97a-4a2a-bc37-45574c67ae72',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681303703106,
+      stageId: '83928cae-e349-4a8b-b566-52ae81872767',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064504 : 36 -----
+37
+{
+  shipmentId: '9936fd1a-b10c-45c7-80ef-dda84d8e4c30',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1681290388087,
+      stageId: 'b609edb6-6b45-4abb-b9b0-7b65aa4799e3',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064292 : 37 -----
+38
+{
+  shipmentId: '96901fe0-956c-450e-8738-25c271d070d8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680871502770,
+      stageId: '768f5d06-218f-4f43-937c-9481f0e5b6b1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064171 : 38 -----
+39
+{
+  shipmentId: '152a8be3-8869-4785-8ea4-7caf28b83ffb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680843909348,
+      stageId: '0475307e-d124-4356-801a-3ba128554bfc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000064017 : 39 -----
+40
+{
+  shipmentId: 'ea4dcee4-f1c8-4193-bb5d-6376bb2278d0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680627797609,
+      stageId: '08e99c49-c655-4f67-a539-24078a559f23',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063896 : 40 -----
+41
+{
+  shipmentId: '8ccc339c-ea90-4b52-96a9-c0807daffd74',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680527078912,
+      stageId: '917fee89-0a4b-435b-b3a8-b99e7a095b74',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063786 : 41 -----
+42
+{
+  shipmentId: '3a8c6088-cf67-48a3-b00b-fe2189b136a2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680440623039,
+      stageId: 'bf98cf8b-ab3f-42fe-9df8-7efceb61c359',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063783 : 42 -----
+43
+{
+  shipmentId: '100879ef-1fd3-4e28-9af1-0aa24798428c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680440624454,
+      stageId: '5248f9b8-83c5-46fe-a149-cff724b6bf14',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063779 : 43 -----
+44
+{
+  shipmentId: '87fb69a5-752b-4338-85e7-c03b73b28fa4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680627938742,
+      stageId: '614bebb9-4342-447a-b354-5f0f4d875366',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063748 : 44 -----
+45
+{
+  shipmentId: 'd30fbc93-1996-46f3-80e2-34e698719c33',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680440691229,
+      stageId: '8f668175-70ca-45d7-930c-2f1cce7bf26f',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063663 : 45 -----
+46
+{
+  shipmentId: 'f84ad608-e4d9-4a52-bdac-f09f1e173674',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680613555490,
+      stageId: 'ac6a1845-62f3-44ed-b191-aeeaef7ae673',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063591 : 46 -----
+47
+{
+  shipmentId: '5a73153c-c0b7-44e7-9d89-97f65439c120',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680615016794,
+      stageId: '97a7a1ce-270e-42fc-bbaf-430a0626a2d7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063584 : 47 -----
+48
+{
+  shipmentId: 'e8b60622-5848-46ac-b5fc-5c767b42fb59',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680367459357,
+      stageId: '7e4a88d5-ce97-4bb7-a6f0-d9e143dd4b3e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063578 : 48 -----
+49
+{
+  shipmentId: '0a418794-79b0-45af-badd-d81f55155669',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680339880812,
+      stageId: '8e18d784-ffe5-457e-85fc-c7dedbf44d88',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063457 : 49 -----
+50
+{
+  shipmentId: '4754d4ba-35e8-42c1-ad9c-e2b5f6c057a8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680355969980,
+      stageId: 'e34a3ab7-c98c-46d0-bb84-3595bfe53d05',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063437 : 50 -----
+51
+{
+  shipmentId: 'c2b9ea7b-ca09-4f5b-924f-800b01d825e9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680311031045,
+      stageId: 'bee7d9e9-708b-42e2-8be4-3dfd095b35f5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063229 : 51 -----
+52
+{
+  shipmentId: 'ab6745d2-f02a-41da-a5b9-db39ae5fe6ed',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680485407059,
+      stageId: 'dedb0cd9-b18a-4ce7-84e7-d48754ed745a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063219 : 52 -----
+53
+{
+  shipmentId: '5e31f97e-d1b5-4d86-8ca8-286a570a5628',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680338803865,
+      stageId: '958ee7da-a27c-42d6-94d0-192e1b318136',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063212 : 53 -----
+54
+{
+  shipmentId: 'd672afc3-5a6a-426e-94c1-7e30028bdf11',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680181443125,
+      stageId: 'ce7ac4df-515c-46ac-a16a-1ae8389dbede',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063202 : 54 -----
+55
+{
+  shipmentId: 'a98c62c4-6448-4213-a900-edb84de79982',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680181467818,
+      stageId: 'e3027008-4cbf-471e-b895-89b24748a992',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000063176 : 55 -----
+56
+{
+  shipmentId: '990fc9d3-1c22-4665-a034-b3fe555f1a85',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680266680167,
+      stageId: '95c1c682-edaf-4a3e-af8c-2508a87f3706',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000062817 : 56 -----
+57
+{
+  shipmentId: '8707e78b-460b-45fa-b0f2-10a70030e891',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680037354574,
+      stageId: '4e0352cc-a057-4540-9ad5-d63f30a2d0cd',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000062305 : 57 -----
+58
+{
+  shipmentId: '28d72960-5bd2-48c5-a75e-6c05c721fc68',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680108362326,
+      stageId: 'd31b46a3-a4db-41fd-a05f-51263624dedb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000062164 : 58 -----
+59
+{
+  shipmentId: '6b758f9d-d9ec-4e3d-971d-e6c5555d140e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680270670000,
+      stageId: 'e98bd82c-83da-4078-81fe-daf43f498d00',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000062152 : 59 -----
+60
+{
+  shipmentId: '750b9ba4-0613-4b5d-95a6-3be659c1450b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679822131311,
+      stageId: 'e1899da8-6830-4f6d-8186-fcd26f83b2d6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000062095 : 60 -----
+61
+{
+  shipmentId: '019a3049-fbdb-4fe6-9971-3de1ed554e49',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680727584481,
+      stageId: '313f402c-d1f4-4d94-84e6-63ecc4243ec5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000061779 : 61 -----
+62
+{
+  shipmentId: 'e64fc01d-bccc-42c1-92e2-f1263c31788f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679490065000,
+      stageId: '7c57fa66-e0d8-455e-8a36-8a0fb574f6d4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000061478 : 62 -----
+63
+{
+  shipmentId: 'cc2f0c2d-b756-4009-917a-1bad96f9692d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1680397661227,
+      stageId: '8fd20d2e-0d2d-456e-9477-4f8c8c4ed93a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000061435 : 63 -----
+64
+{
+  shipmentId: 'f35f39a7-f7ea-4a45-90f6-69817a5f3e23',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679705140154,
+      stageId: 'd12b2c07-d473-41f4-9a71-87a6a527e2ec',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060902 : 64 -----
+65
+{
+  shipmentId: 'db4e9787-2259-416f-8982-0e0d58cd9c2e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679261288000,
+      stageId: '7831c586-a05b-43d8-9ff7-9628aa686e07',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060743 : 65 -----
+66
+{
+  shipmentId: '9551cff8-abc3-410d-bf56-73ebe7af53af',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679331843000,
+      stageId: '6e659ff2-28fb-483c-81b2-665c1427cc97',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060555 : 66 -----
+67
+{
+  shipmentId: '193e9cb0-1f02-47f2-838f-132f883db0c9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679474843000,
+      stageId: '27cf8606-ac9a-4dac-9fc5-d1c6da6b861f',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060293 : 67 -----
+68
+{
+  shipmentId: '0097c7c5-e2c4-4fb5-8ca3-fe3ea1046a99',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679160490000,
+      stageId: '2e938ec7-0f74-4406-8aec-9fb0764f1f8e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060160 : 68 -----
+69
+{
+  shipmentId: 'e4801e74-d986-4ec9-bf16-9d6eb3735c37',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678900315000,
+      stageId: 'a9863ba3-4ecf-477c-926d-c1f420e571ac',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000060090 : 69 -----
+70
+{
+  shipmentId: '7f198710-09dc-4c68-a3f7-f2dd960468ac',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678626564000,
+      stageId: '31e694c0-c1a4-4a6e-81ba-e88153218eca',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059894 : 70 -----
+71
+{
+  shipmentId: '339e39c1-b0b0-40f0-b1cf-93c1bca794d4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678798978000,
+      stageId: 'b30ff845-b2e3-4845-8fdd-b479ccdf1584',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059889 : 71 -----
+72
+{
+  shipmentId: '14182114-6eeb-4629-99d2-61a82b1ff4fe',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1679215523000,
+      stageId: 'd87f6d52-7250-4602-b635-585b97102c5b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059748 : 72 -----
+73
+{
+  shipmentId: 'e22df7c0-1f03-42d2-846f-564b11a9261c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678754588000,
+      stageId: 'cc8e1a74-b653-4ef1-9689-2ac8d5ad411d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059747 : 73 -----
+74
+{
+  shipmentId: '00e53990-97ad-403c-8de7-d80d1e456dd8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678741366000,
+      stageId: '8705b795-f654-49c9-9f37-a96d99bdcc7d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059741 : 74 -----
+75
+{
+  shipmentId: '4c3a790d-cc94-4ac6-b374-c35e0c918bcc',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678841034000,
+      stageId: '497d61db-c6a1-4ff2-9fda-8afd522aa9a6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059706 : 75 -----
+76
+{
+  shipmentId: '7a9ffedd-350b-41b3-87b7-ce350a8e6daa',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678597254000,
+      stageId: 'fd16edf2-1977-49ea-a8b2-46e260433cd4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059391 : 76 -----
+77
+{
+  shipmentId: '23ae9780-a4c7-46df-b37b-3af5060e5807',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678049584000,
+      stageId: 'a420ff34-ec51-489a-94f9-10bf94042813',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059374 : 77 -----
+78
+{
+  shipmentId: '3052875b-1c87-43b7-a08a-8203de1cd726',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678020156000,
+      stageId: '8c081ecc-d7af-4ce2-923b-8698438a337f',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059368 : 78 -----
+79
+{
+  shipmentId: '63d9c78e-1944-439b-9cf9-f1c89b94755b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678542617000,
+      stageId: '65ee018c-ff7c-451d-b482-cd2e564acdac',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059329 : 79 -----
+80
+{
+  shipmentId: 'f87c5540-2964-4c56-ba25-48cd507bd783',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678093524000,
+      stageId: '8d6a2f8f-bbe3-47b3-b3e2-7a52950de62b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000059129 : 80 -----
+81
+{
+  shipmentId: '4a88813e-2eaf-4612-870e-b63f04d5c293',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1678007278000,
+      stageId: 'd2cdee86-8007-45bb-9806-8ae1e240e6a5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000058577 : 81 -----
+82
+{
+  shipmentId: '9fa90f84-4a68-4c18-8e78-923c244cdf5e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677847848000,
+      stageId: 'ff8928dd-60c2-400f-b740-1d126084a6de',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000058491 : 82 -----
+83
+{
+  shipmentId: '5b01d3e3-899f-4a8f-a6fb-4298e28bd4f5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677632537000,
+      stageId: 'bab6825a-755a-4e5c-a515-7ae76fc83a64',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000058488 : 83 -----
+84
+{
+  shipmentId: '482ffe79-9f8f-4e91-b3e5-54d2537a3248',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677602565000,
+      stageId: 'c130fd84-efd5-4fcc-8847-9292331b1b3d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000058353 : 84 -----
+85
+{
+  shipmentId: '806ae7a8-de11-4bbd-b296-c558e9174e7d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677618053000,
+      stageId: '98dc3a28-1026-4646-abfc-f983b24812db',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057932 : 85 -----
+86
+{
+  shipmentId: '62f296f6-2113-4ccf-9984-984cd32ec7bb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677631755000,
+      stageId: '41c9955d-7c88-4ec3-8424-601b58e65d93',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057931 : 86 -----
+87
+{
+  shipmentId: 'fa5f41d9-b693-4b78-a554-3b23b3cdee1d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677674726000,
+      stageId: '27b4d513-bc53-40af-827b-0fe4270858a2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057738 : 87 -----
+88
+{
+  shipmentId: '8dc9b732-f90a-46c8-a708-90b0982a4bed',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677330276000,
+      stageId: '68cfc7de-27f1-49bc-921b-2118185e7ac5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057734 : 88 -----
+89
+{
+  shipmentId: '206d4d61-943c-4993-87fa-384c9b2478e3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677314735000,
+      stageId: '6f5e806c-a8e9-4ce8-9211-41f752ac5ecf',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057716 : 89 -----
+90
+{
+  shipmentId: '0cbb9ded-8d0d-499f-8360-d2d3dafa98fb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677372259000,
+      stageId: 'fe0e351b-ec03-464a-9795-d4e2c524d8ca',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057715 : 90 -----
+91
+{
+  shipmentId: '64d34db8-a108-4c19-ade4-c9363bbaa3c9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677315930000,
+      stageId: '9d120068-f038-4433-a1e7-8e6bfbc129ab',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057701 : 91 -----
+92
+{
+  shipmentId: 'eb7fffd1-c499-43b6-88e2-39a460bae4ad',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677981238000,
+      stageId: 'f1b9b00d-a84e-45a0-9c08-44d91e4f9313',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000057132 : 92 -----
+93
+{
+  shipmentId: '961042e0-a481-410f-8a50-14ad92efad99',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677403534000,
+      stageId: '31ff843d-2e5b-4929-9aec-243f1e41c46b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000056964 : 93 -----
+94
+{
+  shipmentId: '6284466a-8f54-446b-a59b-4720c1227a33',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677070157000,
+      stageId: 'a503e65c-5554-45ec-be21-a7caf8b8954e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000056857 : 94 -----
+95
+{
+  shipmentId: 'abf5bdae-e780-416a-94a7-672c684d5090',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677661694000,
+      stageId: '2914dc02-e802-44c3-9db1-460777ad91f7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000056633 : 95 -----
+96
+{
+  shipmentId: '71f1e743-e969-40d6-ac83-8637d47ffb30',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676912647000,
+      stageId: '209952d6-422c-4f88-a8d7-6f303b0473c3',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000056394 : 96 -----
+97
+{
+  shipmentId: '62ad4735-7df5-40ba-85e3-898c5aedcff0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677012307000,
+      stageId: '51dfdc8a-7613-407c-8752-fb05e8956305',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000056217 : 97 -----
+98
+{
+  shipmentId: '0745fef6-8188-4018-a86b-21959913c90f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676710452000,
+      stageId: 'e6b36ada-6136-4c44-9bec-f9c8d161b65f',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055995 : 98 -----
+99
+{
+  shipmentId: 'db8cdaa6-2ef8-4be3-a4c2-21c96f5fa7c8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676653258000,
+      stageId: '7cff4e4c-6907-4abf-a393-bb82f672f29c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055791 : 99 -----
+100
+{
+  shipmentId: 'f68ba55a-79c1-4d35-b1b6-b160e0c5fcec',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676551486000,
+      stageId: 'fa766afe-13c2-4cdc-91df-831d44bed5ba',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055749 : 100 -----
+101
+{
+  shipmentId: 'aec97a10-2a18-4de9-a9e3-f99640b97a3e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1677174245000,
+      stageId: '2b1baee3-47b7-44b8-a870-dc021f53f185',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055680 : 101 -----
+102
+{
+  shipmentId: '301933b8-acce-4345-ae2c-ed793a783464',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676623628000,
+      stageId: '68f1a1fe-5dea-4c5d-aaf4-4c4c58da2b87',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055624 : 102 -----
+103
+{
+  shipmentId: 'd27af328-a5b3-4f44-b426-808d00c6207b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676667850000,
+      stageId: '3192d010-0d56-4072-89bf-01b2e06b8364',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055526 : 103 -----
+104
+{
+  shipmentId: '2e84c244-116e-4dc9-b246-39e6de7da150',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676450804000,
+      stageId: '708f134c-5014-4315-930a-4f85a82ca5a0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055520 : 104 -----
+105
+{
+  shipmentId: '9230788d-4c3f-490b-bada-4338399c6f58',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676522737000,
+      stageId: '750f9d07-27b8-4b65-9e52-1f7756feea5c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055470 : 105 -----
+106
+{
+  shipmentId: '5797d16d-6cc1-4b59-bedc-cd4abe11cd23',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676537262000,
+      stageId: '6616c23b-d54f-4e05-80ed-b33203d27759',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055411 : 106 -----
+107
+{
+  shipmentId: 'e7eab03e-db4c-4b1b-94ef-935f7b0425c9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676379766000,
+      stageId: '963c448d-e25f-4c60-a1df-395099b77504',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055364 : 107 -----
+108
+{
+  shipmentId: '1852d4a8-0777-415e-b070-24b4cdcc4ee3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676451946000,
+      stageId: 'f5c57f08-a737-49e9-8a31-fabd1ff9fa97',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000055141 : 108 -----
+109
+{
+  shipmentId: '94131184-7cf0-4cc8-8df2-9d1b096d2aeb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676451059000,
+      stageId: '3abdf837-72d9-4b1c-9b70-c1f990f938c2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054989 : 109 -----
+110
+{
+  shipmentId: '6e381521-e9c4-4e31-be37-85d9d8a73aa2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676638146000,
+      stageId: '5fd8bc61-e50d-47f2-b309-82d391456bd8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054727 : 110 -----
+111
+{
+  shipmentId: 'b63be7ed-4be4-48d1-b7f0-be03d665084d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676178329000,
+      stageId: '1db3bb85-4b1e-4a98-8639-a1643e73ed86',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054714 : 111 -----
+112
+{
+  shipmentId: '2764490e-5437-4d28-9f07-a0c2fc5ad156',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676379204000,
+      stageId: 'f966c0f8-f9e7-44a4-ba27-10d8e75d3a56',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054507 : 112 -----
+113
+{
+  shipmentId: 'bb088727-6aca-4a70-be6e-09b99be4992f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676047650000,
+      stageId: '62aef756-15f5-42b1-94ff-b06da5d68640',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054462 : 113 -----
+114
+{
+  shipmentId: 'b1c8e6be-8593-44d0-abf2-be18e4fe8dbe',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675961267000,
+      stageId: 'b4653ac1-ae57-440c-8ed3-7be92a1c3452',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054305 : 114 -----
+115
+{
+  shipmentId: '68c3f8e5-fd26-475d-b985-5c5e6eba8e91',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675861369000,
+      stageId: '284727fd-e354-42e7-afdd-8dcc541df32f',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054298 : 115 -----
+116
+{
+  shipmentId: 'ae27b127-ba1f-48e3-b9a8-60542c33e5cb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675860421000,
+      stageId: '854d6725-7dc7-4673-9914-5b129c3c6943',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054152 : 116 -----
+117
+{
+  shipmentId: '62673557-f163-4e4a-9342-2db0bbcbffce',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675861548000,
+      stageId: '33550447-85ef-4fce-94a0-3bcd9e248b3d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000054098 : 117 -----
+118
+{
+  shipmentId: '36a038f3-7a71-4234-b112-64484e69c112',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675846100000,
+      stageId: '1df729cf-57fc-498b-aaa3-218f94d761f7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053928 : 118 -----
+119
+{
+  shipmentId: '4aeea494-d5a5-477e-a28a-3560aee1f78e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675817266000,
+      stageId: '50a51123-9718-4430-81cf-3d03d3cacfb3',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053915 : 119 -----
+120
+{
+  shipmentId: '456817d6-58e9-4f79-8411-800f1c3ef623',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675759562000,
+      stageId: '9c869642-29f6-4acb-b978-d7c7f906c5e4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053862 : 120 -----
+121
+{
+  shipmentId: 'a80bf912-69f2-46d4-8a4b-1d064ab537d1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675877218000,
+      stageId: '790876cc-6c66-4d9a-903e-a7db4fc0d586',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053773 : 121 -----
+122
+{
+  shipmentId: 'ba54eae6-755a-4c2d-bc9d-7ce3316f62dd',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675674102000,
+      stageId: '10441ce2-e363-4f94-89f0-950b5ce3c2f0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053719 : 122 -----
+123
+{
+  shipmentId: '8384366b-be26-47cf-86c6-890f68ffc079',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675760926000,
+      stageId: '1b48e279-fe82-4d34-a544-8cd16549cac2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053718 : 123 -----
+124
+{
+  shipmentId: 'e421824b-a21d-47ff-acda-8a8051a3592b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675803058000,
+      stageId: '6b6122b2-e7d4-4f4f-8236-5c9d7e728a6a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053695 : 124 -----
+125
+{
+  shipmentId: '1af6c7af-6ec4-43a1-be60-d4e2ac280994',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675760143000,
+      stageId: 'fb40038c-f92e-43da-a433-5b5ec434ed13',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053692 : 125 -----
+126
+{
+  shipmentId: 'd8504b3d-af57-4939-9cc0-ee95f289b58e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1676120172000,
+      stageId: '6a0adbb8-35e7-4d9c-9abe-c96a328f85c6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053472 : 126 -----
+127
+{
+  shipmentId: 'ad29520c-2a6e-46aa-b39f-a6e11caa5b58',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675746561000,
+      stageId: 'ba25dabf-50f2-4ee6-bafa-a9dfbf923675',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053384 : 127 -----
+128
+{
+  shipmentId: 'd4034f2a-3d4c-4288-9721-1aaf0fa052d7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675515390000,
+      stageId: '11d0d262-3dbd-48c3-bddd-f9dd01989a86',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053314 : 128 -----
+129
+{
+  shipmentId: '4d1bb91f-f964-4156-b359-c003a2f697f6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675846742000,
+      stageId: 'a008a499-5283-480b-bc27-ef14ec398685',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053276 : 129 -----
+130
+{
+  shipmentId: 'fb9aef87-c6b4-48d0-a716-6ab19b50e7fd',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675616715000,
+      stageId: 'be5e04e9-1439-4796-a864-5b2107a49933',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053271 : 130 -----
+131
+{
+  shipmentId: '2131c471-62a0-465d-9b3c-4a201e6ec863',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675515858000,
+      stageId: 'd7f02ea3-18d0-4afe-9deb-35d804b97378',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053132 : 131 -----
+132
+{
+  shipmentId: 'c1663a63-55ea-45b6-bba6-ad928d1a234a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675429377000,
+      stageId: '9b6a9776-ad8f-4cf0-a409-962aa36d13f9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053100 : 132 -----
+133
+{
+  shipmentId: '12723c06-fe9f-4bde-9811-0c57ca6f8cd9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675429334000,
+      stageId: 'd122ff7d-f1a4-4bcd-b25c-ab3bba89a7ac',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053049 : 133 -----
+134
+{
+  shipmentId: '8f2dbc9b-c620-41db-9064-27b6aaafce28',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675327413000,
+      stageId: '6b0d7e41-cee3-4071-9ff0-1d2523eb75a5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000053007 : 134 -----
+135
+{
+  shipmentId: '32374cca-78a5-4050-9a5f-3db4705a2d6e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675400524000,
+      stageId: '45efc768-d2d1-4697-a391-a707c0ff99f8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052965 : 135 -----
+136
+{
+  shipmentId: '227c42ec-fff9-40f6-896b-cf3446e03cfb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675327519000,
+      stageId: 'cfb4f5ca-1535-4680-9513-b93abdbfc301',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052930 : 136 -----
+137
+{
+  shipmentId: 'f4fa5deb-6711-4f10-ad47-78fcb8c1bc90',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675342037000,
+      stageId: '2d04c354-6639-4507-9506-62313750885b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052909 : 137 -----
+138
+{
+  shipmentId: 'd266ce38-3ffe-42a1-9b40-579cf606dc85',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675573582000,
+      stageId: '0c2452c2-f5ac-4fc7-ad21-58296a043ebb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052907 : 138 -----
+139
+{
+  shipmentId: '115ef82d-171d-4c3d-be18-5a674e37a44c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675702374000,
+      stageId: 'bee52de1-489b-45ca-a89b-d716427fe4cc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052852 : 139 -----
+140
+{
+  shipmentId: 'ccfb7b58-8bb2-40b8-be40-d2b0417e2f22',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675298778000,
+      stageId: 'f5d485f8-4f26-4a69-a8b2-4819d246772a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052849 : 140 -----
+141
+{
+  shipmentId: 'bb6afd6e-ebf0-4279-85dd-ac099a4b9fb7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675284398000,
+      stageId: '6deb3b01-f2f7-4170-a684-953a3c0e6236',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052846 : 141 -----
+142
+{
+  shipmentId: 'da29ee6a-24c0-4e88-b6fe-6a753eb6550a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675242205000,
+      stageId: 'e2d61ccd-1d0a-4e09-bc1f-c319ed51920b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052730 : 142 -----
+143
+{
+  shipmentId: 'b27807ed-ec64-4e3c-b34c-86acd8990990',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675356458000,
+      stageId: '83ed6681-c70d-4dea-8a7a-ef965d2bd710',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052728 : 143 -----
+144
+{
+  shipmentId: 'a2b3e6b8-f98a-4019-892d-d20929f9466b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675717021000,
+      stageId: 'f10b902c-e558-4ed2-b23c-c011ecbeefcc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052656 : 144 -----
+145
+{
+  shipmentId: '270130f5-7133-4026-bebc-2920484082bd',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675717069000,
+      stageId: 'd94d8b5c-9fd2-49d1-a106-22a8f931d74e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052611 : 145 -----
+146
+{
+  shipmentId: '6edf282c-38bf-48f0-9b60-a31085ddd370',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675315437000,
+      stageId: 'd8bf238d-5aa3-4d46-98f9-a1559a804f3d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052598 : 146 -----
+147
+{
+  shipmentId: '43ad5527-02bd-47a8-af15-ab96016eaf05',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675069028000,
+      stageId: '5532b820-5124-49ee-b4cf-05be8157054d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052567 : 147 -----
+148
+{
+  shipmentId: 'acad572e-4e50-49cd-a6c4-e531d46d23b8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675328085000,
+      stageId: 'a8f68283-3cb2-438d-8957-59f6485de2f8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052465 : 148 -----
+149
+{
+  shipmentId: '2a1539d8-b611-4875-bb5a-a98161e7f31f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675141441000,
+      stageId: '1c8f840b-7e3f-4cfd-bd9e-57eef7b3ea47',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052449 : 149 -----
+150
+{
+  shipmentId: '26d02d07-ce8b-4b25-bd4d-bc0bced078b3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675342255000,
+      stageId: '2a7c0e2a-d600-4b52-a7bb-b6750830faec',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052440 : 150 -----
+151
+{
+  shipmentId: '9dab8a56-7af7-4b42-a8e2-1f4b0431e021',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675184767000,
+      stageId: 'c15c7ee9-372f-4747-bac0-fdc1940e75fb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052382 : 151 -----
+152
+{
+  shipmentId: 'a20a29aa-baec-4e15-9e35-0be8f77a6586',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675068276000,
+      stageId: '52f94224-2650-4c66-bb99-2fbcc50bd37e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052176 : 152 -----
+153
+{
+  shipmentId: '12e81aaa-67cc-44e2-ab00-d71593dc0662',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675342163000,
+      stageId: '775b627f-1313-438f-8330-a4d17f785d68',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052109 : 153 -----
+154
+{
+  shipmentId: '0af10104-7e5d-43ab-a0d9-dad82edff156',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674910091000,
+      stageId: 'fc847004-ebe4-41bd-9718-5035a74b27d1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052101 : 154 -----
+155
+{
+  shipmentId: 'fcd61f22-de19-45e7-a7f4-e151247b5c9f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674909848000,
+      stageId: '44306c01-2f41-4ce8-95e6-a9cf578c2a95',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052100 : 155 -----
+156
+{
+  shipmentId: '1a0f663b-0a74-41a8-bcd2-a84d4da35242',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674909851000,
+      stageId: '596f18da-bdeb-4e92-aab4-9ceddeab2c08',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052083 : 156 -----
+157
+{
+  shipmentId: '031d751f-5b31-4584-ac69-0ebcd4ebea96',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674896075000,
+      stageId: '40a90af5-54f4-40ae-8dee-0bff5428c5b0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052075 : 157 -----
+158
+{
+  shipmentId: '3ade19e9-3c2e-497c-90af-83fbb7b801c6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675155731000,
+      stageId: '131f12c6-248b-4a09-a548-04560979c18b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052074 : 158 -----
+159
+{
+  shipmentId: '182b57be-14b0-4ab6-834e-33e634bf0414',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674910990000,
+      stageId: 'eca96b81-e28d-419d-8c78-9da320b5bf8e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000052039 : 159 -----
+160
+{
+  shipmentId: '84b4685a-6e9b-453d-bfaa-b86f1df2a7d0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674824624000,
+      stageId: '5d126273-7c72-4e67-b5f1-b2034fbff3cb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051888 : 160 -----
+161
+{
+  shipmentId: '84f37d7e-ed19-4f71-84c3-25effeeb9cee',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675097272000,
+      stageId: 'a0d04a5a-260e-48f1-932e-91f246cb94be',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051885 : 161 -----
+162
+{
+  shipmentId: '6a7dda07-c09a-4381-b4e9-c9b52da0741d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674854015000,
+      stageId: 'f87b2adf-367a-46d6-a720-b29078541e4b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051865 : 162 -----
+163
+{
+  shipmentId: '0678fc44-c538-4515-aeda-9bb0ffe69b75',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674895935000,
+      stageId: '690f48fc-5d54-4da0-9f9c-25f43066b9ea',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051806 : 163 -----
+164
+{
+  shipmentId: '5d5b2843-9c33-496c-8186-f4cb87a9abf3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674723487000,
+      stageId: '3d671fe3-4d5f-40ab-b8c0-e1323b58d09a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051804 : 164 -----
+165
+{
+  shipmentId: '74d50285-7f34-40ba-901a-0a32c79d2cf9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674780173000,
+      stageId: '6289e353-f27c-4107-8e6d-b06c68491a50',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051793 : 165 -----
+166
+{
+  shipmentId: '92a74f73-f5e4-4efa-93fc-094832bfbec1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674723565000,
+      stageId: '7f2f3c93-730c-46db-a43c-75542afb6589',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051787 : 166 -----
+167
+{
+  shipmentId: '4b1d94ab-c00d-4ff9-86ee-768cdb2ae50d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675198356000,
+      stageId: '6a56a80b-bc98-4834-9131-a91c51921e64',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051786 : 167 -----
+168
+{
+  shipmentId: 'cc0e1dfa-9f76-4f3a-b5fc-26605b59014d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674738172000,
+      stageId: '3c2018f3-6f12-4d17-b6df-0124e1042b28',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051778 : 168 -----
+169
+{
+  shipmentId: '7d8be3c5-56c7-4909-896e-3d124cb3339f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674809142000,
+      stageId: '569b1553-33f2-4ed7-945e-78a38abc4d77',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051701 : 169 -----
+170
+{
+  shipmentId: '13df5982-1b3d-4d6b-a391-dfa0b90d061e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1675198126000,
+      stageId: 'ef95c5a7-ee44-44ec-8e21-9879f6cf8353',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051595 : 170 -----
+171
+{
+  shipmentId: 'fe785d87-f65d-4ac5-a8fe-0d724b57036f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674651825000,
+      stageId: '0dc536c1-b852-4383-96fa-729d3144eb9e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051593 : 171 -----
+172
+{
+  shipmentId: '97957a7b-6453-4f82-b337-abdc6c844f42',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674650787000,
+      stageId: '280c1b5f-973b-4d3e-9433-17aab145bb20',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051582 : 172 -----
+173
+{
+  shipmentId: '17c19099-b5e6-436a-988d-b81502dbe3cd',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674636365000,
+      stageId: '7ca64c71-cbbe-4cd1-b65c-cfcb0267d174',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051505 : 173 -----
+174
+{
+  shipmentId: '2c0ac22e-619c-4cc6-ab3a-0ec60579b144',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674926185000,
+      stageId: '403cb5cf-08de-431a-a9f9-ddc25741220b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051487 : 174 -----
+175
+{
+  shipmentId: 'ffced9c9-8fbb-42a3-ba7f-2a2dd87bb1ab',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674982420000,
+      stageId: '15bfa0e5-bdcb-4b2e-bbf4-a19a44bee503',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051445 : 175 -----
+176
+{
+  shipmentId: '17614dbf-e724-42c6-a0d8-f6e1ec763ad1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674751634000,
+      stageId: '89ce29bd-9065-4976-992d-2a8b30d60f1e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051442 : 176 -----
+177
+{
+  shipmentId: 'f39d4cff-a1ce-4f44-83b2-9fc0911caf38',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674565369000,
+      stageId: 'b54535da-e049-4703-9f8b-cf50d882ba33',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051327 : 177 -----
+178
+{
+  shipmentId: '62fb500a-145a-483a-82a5-40db4a554ca1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674739011000,
+      stageId: '182ea108-8b95-40b5-b8b9-be17bfb80eda',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051277 : 178 -----
+179
+{
+  shipmentId: '9505163e-bd7c-47ad-986a-2a1296c7df82',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674738235000,
+      stageId: '734fd9ca-e439-4ac1-889d-51aadbe4604d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051275 : 179 -----
+180
+{
+  shipmentId: 'bd4bc87c-53f2-4bbb-9a36-14c3e549f305',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674738312000,
+      stageId: '88300cdf-7c07-41b7-915d-97398be2822e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051267 : 180 -----
+181
+{
+  shipmentId: '7c30c97e-fd2e-4eba-bf83-0aa40e9dc312',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674911238000,
+      stageId: '8b15333e-84bf-41d0-9df8-16d579fe8ec4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051167 : 181 -----
+182
+{
+  shipmentId: '7e7160c3-01ea-4597-b399-cb943fa87674',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674824911000,
+      stageId: '2bcdd87c-52be-460a-8321-89e6b32e8d1d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051166 : 182 -----
+183
+{
+  shipmentId: '917d0f3f-b2e4-487c-b4b7-4e2658ed099d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674550004000,
+      stageId: '27089ba9-3e60-4c58-afa7-a743d8703b5b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051163 : 183 -----
+184
+{
+  shipmentId: '6964c49a-4085-42c6-9293-0dd5ac85016c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674479023000,
+      stageId: '476e04c0-ed6f-40ea-8f44-f82355405a99',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051160 : 184 -----
+185
+{
+  shipmentId: 'cb07e387-2fa1-47a0-b8d6-03fe219325f8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674535566000,
+      stageId: '0d56fba5-283b-4366-b277-6d4cc4c66655',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051123 : 185 -----
+186
+{
+  shipmentId: '7b9a8a8d-a3b3-423e-8909-025a5d2c3ba2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674637613000,
+      stageId: '3f413af3-5971-482c-b1a1-ddc02f9f84b9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051078 : 186 -----
+187
+{
+  shipmentId: '68c1a596-253d-4882-82fb-66bd8190d43d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674521299000,
+      stageId: 'a6973772-0176-4cd7-93d0-771a0287d581',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000051025 : 187 -----
+188
+{
+  shipmentId: 'd44ab1ca-2a7e-475e-b94a-b2ebdbacb4c6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674393842000,
+      stageId: '7dd1cbbf-acab-4d5a-9b05-280f1bb8381a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050938 : 188 -----
+189
+{
+  shipmentId: '3944635a-aa49-49c7-ad07-1a00c3624887',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674625080000,
+      stageId: '0f58b8bd-8b01-46f1-897d-904fe942c16c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050891 : 189 -----
+190
+{
+  shipmentId: 'f40dfd9c-98b8-4159-807d-10e310ecb3b9',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674766199000,
+      stageId: 'c63426ba-c360-4398-a026-751543e42d33',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050761 : 190 -----
+191
+{
+  shipmentId: '3071864a-7e7d-4f8f-a396-6ac683effb25',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674478044000,
+      stageId: '6275d4b0-321d-425c-bc65-2d84de343560',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050690 : 191 -----
+192
+{
+  shipmentId: 'e039d792-17f8-4f44-a64d-8f1fb3fc3439',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674213850000,
+      stageId: '79d2183e-15bd-43bb-b00f-73d16a10aa83',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050686 : 192 -----
+193
+{
+  shipmentId: '0c56d169-8f91-46d5-aa65-d64e70022a6a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674234238000,
+      stageId: 'dfdc4311-91c4-4a08-afee-27b9f7bf616c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050665 : 193 -----
+194
+{
+  shipmentId: '61c72071-f08d-40fa-a8c6-0dd67321fbf4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674377372000,
+      stageId: '98f6e498-d444-40ad-b0e9-e23b6816be72',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050657 : 194 -----
+195
+{
+  shipmentId: '968b94f5-3bfa-4f65-b67b-84be5240ce55',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674262997000,
+      stageId: '0cbcdfad-4b2b-4fe9-8357-9f1305083ad7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050596 : 195 -----
+196
+{
+  shipmentId: 'f1c494e1-1173-47c1-9248-66f3cc43c278',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674551121000,
+      stageId: '3b2d16a0-1eab-40f2-b0eb-054790cabcf6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050528 : 196 -----
+197
+{
+  shipmentId: '050c5ef6-5a68-469a-96c5-37dca44c5e2a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674213971000,
+      stageId: '2853afda-1b83-4f3c-a7bf-01e5f9b069da',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050459 : 197 -----
+198
+{
+  shipmentId: 'cd146951-cba0-4e2c-9f62-1934fcba0248',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674233139000,
+      stageId: '1d9c6756-a087-4e9e-9865-2318c6141c51',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050457 : 198 -----
+199
+{
+  shipmentId: 'b8d012d1-9594-4383-9342-5195f9073141',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674320122000,
+      stageId: '1f44dab5-9ae3-440b-b682-85d849119eb8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050357 : 199 -----
+200
+{
+  shipmentId: '3350acf4-7c6b-45fe-81cf-9aa1f0a62480',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674147776000,
+      stageId: 'b8c6264e-f7ee-41f3-9bdb-fd0dd85f19eb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050310 : 200 -----
+201
+{
+  shipmentId: '0ce88227-5a4c-453e-9efd-24e87b25329f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674204394000,
+      stageId: '3452e19f-a03c-4502-8059-2c5ccd4f52bb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050266 : 201 -----
+202
+{
+  shipmentId: '22bfa5e4-1e59-4116-8717-049a5a1915a6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674366499000,
+      stageId: '9969eb5c-018b-4a2d-a064-0695f3752620',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050212 : 202 -----
+203
+{
+  shipmentId: 'e442db12-03ff-4815-a961-6aec4ed67feb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674133337000,
+      stageId: '33fd04d8-d745-4d60-95a5-a0bed8e79367',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050211 : 203 -----
+204
+{
+  shipmentId: '30052353-4367-46f7-bf16-a92392fe993c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674233315000,
+      stageId: 'fb708e89-f829-4826-aaa6-1a10e8ddefdb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050203 : 204 -----
+205
+{
+  shipmentId: '7f705bb0-04da-4c16-9af3-5eb0218f9cf5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674042520000,
+      stageId: '98914175-8c32-46de-a298-11e5cb0b1a93',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050141 : 205 -----
+206
+{
+  shipmentId: '644ccdd1-b3b5-41c1-abe6-ef554b5762fa',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674076107000,
+      stageId: 'd6e88699-1025-4e59-b6cf-34a5fc246a63',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050101 : 206 -----
+207
+{
+  shipmentId: '75a7205d-1721-4bdf-b87c-240ed44064c3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674042995000,
+      stageId: '2859dcd5-3971-4003-9558-669416e25c8c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000050083 : 207 -----
+208
+{
+  shipmentId: '367f5f69-e4ec-49cc-a210-d90b69813e34',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674826656000,
+      stageId: '1c1e3e0c-8cac-4652-b23d-8d185a783964',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049934 : 208 -----
+209
+{
+  shipmentId: '0e9780c9-072f-47c9-90b2-df8ba1df8c90',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674132724000,
+      stageId: '0740041f-4808-4c86-87d6-e148b574e505',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049911 : 209 -----
+210
+{
+  shipmentId: '7f6eb695-d266-4d3b-9f46-a86494300bb4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674220163000,
+      stageId: '298258b6-1173-456a-824e-7121e0e9b42a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049909 : 210 -----
+211
+{
+  shipmentId: '636b1096-b098-4450-bfcf-7e041bb3cc61',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674493718000,
+      stageId: 'c0331b2e-dc7c-4802-b614-9bf21ea5e039',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049732 : 211 -----
+212
+{
+  shipmentId: '017544d4-420c-434f-89a6-37c65163aab3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674204560000,
+      stageId: '8ec5aeca-9193-4cb2-9e13-a20566d0e5ac',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049731 : 212 -----
+213
+{
+  shipmentId: '61f641e3-dc3d-49c7-a3aa-13a0898c9487',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674741205000,
+      stageId: 'bcfe3473-9ff6-4618-a6ff-b8d51a92e815',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049699 : 213 -----
+214
+{
+  shipmentId: '4bb79816-8f72-43fb-ad8a-f72b2b3233fe',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674394884000,
+      stageId: '306775d1-6f02-4353-8a7f-7903c14741be',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049686 : 214 -----
+215
+{
+  shipmentId: '01f24c4f-7e66-4707-a505-50835b7578b5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673975092000,
+      stageId: '0c013131-5134-4e08-9a3e-4b0a03a231bc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049670 : 215 -----
+216
+{
+  shipmentId: '44e20d4f-13b1-499b-b2fc-82c5ac1a4862',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674582727000,
+      stageId: 'ba4e9267-7ace-4ec8-97d2-1e2e3cceb9c5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049595 : 216 -----
+217
+{
+  shipmentId: '3d772a5c-e644-4967-aa38-35c491597a6f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673869918000,
+      stageId: 'ce00bb6b-4e7f-4c90-ac23-ad38c05e9d90',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049579 : 217 -----
+218
+{
+  shipmentId: '47c85f6d-28f3-4775-88c3-b1d2af22ba03',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673873199000,
+      stageId: '4a9dccc8-ea2d-4902-8ac8-5e46cac20de4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049578 : 218 -----
+219
+{
+  shipmentId: 'bbf89d47-f0fe-4191-9d67-03495142f8a2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673887614000,
+      stageId: 'b3a9323f-ab9b-459a-b949-ffab8be8518b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049561 : 219 -----
+220
+{
+  shipmentId: 'd42a7058-8a81-4e8f-ad64-49f409060617',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673815492000,
+      stageId: '990c184c-67fb-4394-baac-ad888ffbfc43',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049537 : 220 -----
+221
+{
+  shipmentId: 'a11028ba-8e0e-484d-8884-bbd467780da6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673772985000,
+      stageId: 'f7a3c61d-34db-4209-aabc-de8e54b0b37d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000049526 : 221 -----
+222
+{
+  shipmentId: 'ec879c80-63c2-4bb6-a052-7d1e5b2ecb0e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673873675000,
+      stageId: 'd23f381a-9b01-4ba3-8a70-b32e6d9d90d4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048981 : 222 -----
+223
+{
+  shipmentId: '44980aec-8c3b-489a-a7a2-dda475aa861c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673615862000,
+      stageId: 'c382ab54-1a2e-4d5c-9cd3-cdb5214d50f0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048940 : 223 -----
+224
+{
+  shipmentId: '21b478f2-bb03-4893-89e3-d3693b3fcb06',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673933360000,
+      stageId: '2aa0e9f8-2acf-4ca5-a0ef-457847d154ce',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048873 : 224 -----
+225
+{
+  shipmentId: 'f17b9ed8-3c57-4290-91eb-200f4ba3b94e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673615010000,
+      stageId: 'ffc180be-c851-4b30-8c1b-9bd51a83ef15',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048847 : 225 -----
+226
+{
+  shipmentId: '59d91efb-89ce-4861-aa7d-c133858d1df7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673787739000,
+      stageId: 'b9996506-5cc2-4d31-898d-4c7d775e56eb',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048779 : 226 -----
+227
+{
+  shipmentId: '3befe2e1-1c92-4740-942d-92c08ce90d06',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673860919000,
+      stageId: '1fa073f0-856c-4c23-b4f2-792512ae9563',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048656 : 227 -----
+228
+{
+  shipmentId: '4f2ccb29-504f-434d-bd5c-9dd8aa87b415',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673974345000,
+      stageId: 'b24ebf45-75cc-47e0-bf45-64a86bc84e0a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048622 : 228 -----
+229
+{
+  shipmentId: 'cc86e71d-7aea-4091-bf33-44d382b4a66a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673875898000,
+      stageId: '42ecd096-1ff9-47b7-865a-4b761bbe1237',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048565 : 229 -----
+230
+{
+  shipmentId: '6f5cb3ea-13b4-41bf-a928-b84c58f63603',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673616787000,
+      stageId: '95423bfd-101b-4191-bf54-d832ebfdac4e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048498 : 230 -----
+231
+{
+  shipmentId: 'a473ef04-5762-4899-8e90-3266702a5df2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673543114000,
+      stageId: '9b0fbc06-88ab-4a8e-bc82-15a63f6ca6df',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048451 : 231 -----
+232
+{
+  shipmentId: '4a3278f3-00ab-41e7-8c91-34298e2bbabf',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673671761000,
+      stageId: 'b2d20253-7963-4159-bb52-f7d20c78229d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048423 : 232 -----
+233
+{
+  shipmentId: '0bd5d4a6-a2ff-4bcf-8fc8-ca586cf8035b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673890545000,
+      stageId: '24121ec9-e97f-4504-8505-a60f45390f25',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048406 : 233 -----
+234
+{
+  shipmentId: 'bed9d4e2-ae45-43e6-a1d4-9f0c6702ac3b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673852277151,
+      stageId: 'f2a698d7-4435-43a6-a487-84f315bf9d74',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048404 : 234 -----
+235
+{
+  shipmentId: '8a4cc2cb-4520-4ccf-9d66-3729d5f71d16',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673485394000,
+      stageId: '496c8b86-0475-4b99-b511-22defd6f4b40',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048353 : 235 -----
+236
+{
+  shipmentId: '1bc971c4-7c71-48fb-ab26-a8a2d633f1b3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673426685000,
+      stageId: 'd31c1408-6987-4033-a046-1414794a03a6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048348 : 236 -----
+237
+{
+  shipmentId: '8118a2dc-1daf-44cc-bc40-5e34f11a0ca7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673421003000,
+      stageId: '908df610-e9b6-444c-be10-876972850c76',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048287 : 237 -----
+238
+{
+  shipmentId: '2a2a8d39-b218-4b93-a1df-3321a263deaf',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673498742000,
+      stageId: '58c45cc4-3d6d-4741-9fd8-d25471077433',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048284 : 238 -----
+239
+{
+  shipmentId: 'd1f6f11d-1ed6-4261-9b1b-81cf34ff63ca',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673542918000,
+      stageId: 'f5286f99-4688-4b81-acac-a2440e8b58ca',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048239 : 239 -----
+240
+{
+  shipmentId: 'a716df3d-65ef-4d05-9213-d50782f9f63b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673529312000,
+      stageId: 'ab3e1adc-ef32-4e15-94ba-6c705d9c4e66',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048212 : 240 -----
+241
+{
+  shipmentId: '7407baaa-d3ca-4f1d-af3e-41542a7c436b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673543213000,
+      stageId: 'b5ccf7e9-ac6d-4de9-a723-234070e3639c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048204 : 241 -----
+242
+{
+  shipmentId: 'f3831959-a962-435b-9baa-6da7d6ba1aa6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1674262324000,
+      stageId: '0dcef945-1a15-4ab1-b49d-8023965b6b18',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048146 : 242 -----
+243
+{
+  shipmentId: '654fec48-1a59-4e09-ac4e-9c0349da14a2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673543136000,
+      stageId: 'adc7861e-d6eb-489b-acb0-a062170d14f0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048118 : 243 -----
+244
+{
+  shipmentId: '9a97e7bb-fe98-4474-a68e-b5f78250d060',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673530660000,
+      stageId: '508aa5b6-8ccf-4ecb-a170-0f7b36d284be',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000048062 : 244 -----
+245
+{
+  shipmentId: 'f1c38336-f3b7-4423-923b-7c922e29d9cb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673456838000,
+      stageId: 'f1ae90c5-7104-4b46-9450-705ce8bd1d63',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047973 : 245 -----
+246
+{
+  shipmentId: '3718736b-543f-43e3-9ac5-3521aa8bddc0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673456664000,
+      stageId: '147000b5-4de2-496e-8d9c-20e21651e01a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047961 : 246 -----
+247
+{
+  shipmentId: '7c8d46f6-6e92-4940-b0f8-c5dab107d325',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673427086000,
+      stageId: 'd2ac116e-01f4-4f42-a4d6-0b191e51a83d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047914 : 247 -----
+248
+{
+  shipmentId: '94d5b4b4-24f0-4a4b-9ebf-5c996123e4a3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673225405000,
+      stageId: '417617d7-3dfa-4430-a09b-038c2732d9b1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047905 : 248 -----
+249
+{
+  shipmentId: 'ef07bb15-1d8e-49e6-8f95-9fb21e1230da',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673239550000,
+      stageId: '0ffc4705-b7b6-4cbb-8077-c53a69835315',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047904 : 249 -----
+250
+{
+  shipmentId: '3208ce57-0a0d-4b16-9e1d-a7f266f40a66',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673369540000,
+      stageId: 'bbee6e45-bf8e-4cc4-85e7-f43c428aef8d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047903 : 250 -----
+251
+{
+  shipmentId: '8c96661d-a922-420f-9db2-08dad60d1470',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673341931000,
+      stageId: 'e9ce0917-4c2f-4378-9ddb-5ab37ff12976',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047897 : 251 -----
+252
+{
+  shipmentId: 'cba2c318-9a5b-411e-9a72-48b7c7fe8142',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673210836000,
+      stageId: '9cfd69d3-b4b9-4f4b-a1b7-e3886524fedf',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047889 : 252 -----
+253
+{
+  shipmentId: '99b02054-a597-4b2b-91d9-7ddb7a2e8113',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673182073000,
+      stageId: '90a2dcb8-0c10-4deb-8f81-b7ebe7cd2f12',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047860 : 253 -----
+254
+{
+  shipmentId: 'd33dabad-6a14-419e-95dd-7fc92770007a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673429431000,
+      stageId: '318755a2-8a65-4610-b570-5ddb47d9da0c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047810 : 254 -----
+255
+{
+  shipmentId: '07fa6cec-3442-4eac-b768-2a81f0bdc213',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673297195000,
+      stageId: '2dc3bc62-482a-41b6-8de9-59bfd1950285',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047693 : 255 -----
+256
+{
+  shipmentId: '34ed927f-f5db-489d-aa7b-68caa722859a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673225296000,
+      stageId: '1b65fa0d-d83d-4c38-b41f-939db6662a79',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047657 : 256 -----
+257
+{
+  shipmentId: '143e5cff-261d-40b2-8d71-e725787b6489',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673284249000,
+      stageId: '264b3bde-e766-40ac-a46e-47f59f50d3b2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047576 : 257 -----
+258
+{
+  shipmentId: '0a1f02cb-436e-40c1-b351-89fb2f963d4f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673240986000,
+      stageId: '999ac519-75d2-4dda-b224-625122ea5d65',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047565 : 258 -----
+259
+{
+  shipmentId: 'd0af56c0-cbae-4c63-9d65-8614d19f12f6',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673386093000,
+      stageId: 'e4a3b3dc-f8fd-401d-bb76-9e070f3d73ab',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047527 : 259 -----
+260
+{
+  shipmentId: '5e08adb4-f6bd-4b25-bab4-acdf75767c8b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673254855000,
+      stageId: '35f609bb-3c24-4737-a76e-cc9408288378',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047526 : 260 -----
+261
+{
+  shipmentId: 'fe91bc0a-9923-4958-b03e-dbe5730a6f9c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673284137000,
+      stageId: 'bef9253d-19fd-4116-a11f-20c312c1a233',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047489 : 261 -----
+262
+{
+  shipmentId: '1763823c-df65-4802-9ff7-005b033d9829',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673357535000,
+      stageId: '51155051-deb6-486b-bb11-ff05103c2b64',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047461 : 262 -----
+263
+{
+  shipmentId: 'b7ba1473-5a3b-4cf5-978d-b27def4d3f79',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673023524000,
+      stageId: 'f8c762e6-a475-4f91-a680-bcf39b1c756b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047342 : 263 -----
+264
+{
+  shipmentId: '98222224-5293-4f63-b76c-c7841e8acb14',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673023641000,
+      stageId: '845eb949-6073-4be9-b558-0dec37767689',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047291 : 264 -----
+265
+{
+  shipmentId: 'ac3aefff-a839-4944-8bdd-d592ed7fe89d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673327930000,
+      stageId: '04936eeb-a24b-4587-836c-efd076be4024',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047254 : 265 -----
+266
+{
+  shipmentId: 'ba76236b-644b-453e-b28c-e4f652cb5d1b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673226511000,
+      stageId: 'cf7cdac9-fc24-4155-a591-c8b09230affc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047143 : 266 -----
+267
+{
+  shipmentId: 'e85f1068-155c-4ae5-96b8-866c735589f2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672995935000,
+      stageId: 'd7a903db-e023-4316-8419-8c2dd759f6f0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047126 : 267 -----
+268
+{
+  shipmentId: 'c17a58a9-0a32-4cd3-b141-7e6577b43524',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672922780000,
+      stageId: '3b58260f-b969-4eba-a4e4-44e9dc4e1509',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000047005 : 268 -----
+269
+{
+  shipmentId: '0865159d-ec20-4a14-b594-0412355691c8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672894837000,
+      stageId: '1e8faa6c-b596-4828-a763-91863c3c87f8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046987 : 269 -----
+270
+{
+  shipmentId: '93c20c4f-ed34-4408-bec4-66e1348b0963',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672937618000,
+      stageId: 'af4cf163-1c34-433b-a1a7-aa14724af806',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046869 : 270 -----
+271
+{
+  shipmentId: 'a5bdd909-403e-4fc1-8171-9f535a5b0c04',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1673011640000,
+      stageId: '363182c8-622a-4211-93a8-a71ed64bd056',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046731 : 271 -----
+272
+{
+  shipmentId: 'd6776114-19f6-445f-9c15-b10ea784513d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672750075000,
+      stageId: '3ded4de9-6150-42a0-9ec0-c27c0b0f872d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046638 : 272 -----
+273
+{
+  shipmentId: '7b434228-bcd3-43e3-a4f5-5fe24f314f05',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672678895000,
+      stageId: '15feb341-d0b3-4496-99d7-643741104566',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046637 : 273 -----
+274
+{
+  shipmentId: '43f605c8-4d3a-4c1a-ba8e-3f0c74c60b12',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672707793000,
+      stageId: 'b28cfcf2-b036-40c0-b60e-493c30cc552d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046628 : 274 -----
+275
+{
+  shipmentId: 'ef59b5bb-b105-4356-9fa1-321a0ffd6df7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672664539000,
+      stageId: '51a391a2-9eec-4e52-9709-3c4515d41a9c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046621 : 275 -----
+276
+{
+  shipmentId: 'bd2b4b40-bfc8-4dd7-b332-66905ff61ac3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672707869000,
+      stageId: '8b2031c1-a530-4af7-8e22-efc71b9906f8',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046541 : 276 -----
+277
+{
+  shipmentId: '4be6bb7f-b1c9-4399-8ba6-35a67f592600',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672808970000,
+      stageId: '6902eef1-4f9e-4474-b938-713873025459',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046520 : 277 -----
+278
+{
+  shipmentId: '6279bbea-d207-4e86-b0eb-45a9daec686f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672663571000,
+      stageId: '6c8c2432-da6c-4510-bf82-406bc0176226',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046499 : 278 -----
+279
+{
+  shipmentId: '4cf81079-4458-4990-99d5-9c7885b97fe8',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672692388000,
+      stageId: '2069624b-f4fc-4d08-8fc1-813fac38423d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046408 : 279 -----
+280
+{
+  shipmentId: '9990fc1c-6960-44b3-a46a-f9c46d42f31a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672750188000,
+      stageId: '7fb104b5-c71d-4a03-aeec-4fde145e2551',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000046107 : 280 -----
+281
+{
+  shipmentId: 'b9493844-59e0-4e44-9f3c-d8ff3a88c514',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672478736000,
+      stageId: 'dffee21d-d933-4b37-aca9-9e88d72cda78',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045701 : 281 -----
+282
+{
+  shipmentId: '753eae5c-6682-4a16-bc77-9f42fd1e3870',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672405968000,
+      stageId: 'd1d9a37c-7549-4be0-b28e-802af813d358',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045696 : 282 -----
+283
+{
+  shipmentId: 'faf5cf5f-c861-4587-b333-ecedc7bf74ed',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672565011000,
+      stageId: '1d75ebb9-75f0-4bf2-936e-4ba3d4e7e747',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045593 : 283 -----
+284
+{
+  shipmentId: '1edaa204-a16e-4361-885e-0aed88bd6626',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672390075000,
+      stageId: '5103cff7-1a73-416a-8767-bcf684d7be8c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045549 : 284 -----
+285
+{
+  shipmentId: '398198a3-3cd9-411d-9b6e-321bd1e2e829',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672550644000,
+      stageId: 'c7d74f3c-033b-4eae-b614-72ab59672c28',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045448 : 285 -----
+286
+{
+  shipmentId: 'e0f80c4f-8be8-4d50-9b3e-43c040bf7d63',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672245931000,
+      stageId: '642e315b-4577-4fad-ad67-08625c93aa90',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045395 : 286 -----
+287
+{
+  shipmentId: 'eee86e47-deae-47be-b092-459ac55359ca',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672577688000,
+      stageId: '4735ce45-1641-4561-914a-0b5ea1946511',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045394 : 287 -----
+288
+{
+  shipmentId: '3fe5fa67-ed4c-40d0-ad06-df224d609b30',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672779263000,
+      stageId: 'f210a7f0-dd2d-4c73-ac7a-74f94937343c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045255 : 288 -----
+289
+{
+  shipmentId: 'ce89ba80-2a3b-4cb4-8e8a-b51860cf4885',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672231667000,
+      stageId: '28147370-3303-41d5-8e86-e5b97bfac3a6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045245 : 289 -----
+290
+{
+  shipmentId: '95e116b6-2c4a-4b5b-aa7c-4ecc3ecdd7c7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672406067000,
+      stageId: '615b56d4-1fd0-40ca-9d66-57dd8beab75b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045227 : 290 -----
+291
+{
+  shipmentId: 'd95a262b-209e-4dbb-8a7d-73b814e3ae28',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672319998000,
+      stageId: '94fa9bf3-60e3-4544-baed-71834c5b51ea',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045138 : 291 -----
+292
+{
+  shipmentId: 'dddff6e1-6df0-415a-9a87-27115a03c659',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672159639000,
+      stageId: 'bbdf28e8-e092-48f1-b8c0-dbbaca6c97b1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045137 : 292 -----
+293
+{
+  shipmentId: '59055447-aa78-4bc4-9cda-ec4c24221b7c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672231808000,
+      stageId: 'ad971ff0-dd6a-415c-b5d3-0cb708a9833e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045078 : 293 -----
+294
+{
+  shipmentId: '29e377ac-9460-4d7b-8400-257f352ed8eb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672087521000,
+      stageId: '453e4705-fd95-4f44-8996-46b3d2eca631',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000045058 : 294 -----
+295
+{
+  shipmentId: 'b46ffebe-a75e-4909-af11-ab8518f33aff',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672262395000,
+      stageId: '1454307e-6f9c-48c7-92ea-0075c4e4bd38',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044974 : 295 -----
+296
+{
+  shipmentId: 'f7501ee3-a7b2-48cb-9593-bbfc99dbb092',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672339236000,
+      stageId: '93bd441d-6876-43bd-acd7-7c6f737ed776',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044908 : 296 -----
+297
+{
+  shipmentId: '0954b23b-b558-47a7-be6c-e2040d24ace3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672044364000,
+      stageId: '2aae0485-80f8-482b-beb8-0f03ec9b1ace',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044655 : 297 -----
+298
+{
+  shipmentId: '073f9714-eb67-4811-83aa-55eeca9b6aa0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671885894000,
+      stageId: '4b08c933-d89a-44a1-9bbe-f2a9880d10c5',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044504 : 298 -----
+299
+{
+  shipmentId: '9bed6a15-506c-4c4c-82e7-cdb0c48b24db',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1672018567000,
+      stageId: 'b76d0d6a-01d6-4f34-859e-d4ca17f75f06',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044110 : 299 -----
+300
+{
+  shipmentId: '9a13e1a4-37b1-490d-a58b-8e252ed16cda',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671727507000,
+      stageId: '12c5515f-ea10-43f7-ad56-dc87d03945b3',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044074 : 300 -----
+301
+{
+  shipmentId: '716d677b-ba1b-4ae5-ac72-ecb1258059e5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671785084000,
+      stageId: 'b9924c41-6bca-4aa5-a9ae-1983a8331bf0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000044048 : 301 -----
+302
+{
+  shipmentId: '56432722-9b8e-498d-8641-7ed5c98cef3d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671727641000,
+      stageId: '253b3190-c324-48d5-b8e5-72e548311fa4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043858 : 302 -----
+303
+{
+  shipmentId: 'e2783e90-3b34-4606-8066-df34e59694ea',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671641158000,
+      stageId: '695d4453-b186-44be-aa18-034fac488b83',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043848 : 303 -----
+304
+{
+  shipmentId: '10528c45-4b3e-43e7-a386-493c7f39d5b4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671626827000,
+      stageId: 'c47cd780-d032-4f56-90e4-3329b67a6513',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043815 : 304 -----
+305
+{
+  shipmentId: '83de9cd0-9a78-426e-a506-e14c27d53b10',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671875293000,
+      stageId: '3d120a79-2bb2-4ac9-8dbd-f2de0a9e3851',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043490 : 305 -----
+306
+{
+  shipmentId: '7dec1c75-589e-403d-ab9d-4b87b69813eb',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671728231000,
+      stageId: 'bdb250cf-be25-42d8-ac18-eaa68fc2d28c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043455 : 306 -----
+307
+{
+  shipmentId: 'e7bb446e-3c62-4b16-ac48-43b81e97acb1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671627849000,
+      stageId: 'c05e1033-726a-44e9-839a-83a9b993105b',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000043050 : 307 -----
+308
+{
+  shipmentId: '932228a3-02c2-4486-8106-254234f0b65a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671398295000,
+      stageId: 'af282fc5-588d-4aae-8d88-81568860dfc0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042821 : 308 -----
+309
+{
+  shipmentId: 'a9687bf6-5f9b-4d46-925f-e9a389fc6a9c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671843174000,
+      stageId: '1f4f4fe3-367a-4b3e-a621-4fcce6129fd9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042625 : 309 -----
+310
+{
+  shipmentId: 'dea0a466-b3b6-49cf-86df-23da21977ac0',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671642582000,
+      stageId: '34ffc36c-0a95-465c-8a1e-34fb9d8e8fea',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042531 : 310 -----
+311
+{
+  shipmentId: 'dfd963d8-b74c-4cd7-806d-e72f5a4218da',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671153194000,
+      stageId: '5d86c49a-5e44-4428-9445-5bbee478c5b1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042326 : 311 -----
+312
+{
+  shipmentId: 'af24ec2a-6ced-42aa-aeaa-715d244397ed',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671209589000,
+      stageId: 'c57be559-1787-43f7-a35d-f093f4b2850c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042323 : 312 -----
+313
+{
+  shipmentId: '05386164-1bd3-4d8d-86e8-f7942fa38e16',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671353786000,
+      stageId: '56e604a5-e193-4773-ad4b-2c8ab6fad352',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000042155 : 313 -----
+314
+{
+  shipmentId: '93cf8631-2d5a-440e-8077-cd87df15e6a2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671068147000,
+      stageId: 'b52ff459-7c50-4deb-a056-f926460ae782',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041897 : 314 -----
+315
+{
+  shipmentId: '87a14ba2-5564-4f0e-ae4d-8abaceebdbb4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670866076000,
+      stageId: '9b477bf5-00f4-4d82-a055-5b59ddf7ae46',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041777 : 315 -----
+316
+{
+  shipmentId: '4709065e-9e47-46a7-8999-17035c33bf6c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670662215000,
+      stageId: 'f39155d7-9507-4566-8db8-69a7ec1f92fd',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041765 : 316 -----
+317
+{
+  shipmentId: 'd5d9b4eb-fb1f-450f-b596-036579e746b3',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670661755000,
+      stageId: 'b7ad93a5-8caf-4744-8d01-8602e2ad5856',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041763 : 317 -----
+318
+{
+  shipmentId: 'af4e70df-c3ae-4bb7-a0c8-e020ea7a175d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671267118000,
+      stageId: 'b91384f5-c036-4b52-9cf1-7c80a928fa0d',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041694 : 318 -----
+319
+{
+  shipmentId: '86226c87-093a-4857-8143-793a8564365a',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670893473000,
+      stageId: '0229d363-7c9a-40e6-8146-8f4142e8cce9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041692 : 319 -----
+320
+{
+  shipmentId: 'a4bb2df4-e087-4c6d-9f3d-427edabfa7f7',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671311306000,
+      stageId: '0db0d90d-fc1e-452a-9145-f3165c359332',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041685 : 320 -----
+321
+{
+  shipmentId: '5ad51e35-df60-4e08-893d-ba9009686773',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671007662000,
+      stageId: 'cef48fad-a361-4096-ba39-3843312848a9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041630 : 321 -----
+322
+{
+  shipmentId: 'bf606172-41a7-4213-842b-b6c305aca6fd',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671109318000,
+      stageId: '6e3338f0-1d44-4977-86c7-cfacc6bed689',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000041386 : 322 -----
+323
+{
+  shipmentId: '6ebb7926-0a40-46bb-b8f2-67f5e2cc215c',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670604487000,
+      stageId: '73303935-b4d4-4e96-91f6-e814d8f993b7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040952 : 323 -----
+324
+{
+  shipmentId: 'b89abe77-ee36-41b2-867e-d9de6ad1acad',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670491224000,
+      stageId: 'c13c3b9c-a29b-41c7-b9f1-481a136923c2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040565 : 324 -----
+325
+{
+  shipmentId: '3338159f-5b55-438d-b992-1b9f9627c80f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670434460000,
+      stageId: '08733bad-ceb1-4a84-a6e8-8fc38206acf4',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040553 : 325 -----
+326
+{
+  shipmentId: '30f92b8e-6b78-457d-9b67-278a5701d6b2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670302824000,
+      stageId: '77b129b9-7258-47aa-b549-a787ba53fe24',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040428 : 326 -----
+327
+{
+  shipmentId: '6439b4f6-f434-469f-be68-2c58abc02a9d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671543399000,
+      stageId: '7fe90865-7126-40f5-84fc-d4c2ba6a44fc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040385 : 327 -----
+328
+{
+  shipmentId: '816cdc75-7f6d-4cab-bee0-2d1ddc4784d5',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670633700000,
+      stageId: 'd276f468-176e-4851-9be9-bfe4711b2b43',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040333 : 328 -----
+329
+{
+  shipmentId: '1aa1d972-4331-4b13-8a84-2edd94161533',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670230977000,
+      stageId: '58a99acc-2065-4e01-95d9-c16612744085',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040225 : 329 -----
+330
+{
+  shipmentId: '17d0c877-3e02-4011-846c-3267e9aad304',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1671543415000,
+      stageId: '762d8c9f-c034-4bad-895b-cea40d0c2ce0',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040205 : 330 -----
+331
+{
+  shipmentId: 'b48f9be6-622f-4bb8-b2b0-df3f6ffaa10d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670114713000,
+      stageId: '3f9b79c8-74f0-45d4-a2f7-7e64281fd45e',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000040196 : 331 -----
+332
+{
+  shipmentId: '07055a30-d6de-46ec-8ddd-449089220e1b',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1669971315000,
+      stageId: 'f162f10e-c6c6-474d-934a-c3b699ea65e1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000039494 : 332 -----
+333
+{
+  shipmentId: '94ad77b0-de58-481a-b757-6ca41d63e308',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670072811000,
+      stageId: '3bbdb521-3ac4-4d4e-ad47-2243e1d81e7a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000038544 : 333 -----
+334
+{
+  shipmentId: 'e3479dc2-6958-423a-812c-3b70d64b3535',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1670075126000,
+      stageId: '8b23a266-cf44-4bb3-8597-9e4f108d5624',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000031633 : 334 -----
+335
+{
+  shipmentId: '1af5b024-5fab-43ef-9751-20ba38e9058e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1666358110228,
+      stageId: 'd3e49df7-4dbf-4b16-82c4-6729709a4ac2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000027942 : 335 -----
+336
+{
+  shipmentId: 'd60a81cf-6646-4e15-b1eb-144f8758614e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664875728673,
+      stageId: '7f0c4618-e8b2-4388-b20d-773aae09f17c',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000027834 : 336 -----
+337
+{
+  shipmentId: '0da3a7ab-d2b1-4390-904f-f2932a60732f',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664916572486,
+      stageId: '8329df01-7f36-4348-b664-7af51a53de64',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000027711 : 337 -----
+338
+{
+  shipmentId: '095625e8-6665-4d09-a16a-9ab329f7d20d',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664875779377,
+      stageId: '8eb61d09-dd7d-40d4-bb32-bd451064da56',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000027191 : 338 -----
+339
+{
+  shipmentId: 'dd9c78a6-a0b0-45dd-a126-44844d54ae42',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664818279707,
+      stageId: '1fbb8ebb-7fd2-4de1-8544-3d407771132a',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000027041 : 339 -----
+340
+{
+  shipmentId: 'f7683454-9254-46e7-9a77-ac7005ba3c78',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1665047510879,
+      stageId: '8e4891cf-e909-4d70-9fcb-7bb0cd1f66d6',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000026922 : 340 -----
+341
+{
+  shipmentId: 'ae33efdd-4a75-427a-b2e3-b5d795482898',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664024800971,
+      stageId: '936f4e38-b3e0-44db-8934-aee87735f2d7',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000026833 : 341 -----
+342
+{
+  shipmentId: '6569734c-ab82-4d56-843d-6c2515dc9f59',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1663923909919,
+      stageId: '1c934601-1ed0-4723-922a-76102e66b998',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000026766 : 342 -----
+343
+{
+  shipmentId: '99381947-22eb-45a6-9f95-ac7f23898ff2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664630030829,
+      stageId: '8b9eaef2-022f-4d22-840e-20f2e755f6da',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000026764 : 343 -----
+344
+{
+  shipmentId: '2985c561-9e25-474e-af7d-b8c736ef7835',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1664444050548,
+      stageId: 'bf5dd79c-f933-4cc4-9358-c43a2e324fe9',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000026118 : 344 -----
+345
+{
+  shipmentId: '57b75cb5-b7f3-4917-88e7-e83f5e14d554',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1663780647173,
+      stageId: 'b6369ab0-d95c-4efb-afec-a41eee1163fc',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025931 : 345 -----
+346
+{
+  shipmentId: '542dab9a-8053-4e62-b69c-80c46b2a1c8e',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1663405450804,
+      stageId: '402d781a-4335-4778-b39e-5519913e64ef',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025795 : 346 -----
+347
+{
+  shipmentId: '72b56d85-000f-46aa-99c4-a5e6ba13b321',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1663847024000,
+      stageId: '7366a320-f8c3-4e1c-aeb6-c41162b202f2',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025600 : 347 -----
+348
+{
+  shipmentId: '23fce1ab-7e8c-4195-a95b-55d9b9b5d4ca',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1663159804294,
+      stageId: 'afe040be-0142-426b-a849-7392e5f705de',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025165 : 348 -----
+349
+{
+  shipmentId: '87aba0a8-f57e-4d9a-b53e-a7b4b0a95d82',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1662901370085,
+      stageId: '77d1dfe6-99c6-442f-8526-e94bc5410b22',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025151 : 349 -----
+350
+{
+  shipmentId: '24fc3f18-981b-4e34-b6d8-c48cd0f419c4',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1662813759910,
+      stageId: '92ca15ca-a782-4e3c-ad53-ad0495f51865',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000025022 : 350 -----
+351
+{
+  shipmentId: 'a2a58d96-3b8e-480f-b8f2-cef0d8c8d6d1',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1662647903000,
+      stageId: '15d80cff-916d-4e63-bb07-792090936c94',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000024498 : 351 -----
+352
+{
+  shipmentId: '4bde22e5-d230-429d-ad6c-dc34350a4e56',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1662965564000,
+      stageId: '5a388875-6379-4116-9722-e1bceecd40e1',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000024127 : 352 -----
+353
+{
+  shipmentId: '4895858b-9fd7-48a6-a72b-d53867df5f25',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1662410613073,
+      stageId: '3375e179-6f36-4f96-a7a7-af7b410d7884',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
+--- shNo  FRETSH000023466 : 353 -----
+354
+{
+  shipmentId: 'e66d504a-3697-4370-8c34-5603e5d1aaa2',
+  updates: [
+    {
+      keyToUpdate: 'markcomplete',
+      updatedValue: 1661592039126,
+      stageId: 'c30a2e79-9414-49e0-ad5c-c0accf8ee247',
+      markComplete: true
+    }
+  ]
+}
+sh completed -->undefined now status Completed
