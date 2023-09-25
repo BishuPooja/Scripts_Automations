@@ -1,0 +1,84 @@
+46969
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&source=%5B%22uuid%22%2C%22externalId%22%5D
+{"externalId":"BP17815170","uuid":"98fc2c4a-b7b8-4366-8441-4b19429f7c4b"}
+Total Orders: 10
+externalId BP17815170
+sheetData { extId: 'SN00475149' }
+externalId BP17648474
+sheetData { extId: 'SN00475149' }
+externalId PL04886856
+sheetData { extId: 'SN00475149' }
+externalId BP17589397
+sheetData { extId: 'SN00475149' }
+externalId BP17605846
+sheetData { extId: 'SN00475149' }
+externalId BP17518618
+sheetData { extId: 'SN00475149' }
+externalId BP17694280
+sheetData { extId: 'SN00475149' }
+externalId BP17550649
+sheetData { extId: 'SN00475149' }
+externalId BP17589363
+sheetData { extId: 'SN00475149' }
+externalId BP17561264
+sheetData { extId: 'SN00475149' }
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+closeOrderCount 0
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&source=%5B%22uuid%22%2C%22externalId%22%5D
+Total Orders: 10
+externalId BP17815170
+sheetData { extId: 'SN00475149' }
+externalId BP17648474
+sheetData { extId: 'SN00475149' }
+externalId PL04886856
+sheetData { extId: 'SN00475149' }
+externalId BP17589397
+sheetData { extId: 'SN00475149' }
+externalId BP17605846
+sheetData { extId: 'SN00475149' }
+externalId BP17518618
+sheetData { extId: 'SN00475149' }
+externalId BP17694280
+sheetData { extId: 'SN00475149' }
+externalId BP17550649
+sheetData { extId: 'SN00475149' }
+externalId BP17589363
+sheetData { extId: 'SN00475149' }
+externalId BP17561264
+sheetData { extId: 'SN00475149' }
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+closeOrderCount 0
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&source=%5B%22uuid%22%2C%22externalId%22%5D
+Total Orders: 10
+externalId BP17815170
+sheetData { extId: 'SN00475149' }
+externalId BP17648474
+sheetData { extId: 'SN00475149' }
+externalId PL04886856
+sheetData { extId: 'SN00475149' }
+externalId BP17589397
+sheetData { extId: 'SN00475149' }
+externalId BP17605846
+sheetData { extId: 'SN00475149' }
+externalId BP17518618
+sheetData { extId: 'SN00475149' }
+externalId BP17694280
+sheetData { extId: 'SN00475149' }
+externalId BP17550649
+sheetData { extId: 'SN00475149' }
+externalId BP17589363
+sheetData { extId: 'SN00475149' }
+externalId BP17561264
+sheetData { extId: 'SN00475149' }
+orderOpenSheet length 0
+[]
+closeOrders length 0
+[]
+closeOrderCount 0
+https://apis.fretron.com/shipment-view/sales/v2/orders?limit=10&filters={"status":["OPEN"]}&source=%5B%22uuid%22%2C%22externalId%22%5D

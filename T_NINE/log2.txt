@@ -1,0 +1,910 @@
+180
+ShipmentNo TNINE000000942
+status AT
+{"shipmentId":"acec11a6-fedf-4f6e-9ff4-8cd6775b4504","updates":[{"keyToUpdate":"departureTime","updatedValue":1688442156708,"stageId":"cf8a8677-b11f-48bc-b223-3b8b96ae2936","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 1
+ShipmentNo TNINE000000944
+status AT
+{"shipmentId":"0c6d4f74-3dc3-4df9-a46f-7571b2b7785c","updates":[{"keyToUpdate":"departureTime","updatedValue":1688393950805,"stageId":"58ea09d4-eef1-4c10-bcdf-4016f364fc3a","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 2
+ShipmentNo TNINE000000877
+status AT
+{"shipmentId":"1f9f1581-903c-41f1-a206-5969e70dff3b","updates":[{"keyToUpdate":"departureTime","updatedValue":1688359767468,"stageId":"71931435-8487-42eb-ab8f-af40fb7d26ba","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 3
+ShipmentNo TNINE000000874
+status AT
+{"shipmentId":"77b93d1d-63cf-44c1-be5e-33c6798baf7f","updates":[{"keyToUpdate":"departureTime","updatedValue":1688320529331,"stageId":"ccb1762c-0215-4584-b134-85b3ca4f3c5e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 4
+ShipmentNo TNINE000000865
+status AT
+{"shipmentId":"c77aa835-5b7d-464f-8e27-c687a50962f3","updates":[{"keyToUpdate":"departureTime","updatedValue":1688204569043,"stageId":"25eadaaf-fca7-4f69-af01-2e76e275a994","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 5
+ShipmentNo TNINE000000853
+status AT
+status NEXT
+{"shipmentId":"0207e08d-022c-45c9-b1df-f315c4c0d342","updates":[{"keyToUpdate":"departureTime","updatedValue":1688056265617,"stageId":"98820f20-9117-4827-9789-4ae8f60c3eb5"},{"keyToUpdate":"arrivalTime","updatedValue":1688229005617,"stageId":"3a776f35-f134-4499-9fff-5bb4b586b779"},{"keyToUpdate":"departureTime","updatedValue":1688229065617,"stageId":"3a776f35-f134-4499-9fff-5bb4b586b779","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 6
+ShipmentNo TNINE000000844
+status AT
+{"shipmentId":"c063446b-9d5f-4be9-9cce-d6259bc3c7c7","updates":[{"keyToUpdate":"departureTime","updatedValue":1688379704780,"stageId":"e811ffa0-bf49-46f7-861a-fcf7d9d566c2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 7
+ShipmentNo TNINE000000837
+status AT
+{"shipmentId":"0eaa9e72-ddf2-4259-8440-728a9b654e58","updates":[{"keyToUpdate":"departureTime","updatedValue":1688282990765,"stageId":"88e22444-4dd9-43ea-aa01-a52c59db74f0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 8
+ShipmentNo TNINE000000828
+status AT
+{"shipmentId":"76672a6f-d168-4a91-a830-827d48248184","updates":[{"keyToUpdate":"departureTime","updatedValue":1688284852110,"stageId":"b9c16966-18cc-44fe-922b-c72642fd948d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 9
+ShipmentNo TNINE000000826
+status UPCOMING
+{"shipmentId":"abfede58-2dcd-4adb-afcc-2e745cba6f86","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688226162523,"stageId":"c55f5ea4-42a9-4c32-a045-e4fd852f31fa"},{"keyToUpdate":"departureTime","updatedValue":1688226222523,"stageId":"c55f5ea4-42a9-4c32-a045-e4fd852f31fa","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 10
+ShipmentNo TNINE000000824
+status AT
+{"shipmentId":"d615e540-8d59-4385-891c-f052cf834f4c","updates":[{"keyToUpdate":"departureTime","updatedValue":1688225771676,"stageId":"0172ac5e-9811-4c93-99ba-a998ab51aee0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 11
+ShipmentNo TNINE000000981
+status AT
+{"shipmentId":"7407d205-32cb-4306-8270-ed2cb5ac1318","updates":[{"keyToUpdate":"departureTime","updatedValue":1688388390224,"stageId":"760183a8-a213-43dc-b204-c7f42737dd76","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 12
+ShipmentNo TNINE000000926
+status AT
+{"shipmentId":"a6e0fcc9-8745-4780-bd29-6399282a05de","updates":[{"keyToUpdate":"departureTime","updatedValue":1688384453801,"stageId":"193c9c91-db85-468e-8015-bff1293fd282","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 13
+ShipmentNo TNINE000000923
+status UPCOMING
+{"shipmentId":"1826027f-0366-42db-b3ce-912cbaa63f88","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688375192193,"stageId":"083ffbf4-1b3c-4c2e-b6fc-742691153a37"},{"keyToUpdate":"departureTime","updatedValue":1688375252193,"stageId":"083ffbf4-1b3c-4c2e-b6fc-742691153a37","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 14
+ShipmentNo TNINE000000902
+status AT
+{"shipmentId":"6ac0e334-c074-43f4-8e3e-0973e7f6603d","updates":[{"keyToUpdate":"departureTime","updatedValue":1688318488128,"stageId":"b1d5f352-3249-4df7-8db5-d4b500fbe405","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 15
+ShipmentNo TNINE000000908
+status UPCOMING
+{"shipmentId":"55039a91-12dc-421d-a66b-e774c01bb1b4","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688354009805,"stageId":"6ed20ef4-a9c2-4cca-9720-c275fd1e74a2"},{"keyToUpdate":"departureTime","updatedValue":1688354069805,"stageId":"6ed20ef4-a9c2-4cca-9720-c275fd1e74a2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 16
+ShipmentNo TNINE000000842
+status AT
+{"shipmentId":"4cd039cb-8c09-4d24-b9d0-80339005cf12","updates":[{"keyToUpdate":"departureTime","updatedValue":1688318739272,"stageId":"5fc67475-ea9d-4070-a1e1-3dbed6de58b9","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 17
+ShipmentNo TNINE000000849
+status AT
+{"shipmentId":"21e206f8-323c-4b66-97f8-d641915865b6","updates":[{"keyToUpdate":"departureTime","updatedValue":1688292989381,"stageId":"96e3d947-d166-4610-b369-1e807cd7bf6a","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 18
+ShipmentNo TNINE000000839
+status AT
+{"shipmentId":"cf6a876b-72b2-4f80-a0d9-bdd0bccea2e7","updates":[{"keyToUpdate":"departureTime","updatedValue":1688289632101,"stageId":"9e2e4453-4c44-4e95-ad9e-d9ea22dacf8e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 19
+ShipmentNo FRESH0001069
+status AT
+{"shipmentId":"3828ecd8-8d47-4ada-975d-1d7daf0ccf95","updates":[{"keyToUpdate":"departureTime","updatedValue":1688314628672,"stageId":"098a867a-31c0-4032-ac3f-bac910470fbf","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 20
+ShipmentNo TNINE000000827
+status AT
+{"shipmentId":"83fcace9-efc4-4b19-abf8-506f0a5ea46b","updates":[{"keyToUpdate":"departureTime","updatedValue":1688293942469,"stageId":"b5875e4a-3c20-4710-aa3e-9ad7a3f69d06","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 21
+ShipmentNo TNINE000000816
+status UPCOMING
+{"shipmentId":"02b8e7c5-10b4-4559-b7c8-896f8dfeff89","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688195451231,"stageId":"46c46ab5-326f-4e3b-aefe-0dba6ec1a7cb"},{"keyToUpdate":"departureTime","updatedValue":1688195511231,"stageId":"46c46ab5-326f-4e3b-aefe-0dba6ec1a7cb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 22
+ShipmentNo TNINE000000807
+status UPCOMING
+{"shipmentId":"fb55b37d-4458-4704-b937-cf66def43db0","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688228663188,"stageId":"ac49f258-8bd0-455c-94c4-d3892e0e162b"},{"keyToUpdate":"departureTime","updatedValue":1688228723188,"stageId":"ac49f258-8bd0-455c-94c4-d3892e0e162b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 23
+ShipmentNo TNINE000000804
+status AT
+{"shipmentId":"97324d5d-4791-4a34-9f9a-6e6b0bfb5913","updates":[{"keyToUpdate":"departureTime","updatedValue":1687348170432,"stageId":"e514a8a1-b90a-46d2-844c-3129d41b3f4e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 24
+ShipmentNo TNINE000000799
+status UPCOMING
+{"shipmentId":"5256280e-ce4b-4c99-8bb9-c97065dafbd7","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688213326613,"stageId":"1544e54a-15c2-4d9c-9897-68f72727ba41"},{"keyToUpdate":"departureTime","updatedValue":1688213386613,"stageId":"1544e54a-15c2-4d9c-9897-68f72727ba41","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 25
+ShipmentNo TNINE000000796
+status AT
+{"shipmentId":"48cfb631-2b73-4e03-96b3-b091a872feb0","updates":[{"keyToUpdate":"departureTime","updatedValue":1687603085878,"stageId":"22a136f0-b30a-47e3-8ca4-998aa44366b4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 26
+ShipmentNo TNINE000000781
+status AT
+{"shipmentId":"5a2a80ae-98c2-4888-87b8-b9227751d95f","updates":[{"keyToUpdate":"departureTime","updatedValue":1688200159677,"stageId":"4cca9d2f-18dd-44ad-b99b-0a12e711af76","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 27
+ShipmentNo TNINE000000776
+status AT
+{"shipmentId":"83a68df2-2287-4ded-bf77-077e069f97a9","updates":[{"keyToUpdate":"departureTime","updatedValue":1688192015579,"stageId":"59c1381b-185d-4d77-add2-80c8e0aa9e5e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 28
+ShipmentNo TNINE000000775
+status UPCOMING
+{"shipmentId":"284361eb-0c62-48c4-aaf1-4db191744157","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688207738823,"stageId":"4406de01-3e6a-4e7f-9be4-ac347c010ff3"},{"keyToUpdate":"departureTime","updatedValue":1688207798823,"stageId":"4406de01-3e6a-4e7f-9be4-ac347c010ff3","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 29
+ShipmentNo TNINE000000859
+status UPCOMING
+{"shipmentId":"8cc5e927-e8a3-4c04-bf66-e78590478abb","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688302231645,"stageId":"2facd811-2fd6-4d65-8c3f-fb74727177fd"},{"keyToUpdate":"departureTime","updatedValue":1688302291645,"stageId":"2facd811-2fd6-4d65-8c3f-fb74727177fd","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 30
+ShipmentNo TNINE000000779
+status AT
+{"shipmentId":"e15c7ab0-eca0-4714-ba6f-a3964742963f","updates":[{"keyToUpdate":"departureTime","updatedValue":1688194405767,"stageId":"9dc397af-bb6c-4ffa-ab4b-53628f028a8b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 31
+ShipmentNo TNINE000000868
+status AT
+{"shipmentId":"9be1b45b-d5f7-4b8e-b129-4def16f969b3","updates":[{"keyToUpdate":"departureTime","updatedValue":1688281620706,"stageId":"4e36cf31-6bed-40ac-b2eb-66ab4889cffb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 32
+ShipmentNo TNINE000000857
+status UPCOMING
+{"shipmentId":"c200fb9c-1948-427d-8f92-15aefaf25be2","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688267543776,"stageId":"af9cd0e6-61b4-435f-b487-79d6994191f0"},{"keyToUpdate":"departureTime","updatedValue":1688267603776,"stageId":"af9cd0e6-61b4-435f-b487-79d6994191f0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 33
+ShipmentNo TNINE000000762
+status AT
+{"shipmentId":"ea284c30-83b5-41a3-8875-6fbb2385ba18","updates":[{"keyToUpdate":"departureTime","updatedValue":1688058328445,"stageId":"8dd235a1-5688-447c-8099-85f9e276b346","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 34
+ShipmentNo TNINE000000754
+status UPCOMING
+{"shipmentId":"412e977a-a6e1-4506-a9ef-4f81abbe7408","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688143527846,"stageId":"b995da5c-8398-4829-b24d-8df245770417"},{"keyToUpdate":"departureTime","updatedValue":1688143587846,"stageId":"b995da5c-8398-4829-b24d-8df245770417","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 35
+ShipmentNo TNINE000000753
+status AT
+{"shipmentId":"87f893dc-2b83-4115-b2e0-bf63dec327f1","updates":[{"keyToUpdate":"departureTime","updatedValue":1688086638168,"stageId":"2e7867dd-ac42-458c-a5f3-ff0769fe385e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 36
+ShipmentNo TNINE000000747
+status UPCOMING
+{"shipmentId":"31bc517e-2245-4071-929c-aad942bd1985","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688143222562,"stageId":"bb4d17ab-255d-4bba-9988-2d196de24f12"},{"keyToUpdate":"departureTime","updatedValue":1688143282562,"stageId":"bb4d17ab-255d-4bba-9988-2d196de24f12","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 37
+ShipmentNo TNINE000000743
+status AT
+{"shipmentId":"d1723fce-7185-4c73-9ab4-7782fde8cf77","updates":[{"keyToUpdate":"departureTime","updatedValue":1688122307153,"stageId":"c9dcb85c-ac7b-4216-bd1e-b373045ad9c1","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 38
+ShipmentNo TNINE000000715
+status UPCOMING
+{"shipmentId":"76e724f3-fdb6-4045-a57b-34e155782c6e","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688117781160,"stageId":"61b8c706-1653-4bd8-b383-158b2b9b6076"},{"keyToUpdate":"departureTime","updatedValue":1688117841160,"stageId":"61b8c706-1653-4bd8-b383-158b2b9b6076","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 39
+ShipmentNo TNINE000000780
+status UPCOMING
+{"shipmentId":"c51b21c8-fe01-456f-9e60-fe84dce22aa4","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688210150311,"stageId":"2c113ca9-d647-497c-8118-2d4486263a17"},{"keyToUpdate":"departureTime","updatedValue":1688210210311,"stageId":"2c113ca9-d647-497c-8118-2d4486263a17","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 40
+ShipmentNo TNINE000000904
+status UPCOMING
+{"shipmentId":"a6b0ee2b-30a6-41a2-bddf-f1f18ead82c4","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688208274112,"stageId":"8896b303-c72d-4b74-9f82-e4b181fe6ac1"},{"keyToUpdate":"departureTime","updatedValue":1688208334112,"stageId":"8896b303-c72d-4b74-9f82-e4b181fe6ac1","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 41
+ShipmentNo FRESH0000965
+status UPCOMING
+{"shipmentId":"31601cb2-f3e7-4413-885b-8be069de7fa9","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688180844660,"stageId":"0250fa67-f079-4ab7-8944-2f46ad53e33b"},{"keyToUpdate":"departureTime","updatedValue":1688180904660,"stageId":"0250fa67-f079-4ab7-8944-2f46ad53e33b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 42
+ShipmentNo TNINE000000786
+status UPCOMING
+{"shipmentId":"a70e49df-0555-4af3-8382-8278f9fa77c2","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688144408930,"stageId":"7f704ea8-eddd-48ab-b959-c924a7fdc9a4"},{"keyToUpdate":"departureTime","updatedValue":1688144468930,"stageId":"7f704ea8-eddd-48ab-b959-c924a7fdc9a4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 43
+ShipmentNo FRESH0000952
+status UPCOMING
+{"shipmentId":"de1a91f0-cc06-4761-be8d-d20bd597964f","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688136130511,"stageId":"b61dd0a3-dc79-46db-a47d-bb62f0021f9b"},{"keyToUpdate":"departureTime","updatedValue":1688136190511,"stageId":"b61dd0a3-dc79-46db-a47d-bb62f0021f9b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 44
+ShipmentNo TNINE000000701
+status AT
+{"shipmentId":"286c3c55-7d82-4315-ad67-9dfe4885bd91","updates":[{"keyToUpdate":"departureTime","updatedValue":1688001761588,"stageId":"78f5827b-0797-4e61-a07c-2b09a465b8bd","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 45
+ShipmentNo TNINE000000700
+status UPCOMING
+{"shipmentId":"845e5883-629e-4bf8-b5bc-fa1a3fa4a0a1","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1688020075243,"stageId":"eecac732-34d1-43c0-8e3d-6e4a9f60303e"},{"keyToUpdate":"departureTime","updatedValue":1688020135243,"stageId":"eecac732-34d1-43c0-8e3d-6e4a9f60303e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 46
+ShipmentNo TNINE000000698
+status UPCOMING
+{"shipmentId":"c11163f4-d800-42b3-b847-f933ecc55075","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687960118516,"stageId":"e0ed4a3c-3719-4ab1-a721-a41713dd7031"},{"keyToUpdate":"departureTime","updatedValue":1687960178516,"stageId":"e0ed4a3c-3719-4ab1-a721-a41713dd7031","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 47
+ShipmentNo TNINE000000695
+status AT
+{"shipmentId":"4e67b5ad-c75a-4034-9e7d-da1de03b1ede","updates":[{"keyToUpdate":"departureTime","updatedValue":1687945928189,"stageId":"38a48917-40e5-47a7-bdbb-8dad6eb617ff","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 48
+ShipmentNo TNINE000000694
+status AT
+{"shipmentId":"622db9e3-7b13-427e-8f2c-b7e18a9a2cff","updates":[{"keyToUpdate":"departureTime","updatedValue":1687932429610,"stageId":"fd915caa-1ca0-4b0d-83e6-6b14fa72aab6","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 49
+ShipmentNo TNINE000000691
+status UPCOMING
+{"shipmentId":"e0eb69b4-0530-4bea-adf9-2669c2558198","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687969945455,"stageId":"63e9702d-a1dc-4f66-8e78-1070ccfea151"},{"keyToUpdate":"departureTime","updatedValue":1687970005455,"stageId":"63e9702d-a1dc-4f66-8e78-1070ccfea151","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 50
+ShipmentNo TNINE000000689
+status UPCOMING
+{"shipmentId":"b727a01d-d988-4b7e-8194-d12270b81c73","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687933927870,"stageId":"1fff8281-d016-4e40-9a1e-821c241b0493"},{"keyToUpdate":"departureTime","updatedValue":1687933987870,"stageId":"1fff8281-d016-4e40-9a1e-821c241b0493","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 51
+ShipmentNo TNINE000000771
+status AT
+{"shipmentId":"67f7a5c3-fb41-4329-a5f4-42f5db1ef375","updates":[{"keyToUpdate":"departureTime","updatedValue":1688129693719,"stageId":"5e77c5f5-91b6-406d-af6c-bf1728e00969","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 52
+ShipmentNo TNINE000000749
+status AT
+{"shipmentId":"177ddb2e-e4ac-4c0e-b70b-ec1bdebb57ff","updates":[{"keyToUpdate":"departureTime","updatedValue":1688122497476,"stageId":"37573748-3f13-4a91-be1a-f813a9b1ddb8","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 53
+ShipmentNo FRESH0000947
+status AT
+{"shipmentId":"769e1288-2aa9-465c-b794-c2b1bf477c7a","updates":[{"keyToUpdate":"departureTime","updatedValue":1688128202454,"stageId":"2d701609-7702-4889-a0ff-ea0fd72a2c02","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 54
+ShipmentNo TNINE000000751
+status AT
+{"shipmentId":"7464be5c-630e-4e86-a3ff-feee271fccd7","updates":[{"keyToUpdate":"departureTime","updatedValue":1688122491861,"stageId":"ff7fbe02-8065-40cc-a5da-ffbbb188fdc2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 55
+ShipmentNo TNINE000000731
+status AT
+{"shipmentId":"78ded6c2-2e42-42fa-a61e-f503de2c29a0","updates":[{"keyToUpdate":"departureTime","updatedValue":1688117684366,"stageId":"9c4fa462-115c-4ad4-95cc-4b4e5551a33b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 56
+ShipmentNo TNINE000000682
+status UPCOMING
+{"shipmentId":"153ac627-ad55-4407-8aa2-d103dd5570fe","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687883250944,"stageId":"914f432e-885a-49ec-aedf-5ba08ca12970"},{"keyToUpdate":"departureTime","updatedValue":1687883310944,"stageId":"914f432e-885a-49ec-aedf-5ba08ca12970","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 57
+ShipmentNo TNINE000000678
+status AT
+{"shipmentId":"9b8eae1c-b35f-4712-a2e9-969d530c7b0f","updates":[{"keyToUpdate":"departureTime","updatedValue":1687934551173,"stageId":"2a377830-f210-4cef-95f9-13279666c30c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 58
+ShipmentNo TNINE000000671
+status AT
+{"shipmentId":"e7ecedf9-affd-499b-ad8e-6b342e4e504f","updates":[{"keyToUpdate":"departureTime","updatedValue":1687862621355,"stageId":"3ce821ea-2231-4969-a672-f5c54c71d78f","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 59
+ShipmentNo TNINE000000724
+status AT
+{"shipmentId":"9e66fd49-4d6b-40cf-ae90-4627c559ba86","updates":[{"keyToUpdate":"departureTime","updatedValue":1687973882432,"stageId":"a80e5fc4-7a87-4807-a121-c14851af82d2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 60
+ShipmentNo TNINE000000686
+status AT
+{"shipmentId":"4dfa181c-81d3-406f-ab61-9bd6c81e596d","updates":[{"keyToUpdate":"departureTime","updatedValue":1687925043721,"stageId":"a921aaf6-8124-4641-8aa8-65d3f3ac7cda","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 61
+ShipmentNo TNINE000000725
+status AT
+{"shipmentId":"25d1573e-6e7a-4827-9661-0a293a783b24","updates":[{"keyToUpdate":"departureTime","updatedValue":1687958306789,"stageId":"9154c3aa-79fa-483b-9980-ae054717450f","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 62
+ShipmentNo TNINE000000681
+status AT
+{"shipmentId":"64537256-d456-4be3-aaea-3f1db17a132c","updates":[{"keyToUpdate":"departureTime","updatedValue":1687950791835,"stageId":"d4d709f9-6134-4086-8bad-038b7316c163","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 63
+ShipmentNo TNINE000000666
+status AT
+{"shipmentId":"b9a061dc-b05f-4f06-b8d2-314a91216391","updates":[{"keyToUpdate":"departureTime","updatedValue":1686675124627,"stageId":"358b6e02-eee7-4b12-90fe-d7df02ad33c0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 64
+ShipmentNo TNINE000000655
+status UPCOMING
+{"shipmentId":"169b541c-afa8-4c72-925c-a00e6906c764","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687927180400,"stageId":"355b8a7e-c0cc-41f0-ae7d-2b2937ee189c"},{"keyToUpdate":"departureTime","updatedValue":1687927240400,"stageId":"355b8a7e-c0cc-41f0-ae7d-2b2937ee189c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 65
+ShipmentNo TNINE000000641
+status AT
+{"shipmentId":"e6b91fc9-bce2-4ef8-b2e1-cfef379e43f7","updates":[{"keyToUpdate":"departureTime","updatedValue":1687419299875,"stageId":"4407aa49-5c42-4b51-921e-faafb91cb282","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 66
+ShipmentNo TNINE000000628
+status UPCOMING
+{"shipmentId":"8519e019-5312-44e1-8b1a-10ed929ee192","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686726646215,"stageId":"2cec042a-ef9d-4bdf-8aa6-68aeaea64c0d"},{"keyToUpdate":"departureTime","updatedValue":1686726706215,"stageId":"2cec042a-ef9d-4bdf-8aa6-68aeaea64c0d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 67
+ShipmentNo TNINE000000626
+status AT
+{"shipmentId":"89e53424-2a1f-4573-a9ef-f0ac66bbc8e4","updates":[{"keyToUpdate":"departureTime","updatedValue":1687167271830,"stageId":"053e38ec-6923-4f7f-aecd-676b6d668be8","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 68
+ShipmentNo TNINE000000625
+status AT
+{"shipmentId":"930aea68-de19-40be-b17e-0aaa77458b5c","updates":[{"keyToUpdate":"departureTime","updatedValue":1687565922180,"stageId":"55ee8749-0c72-44c1-aee6-3a3e3aa2aef0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 69
+ShipmentNo TNINE000000624
+status AT
+{"shipmentId":"4285e78f-d8f7-4fe5-b950-97ca28cf7581","updates":[{"keyToUpdate":"departureTime","updatedValue":1687922936621,"stageId":"191f6e75-9330-4315-bf07-5ff257ff9a9b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 70
+ShipmentNo TNINE000000619
+status AT
+{"shipmentId":"78646f0a-2d0e-4c62-883b-6ff00f7f2ac0","updates":[{"keyToUpdate":"departureTime","updatedValue":1686717696849,"stageId":"61ae8b0a-1dc6-4d18-a28a-1b57050673c5","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 71
+ShipmentNo TNINE000000612
+status AT
+{"shipmentId":"0536bcbf-d413-419e-86f3-7d0b03f27ce2","updates":[{"keyToUpdate":"departureTime","updatedValue":1687324328668,"stageId":"86ef99e9-a945-4592-b046-bb6d4e2f13db","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 72
+ShipmentNo TNINE000000607
+status AT
+{"shipmentId":"d4d02e8c-0fc4-4036-9262-ddce77269dfe","updates":[{"keyToUpdate":"departureTime","updatedValue":1686158042561,"stageId":"8352a296-ee09-4b3a-9b65-92d1adde85ee","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 73
+ShipmentNo TNINE000000606
+status UPCOMING
+{"shipmentId":"126bcb3f-a5a0-4b3b-96d9-d9a2e5d74fae","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687926886622,"stageId":"8dadf08b-f684-4194-af5c-71a5cc233299"},{"keyToUpdate":"departureTime","updatedValue":1687926946622,"stageId":"8dadf08b-f684-4194-af5c-71a5cc233299","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 74
+ShipmentNo TNINE000000603
+status AT
+{"shipmentId":"0c848f6c-598e-414d-bed5-5f288d5170a8","updates":[{"keyToUpdate":"departureTime","updatedValue":1687675477605,"stageId":"dfa66245-8428-4687-a0ea-9139d2ace102","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 75
+ShipmentNo TNINE000000596
+status AT
+{"shipmentId":"76f255e8-ce6d-423e-84a3-e0751e09d4f5","updates":[{"keyToUpdate":"departureTime","updatedValue":1687142479732,"stageId":"338806c4-9e3e-46c3-8494-10504f156891","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 76
+ShipmentNo TNINE000000592
+status AT
+status NEXT
+{"shipmentId":"1c57891c-0616-4b50-9878-476ec821eae0","updates":[{"keyToUpdate":"departureTime","updatedValue":1687659543298,"stageId":"4189f660-58bc-45a2-b325-ee08505fc979"},{"keyToUpdate":"arrivalTime","updatedValue":1687832283298,"stageId":"7668f480-06c3-442f-9a9b-afb30e2b216d"},{"keyToUpdate":"departureTime","updatedValue":1687832343298,"stageId":"7668f480-06c3-442f-9a9b-afb30e2b216d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 77
+ShipmentNo TNINE000000579
+status UPCOMING
+{"shipmentId":"2b75d62d-fd38-4541-9b04-a0e9d07e096c","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686068131924,"stageId":"fc286f8b-a76d-48d6-808c-00e9faefe066"},{"keyToUpdate":"departureTime","updatedValue":1686068191924,"stageId":"fc286f8b-a76d-48d6-808c-00e9faefe066","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 78
+ShipmentNo TNINE000000575
+status AT
+status NEXT
+{"shipmentId":"541671e9-c787-4ddd-a699-690e276825f0","updates":[{"keyToUpdate":"departureTime","updatedValue":1685897541131,"stageId":"f09917f3-d16d-4c5d-9b1d-5e8bc269acca"},{"keyToUpdate":"arrivalTime","updatedValue":1686070281131,"stageId":"cd7b7244-affb-4a14-869d-20f350517a18"},{"keyToUpdate":"departureTime","updatedValue":1686070341131,"stageId":"cd7b7244-affb-4a14-869d-20f350517a18","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 79
+ShipmentNo TNINE000000692
+status AT
+{"shipmentId":"a96ff943-3190-4ae4-9715-6f6bc4e19ab8","updates":[{"keyToUpdate":"departureTime","updatedValue":1687924311068,"stageId":"2e106b3c-8f2d-45ef-91f9-c9820aaf0258","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 80
+ShipmentNo TNINE000000705
+status UPCOMING
+{"shipmentId":"fcf5bc24-3b9a-42fa-8cbc-56623daf718d","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687923469621,"stageId":"e3f46136-55a1-4033-986a-a643bea0fadc"},{"keyToUpdate":"departureTime","updatedValue":1687923529621,"stageId":"e3f46136-55a1-4033-986a-a643bea0fadc","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 81
+ShipmentNo TNINE000000555
+status AT
+{"shipmentId":"e293de1d-d26f-4c3d-b932-85e0c925e042","updates":[{"keyToUpdate":"departureTime","updatedValue":1687805272510,"stageId":"79823086-0e45-423b-baf2-3204fcb416d2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 82
+ShipmentNo TNINE000000538
+status UPCOMING
+{"shipmentId":"4ed2bed2-868d-4d7a-b5f9-854266c50228","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686070595750,"stageId":"0eb83275-6522-4117-83dc-020f6fb8f1a2"},{"keyToUpdate":"departureTime","updatedValue":1686070655750,"stageId":"0eb83275-6522-4117-83dc-020f6fb8f1a2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 83
+ShipmentNo TNINE000000530
+status UPCOMING
+{"shipmentId":"47ea6d6d-5e37-4f0d-9d6c-b451f62d1de7","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687757847955,"stageId":"aa45a627-4a08-46a4-8009-7edda6a19b82"},{"keyToUpdate":"departureTime","updatedValue":1687757907955,"stageId":"aa45a627-4a08-46a4-8009-7edda6a19b82","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 84
+ShipmentNo TNINE000000525
+status UPCOMING
+{"shipmentId":"47c038ac-1a49-4e10-a523-45120f9d94f0","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687150805657,"stageId":"e7680c55-82ed-4b3b-bfe3-d1e48aeccf72"},{"keyToUpdate":"departureTime","updatedValue":1687150865657,"stageId":"e7680c55-82ed-4b3b-bfe3-d1e48aeccf72","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 85
+ShipmentNo TNINE000000524
+status AT
+{"shipmentId":"766bab51-89e2-4b5d-8d3c-612aa7149b36","updates":[{"keyToUpdate":"departureTime","updatedValue":1687759343522,"stageId":"b4aa15c6-e16b-457a-bb4d-9d436b92276b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 86
+ShipmentNo TNINE000000668
+status AT
+{"shipmentId":"059a611a-d7db-438c-936a-5a765c8b26c1","updates":[{"keyToUpdate":"departureTime","updatedValue":1687789558563,"stageId":"2ba82852-1866-4d60-a9f5-df862fb750c7","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 87
+ShipmentNo FRESH0000832
+status AT
+{"shipmentId":"f3c5cea3-25ce-466a-b952-622ee55535c2","updates":[{"keyToUpdate":"departureTime","updatedValue":1687864600722,"stageId":"812ba62d-82af-4a68-bd11-8faddc60d132","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 88
+ShipmentNo TNINE000000674
+status UPCOMING
+{"shipmentId":"aa8ae997-37f9-4820-b282-7b15975564a6","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687863465680,"stageId":"60c0a05d-07b1-466b-88ed-fb9b8013f226"},{"keyToUpdate":"departureTime","updatedValue":1687863525680,"stageId":"60c0a05d-07b1-466b-88ed-fb9b8013f226","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 89
+ShipmentNo TNINE000000510
+status AT
+{"shipmentId":"168e1e3a-90f2-4a77-8102-3477bc58702e","updates":[{"keyToUpdate":"departureTime","updatedValue":1687760477658,"stageId":"89e276aa-a35e-423b-bab3-1f727f344a68","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 90
+ShipmentNo TNINE000000475
+status AT
+{"shipmentId":"da0d2c1b-afed-4bda-bde0-d5cec3c8d122","updates":[{"keyToUpdate":"departureTime","updatedValue":1686159868783,"stageId":"2d006da1-4976-451f-9e68-3660ccdc1fb4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 91
+ShipmentNo TNINE000000544
+status AT
+{"shipmentId":"efc07b09-b671-4129-b0df-b10ea642b377","updates":[{"keyToUpdate":"departureTime","updatedValue":1687747730626,"stageId":"8f77b65f-ec89-41f8-a96d-657efd614b05","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 92
+ShipmentNo TNINE000000522
+status AT
+{"shipmentId":"a81cd549-bc8b-4c5a-b609-ea87118bceaf","updates":[{"keyToUpdate":"departureTime","updatedValue":1687776032546,"stageId":"4c3d3a15-f998-49c8-9536-de8a41e86fd6","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 93
+ShipmentNo TNINE000000532
+status AT
+{"shipmentId":"fc722d3f-6afe-467d-87f6-492625b3eccc","updates":[{"keyToUpdate":"departureTime","updatedValue":1687770456053,"stageId":"ba81e2e5-951e-4718-8a53-d5fe61b7fce0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 94
+ShipmentNo TNINE000000533
+status AT
+{"shipmentId":"7014a4a6-84d0-47e5-80b4-31e7979c0456","updates":[{"keyToUpdate":"departureTime","updatedValue":1687774125377,"stageId":"846bf764-937d-4fd7-a80d-b625fc2f4348","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 95
+ShipmentNo TNINE000000563
+status AT
+{"shipmentId":"2bd95342-8cc1-4ca9-a452-a8d344ac19fa","updates":[{"keyToUpdate":"departureTime","updatedValue":1687693157409,"stageId":"e9aa2da3-566f-49cf-9d17-a3cff270cfd0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 96
+ShipmentNo TNINE000000509
+status AT
+{"shipmentId":"2c5ceb8b-f1a2-4092-9357-910a1727d4a1","updates":[{"keyToUpdate":"departureTime","updatedValue":1687700205518,"stageId":"5059f28e-9b6c-4682-bc64-c8023b3614df","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 97
+ShipmentNo TNINE000000517
+status AT
+{"shipmentId":"f2eb916c-d579-45b5-9545-5681aa46d3fa","updates":[{"keyToUpdate":"departureTime","updatedValue":1687752654099,"stageId":"54d6ff8e-dfed-4219-ac51-29ed3ad4fcce","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 98
+ShipmentNo TNINE000000495
+status AT
+{"shipmentId":"65e5cda8-114e-4a45-ac91-17812c273768","updates":[{"keyToUpdate":"departureTime","updatedValue":1687750068128,"stageId":"3eb474ad-34d7-4448-9461-d1548a48d1bf","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 99
+ShipmentNo TNINE000000460
+status AT
+{"shipmentId":"e4cdce60-9450-4b25-bb97-491e11d544ab","updates":[{"keyToUpdate":"departureTime","updatedValue":1686104573734,"stageId":"890b01be-cc94-4af4-938d-d73ab6d4256c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 100
+ShipmentNo TNINE000000457
+status UPCOMING
+{"shipmentId":"a6e886b3-9163-46ad-ba8b-3db8e3c9359f","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687656469148,"stageId":"680d0989-245c-4028-baf6-cf0d83782f5e"},{"keyToUpdate":"departureTime","updatedValue":1687656529148,"stageId":"680d0989-245c-4028-baf6-cf0d83782f5e","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 101
+ShipmentNo TNINE000000644
+status AT
+{"shipmentId":"6074c080-df72-44b3-8ef4-6925d9253f23","updates":[{"keyToUpdate":"departureTime","updatedValue":1687656929057,"stageId":"7569fa40-48bd-46d8-bbd7-f3d1fef52893","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 102
+ShipmentNo TNINE000000560
+status UPCOMING
+{"shipmentId":"289cb3f6-4076-47af-927d-446d9808f8e1","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687702707163,"stageId":"1df2e38d-4fd4-469a-9860-26035925f58c"},{"keyToUpdate":"departureTime","updatedValue":1687702767163,"stageId":"1df2e38d-4fd4-469a-9860-26035925f58c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 103
+ShipmentNo TNINE000000474
+status AT
+status NEXT
+{"shipmentId":"bd56dcc3-ba1f-42af-b218-d1e076924648","updates":[{"keyToUpdate":"departureTime","updatedValue":1687514373174,"stageId":"0ea19c44-0ec2-4567-acf9-fbbadd7b0085"},{"keyToUpdate":"arrivalTime","updatedValue":1687687113174,"stageId":"bd530a94-c28f-4e40-bdb0-ca10baa75336"},{"keyToUpdate":"departureTime","updatedValue":1687687173174,"stageId":"bd530a94-c28f-4e40-bdb0-ca10baa75336","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 104
+ShipmentNo TNINE000000617
+status UPCOMING
+{"shipmentId":"73d94d99-ceb2-4dea-b7ac-1dfe78e68b20","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687009656893,"stageId":"c5c90edd-796d-4de0-8785-5403b54caec2"},{"keyToUpdate":"departureTime","updatedValue":1687009716893,"stageId":"c5c90edd-796d-4de0-8785-5403b54caec2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 105
+ShipmentNo TNINE000000363
+status UPCOMING
+{"shipmentId":"9ac65ddc-20ee-4815-8523-e02f6b1d2a7d","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687418768701,"stageId":"4b588fd6-d45c-4aa5-9f53-149a70abea13"},{"keyToUpdate":"departureTime","updatedValue":1687418828701,"stageId":"4b588fd6-d45c-4aa5-9f53-149a70abea13","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 106
+ShipmentNo TNINE000000352
+status AT
+{"shipmentId":"7d6ae506-7a63-458b-960b-4a23e31f2eb6","updates":[{"keyToUpdate":"departureTime","updatedValue":1687182410089,"stageId":"76d56c3e-29de-4a31-aff9-4a020980e601","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 107
+ShipmentNo TNINE000000346
+status AT
+status NEXT
+{"shipmentId":"c4cc5f29-e9ee-4127-8a55-6b8ec8a661a0","updates":[{"keyToUpdate":"departureTime","updatedValue":1687174842845,"stageId":"999ed100-d2c6-4aae-abd9-f7ea16b0a470"},{"keyToUpdate":"arrivalTime","updatedValue":1687347582845,"stageId":"5485a0d6-3b21-4225-8499-bbc5cfe082cc"},{"keyToUpdate":"departureTime","updatedValue":1687347642845,"stageId":"5485a0d6-3b21-4225-8499-bbc5cfe082cc","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 108
+ShipmentNo TNINE000000326
+status AT
+{"shipmentId":"28c76ece-42ef-47a0-9781-218c9252cd87","updates":[{"keyToUpdate":"departureTime","updatedValue":1687236992380,"stageId":"1be58e8d-8871-4a07-9b5f-aad6ffc20738","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 109
+ShipmentNo TNINE000000323
+status AT
+status NEXT
+{"shipmentId":"9a6654a0-dafa-4b29-b0aa-09096bfdc4e9","updates":[{"keyToUpdate":"departureTime","updatedValue":1686979831128,"stageId":"43c40e32-6f45-4ff2-8207-b1c6b50f5ee4"},{"keyToUpdate":"arrivalTime","updatedValue":1687152571128,"stageId":"f7f7eece-995c-4a36-a896-cfe77532db8a"},{"keyToUpdate":"departureTime","updatedValue":1687152631128,"stageId":"f7f7eece-995c-4a36-a896-cfe77532db8a","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 110
+ShipmentNo TNINE000000317
+status UPCOMING
+{"shipmentId":"cf5929cd-8677-4f5d-9139-89449ebee837","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686894553411,"stageId":"7f15ec73-c93c-4af0-80cd-6b25313a259d"},{"keyToUpdate":"departureTime","updatedValue":1686894613411,"stageId":"7f15ec73-c93c-4af0-80cd-6b25313a259d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 111
+ShipmentNo TNINE000000315
+status AT
+{"shipmentId":"799579eb-23d9-48b7-8306-4d26354e55db","updates":[{"keyToUpdate":"departureTime","updatedValue":1687181988074,"stageId":"b0072f2a-9896-4996-bc57-9f4a92e41a6d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 112
+ShipmentNo TNINE000000287
+status AT
+{"shipmentId":"74732e1c-9de1-4f6a-acb5-6b5888416708","updates":[{"keyToUpdate":"departureTime","updatedValue":1687656743792,"stageId":"4566aa3a-0062-46f9-a5c0-11f27e5a667f","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 113
+ShipmentNo TNINE000000280
+status UPCOMING
+{"shipmentId":"8e9843bc-7082-47cd-b897-b906aef1d09a","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687003762504,"stageId":"722f6a2b-4b4a-41e9-a7de-03deab4cf378"},{"keyToUpdate":"departureTime","updatedValue":1687003822504,"stageId":"722f6a2b-4b4a-41e9-a7de-03deab4cf378","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 114
+ShipmentNo TNINE000000274
+status AT
+{"shipmentId":"97d434be-cc9f-40fd-bdce-32a0b6d5087f","updates":[{"keyToUpdate":"departureTime","updatedValue":1686982228181,"stageId":"205ca007-74f9-412c-b373-a876d70005ff","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 115
+ShipmentNo TNINE000000262
+status UPCOMING
+{"shipmentId":"56c7c441-a760-45b9-a0a7-2d02eadb5b8b","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686900299072,"stageId":"d1daa274-4988-47ec-803e-5533e3e7874d"},{"keyToUpdate":"departureTime","updatedValue":1686900359072,"stageId":"d1daa274-4988-47ec-803e-5533e3e7874d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 116
+ShipmentNo TNINE000000450
+status AT
+{"shipmentId":"5dd2e3f6-23e3-4b13-a97d-9f1e03fd4f8a","updates":[{"keyToUpdate":"departureTime","updatedValue":1687657115252,"stageId":"1375ffd0-a5c2-4bbc-b8de-288e35a30785","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 117
+ShipmentNo TNINE000000609
+status AT
+{"shipmentId":"ca2c8055-4218-4dcc-aff6-a865e1e65202","updates":[{"keyToUpdate":"departureTime","updatedValue":1687538093885,"stageId":"3f236465-3b54-432e-b5ee-35551ca45ab1","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 118
+ShipmentNo TNINE000000353
+status AT
+{"shipmentId":"f3a4877f-f71c-4205-8ec2-40e19a625ed1","updates":[{"keyToUpdate":"departureTime","updatedValue":1687364950738,"stageId":"59047b93-1a13-41a6-8602-46242a88fa82","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 119
+ShipmentNo TNINE000000436
+status AT
+{"shipmentId":"2c5656eb-c762-4427-b927-7acb3436fbe2","updates":[{"keyToUpdate":"departureTime","updatedValue":1687515577382,"stageId":"a2df192d-1867-464e-8318-8ccc9637392c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 120
+ShipmentNo TNINE000000599
+status AT
+{"shipmentId":"35a5df72-69b2-45a6-933d-f6b2bffc821a","updates":[{"keyToUpdate":"departureTime","updatedValue":1687500760724,"stageId":"3c282d74-b865-4646-ad1e-cdef27cda186","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 121
+ShipmentNo TNINE000000342
+status AT
+{"shipmentId":"17b34468-30aa-47e7-b6fb-9de6b842ab10","updates":[{"keyToUpdate":"departureTime","updatedValue":1687355513600,"stageId":"985cde91-44a8-4136-bf18-8155d7bceb02","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 122
+ShipmentNo TNINE000000673
+status AT
+{"shipmentId":"03649595-7b30-4cb1-a497-689011ff97b7","updates":[{"keyToUpdate":"departureTime","updatedValue":1687341290928,"stageId":"02a294b4-bee7-49bf-b7c5-dc6c2620e4f0","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 123
+ShipmentNo TNINE000000171
+status AT
+{"shipmentId":"fabf6865-04f1-47e1-8c47-593050e56b81","updates":[{"keyToUpdate":"departureTime","updatedValue":1687068593275,"stageId":"2274727e-bb4d-4418-b25c-dddcc766d1bd","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 124
+ShipmentNo TNINE000000505
+status AT
+{"shipmentId":"d274fbab-4c95-47b3-9c22-a1120f72c5f0","updates":[{"keyToUpdate":"departureTime","updatedValue":1687058399707,"stageId":"90eaabc1-dd2e-4f3f-8db7-487dd6e21abf","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 125
+ShipmentNo TNINE000000345
+status AT
+{"shipmentId":"93805bc0-48b3-456d-8bdc-0ec886330a84","updates":[{"keyToUpdate":"departureTime","updatedValue":1687173972503,"stageId":"28ed7926-fcd9-4754-84a3-5c95724c04ad","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 126
+ShipmentNo FRESH0000521
+status UPCOMING
+{"shipmentId":"6cc235d4-5b7d-41ff-94da-59fb744902fd","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687158011609,"stageId":"530b03e6-0db9-40be-bf3e-2e62c8b9bb50"},{"keyToUpdate":"departureTime","updatedValue":1687158071609,"stageId":"530b03e6-0db9-40be-bf3e-2e62c8b9bb50","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 127
+ShipmentNo TNINE000000344
+status AT
+{"shipmentId":"fcc2a976-5215-45ad-81d5-5ac2ee6da769","updates":[{"keyToUpdate":"departureTime","updatedValue":1687143519973,"stageId":"5c5d750b-0c83-4cba-964a-58c6e7756853","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 128
+ShipmentNo TNINE000000273
+status AT
+{"shipmentId":"64f4e638-f1a9-44dd-a7b0-e7cbc388c5d3","updates":[{"keyToUpdate":"departureTime","updatedValue":1686982461511,"stageId":"6002d15e-0fb9-43ea-a9bb-d082ff3d5881","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 129
+ShipmentNo TNINE000000307
+status AT
+{"shipmentId":"949b7224-552a-40eb-9660-997a6714cf5e","updates":[{"keyToUpdate":"departureTime","updatedValue":1687008379208,"stageId":"455981bd-c803-41a4-ac13-15e3cc5fe153","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 130
+ShipmentNo TNINE000000734
+status AT
+{"shipmentId":"e52d1f75-7a4d-4484-968f-dddeb3cff073","updates":[{"keyToUpdate":"departureTime","updatedValue":1687009024547,"stageId":"51ae4966-4242-4275-a67a-d6d76d13dab9","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 131
+ShipmentNo FRESH0000482
+status AT
+{"shipmentId":"2a4fbe9d-4d75-4fbe-a012-f958e5371a1f","updates":[{"keyToUpdate":"departureTime","updatedValue":1687095036915,"stageId":"f5aec87f-30b3-4b9b-a853-23f23e0eeacb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 132
+ShipmentNo FRESH0000478
+status UPCOMING
+{"shipmentId":"8e22a4ff-5934-4fb3-a132-bce3eb1a9574","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687094547833,"stageId":"a80a8825-f5de-417a-9d22-b9dea4843781"},{"keyToUpdate":"departureTime","updatedValue":1687094607833,"stageId":"a80a8825-f5de-417a-9d22-b9dea4843781","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 133
+ShipmentNo FRESH0000477
+status UPCOMING
+{"shipmentId":"7be0a8a2-824d-409b-88cd-971617269f20","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687094393184,"stageId":"6515344b-d2cc-47b7-abec-5474e56eb142"},{"keyToUpdate":"departureTime","updatedValue":1687094453184,"stageId":"6515344b-d2cc-47b7-abec-5474e56eb142","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 134
+ShipmentNo TNINE000000277
+status AT
+{"shipmentId":"3d33dd60-ef8e-4284-9566-9d230ac38365","updates":[{"keyToUpdate":"departureTime","updatedValue":1687080962446,"stageId":"c0f591dd-ddba-40cf-ac48-77e6115fef3c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 135
+ShipmentNo TNINE000000132
+status UPCOMING
+{"shipmentId":"b802dc11-589f-4831-9e76-4db768b57125","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686753822292,"stageId":"d002b7c3-fee7-4d0e-b9b2-6399054488c4"},{"keyToUpdate":"departureTime","updatedValue":1686753882292,"stageId":"d002b7c3-fee7-4d0e-b9b2-6399054488c4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 136
+ShipmentNo FRESH0000460
+status UPCOMING
+{"shipmentId":"2597243f-efab-41b5-aeb5-b77adf877e9a","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1687072634351,"stageId":"7cd8f6d8-e9f2-48dd-bfc4-c54f3dfd8ddb"},{"keyToUpdate":"departureTime","updatedValue":1687072694351,"stageId":"7cd8f6d8-e9f2-48dd-bfc4-c54f3dfd8ddb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 137
+ShipmentNo TNINE000000120
+status UPCOMING
+{"shipmentId":"faa90e96-64b0-4c76-9681-179363746043","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686812565649,"stageId":"f2a96d41-f949-41bd-a9c8-e1145d87dc69"},{"keyToUpdate":"departureTime","updatedValue":1686812625649,"stageId":"f2a96d41-f949-41bd-a9c8-e1145d87dc69","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 138
+ShipmentNo TNINE000000321
+status AT
+{"shipmentId":"2f98af75-cbf4-48f1-93ac-ffc8d06833bd","updates":[{"keyToUpdate":"departureTime","updatedValue":1686977704965,"stageId":"80bc01aa-319a-4799-912f-68de5608c1a7","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 139
+ShipmentNo TNINE000000615
+status AT
+{"shipmentId":"b3857a59-f5ea-4d9f-b13f-fbfdbf4b6aa7","updates":[{"keyToUpdate":"departureTime","updatedValue":1686993922469,"stageId":"b1f19a6d-4656-46ac-9145-bdee9a9d47c1","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 140
+ShipmentNo TNINE000000270
+status AT
+{"shipmentId":"2c4e3526-0d1a-40d7-9ad6-7016255817b9","updates":[{"keyToUpdate":"departureTime","updatedValue":1686982974026,"stageId":"b4e98f64-8803-416f-98fa-8c8a25d7b551","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 141
+ShipmentNo TNINE000000097
+status AT
+status NEXT
+{"shipmentId":"74b4d25d-5604-4a25-823c-3f49b6fe345c","updates":[{"keyToUpdate":"departureTime","updatedValue":1686631019145,"stageId":"cc688e0c-f721-4050-a815-24abff63b8cc"},{"keyToUpdate":"arrivalTime","updatedValue":1686803759145,"stageId":"1b50d734-6f3d-4a77-8fb8-52436f3b75e9"},{"keyToUpdate":"departureTime","updatedValue":1686803819145,"stageId":"1b50d734-6f3d-4a77-8fb8-52436f3b75e9","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 142
+ShipmentNo TNINE000000091
+status UPCOMING
+{"shipmentId":"c96d606a-2a75-43de-8e55-34392b7ad439","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686642984305,"stageId":"13ceceb3-69a3-4466-ac63-cf114c3b2c5b"},{"keyToUpdate":"departureTime","updatedValue":1686643044305,"stageId":"13ceceb3-69a3-4466-ac63-cf114c3b2c5b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 143
+ShipmentNo TNINE000000567
+status AT
+{"shipmentId":"0b42a84f-c62c-4b13-bf1c-30068d1d9c35","updates":[{"keyToUpdate":"departureTime","updatedValue":1686805545203,"stageId":"5677a2a7-5347-4599-ba50-3c4a07761066","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 144
+ShipmentNo TNINE000000261
+status AT
+{"shipmentId":"cd311df6-3dae-400e-979b-821ba455b2d1","updates":[{"keyToUpdate":"departureTime","updatedValue":1686808858374,"stageId":"0407602b-e1d3-4dc7-8b4b-90938f925c40","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 145
+ShipmentNo FRESH0000342
+status AT
+{"shipmentId":"18e5cd68-e636-4157-9d93-c6fc1b0bf8f5","updates":[{"keyToUpdate":"departureTime","updatedValue":1686757392099,"stageId":"437e0d1d-5baa-462a-b507-e43016d2ecc2","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 146
+ShipmentNo TNINE000000539
+status AT
+{"shipmentId":"41511486-8032-4716-95ac-efb8ab635ba3","updates":[{"keyToUpdate":"departureTime","updatedValue":1686798374150,"stageId":"58e8c652-3e58-4b7f-b410-20ff0793d20d","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 147
+ShipmentNo TNINE000000081
+status UPCOMING
+{"shipmentId":"714fbc4e-d7a9-4abb-b8c0-95a90434641b","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686561761936,"stageId":"df3cd91d-ab8f-464e-b8b0-74f88659e138"},{"keyToUpdate":"departureTime","updatedValue":1686561821936,"stageId":"df3cd91d-ab8f-464e-b8b0-74f88659e138","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 148
+ShipmentNo TNINE000000075
+status AT
+{"shipmentId":"4dbb6d97-d030-4d60-8608-c05d48b8e656","updates":[{"keyToUpdate":"departureTime","updatedValue":1686536261936,"stageId":"75fb87a8-920a-4de1-b3cf-9698c273053c","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 149
+ShipmentNo FRESH0000352
+status UPCOMING
+{"shipmentId":"6ca66b41-6d79-4555-9a0d-61bd53510076","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686801178836,"stageId":"6e1c37ca-d3bf-4de0-83e5-264342f79dc4"},{"keyToUpdate":"departureTime","updatedValue":1686801238836,"stageId":"6e1c37ca-d3bf-4de0-83e5-264342f79dc4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 150
+ShipmentNo FRESH0000344
+status AT
+{"shipmentId":"218d13e7-fd22-42fd-ad92-6d95adf897ed","updates":[{"keyToUpdate":"departureTime","updatedValue":1686797110248,"stageId":"ef7a40f6-c16a-43c6-bb47-2d07f450ba0a","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 151
+ShipmentNo FRESH0000338
+status AT
+{"shipmentId":"bcbb003d-25e1-4a6b-94aa-60d3440b3191","updates":[{"keyToUpdate":"departureTime","updatedValue":1686755511658,"stageId":"23f0e450-0ecf-4a21-b47e-b5fa4ce50fcb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 152
+ShipmentNo FRESH0000332
+status UPCOMING
+{"shipmentId":"015650f3-c198-44a2-926e-0dade3e43202","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686753133599,"stageId":"af8d2fbd-6a54-4ff3-a2f0-dd4bb91a8beb"},{"keyToUpdate":"departureTime","updatedValue":1686753193599,"stageId":"af8d2fbd-6a54-4ff3-a2f0-dd4bb91a8beb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 153
+ShipmentNo TNINE000000093
+status AT
+{"shipmentId":"04f13813-8a86-413f-9898-ba89a77c11fa","updates":[{"keyToUpdate":"departureTime","updatedValue":1686717133887,"stageId":"513c8ffa-d29c-4f2e-b1cd-bdc8670bd33b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 154
+ShipmentNo TNINE000000067
+status UPCOMING
+{"shipmentId":"80478be0-99ef-498c-ac12-2109539df43e","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686548364738,"stageId":"310ecee8-0bf6-45c3-a31f-a5be2d0c7c55"},{"keyToUpdate":"departureTime","updatedValue":1686548424738,"stageId":"310ecee8-0bf6-45c3-a31f-a5be2d0c7c55","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 155
+ShipmentNo TNINE000000516
+status AT
+{"shipmentId":"82741c0e-a060-4013-a6dd-8ca7b9cd67b3","updates":[{"keyToUpdate":"departureTime","updatedValue":1686661945106,"stageId":"ca8961f7-81d2-49ac-9e63-c4cc063b446f","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 156
+ShipmentNo TNINE000000094
+status AT
+{"shipmentId":"519f5080-b754-4eca-905f-6b5c710d54e0","updates":[{"keyToUpdate":"departureTime","updatedValue":1686640852413,"stageId":"d5f373b8-cd74-4633-9d02-7ce70ca2f705","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 157
+ShipmentNo TNINE000000070
+status AT
+{"shipmentId":"b6a60872-da3c-4c68-b016-7084ec962281","updates":[{"keyToUpdate":"departureTime","updatedValue":1686505455674,"stageId":"797aeb98-8357-4b43-981e-d79bab1fe506","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 158
+ShipmentNo TNINE000000073
+status AT
+{"shipmentId":"48f1beb9-6d87-4374-a5ef-56122e28aafa","updates":[{"keyToUpdate":"departureTime","updatedValue":1686541925146,"stageId":"f034ff1e-00dd-45f3-8d1e-e05a3b32e1c6","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 159
+ShipmentNo FRESH0000271
+status AT
+{"shipmentId":"54189f88-fb7c-4f72-8df9-b097971832d1","updates":[{"keyToUpdate":"departureTime","updatedValue":1686538866473,"stageId":"2afa89e8-a550-4cf4-8b27-1694b6f7c76a","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 160
+ShipmentNo FRESH0000269
+status UPCOMING
+{"shipmentId":"4e7b2c2b-6195-436a-b729-4cfd851636cc","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686536625273,"stageId":"d85799d6-f529-4e01-a7d9-81ecf4683360"},{"keyToUpdate":"departureTime","updatedValue":1686536685273,"stageId":"d85799d6-f529-4e01-a7d9-81ecf4683360","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 161
+ShipmentNo TNINE000000020
+status AT
+{"shipmentId":"e588fe45-c618-482d-829b-51176c1726f8","updates":[{"keyToUpdate":"departureTime","updatedValue":1686314244236,"stageId":"c4356a39-4898-41f9-bf51-caf13234a6e4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 162
+ShipmentNo TNINE0000218
+status UPCOMING
+{"shipmentId":"7c20b255-aae7-4f9c-8cb4-88f28ab0c8a3","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686279906643,"stageId":"c7139b5b-7b93-4dff-be26-dab75757f8df"},{"keyToUpdate":"departureTime","updatedValue":1686279966643,"stageId":"c7139b5b-7b93-4dff-be26-dab75757f8df","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 163
+ShipmentNo FRESH0000241
+status AT
+{"shipmentId":"dcdfffb9-4c4b-4873-a397-aa0774a130ad","updates":[{"keyToUpdate":"departureTime","updatedValue":1686481147188,"stageId":"518d04bd-3d31-4080-ab42-bcbff804900b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 164
+ShipmentNo FRESH0000206
+status AT
+{"shipmentId":"f65e5238-909c-4e91-b5a0-d1c7c687a237","updates":[{"keyToUpdate":"departureTime","updatedValue":1686465777123,"stageId":"fd9895a3-47b6-4a5d-a93c-c0a9b252cbcc","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 165
+ShipmentNo FRESH0000205
+status UPCOMING
+{"shipmentId":"4a00f578-107d-4477-a7fb-19342208de22","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686465661321,"stageId":"d0acc766-d83a-4c52-82f0-5ceda83d7ebb"},{"keyToUpdate":"departureTime","updatedValue":1686465721321,"stageId":"d0acc766-d83a-4c52-82f0-5ceda83d7ebb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 166
+ShipmentNo FRESH0000169
+status AT
+{"shipmentId":"f68e9b37-5f4b-4358-ade2-3948732159c7","updates":[{"keyToUpdate":"departureTime","updatedValue":1686444248292,"stageId":"7002af99-9e48-4dad-a572-bc5a411411b4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 167
+ShipmentNo FRESH0000156
+status UPCOMING
+{"shipmentId":"bf972017-dcb3-4529-a1b9-45fd97964f02","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686418306131,"stageId":"d8707539-dd6f-41ad-ac6d-8f686a08ef49"},{"keyToUpdate":"departureTime","updatedValue":1686418366131,"stageId":"d8707539-dd6f-41ad-ac6d-8f686a08ef49","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 168
+ShipmentNo TNINE000000019
+status AT
+{"shipmentId":"fc6286f7-3d51-4d07-b3ae-86679f6eb605","updates":[{"keyToUpdate":"departureTime","updatedValue":1686364235504,"stageId":"c109d44e-833a-4626-9f4c-e39c95e3e43b","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 169
+ShipmentNo FRESH0000143
+status UPCOMING
+{"shipmentId":"05a49d2a-1b1a-4960-974a-7d22fc1d62d6","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686408692031,"stageId":"826bcd6f-c4c6-4bdf-91a2-e2115eac3111"},{"keyToUpdate":"departureTime","updatedValue":1686408752031,"stageId":"826bcd6f-c4c6-4bdf-91a2-e2115eac3111","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 170
+ShipmentNo TNINE000000010
+status AT
+{"shipmentId":"2995e81f-4b0e-4b73-b14d-fc5dc5947b6b","updates":[{"keyToUpdate":"departureTime","updatedValue":1686302701091,"stageId":"c8836571-1a39-40e0-ae4c-4734eb54e513","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 171
+ShipmentNo TNINE000000013
+status AT
+{"shipmentId":"bee512cf-f058-4796-ae2a-01e4c0d14862","updates":[{"keyToUpdate":"departureTime","updatedValue":1686312325164,"stageId":"ed278f65-aa77-4ae1-96e3-0666dba75660","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 172
+ShipmentNo TNINE000000017
+status AT
+{"shipmentId":"72bca882-8738-499c-b221-d2dbcda91a15","updates":[{"keyToUpdate":"departureTime","updatedValue":1686302538170,"stageId":"78452ca1-e687-4bb5-9c54-3028eef887f4","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 173
+ShipmentNo TNINE000000022
+status AT
+{"shipmentId":"14d83de9-c103-48fe-af71-5df997cdad01","updates":[{"keyToUpdate":"departureTime","updatedValue":1686302381051,"stageId":"2ad0d702-cc53-4179-8ea8-f6dccaaeb7bb","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 174
+ShipmentNo TNINE000000591
+status AT
+{"shipmentId":"71a87239-8d97-4606-bcaa-fc9ec617b8ca","updates":[{"keyToUpdate":"departureTime","updatedValue":1686160712974,"stageId":"5ec7d84f-9047-46f6-be5d-76724b47ab25","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 175
+ShipmentNo TNINE000000052
+status AT
+{"shipmentId":"a8f38898-630a-4536-81a5-d9ad169ed1b9","updates":[{"keyToUpdate":"departureTime","updatedValue":1686193068953,"stageId":"15bead5d-333c-44a8-b041-3c9019b27a23","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 176
+ShipmentNo TNINE000000083
+status AT
+{"shipmentId":"a82d5a3e-f8dd-4f53-a763-aee4fc9e06a7","updates":[{"keyToUpdate":"departureTime","updatedValue":1686053860311,"stageId":"3f09b835-c261-45e1-8601-7d99b97f9c22","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 177
+ShipmentNo TNINE000000092
+status AT
+{"shipmentId":"151cad0e-c803-42cc-a496-4e976fac13ac","updates":[{"keyToUpdate":"departureTime","updatedValue":1686065015367,"stageId":"a54d1c59-7056-413f-b2be-6f2f6ae5ea61","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 178
+ShipmentNo TNINE0000128
+status UPCOMING
+{"shipmentId":"1ce66d08-c275-48e7-9752-b862c92f8b01","updates":[{"keyToUpdate":"arrivalTime","updatedValue":1686122612760,"stageId":"62e32f2a-aad4-4237-b434-1e03c6af8945"},{"keyToUpdate":"departureTime","updatedValue":1686122672760,"stageId":"62e32f2a-aad4-4237-b434-1e03c6af8945","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 179
+ShipmentNo TNINE0000032
+status AT
+{"shipmentId":"50fd38e9-1502-4707-a391-28a26d84eea8","updates":[{"keyToUpdate":"departureTime","updatedValue":1685949431881,"stageId":"e6bd6af8-8d98-4d9b-8a5f-654c2fd3fade","markComplete":true}]}
+bulkSyncApi Res Status: 200
+count 180
+Total 180 completed
+["TNINE000000942","TNINE000000944","TNINE000000877","TNINE000000874","TNINE000000865","TNINE000000853","TNINE000000844","TNINE000000837","TNINE000000828","TNINE000000826","TNINE000000824","TNINE000000981","TNINE000000926","TNINE000000923","TNINE000000902","TNINE000000908","TNINE000000842","TNINE000000849","TNINE000000839","FRESH0001069","TNINE000000827","TNINE000000816","TNINE000000807","TNINE000000804","TNINE000000799","TNINE000000796","TNINE000000781","TNINE000000776","TNINE000000775","TNINE000000859","TNINE000000779","TNINE000000868","TNINE000000857","TNINE000000762","TNINE000000754","TNINE000000753","TNINE000000747","TNINE000000743","TNINE000000715","TNINE000000780","TNINE000000904","FRESH0000965","TNINE000000786","FRESH0000952","TNINE000000701","TNINE000000700","TNINE000000698","TNINE000000695","TNINE000000694","TNINE000000691","TNINE000000689","TNINE000000771","TNINE000000749","FRESH0000947","TNINE000000751","TNINE000000731","TNINE000000682","TNINE000000678","TNINE000000671","TNINE000000724","TNINE000000686","TNINE000000725","TNINE000000681","TNINE000000666","TNINE000000655","TNINE000000641","TNINE000000628","TNINE000000626","TNINE000000625","TNINE000000624","TNINE000000619","TNINE000000612","TNINE000000607","TNINE000000606","TNINE000000603","TNINE000000596","TNINE000000592","TNINE000000579","TNINE000000575","TNINE000000692","TNINE000000705","TNINE000000555","TNINE000000538","TNINE000000530","TNINE000000525","TNINE000000524","TNINE000000668","FRESH0000832","TNINE000000674","TNINE000000510","TNINE000000475","TNINE000000544","TNINE000000522","TNINE000000532","TNINE000000533","TNINE000000563","TNINE000000509","TNINE000000517","TNINE000000495","TNINE000000460","TNINE000000457","TNINE000000644","TNINE000000560","TNINE000000474","TNINE000000617","TNINE000000363","TNINE000000352","TNINE000000346","TNINE000000326","TNINE000000323","TNINE000000317","TNINE000000315","TNINE000000287","TNINE000000280","TNINE000000274","TNINE000000262","TNINE000000450","TNINE000000609","TNINE000000353","TNINE000000436","TNINE000000599","TNINE000000342","TNINE000000673","TNINE000000171","TNINE000000505","TNINE000000345","FRESH0000521","TNINE000000344","TNINE000000273","TNINE000000307","TNINE000000734","FRESH0000482","FRESH0000478","FRESH0000477","TNINE000000277","TNINE000000132","FRESH0000460","TNINE000000120","TNINE000000321","TNINE000000615","TNINE000000270","TNINE000000097","TNINE000000091","TNINE000000567","TNINE000000261","FRESH0000342","TNINE000000539","TNINE000000081","TNINE000000075","FRESH0000352","FRESH0000344","FRESH0000338","FRESH0000332","TNINE000000093","TNINE000000067","TNINE000000516","TNINE000000094","TNINE000000070","TNINE000000073","FRESH0000271","FRESH0000269","TNINE000000020","TNINE0000218","FRESH0000241","FRESH0000206","FRESH0000205","FRESH0000169","FRESH0000156","TNINE000000019","FRESH0000143","TNINE000000010","TNINE000000013","TNINE000000017","TNINE000000022","TNINE000000591","TNINE000000052","TNINE000000083","TNINE000000092","TNINE0000128","TNINE0000032"]

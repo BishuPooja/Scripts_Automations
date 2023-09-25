@@ -1,0 +1,191 @@
+https://apis.fretron.com/shipment-view/shipments/v1?filters={"shipmentDate":{"isTillExpression":false,"isFromExpression":false,"from":1682879400000,"till":1685557740000},"_shipmentStatus_":{"shipmentStatus":["Completed"]},"__version":2,"_shcf_Type":["Outbound"]}&size=3000
+1835
+marketVehicles: 401
+dedicatedVehicles: 1164
+dedicatedVehicles
+FRETSH0022879
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022850
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022655
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022439
+lucknow - Gorakhpur road ( Dummy)
+marketJson
+FRETSH0025237
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0024179
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0023005
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022925
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022751
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022632
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022589
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022553
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022478
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0022355
+lucknow - Gorakhpur road ( Dummy)
+FRETSH0021983
+lucknow - Gorakhpur road ( Dummy)
+count dedicatedVehicles 1160 marketCount 390
+[
+  [ 'GORAKHPUR', 242, 16, 24, 63, 54, 2, 5, 37, 14, 21, 6 ],
+  [
+    'DEORIA', 156, 8,
+    12,       34,  2,
+    3,        17,  31,
+    15,       28,  6
+  ],
+  [ 'BASTI', 61, 5, 2, 12, 22, 3, 1, 8, 0, 4, 4 ],
+  [ 'PADRAUNA', 27, 5, 2, 5, 0, 1, 0, 6, 4, 1, 3 ],
+  [ 'KUSHINAGAR', 140, 8, 12, 37, 13, 0, 9, 19, 19, 17, 6 ],
+  [ 'BALLIA', 66, 5, 5, 14, 14, 16, 4, 1, 2, 4, 1 ],
+  [ 'MAHARAJGANJ', 86, 5, 8, 22, 4, 3, 5, 14, 15, 5, 5 ],
+  [ 'BAHRAICH', 15, 2, 0, 0, 9, 4, 0, 0, 0, 0, 0 ],
+  [
+    'SKGR', 24, 3,
+    1,      8,  2,
+    0,      2,  1,
+    4,      1,  2
+  ],
+  [ 'SIDDHARTHANAGAR', 19, 2, 1, 6, 0, 0, 1, 5, 1, 3, 0 ],
+  [ 'S K NAGAR', 21, 1, 6, 5, 0, 0, 2, 6, 1, 0, 0 ],
+  [
+    'MAU', 77, 3,  4,
+    18,    15, 1,  5,
+    14,    7,  10, 0
+  ],
+  [ 'SIDDARTHNAGAR', 13, 2, 0, 2, 0, 0, 0, 2, 3, 2, 2 ],
+  [ 'NAUGARH', 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'SULTANPUR', 7, 1, 0, 1, 0, 3, 1, 0, 1, 0, 0 ],
+  [
+    'SDGR', 29, 1,
+    2,      7,  2,
+    4,      1,  4,
+    3,      4,  1
+  ],
+  [ 'MAHRAJGANJ', 16, 2, 1, 6, 0, 0, 1, 2, 1, 2, 1 ],
+  [ 'LAKHIMPUR KHERI', 5, 1, 0, 0, 2, 0, 0, 0, 2, 0, 0 ],
+  [ 'SK NAGAR', 13, 1, 0, 0, 6, 2, 1, 2, 0, 1, 0 ],
+  [ 'AZAMGARH', 29, 1, 1, 5, 15, 1, 1, 2, 2, 1, 0 ],
+  [ 'KHALILABAD', 7, 0, 4, 2, 0, 0, 0, 0, 1, 0, 0 ],
+  [ 'FAIZABAD', 5, 0, 1, 2, 1, 1, 0, 0, 0, 0, 0 ],
+  [ 'GONDA', 9, 0, 0, 1, 4, 2, 1, 0, 1, 0, 0 ],
+  [ 'SITAPUR', 16, 0, 0, 1, 3, 5, 0, 0, 7, 0, 0 ],
+  [ 'FATEHPUR', 15, 0, 0, 1, 1, 1, 3, 0, 9, 0, 0 ],
+  [ 'AMETHI', 9, 0, 0, 2, 4, 2, 0, 0, 1, 0, 0 ],
+  [ 'SIDDARTH NAGAR', 3, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0 ],
+  [ 'JAUNPUR', 23, 0, 0, 0, 19, 3, 0, 1, 0, 0, 0 ],
+  [ 'BALRAMPUR', 10, 0, 0, 0, 8, 1, 0, 0, 1, 0, 0 ],
+  [ 'BARABANKI', 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0 ],
+  [ 'AMBEDKAR NAGAR', 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0 ],
+  [ 'PRATAPGARH', 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+  [ 'SHAHJHANPUR ', 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+  [ 'RAIBAREILY', 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+  [ 'IGL GORAKHPUR', 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 ],
+  [ 'PRAYAGRAJ', 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+  [ 'LUCKNOW', 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 ],
+  [ 'SIDDHARTH NAGAR', 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0 ],
+  [ 'ALLAHABAD', 3, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0 ],
+  [ 'AMETHI', 26, 3, 0, 0, 3, 2, 7, 0, 7, 4, 0, 0 ],
+  [ 'LAKHIMPUR KHERI', 17, 15, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0 ],
+  [ 'SITAPUR', 33, 29, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0 ],
+  [ 'DEORIA', 3, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'PRAYAGRAJ', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'AMBEDKAR NAGAR', 4, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0 ],
+  [ 'SULTANPUR', 29, 1, 0, 0, 0, 7, 8, 0, 12, 1, 0, 0 ],
+  [ 'BARABANKI', 9, 5, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'SHAHJHANPUR ', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BALLIA', 15, 2, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'GONDA', 6, 4, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'FATEHPUR', 34, 9, 0, 0, 7, 15, 2, 0, 1, 0, 0, 0 ],
+  [ 'BASTI', 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'LUCKNOW', 12, 1, 4, 0, 5, 0, 1, 1, 0, 0, 0, 0 ],
+  [ 'IGL GORAKHPUR', 9, 5, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0 ],
+  [ 'MORADABAD', 3, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'PRATAPGARH', 6, 2, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0 ],
+  [ 'MIRZAPUR', 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'KHIRI', 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'PRYAGRAJ', 3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+  [ 'RAI BAREILLY', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BAHRAICH', 11, 1, 0, 1, 1, 0, 5, 0, 3, 0, 0, 0 ],
+  [ 'HARDOI', 4, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0 ],
+  [ 'SHAJAHAPUR ', 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BASTI 272002, INDIA', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'GORAKHPUR', 5, 1, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0 ],
+  [ 'KANSGANJ', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'FAIZABAD', 6, 1, 0, 0, 4, 0, 0, 0, 1, 0, 0, 0 ],
+  [ 'BIJNORE', 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'FARRUKHABAD', 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'JAUNPUR', 43, 0, 2, 39, 0, 0, 0, 0, 0, 2, 0, 0 ],
+  [ 'KUSHINAGAR', 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [
+    'RAMNAGAR, BHITI, RAMNAGAR, VARANASI, 221008, INDIA',
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  [ 'NOIDA', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [
+    'AGRA', 3, 0,
+    3,      0, 0,
+    0,      0, 0,
+    0,      0, 0,
+    0
+  ],
+  [ 'KANPUR', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'PARTAPGARH', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'VARANASI', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [
+    'MAU', 12, 0, 1,
+    11,    0,  0, 0,
+    0,     0,  0, 0,
+    0
+  ],
+  [ 'KAUSHAMBI', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'RAIBAREILY', 3, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'KANPUR DEHAT', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'GB NAGAR', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'AMROHA', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'UNNAO', 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'HAPUR', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'FIROZABAD', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'MATHURA', 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BULANDSHAHAR', 4, 0, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0 ],
+  [ 'BAREILLY', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BADAUN', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'SHAHJHANPUR', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'LUCKNOW 226006, INDIA', 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'LAKHIMPUR', 2, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
+  [ 'ETAWAH', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'CHANDAULI', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'MAINPURI', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'BAREILY', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  [
+    'ETAH', 1, 0,
+    1,      0, 0,
+    0,      0, 0,
+    0,      0, 0,
+    0
+  ],
+  [ 'KANPUR NAGAR', 4, 0, 1, 0, 3, 0, 0, 0, 0, 0, 0, 0 ],
+  [ 'KANNAUJ', 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  ... 12 more items
+]
+File saved successfully!

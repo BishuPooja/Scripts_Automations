@@ -1,0 +1,634 @@
+211
+count 1
+Shipment Number FRETSH000000215
+update fleetInfo status 200
+count 2
+Shipment Number FRETSH000000214
+update fleetInfo status 200
+count 3
+Shipment Number FRETSH000000213
+update fleetInfo status 200
+count 4
+Shipment Number FRETSH000000212
+update fleetInfo status 200
+count 5
+Shipment Number FRETSH000000211
+update fleetInfo status 200
+count 6
+Shipment Number FRETSH000000210
+update fleetInfo status 200
+count 7
+Shipment Number FRETSH000000209
+update fleetInfo status 200
+count 8
+Shipment Number FRETSH000000208
+update fleetInfo status 200
+count 9
+Shipment Number FRETSH000000207
+update fleetInfo status 200
+count 10
+Shipment Number FRETSH000000206
+update fleetInfo status 200
+count 11
+Shipment Number FRETSH000000205
+update fleetInfo status 200
+count 12
+Shipment Number FRETSH000000204
+update fleetInfo status 200
+count 13
+Shipment Number FRETSH000000203
+update fleetInfo status 200
+count 14
+Shipment Number FRETSH000000202
+update fleetInfo status 200
+count 15
+Shipment Number FRETSH000000201
+update fleetInfo status 200
+count 16
+Shipment Number FRETSH000000200
+update fleetInfo status 200
+count 17
+Shipment Number FRETSH000000199
+update fleetInfo status 200
+count 18
+Shipment Number FRETSH000000198
+update fleetInfo status 200
+count 19
+Shipment Number FRETSH000000197
+update fleetInfo status 200
+count 20
+Shipment Number FRETSH000000196
+update fleetInfo status 200
+count 21
+Shipment Number FRETSH000000195
+update fleetInfo status 200
+count 22
+Shipment Number FRETSH000000194
+update fleetInfo status 200
+count 23
+Shipment Number FRETSH000000193
+update fleetInfo status 200
+count 24
+Shipment Number FRETSH000000192
+update fleetInfo status 200
+count 25
+Shipment Number FRETSH000000191
+update fleetInfo status 200
+count 26
+Shipment Number FRETSH000000190
+update fleetInfo status 200
+count 27
+Shipment Number FRETSH000000189
+update fleetInfo status 200
+count 28
+Shipment Number FRETSH000000188
+update fleetInfo status 200
+count 29
+Shipment Number FRETSH000000187
+update fleetInfo status 200
+count 30
+Shipment Number FRETSH000000186
+update fleetInfo status 200
+count 31
+Shipment Number FRETSH000000185
+update fleetInfo status 200
+count 32
+Shipment Number FRETSH000000184
+update fleetInfo status 200
+count 33
+Shipment Number FRETSH000000183
+update fleetInfo status 200
+count 34
+Shipment Number FRETSH000000182
+update fleetInfo status 200
+count 35
+Shipment Number FRETSH000000181
+update fleetInfo status 200
+count 36
+Shipment Number FRETSH000000180
+update fleetInfo status 200
+count 37
+Shipment Number FRETSH000000179
+update fleetInfo status 200
+count 38
+Shipment Number FRETSH000000178
+update fleetInfo status 200
+count 39
+Shipment Number FRETSH000000177
+update fleetInfo status 200
+count 40
+Shipment Number FRETSH000000176
+update fleetInfo status 200
+count 41
+Shipment Number FRETSH000000175
+update fleetInfo status 200
+count 42
+Shipment Number FRETSH000000174
+update fleetInfo status 200
+count 43
+Shipment Number FRETSH000000173
+update fleetInfo status 200
+count 44
+Shipment Number FRETSH000000172
+update fleetInfo status 200
+count 45
+Shipment Number FRETSH000000171
+update fleetInfo status 200
+count 46
+Shipment Number FRETSH000000170
+update fleetInfo status 200
+count 47
+Shipment Number FRETSH000000169
+update fleetInfo status 200
+count 48
+Shipment Number FRETSH000000168
+update fleetInfo status 200
+count 49
+Shipment Number FRETSH000000167
+update fleetInfo status 200
+count 50
+Shipment Number FRETSH000000166
+update fleetInfo status 200
+count 51
+Shipment Number FRETSH000000165
+update fleetInfo status 200
+count 52
+Shipment Number FRETSH000000164
+update fleetInfo status 200
+count 53
+Shipment Number FRETSH000000163
+update fleetInfo status 200
+count 54
+Shipment Number FRETSH000000162
+update fleetInfo status 200
+count 55
+Shipment Number FRETSH000000161
+update fleetInfo status 200
+count 56
+Shipment Number FRETSH000000160
+update fleetInfo status 200
+count 57
+Shipment Number FRETSH000000159
+update fleetInfo status 200
+count 58
+Shipment Number FRETSH000000158
+update fleetInfo status 200
+count 59
+Shipment Number FRETSH000000157
+update fleetInfo status 200
+count 60
+Shipment Number FRETSH000000156
+update fleetInfo status 200
+count 61
+Shipment Number FRETSH000000155
+update fleetInfo status 200
+count 62
+Shipment Number FRETSH000000154
+update fleetInfo status 200
+count 63
+Shipment Number FRETSH000000153
+update fleetInfo status 200
+count 64
+Shipment Number FRETSH000000152
+update fleetInfo status 200
+count 65
+Shipment Number FRETSH000000151
+update fleetInfo status 200
+count 66
+Shipment Number FRETSH000000150
+update fleetInfo status 200
+count 67
+Shipment Number FRETSH000000149
+update fleetInfo status 200
+count 68
+Shipment Number FRETSH000000148
+update fleetInfo status 200
+count 69
+Shipment Number FRETSH000000147
+update fleetInfo status 200
+count 70
+Shipment Number FRETSH000000146
+update fleetInfo status 200
+count 71
+Shipment Number FRETSH000000145
+update fleetInfo status 200
+count 72
+Shipment Number FRETSH000000144
+update fleetInfo status 200
+count 73
+Shipment Number FRETSH000000143
+update fleetInfo status 200
+count 74
+Shipment Number FRETSH000000142
+update fleetInfo status 200
+count 75
+Shipment Number FRETSH000000141
+update fleetInfo status 200
+count 76
+Shipment Number FRETSH000000140
+update fleetInfo status 200
+count 77
+Shipment Number FRETSH000000139
+update fleetInfo status 200
+count 78
+Shipment Number FRETSH000000138
+update fleetInfo status 200
+count 79
+Shipment Number FRETSH000000137
+update fleetInfo status 200
+count 80
+Shipment Number FRETSH000000136
+update fleetInfo status 200
+count 81
+Shipment Number FRETSH000000135
+update fleetInfo status 200
+count 82
+Shipment Number FRETSH000000134
+update fleetInfo status 200
+count 83
+Shipment Number FRETSH000000133
+update fleetInfo status 200
+count 84
+Shipment Number FRETSH000000132
+update fleetInfo status 200
+count 85
+Shipment Number FRETSH000000131
+update fleetInfo status 200
+count 86
+Shipment Number FRETSH000000130
+update fleetInfo status 200
+count 87
+Shipment Number FRETSH000000129
+update fleetInfo status 200
+count 88
+Shipment Number FRETSH000000128
+update fleetInfo status 200
+count 89
+Shipment Number FRETSH000000127
+update fleetInfo status 200
+count 90
+Shipment Number FRETSH000000126
+update fleetInfo status 200
+count 91
+Shipment Number FRETSH000000125
+update fleetInfo status 200
+count 92
+Shipment Number FRETSH000000124
+update fleetInfo status 200
+count 93
+Shipment Number FRETSH000000123
+update fleetInfo status 200
+count 94
+Shipment Number FRETSH000000122
+update fleetInfo status 200
+count 95
+Shipment Number FRETSH000000121
+update fleetInfo status 200
+count 96
+Shipment Number FRETSH000000120
+update fleetInfo status 200
+count 97
+Shipment Number FRETSH000000119
+update fleetInfo status 200
+count 98
+Shipment Number FRETSH000000118
+update fleetInfo status 200
+count 99
+Shipment Number FRETSH000000117
+update fleetInfo status 200
+count 100
+Shipment Number FRETSH000000116
+update fleetInfo status 200
+count 101
+Shipment Number FRETSH000000115
+update fleetInfo status 200
+count 102
+Shipment Number FRETSH000000114
+update fleetInfo status 200
+count 103
+Shipment Number FRETSH000000113
+update fleetInfo status 200
+count 104
+Shipment Number FRETSH000000112
+update fleetInfo status 200
+count 105
+Shipment Number FRETSH000000111
+update fleetInfo status 200
+count 106
+Shipment Number FRETSH000000110
+update fleetInfo status 200
+count 107
+Shipment Number FRETSH000000109
+update fleetInfo status 200
+count 108
+Shipment Number FRETSH000000108
+update fleetInfo status 200
+count 109
+Shipment Number FRETSH000000107
+update fleetInfo status 200
+count 110
+Shipment Number FRETSH000000106
+update fleetInfo status 200
+count 111
+Shipment Number FRETSH000000105
+update fleetInfo status 200
+count 112
+Shipment Number FRETSH000000104
+update fleetInfo status 200
+count 113
+Shipment Number FRETSH000000103
+update fleetInfo status 200
+count 114
+Shipment Number FRETSH000000102
+update fleetInfo status 200
+count 115
+Shipment Number FRETSH000000101
+update fleetInfo status 200
+count 116
+Shipment Number FRETSH000000100
+update fleetInfo status 200
+count 117
+Shipment Number FRETSH000000099
+update fleetInfo status 200
+count 118
+Shipment Number FRETSH000000098
+update fleetInfo status 200
+count 119
+Shipment Number FRETSH000000097
+update fleetInfo status 200
+count 120
+Shipment Number FRETSH000000096
+update fleetInfo status 200
+count 121
+Shipment Number FRETSH000000095
+update fleetInfo status 200
+count 122
+Shipment Number FRETSH000000094
+update fleetInfo status 200
+count 123
+Shipment Number FRETSH000000093
+update fleetInfo status 200
+count 124
+Shipment Number FRETSH000000092
+update fleetInfo status 200
+count 125
+Shipment Number FRETSH000000091
+update fleetInfo status 200
+count 126
+Shipment Number FRETSH000000090
+update fleetInfo status 200
+count 127
+Shipment Number FRETSH000000089
+update fleetInfo status 200
+count 128
+Shipment Number FRETSH000000088
+update fleetInfo status 200
+count 129
+Shipment Number FRETSH000000087
+update fleetInfo status 200
+count 130
+Shipment Number FRETSH000000086
+update fleetInfo status 200
+count 131
+Shipment Number FRETSH000000085
+update fleetInfo status 200
+count 132
+Shipment Number FRETSH000000084
+update fleetInfo status 200
+count 133
+Shipment Number FRETSH000000083
+update fleetInfo status 200
+count 134
+Shipment Number FRETSH000000082
+update fleetInfo status 200
+count 135
+Shipment Number FRETSH000000081
+update fleetInfo status 200
+count 136
+Shipment Number FRETSH000000080
+update fleetInfo status 200
+count 137
+Shipment Number FRETSH000000079
+update fleetInfo status 200
+count 138
+Shipment Number FRETSH000000078
+update fleetInfo status 200
+count 139
+Shipment Number FRETSH000000077
+update fleetInfo status 200
+count 140
+Shipment Number FRETSH000000076
+update fleetInfo status 200
+count 141
+Shipment Number FRETSH000000075
+update fleetInfo status 200
+count 142
+Shipment Number FRETSH000000074
+update fleetInfo status 200
+count 143
+Shipment Number FRETSH000000073
+update fleetInfo status 200
+count 144
+Shipment Number FRETSH000000072
+update fleetInfo status 200
+count 145
+Shipment Number FRETSH000000071
+update fleetInfo status 200
+count 146
+Shipment Number FRETSH000000070
+update fleetInfo status 200
+count 147
+Shipment Number FRETSH000000069
+update fleetInfo status 200
+count 148
+Shipment Number FRETSH000000068
+update fleetInfo status 200
+count 149
+Shipment Number FRETSH000000067
+update fleetInfo status 200
+count 150
+Shipment Number FRETSH000000066
+update fleetInfo status 200
+count 151
+Shipment Number FRETSH000000065
+update fleetInfo status 200
+count 152
+Shipment Number FRETSH000000064
+update fleetInfo status 200
+count 153
+Shipment Number FRETSH000000063
+update fleetInfo status 200
+count 154
+Shipment Number FRETSH000000062
+update fleetInfo status 200
+count 155
+Shipment Number FRETSH000000061
+update fleetInfo status 200
+count 156
+Shipment Number FRETSH000000060
+update fleetInfo status 200
+count 157
+Shipment Number FRETSH000000059
+update fleetInfo status 200
+count 158
+Shipment Number FRETSH000000058
+update fleetInfo status 200
+count 159
+Shipment Number FRETSH000000057
+update fleetInfo status 200
+count 160
+Shipment Number FRETSH000000056
+update fleetInfo status 200
+count 161
+Shipment Number FRETSH000000055
+update fleetInfo status 200
+count 162
+Shipment Number FRETSH000000054
+update fleetInfo status 200
+count 163
+Shipment Number FRETSH000000053
+update fleetInfo status 200
+count 164
+Shipment Number FRETSH000000052
+update fleetInfo status 200
+count 165
+Shipment Number FRETSH000000051
+update fleetInfo status 200
+count 166
+Shipment Number FRETSH000000050
+update fleetInfo status 200
+count 167
+Shipment Number FRETSH000000049
+update fleetInfo status 200
+count 168
+Shipment Number FRETSH000000048
+update fleetInfo status 200
+count 169
+Shipment Number FRETSH000000047
+update fleetInfo status 200
+count 170
+Shipment Number FRETSH000000046
+update fleetInfo status 200
+count 171
+Shipment Number FRETSH000000045
+update fleetInfo status 200
+count 172
+Shipment Number FRETSH000000044
+update fleetInfo status 200
+count 173
+Shipment Number FRETSH000000043
+update fleetInfo status 200
+count 174
+Shipment Number FRETSH000000042
+update fleetInfo status 200
+count 175
+Shipment Number FRETSH000000041
+update fleetInfo status 200
+count 176
+Shipment Number FRETSH000000040
+update fleetInfo status 200
+count 177
+Shipment Number FRETSH000000039
+update fleetInfo status 200
+count 178
+Shipment Number FRETSH000000038
+update fleetInfo status 200
+count 179
+Shipment Number FRETSH000000037
+update fleetInfo status 200
+count 180
+Shipment Number FRETSH000000036
+update fleetInfo status 200
+count 181
+Shipment Number FRETSH000000035
+update fleetInfo status 200
+count 182
+Shipment Number FRETSH000000034
+update fleetInfo status 200
+count 183
+Shipment Number FRETSH000000033
+update fleetInfo status 200
+count 184
+Shipment Number FRETSH000000032
+update fleetInfo status 200
+count 185
+Shipment Number FRETTP0000002
+update fleetInfo status 200
+count 186
+Shipment Number FRETSH000000026
+update fleetInfo status 200
+count 187
+Shipment Number FRETSH000000025
+update fleetInfo status 200
+count 188
+Shipment Number FRETSH000000024
+update fleetInfo status 200
+count 189
+Shipment Number FRETSH000000023
+update fleetInfo status 200
+count 190
+Shipment Number FRETSH000000022
+update fleetInfo status 200
+count 191
+Shipment Number FRETSH000000021
+update fleetInfo status 200
+count 192
+Shipment Number FRETSH000000020
+update fleetInfo status 200
+count 193
+Shipment Number FRETSH000000019
+update fleetInfo status 200
+count 194
+Shipment Number FRETSH000000018
+update fleetInfo status 200
+count 195
+Shipment Number FRETSH000000017
+update fleetInfo status 200
+count 196
+Shipment Number FRETSH000000016
+update fleetInfo status 200
+count 197
+Shipment Number FRETSH000000015
+update fleetInfo status 200
+count 198
+Shipment Number FRETSH000000014
+update fleetInfo status 200
+count 199
+Shipment Number FRETSH000000013
+update fleetInfo status 200
+count 200
+Shipment Number FRETSH000000012
+update fleetInfo status 200
+count 201
+Shipment Number FRETSH000000011
+update fleetInfo status 200
+count 202
+Shipment Number FRETSH000000010
+update fleetInfo status 200
+count 203
+Shipment Number FRETSH000000009
+update fleetInfo status 200
+count 204
+Shipment Number FRETSH000000008
+update fleetInfo status 200
+count 205
+Shipment Number FRETSH000000007
+update fleetInfo status 200
+count 206
+Shipment Number FRETSH000000005
+update fleetInfo status 200
+count 207
+Shipment Number FRETSH000000004
+update fleetInfo status 200
+count 208
+Shipment Number FRETSH000000003
+update fleetInfo status 200
+count 209
+Shipment Number FRETSH000000002
+update fleetInfo status 200
+count 210
+Shipment Number FRETTP0000001
+update fleetInfo status 200
+count 211
+Shipment Number FRETSH000000001
+update fleetInfo status 200
