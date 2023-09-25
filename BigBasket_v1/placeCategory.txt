@@ -1,0 +1,523 @@
+360
+Executing for FRETSH001000000607
+place api call null
+Executing for FRETSH001000000606
+place master map found place 
+Executing for 2701259
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2701273
+place master map found place 
+place api call null
+place master map found place 
+Executing for FRETSH001000000605
+place master map found place 
+Executing for FRETSH001000000604
+place master map found place 
+Executing for FRETSH001000000603
+place master map found place 
+Executing for FRETSH001000000602
+place master map found place 
+Executing for FRETSH001000000600
+place master map found place 
+Executing for 2701257
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701255
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701271
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701269
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701253
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for FRETSH001000000596
+place master map found place 
+Executing for 2701251
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701265
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2705329
+place master map found place 
+place api call null
+place api call null
+place api call null
+place api call null
+place api call null
+place master map found place 
+Executing for 2701347
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2701377
+place master map found place 
+Executing for 2705263
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2701333
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2701341
+place master map found place 
+place api call null
+place api call null
+place master map found place 
+Executing for FRETSH001000000592
+place master map found place 
+Executing for 2701327
+place master map found place 
+place api call null
+place api call null
+place master map found place 
+Executing for 2705077
+place master map found place 
+place api call null
+place api call null
+place master map found place 
+Executing for 2704807
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2703179
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2702327
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2702291
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2702279
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2702313
+place master map found place 
+place api call null
+place master map found place 
+Executing for FRETSH001000000578
+place master map found place 
+Executing for 2701017
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701005
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701003
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2702301
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2701015
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700813
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700755
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700913
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700915
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700639
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700969
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700799
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2699499
+place master map found place 
+place api call null
+place master map found place 
+Executing for FRETSH001000000559
+place master map found place 
+Executing for 2700955
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700835
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700917
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699379
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2699369
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700735
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699377
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699381
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700735
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699347
+place master map found place 
+place api call null
+place api call null
+place master map found place 
+Executing for 2699305
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699437
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699375
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699275
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699227
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699241
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699405
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699457
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699185
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699201
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698937
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698839
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699129
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699093
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699197
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699123
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699195
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699143
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699133
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699255
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699063
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698399
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698305
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698269
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698401
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698397
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698299
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698199
+place master map found place 
+place master map found place 
+place master map found place 
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call place not found.
+Error getting place Master place not found.
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call place not found.
+Error getting place Master place not found.
+place master map found place 
+place api call null
+place master map found place 
+Executing for 2698297
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698841
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698239
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698237
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698631
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698673
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698629
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698995
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698647
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698139
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698091
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698037
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2699193
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698873
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697999
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697375
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698173
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697345
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697057
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697355
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696921
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697083
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696909
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696883
+place master map found place 
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696881
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696737
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696871
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696639
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696643
+place master map found place 
+place master map found place 
+place master map found place 
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call place not found.
+Error getting place Master place not found.
+place api call place not found.
+Error getting place Master place not found.
+place api call 50
+place api call place not found.
+Error getting place Master place not found.
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2698143
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696641
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696685
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696591
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696543
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2700733
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696577
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2696479
+place master map found place 
+place master map found place 
+place master map found place 
+Executing for 2697243
+place master map found place 
+place master map found place 
+place master map found place 

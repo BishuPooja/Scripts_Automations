@@ -1,0 +1,761 @@
+366
+81
+shNo 00000000006100268882 executing _______________________________
+Shipment No: 6100268882
+LAST MILE CASE!!!
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 77608 consigner HYDERABAD
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 3393 consigner HYDERABAD
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 96003 consigner HYDERABAD
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 74891 consigner HYDERABAD
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 20635 consigner HYDERABAD
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 53104 consigner HYDERABAD
+count 1******************************************************
+shNo 00000000006100269015 executing _______________________________
+Shipment No: 6100269015
+LAST MILE CASE!!!
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 41574 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 78721 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 78059 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 53346 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 97956 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 83226 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 96003 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 45472 consigner HYDERABAD
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 3399 consigner HYDERABAD
+count 2******************************************************
+shNo 00000000006100268649 executing _______________________________
+Shipment No: 6100268649
+LAST MILE CASE!!!
+Consignment No: 84910
+SMS Already Triggered For consignment 84910 of consignee 64030 consigner HYDERABAD
+Consignment No: 85209
+SMS Already Triggered For consignment 85209 of consignee 83226 consigner HYDERABAD
+Consignment No: 84910
+SMS Already Triggered For consignment 84910 of consignee 68633 consigner HYDERABAD
+Consignment No: 85209
+SMS Already Triggered For consignment 85209 of consignee 3388 consigner HYDERABAD
+count 3******************************************************
+shNo 00000000006100268670 executing _______________________________
+Shipment No: 6100268670
+LAST MILE CASE!!!
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 46150 consigner HYDERABAD
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 65232 consigner HYDERABAD
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 32824 consigner HYDERABAD
+count 4******************************************************
+shNo 00000000006100268610 executing _______________________________
+Shipment No: 6100268610
+LAST MILE CASE!!!
+Consignment No: 85205
+SMS Already Triggered For consignment 85205 of consignee 53104 consigner HYDERABAD
+Consignment No: 85206
+SMS Already Triggered For consignment 85206 of consignee 27804 consigner HYDERABAD
+count 5******************************************************
+shNo 00000000006100268678 executing _______________________________
+shNo 00000000006100268741 executing _______________________________
+Shipment No: 6100268741
+LAST MILE CASE!!!
+Consignment No: 84914
+SMS Already Triggered For consignment 84914 of consignee 99437 consigner HYDERABAD
+count 6******************************************************
+shNo 00000000006100268639 executing _______________________________
+Shipment No: 6100268639
+LAST MILE CASE!!!
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 20635 consigner HYDERABAD
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 3399 consigner HYDERABAD
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 53104 consigner HYDERABAD
+count 7******************************************************
+shNo 00000000006100268598 executing _______________________________
+Shipment No: 6100268598
+Tracking Status is not enroute for delivery 6100268598
+count 8******************************************************
+shNo 00000000006100268994 executing _______________________________
+Shipment No: 6100268994
+LAST MILE CASE!!!
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 13977 consigner HYDERABAD
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 8283 consigner HYDERABAD
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 3388 consigner HYDERABAD
+count 9******************************************************
+shNo 00000000006100268905 executing _______________________________
+Shipment No: 6100268905
+LAST MILE CASE!!!
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 88607 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 78398 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 56796 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 98816 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 52629 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 27525 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 204 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 48857 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 19741 consigner HYDERABAD
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 3399 consigner HYDERABAD
+count 10******************************************************
+shNo 00000000006100268989 executing _______________________________
+shNo 00000000006100268695 executing _______________________________
+shNo 00000000006100268623 executing _______________________________
+Shipment No: 6100268623
+LAST MILE CASE!!!
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81884 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 90119 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 47135 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 55004987 consigner WARRANGAL
+count 11******************************************************
+shNo 00000000006100269234 executing _______________________________
+Shipment No: 6100269234
+Tracking Status is not enroute for delivery 6100269234
+count 12******************************************************
+shNo 00000000006100269830 executing _______________________________
+Shipment No: 6100269830
+Tracking Status is not enroute for delivery 6100269830
+count 13******************************************************
+shNo 00000000006100270123 executing _______________________________
+Shipment No: 6100270123
+Tracking Status is not enroute for delivery 6100270123
+count 14******************************************************
+shNo 00000000006100270157 executing _______________________________
+Shipment No: 6100270157
+LAST MILE CASE!!!
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 54480 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 79141 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 85831 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81069 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 42981 consigner WARRANGAL
+count 15******************************************************
+shNo 00000000006100268987 executing _______________________________
+Shipment No: 6100268987
+LAST MILE CASE!!!
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 80273 consigner HYDERABAD
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 46150 consigner HYDERABAD
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 57323 consigner HYDERABAD
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 65232 consigner HYDERABAD
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 32824 consigner HYDERABAD
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 88612 consigner HYDERABAD
+count 16******************************************************
+shNo 00000000006100269021 executing _______________________________
+Shipment No: 6100269021
+LAST MILE CASE!!!
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 46408 consigner HYDERABAD
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 64812 consigner HYDERABAD
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 61714 consigner HYDERABAD
+count 17******************************************************
+shNo 00000000006100268868 executing _______________________________
+Shipment No: 6100268868
+LAST MILE CASE!!!
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 45683 consigner HYDERABAD
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 50360 consigner HYDERABAD
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 53795 consigner HYDERABAD
+count 18******************************************************
+shNo 00000000006100269997 executing _______________________________
+Shipment No: 6100269997
+LAST MILE CASE!!!
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 55003175 consigner HYDERABAD
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 90827 consigner HYDERABAD
+count 19******************************************************
+shNo 00000000006100269086 executing _______________________________
+Shipment No: 6100269086
+LAST MILE CASE!!!
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 53104 consigner HYDERABAD
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 78653 consigner HYDERABAD
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 27804 consigner HYDERABAD
+count 20******************************************************
+shNo 00000000006100268962 executing _______________________________
+shNo 00000000006100269155 executing _______________________________
+shNo 00000000006100269568 executing _______________________________
+Shipment No: 6100269568
+Tracking Status is not enroute for delivery 6100269568
+count 21******************************************************
+shNo 00000000006100269170 executing _______________________________
+Shipment No: 6100269170
+LAST MILE CASE!!!
+Consignment No: 1371015801,1371015762,1249102692,1249102689,1249102598
+SMS Already Triggered For consignment 1371015801,1371015762,1249102692,1249102689,1249102598 of consignee 53402 consigner WARRANGAL
+Consignment No: 1371015788,1249102747,1249102744,1249102743,1249102742,1249102740,1249102739,1249102737,1371015711,1249102734,1249102736,1249102732,1249102729,1249102727,1249102725,1249102790,1249102789
+SMS Already Triggered For consignment 1371015788,1249102747,1249102744,1249102743,1249102742,1249102740,1249102739,1249102737,1371015711,1249102734,1249102736,1249102732,1249102729,1249102727,1249102725,1249102790,1249102789 of consignee 53428 consigner WARRANGAL
+Consignment No: 1371015857,1371015856
+SMS Already Triggered For consignment 1371015857,1371015856 of consignee 49916 consigner WARRANGAL
+Consignment No: 1371015823,1371015812,1371015799,1371015793,1371015792,1249102741,1249102738,1249102603,1249102589,1249102579,1249102581,1249102576,1249102550,1249102532
+SMS Already Triggered For consignment 1371015823,1371015812,1371015799,1371015793,1371015792,1249102741,1249102738,1249102603,1249102589,1249102579,1249102581,1249102576,1249102550,1249102532 of consignee 53511 consigner WARRANGAL
+Consignment No: 1371015821,1371015822,1249102618,1249102613,1371015545,1249102513
+SMS Already Triggered For consignment 1371015821,1371015822,1249102618,1249102613,1371015545,1249102513 of consignee 60631 consigner WARRANGAL
+count 22******************************************************
+shNo 00000000006100269356 executing _______________________________
+Shipment No: 6100269356
+LAST MILE CASE!!!
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 78925 consigner HYDERABAD
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 49199 consigner HYDERABAD
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 39424 consigner HYDERABAD
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 53795 consigner HYDERABAD
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 54163 consigner HYDERABAD
+count 23******************************************************
+shNo 00000000006100269443 executing _______________________________
+Shipment No: 6100269443
+LAST MILE CASE!!!
+Consignment No: 84921
+SMS Already Triggered For consignment 84921 of consignee 64030 consigner HYDERABAD
+count 24******************************************************
+shNo 00000000006100269466 executing _______________________________
+Shipment No: 6100269466
+LAST MILE CASE!!!
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 96003 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 53104 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 19741 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 3399 consigner HYDERABAD
+Consignment No: 1218431855
+SMS Already Triggered For consignment 1218431855 of consignee 55000399 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 80435 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 65232 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 80142 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 93795 consigner HYDERABAD
+count 25******************************************************
+shNo 00000000006100269415 executing _______________________________
+Shipment No: 6100269415
+LAST MILE CASE!!!
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 44164 consigner HYDERABAD
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 61714 consigner HYDERABAD
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 41304 consigner HYDERABAD
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 80273 consigner HYDERABAD
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 60849 consigner HYDERABAD
+count 26******************************************************
+shNo 00000000006100269402 executing _______________________________
+Shipment No: 6100269402
+LAST MILE CASE!!!
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 53104 consigner HYDERABAD
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 82911 consigner HYDERABAD
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 19859 consigner HYDERABAD
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 65467 consigner HYDERABAD
+count 27******************************************************
+shNo 00000000006100269995 executing _______________________________
+Shipment No: 6100269995
+LAST MILE CASE!!!
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 83226 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 98406 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 43192 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 85635 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 45683 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 98462 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 55003175 consigner HYDERABAD
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 92519 consigner HYDERABAD
+count 28******************************************************
+shNo 00000000006100269375 executing _______________________________
+Shipment No: 6100269375
+LAST MILE CASE!!!
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 3388 consigner HYDERABAD
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 8283 consigner HYDERABAD
+count 29******************************************************
+shNo 00000000006100270053 executing _______________________________
+Shipment No: 6100270053
+LAST MILE CASE!!!
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 39360 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 70710 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81444 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 47135 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81884 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 65937 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 90119 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 45683 consigner WARRANGAL
+count 30******************************************************
+shNo 00000000006100269586 executing _______________________________
+shNo 00000000006100269429 executing _______________________________
+Shipment No: 6100269429
+LAST MILE CASE!!!
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 46150 consigner HYDERABAD
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 32824 consigner HYDERABAD
+count 31******************************************************
+shNo 00000000006100270166 executing _______________________________
+Shipment No: 6100270166
+LAST MILE CASE!!!
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 97656 consigner HYDERABAD
+Consignment No: 1118279123,1118279124,1218432011,1218432023,1218432022,1218432026,1218432037,1218432049,1218432051,1218432058,1118279134
+SMS Already Triggered For consignment 1118279123,1118279124,1218432011,1218432023,1218432022,1218432026,1218432037,1218432049,1218432051,1218432058,1118279134 of consignee 93795 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 96660 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 31384 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 88612 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 65232 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 200 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 53104 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 99437 consigner HYDERABAD
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 3399 consigner HYDERABAD
+count 32******************************************************
+shNo 00000000006100269354 executing _______________________________
+Shipment No: 6100269354
+LAST MILE CASE!!!
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 78059 consigner HYDERABAD
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 3399 consigner HYDERABAD
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 53346 consigner HYDERABAD
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 45472 consigner HYDERABAD
+count 33******************************************************
+shNo 00000000006100269954 executing _______________________________
+Shipment No: 6100269954
+LAST MILE CASE!!!
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 48857 consigner HYDERABAD
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 98816 consigner HYDERABAD
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 52629 consigner HYDERABAD
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 88607 consigner HYDERABAD
+count 34******************************************************
+shNo 00000000006100269971 executing _______________________________
+Shipment No: 6100269971
+LAST MILE CASE!!!
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 46150 consigner HYDERABAD
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 50031 consigner HYDERABAD
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 78314 consigner HYDERABAD
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 32824 consigner HYDERABAD
+count 35******************************************************
+shNo 00000000006100270101 executing _______________________________
+Shipment No: 6100270101
+LAST MILE CASE!!!
+Consignment No: 85231
+SMS Already Triggered For consignment 85231 of consignee 61714 consigner HYDERABAD
+Consignment No: 85231
+SMS Already Triggered For consignment 85231 of consignee 83226 consigner HYDERABAD
+count 36******************************************************
+shNo 00000000006100270516 executing _______________________________
+Shipment No: 6100270516
+LAST MILE CASE!!!
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 44379 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 27804 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53104 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 65467 consigner HYDERABAD
+count 37******************************************************
+shNo 00000000006100270120 executing _______________________________
+shNo 00000000006100270000 executing _______________________________
+Shipment No: 6100270000
+LAST MILE CASE!!!
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 8283 consigner HYDERABAD
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 79004 consigner HYDERABAD
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 41123 consigner HYDERABAD
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 99437 consigner HYDERABAD
+count 38******************************************************
+shNo 00000000006100270628 executing _______________________________
+shNo 00000000006100270650 executing _______________________________
+Shipment No: 6100270650
+Tracking Status is not enroute for delivery 6100270650
+count 39******************************************************
+shNo 00000000006100270050 executing _______________________________
+Shipment No: 6100270050
+Tracking Status is not enroute for delivery 6100270050
+count 40******************************************************
+shNo 00000000006100270062 executing _______________________________
+Shipment No: 6100270062
+Tracking Status is not enroute for delivery 6100270062
+count 41******************************************************
+shNo 00000000006100270074 executing _______________________________
+Shipment No: 6100270074
+LAST MILE CASE!!!
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 90827 consigner HYDERABAD
+Consignment No: 84927
+SMS Already Triggered For consignment 84927 of consignee 3399 consigner HYDERABAD
+count 42******************************************************
+shNo 00000000006100270476 executing _______________________________
+Shipment No: 6100270476
+LAST MILE CASE!!!
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 78398 consigner HYDERABAD
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 64433 consigner HYDERABAD
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 59552 consigner HYDERABAD
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 62698 consigner HYDERABAD
+count 43******************************************************
+shNo 00000000006100270777 executing _______________________________
+Shipment No: 6100270777
+LAST MILE CASE!!!
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56852 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 3428 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 54204 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81083 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 89458 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 64513 consigner WARRANGAL
+count 44******************************************************
+shNo 00000000006100270240 executing _______________________________
+Shipment No: 6100270240
+Tracking Status is not enroute for delivery 6100270240
+count 45******************************************************
+shNo 00000000006100270621 executing _______________________________
+Shipment No: 6100270621
+Tracking Status is not enroute for delivery 6100270621
+count 46******************************************************
+shNo 00000000006100270726 executing _______________________________
+Shipment No: 6100270726
+Tracking Status is not enroute for delivery 6100270726
+count 47******************************************************
+shNo 00000000006100270535 executing _______________________________
+shNo 00000000006100270595 executing _______________________________
+Shipment No: 6100270595
+LAST MILE CASE!!!
+Consignment No: 1371015978,1371015785,1371015984,1371016000
+SMS Already Triggered For consignment 1371015978,1371015785,1371015984,1371016000 of consignee 50358 consigner WARRANGAL
+count 48******************************************************
+shNo 00000000006100268971 executing _______________________________
+shNo 00000000006100270021 executing _______________________________
+Shipment No: 6100270021
+Tracking Status is not enroute for delivery 6100270021
+count 49******************************************************
+shNo 00000000006100268736 executing _______________________________
+Shipment No: 6100268736
+LAST MILE CASE!!!
+Consignment No: 84913
+SMS Already Triggered For consignment 84913 of consignee 3399 consigner HYDERABAD
+count 50******************************************************
+shNo 00000000006100268946 executing _______________________________
+Shipment No: 6100268946
+LAST MILE CASE!!!
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 43450 consigner HYDERABAD
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 3389 consigner HYDERABAD
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 96956 consigner HYDERABAD
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 99437 consigner HYDERABAD
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 41123 consigner HYDERABAD
+count 51******************************************************
+shNo 00000000006100270087 executing _______________________________
+Shipment No: 6100270087
+LAST MILE CASE!!!
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 30015 consigner HYDERABAD
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 55008258 consigner HYDERABAD
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 74955 consigner HYDERABAD
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 22210 consigner HYDERABAD
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 80855 consigner HYDERABAD
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 71330 consigner HYDERABAD
+count 52******************************************************
+shNo 00000000006100269254 executing _______________________________
+Shipment No: 6100269254
+LAST MILE CASE!!!
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 3432 consigner HYDERABAD
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 25714 consigner HYDERABAD
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 54204 consigner HYDERABAD
+count 53******************************************************
+shNo 00000000006100270575 executing _______________________________
+Shipment No: 6100270575
+LAST MILE CASE!!!
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 3379 consigner HYDERABAD
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 88612 consigner HYDERABAD
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 65232 consigner HYDERABAD
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 57323 consigner HYDERABAD
+count 54******************************************************
+shNo 00000000006100268972 executing _______________________________
+Shipment No: 6100268972
+LAST MILE CASE!!!
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 98406 consigner HYDERABAD
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 55000399 consigner HYDERABAD
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 98462 consigner HYDERABAD
+count 55******************************************************
+shNo 00000000006100270559 executing _______________________________
+Shipment No: 6100270559
+LAST MILE CASE!!!
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 41304 consigner HYDERABAD
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 55010029 consigner HYDERABAD
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 46408 consigner HYDERABAD
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 90827 consigner HYDERABAD
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 98462 consigner HYDERABAD
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 83226 consigner HYDERABAD
+count 56******************************************************
+shNo 00000000006100269224 executing _______________________________
+Shipment No: 6100269224
+LAST MILE CASE!!!
+Consignment No: 84918
+SMS Already Triggered For consignment 84918 of consignee 53104 consigner HYDERABAD
+count 57******************************************************
+shNo 00000000006100269448 executing _______________________________
+Shipment No: 6100269448
+LAST MILE CASE!!!
+Consignment No: 84922
+SMS Already Triggered For consignment 84922 of consignee 99437 consigner HYDERABAD
+Consignment No: 84922
+SMS Already Triggered For consignment 84922 of consignee 64812 consigner HYDERABAD
+count 58******************************************************
+shNo 00000000006100269714 executing _______________________________
+Shipment No: 6100269714
+Tracking Status is not enroute for delivery 6100269714
+count 59******************************************************
+shNo 00000000006100269729 executing _______________________________
+Shipment No: 6100269729
+Tracking Status is not enroute for delivery 6100269729
+count 60******************************************************
+shNo 00000000006100270812 executing _______________________________
+Shipment No: 6100270812
+LAST MILE CASE!!!
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee 64513 consigner HYDERABAD
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee WARRANGAL consigner HYDERABAD
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee 53402 consigner HYDERABAD
+count 61******************************************************
+shNo 00000000006100270439 executing _______________________________
+Shipment No: 6100270439
+LAST MILE CASE!!!
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 55000399 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 79989 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 69184 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 70931 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 82266 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 13977 consigner HYDERABAD
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 3388 consigner HYDERABAD
+count 62******************************************************
+shNo 00000000006100270422 executing _______________________________
+shNo 00000000006100270480 executing _______________________________
+Shipment No: 6100270480
+LAST MILE CASE!!!
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 43450 consigner HYDERABAD
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 8283 consigner HYDERABAD
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 99437 consigner HYDERABAD
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 53757 consigner HYDERABAD
+count 63******************************************************
+shNo 00000000006100270587 executing _______________________________
+Shipment No: 6100270587
+LAST MILE CASE!!!
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 20635 consigner HYDERABAD
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 53104 consigner HYDERABAD
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 97956 consigner HYDERABAD
+count 64******************************************************
+shNo 00000000006100270530 executing _______________________________
+Shipment No: 6100270530
+LAST MILE CASE!!!
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56213 consigner WARRANGAL
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56852 consigner WARRANGAL
+count 65******************************************************
+shNo 00000000006100270824 executing _______________________________
+Shipment No: 6100270824
+LAST MILE CASE!!!
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 30015 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 5840 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 55010386 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 76214 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 59528 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 95210 consigner HYDERABAD
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 55008258 consigner HYDERABAD
+count 66******************************************************
+shNo 00000000006100270534 executing _______________________________
+Shipment No: 6100270534
+LAST MILE CASE!!!
+Consignment No: 84932
+SMS Already Triggered For consignment 84932 of consignee 64030 consigner HYDERABAD
+Consignment No: 84932
+SMS Already Triggered For consignment 84932 of consignee 39358 consigner HYDERABAD
+count 67******************************************************
+shNo 00000000006100270796 executing _______________________________
+Shipment No: 6100270796
+LAST MILE CASE!!!
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 98406 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 43450 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 81884 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 73239 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 61714 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 39424 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53402 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 65232 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 8283 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53346 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 45683 consigner HYDERABAD
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 81653 consigner HYDERABAD
+count 68******************************************************
+shNo 00000000006100270857 executing _______________________________
+Shipment No: 6100270857
+LAST MILE CASE!!!
+Consignment No: 84938
+SMS Already Triggered For consignment 84938 of consignee 52250 consigner HYDERABAD
+count 69******************************************************
+shNo 00000000006100270844 executing _______________________________
+Shipment No: 6100270844
+LAST MILE CASE!!!
+Consignment No: 84937
+SMS Already Triggered For consignment 84937 of consignee 52250 consigner HYDERABAD
+count 70******************************************************

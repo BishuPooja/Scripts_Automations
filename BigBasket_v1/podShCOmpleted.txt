@@ -1,0 +1,163 @@
+60
+1115209130
+e7426fcc-c30c-45a5-8c15-c5e45fcd78da
+count---->1  status --->Created
+delivered for this consignment 1115209130  shipment 00000000006100242770
+DepartureTime -->null, arrivalTime -->1681446167206, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100242770, stageIdx --->1
+timeUpdate : 1681449767206
+1130100467
+a4e45832-8e2c-4a5d-ab76-83a66e55cc35
+count---->2  status --->Created
+delivered for this consignment 1130100467  shipment 00000000006100242669
+DepartureTime -->null, arrivalTime -->1681397513670, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100242669, stageIdx --->1
+timeUpdate : 1681401113670
+1230120757
+ca9dcc62-8675-4c2a-a7df-8719e71773e0
+1115209058
+4d48d025-aa15-4bd5-a224-bf174b98e2fa
+count---->3  status --->Created
+delivered for this consignment 1115209058  shipment 00000000006100242486
+DepartureTime -->null, arrivalTime -->1681445834619, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100242486, stageIdx --->1
+timeUpdate : 1681449434619
+1215188948
+38423bea-f33c-4429-a4b3-071b696dc8e4
+count---->4  status --->Created
+delivered for this consignment 1215188948  shipment 00000000006100242317
+DepartureTime -->null, arrivalTime -->1681184147353, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100242317, stageIdx --->1
+timeUpdate : 1681187747353
+1215188943
+9fc152e8-186b-4590-946a-b208edda9404
+count---->5  status --->Created
+delivered for this consignment 1215188943  shipment 00000000006100242356
+DepartureTime -->null, arrivalTime -->1681272228589, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100242356, stageIdx --->1
+timeUpdate : 1681275828589
+1230120721
+6cfa10e5-7c45-4b54-a947-06ada33a791d
+1130100361
+02a2cd05-737d-43c6-88c3-9c383f5c20e5
+1130100358
+c656c6b7-f880-4d41-be36-e1f4d6196486
+count---->6  status --->Created
+delivered for this consignment 1130100358  shipment 00000000006100241536
+DepartureTime -->null, arrivalTime -->1681301138705, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100241536, stageIdx --->1
+timeUpdate : 1681304738705
+1130100352
+83d6f43e-9849-4875-801c-19417c95a742
+1130100342
+308e1faf-6f7f-45aa-8a0e-42f78f20a79a
+1380801621
+2fcec4a1-b2e8-44bd-ac25-0d3a88dfddb1
+1393006928
+37cf77c9-cc54-4494-8bc4-172200803b0b
+count---->7  status --->Created
+delivered for this consignment 1393006928  shipment 00000000006100241464
+DepartureTime -->null, arrivalTime -->1681373359541, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100241464, stageIdx --->1
+timeUpdate : 1681376959541
+1130100320
+a6e07f8f-75ce-4b5b-b4df-5bf0aa88b68f
+1130100302
+6243fce2-de7a-4bb6-83cb-137cb05751c4
+count---->8  status --->Created
+delivered for this consignment 1130100302  shipment 00000000006100241050
+DepartureTime -->null, arrivalTime -->1681268783250, activityStTime -->1681440374908,activityEndTime --->null, shNUm -->00000000006100241050, stageIdx --->1
+timeUpdate : 1681443974908
+1115208772
+684e2b5c-97e0-45ed-9fbb-12f7c145d003
+1230120566
+8ed2855a-f2b6-4aad-b220-8b6500f7e5c3
+1393006784
+c97f71e7-b4b9-4622-b2d3-2bb0f5bdda74
+1393006782
+57bdbcbc-a03f-4cbe-9bbe-00499c46edc3
+1115208636
+f2bbd52a-5ef4-4151-a8e2-4d1a4d5a124e
+1115208632
+f905cccc-8c04-40e3-9845-c6d26ea16768
+1430070777
+90919185-29c5-4699-99dd-eb7e971478a3
+count---->9  status --->Created
+delivered for this consignment 1430070777  shipment 00000000006100237759
+DepartureTime -->null, arrivalTime -->null, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100237759, stageIdx --->2
+1471055320
+9ea3a551-2847-4ea5-9b6e-5ebc321b4d84
+1230120382
+0df7cad6-e0e9-4255-ae7c-224159fcb21c
+1230120381
+42efade9-c837-4adf-afa9-d76989d8513c
+1115208136
+f1d7df23-271b-4983-860a-ca8097619e8c
+1380801463
+80090197-d4ce-470b-9bfd-c9a75fa8c61a
+1130099954
+8beff8f6-5428-42fa-908b-1d6143c89f52
+1573150429
+c9fdda29-c95a-4f94-84f9-881a81107689
+1132074369
+7526caaa-9b18-4230-bf39-696d0a9005ff
+1206100712
+c020f578-f569-4908-af60-c54f9eda92f6
+1393005179
+60370a9a-fabc-480e-8167-edfa45525f70
+1130099700
+d1a3c983-8628-4c23-b019-6e8572b0bbdc
+1468221358
+e9a4c459-31ee-4800-9a61-3777adbce494
+1393004974
+6aea16ff-475f-4a2e-84c5-98347951be88
+1115207384
+bc8cf9b5-aae8-4c39-9924-7e0ebcd6b606
+1115207337
+c5d54474-a1d9-4535-b9be-e5bff21e5842
+1387600010
+11ba1c77-1ba6-4df1-aa06-e6d1d737b0f2
+1380801374
+9d5eebd3-ba9b-41ae-9e15-ecac53a21cd6
+1106023376
+d3c274c8-7c2c-40bb-95cb-bab2d68a11e1
+1232094604
+c2c22257-6307-4518-9436-fae87fe44a04
+1106023331
+56411d88-9084-4522-9c6a-45f6ed27771b
+1115206957
+90bf6094-a1dd-4f6b-a485-bf4c9c1e2a2e
+1115206751
+d1fe3d61-0aee-4fe4-ab96-194b789418c2
+1115206629
+356828ab-4604-4579-b18d-792c1a3c2c63
+1115206487
+dc38b944-e1b7-4873-9e13-0be5796b4f8f
+1106023096
+ce02a859-cf5a-491a-8234-f7375817f59b
+1106023095
+ce02a859-cf5a-491a-8234-f7375817f59b
+1106023033
+ddd1c739-c472-4936-8b3e-c4ce1c65ec5f
+1115206389
+7104bbb3-8967-47c8-af85-68789107efee
+1115206387
+2dc9bc63-4cde-4dc0-a625-4a14c08e0080
+1115206364
+e83a3dda-55ca-453e-b5d5-24402d3c5482
+1380801321
+7efaba8b-8071-4a30-bb57-f1b57abb8ef0
+1115206229
+68f52a42-e066-474d-a836-0fc532e7b88c
+1232094571
+ad8b5c69-e019-448b-a782-565efb73bbcf
+1115205616
+8f01b330-8687-475e-8b31-9768aaaf63f8
+1115205563
+eee1ad0e-43bf-4534-b297-ce278cbd6bff
+1230118627
+2c6c2d44-00b0-43d3-8a14-60419acad86d
+count---->10  status --->Created
+delivered for this consignment 1230118627  shipment 00000000006100218666
+DepartureTime -->null, arrivalTime -->1676951110876, activityStTime -->null,activityEndTime --->null, shNUm -->00000000006100218666, stageIdx --->1
+timeUpdate : 1676954710876
+1430070308
+6205a5b3-7a4f-43db-b040-5137a11a1c9b
+1393001662
+ed5e6488-5282-45d0-aa75-d0c587d69185
+total Count -->10
+failed cases --->0---->[]
+successData  ---> 9 ----->  [{"shNo":"00000000006100242770"},{"shNo":"00000000006100242669"},{"shNo":"00000000006100242486"},{"shNo":"00000000006100242317"},{"shNo":"00000000006100242356"},{"shNo":"00000000006100241536"},{"shNo":"00000000006100241464"},{"shNo":"00000000006100241050"},{"shNo":"00000000006100218666"}]

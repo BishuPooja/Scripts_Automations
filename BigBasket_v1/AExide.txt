@@ -1,0 +1,1372 @@
+366
+81
+shNo 00000000006100268882 executing _______________________________
+Shipment No: 6100268882
+cnlength: 6
+CnId : 6f158cc5-1b03-4bdc-96e5-9a384fff2860,0b3bc2b8-9254-4c67-8fe0-c2050089e4f4,97bf7b2d-3fc7-4ee9-a175-e7d5ec78f864,ecb13da5-4d36-4849-a472-ebe91f283831,80db9f56-63bd-469a-b3ca-a88f8987aa04,b7b9b0f2-e1c5-46ce-8ffb-25375658e615
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 77608 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 3393 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 96003 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 74891 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 20635 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85212
+SMS Already Triggered For consignment 85212 of consignee 53104 consigner HYDERABAD
+count 1******************************************************
+shNo 00000000006100269015 executing _______________________________
+Shipment No: 6100269015
+cnlength: 9
+CnId : ca026cac-6cf4-45fd-89ad-73a90bac124c,eb8a85ef-9f3d-4125-a620-7a41ad3aff03,b46dbb3d-21b0-40e8-b59d-ca7260944805,f8417570-bec3-4294-9e52-e6809c18113a,b579e0ba-b807-43f9-b619-c0c5b9e8e482,0c13627c-f21c-459c-a492-f28de99360cb,21c501fb-4d01-4ec7-b121-ba875a051d8a,61c6d36b-84d9-4fb3-9e29-f4502084281e,68490d48-623f-455b-a38b-930f9a1e0ed3
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 41574 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 78721 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 78059 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 53346 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 97956 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 83226 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 96003 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 45472 consigner HYDERABAD
+count 9
+Get cn by cnId api res status : 200
+Consignment No: 85218
+SMS Already Triggered For consignment 85218 of consignee 3399 consigner HYDERABAD
+count 2******************************************************
+shNo 00000000006100268649 executing _______________________________
+Shipment No: 6100268649
+cnlength: 4
+CnId : 95ca33fb-747f-4f93-878d-805c94bc830b,d214ed82-4b80-41a2-89f6-8f01b4e98caa,689c5004-f700-48f4-ae56-35ab38373b9c,d012a5fd-da8d-4d04-9875-ab12b0e37223
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84910
+SMS Already Triggered For consignment 84910 of consignee 64030 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85209
+SMS Already Triggered For consignment 85209 of consignee 83226 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84910
+SMS Already Triggered For consignment 84910 of consignee 68633 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85209
+SMS Already Triggered For consignment 85209 of consignee 3388 consigner HYDERABAD
+count 3******************************************************
+shNo 00000000006100268670 executing _______________________________
+Shipment No: 6100268670
+cnlength: 3
+CnId : 71ab7094-2a7f-4d5d-ae2e-c620e726d118,82ff453c-49a2-4b4e-a80c-566df3ccd20d,e4b80772-a436-4ef1-b465-3624899beda7
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 46150 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 65232 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85210
+SMS Already Triggered For consignment 85210 of consignee 32824 consigner HYDERABAD
+count 4******************************************************
+shNo 00000000006100268610 executing _______________________________
+Shipment No: 6100268610
+cnlength: 2
+CnId : 254e5a3e-8dcd-4201-836a-2688b4c2262a,47c4ed4e-65d0-47ca-ae51-9f7081dd8c67
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85205
+SMS Already Triggered For consignment 85205 of consignee 53104 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85206
+SMS Already Triggered For consignment 85206 of consignee 27804 consigner HYDERABAD
+count 5******************************************************
+shNo 00000000006100268678 executing _______________________________
+shNo 00000000006100268741 executing _______________________________
+Shipment No: 6100268741
+cnlength: 1
+CnId : 806214e6-5626-4278-9e75-f36353a9365f
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84914
+SMS Already Triggered For consignment 84914 of consignee 99437 consigner HYDERABAD
+count 6******************************************************
+shNo 00000000006100268639 executing _______________________________
+Shipment No: 6100268639
+cnlength: 3
+CnId : d334b9a8-bbcb-4858-a422-4e830d0edc6a,94121a02-3901-47df-9edf-ba7fdaf75221,60b25323-cdce-4f95-9bf4-62c8ebb3cc76
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 20635 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 3399 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85208
+SMS Already Triggered For consignment 85208 of consignee 53104 consigner HYDERABAD
+count 7******************************************************
+shNo 00000000006100268598 executing _______________________________
+Shipment No: 6100268598
+Tracking Status is not enroute for delivery 6100268598
+count 8******************************************************
+shNo 00000000006100268994 executing _______________________________
+Shipment No: 6100268994
+cnlength: 3
+CnId : 83cfc76f-9f9d-4484-a3d0-6bec83c3ebf6,d1cf2e3a-ceaa-4d36-becf-49e14711eb73,4fc1fc02-d29f-4aec-9aee-92adfba43374
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 13977 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 8283 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85217
+SMS Already Triggered For consignment 85217 of consignee 3388 consigner HYDERABAD
+count 9******************************************************
+shNo 00000000006100268905 executing _______________________________
+Shipment No: 6100268905
+cnlength: 10
+CnId : c92f8206-57fb-4653-b7e8-5d9527ddb80e,08f504b1-9d36-4c86-86a0-a2ef05efde75,9e8dd252-f2d3-43b9-93e5-db26faf419e7,16736ccc-9d26-4f8c-9a25-681abc837357,4ad2f4b3-01af-47a6-b56a-ed579395e4dd,160ce021-f259-4529-b09e-1ba61706a4ed,7625096f-1517-4998-96a5-0f119e0adf46,a68369d6-812e-4cca-98f0-f84ef8fe80f5,0e5f43e5-ad93-4f93-b75e-6869d32f18a0,bb252d1b-acb6-4638-84f9-73a941df813b
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 88607 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 78398 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 56796 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 98816 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 52629 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 27525 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 204 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 48857 consigner HYDERABAD
+count 9
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 19741 consigner HYDERABAD
+count 10
+Get cn by cnId api res status : 200
+Consignment No: 85213
+SMS Already Triggered For consignment 85213 of consignee 3399 consigner HYDERABAD
+count 10******************************************************
+shNo 00000000006100268989 executing _______________________________
+shNo 00000000006100268695 executing _______________________________
+shNo 00000000006100268623 executing _______________________________
+Shipment No: 6100268623
+cnlength: 4
+CnId : 21a9abc1-f3a5-46ca-babf-52138822b2b8,91910f8a-b0d4-4fc6-9aa6-a122474ee302,d7f80055-d3e4-4975-8c86-3bb2a0a3d8d1,c026686e-91c5-4785-8952-27bd3689820a
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81884 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 90119 consigner WARRANGAL
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 47135 consigner WARRANGAL
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 55004987 consigner WARRANGAL
+count 11******************************************************
+shNo 00000000006100269234 executing _______________________________
+Shipment No: 6100269234
+Tracking Status is not enroute for delivery 6100269234
+count 12******************************************************
+shNo 00000000006100269830 executing _______________________________
+Shipment No: 6100269830
+Tracking Status is not enroute for delivery 6100269830
+count 13******************************************************
+shNo 00000000006100270123 executing _______________________________
+Shipment No: 6100270123
+Tracking Status is not enroute for delivery 6100270123
+count 14******************************************************
+shNo 00000000006100270157 executing _______________________________
+Shipment No: 6100270157
+cnlength: 5
+CnId : 3d10e27a-a8cf-4460-9c12-3659d51643de,36a7c16c-8509-4a81-b7cb-1ce0b61d61ec,7ef3bbe9-6f12-4b47-a526-a98a0698541a,e00e85d7-2aac-48f8-9f62-3ed480f865d8,cb5effff-8c27-4975-905a-3c2d655aab97
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 54480 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 79141 consigner WARRANGAL
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 85831 consigner WARRANGAL
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81069 consigner WARRANGAL
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 42981 consigner WARRANGAL
+count 15******************************************************
+shNo 00000000006100268987 executing _______________________________
+Shipment No: 6100268987
+cnlength: 6
+CnId : 7035c670-c4af-4b2f-a275-24bcb88783a0,f6b81561-3d30-4ad0-bec1-d097a2b18195,80965519-714f-4771-8868-26c8a50b7cfa,1c4c01c5-508b-48fe-940f-a101710a57c5,be62e00b-2020-4cef-87b4-f7751473302b,e5dbeca6-a5a3-4d5d-b2dc-25ab6bda599b
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 80273 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 46150 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 57323 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 65232 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 32824 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85216
+SMS Already Triggered For consignment 85216 of consignee 88612 consigner HYDERABAD
+count 16******************************************************
+shNo 00000000006100269021 executing _______________________________
+Shipment No: 6100269021
+cnlength: 3
+CnId : 3e63cf5e-d5b3-49f5-a9fb-73c4bd0cb644,9e3fff1a-a85c-4ec4-828c-a2a1054714d2,abb6d675-9bdd-4b22-92dc-f3b9fe455a5c
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 46408 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 64812 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84916
+SMS Already Triggered For consignment 84916 of consignee 61714 consigner HYDERABAD
+count 17******************************************************
+shNo 00000000006100268868 executing _______________________________
+Shipment No: 6100268868
+cnlength: 3
+CnId : 53cde26b-d66d-4657-83a3-a7f7c15726cb,3ba02907-8b0d-4242-a7ef-20de2a56a49e,04ca217f-5f3f-4322-babf-5a13ab41e518
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 45683 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 50360 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85211
+SMS Already Triggered For consignment 85211 of consignee 53795 consigner HYDERABAD
+count 18******************************************************
+shNo 00000000006100269997 executing _______________________________
+Shipment No: 6100269997
+cnlength: 2
+CnId : 2087aa6f-12c1-4d6e-9296-dd1dc49a1991,df261725-ea96-4f59-a351-932817c0d3d5
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 55003175 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 90827 consigner HYDERABAD
+count 19******************************************************
+shNo 00000000006100269086 executing _______________________________
+Shipment No: 6100269086
+cnlength: 3
+CnId : 9db5127e-44bb-4556-b5b9-a8746dab297e,deb6a1e8-0cd5-47c8-8e35-0a2e8cc8e9ed,f62a6b0e-9f15-46a7-9f87-a1b7fceaacd8
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 53104 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 78653 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84917
+SMS Already Triggered For consignment 84917 of consignee 27804 consigner HYDERABAD
+count 20******************************************************
+shNo 00000000006100268962 executing _______________________________
+shNo 00000000006100269155 executing _______________________________
+shNo 00000000006100269568 executing _______________________________
+Shipment No: 6100269568
+Tracking Status is not enroute for delivery 6100269568
+count 21******************************************************
+shNo 00000000006100269170 executing _______________________________
+Shipment No: 6100269170
+cnlength: 5
+CnId : 8b146f06-9a88-49c4-9120-3336408dcbec,e03e06e9-93ab-4f3d-a763-82eb1d47aa91,4f6b9deb-e385-41e2-8613-b1e68d098258,c9757dda-ee9e-4aae-ad9d-8b5f3d9bad10,1383b9e2-4105-41b9-93bf-1ce2d9ef1a89
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 1371015801,1371015762,1249102692,1249102689,1249102598
+SMS Already Triggered For consignment 1371015801,1371015762,1249102692,1249102689,1249102598 of consignee 53402 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 1371015788,1249102747,1249102744,1249102743,1249102742,1249102740,1249102739,1249102737,1371015711,1249102734,1249102736,1249102732,1249102729,1249102727,1249102725,1249102790,1249102789
+SMS Already Triggered For consignment 1371015788,1249102747,1249102744,1249102743,1249102742,1249102740,1249102739,1249102737,1371015711,1249102734,1249102736,1249102732,1249102729,1249102727,1249102725,1249102790,1249102789 of consignee 53428 consigner WARRANGAL
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 1371015857,1371015856
+SMS Already Triggered For consignment 1371015857,1371015856 of consignee 49916 consigner WARRANGAL
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 1371015823,1371015812,1371015799,1371015793,1371015792,1249102741,1249102738,1249102603,1249102589,1249102579,1249102581,1249102576,1249102550,1249102532
+SMS Already Triggered For consignment 1371015823,1371015812,1371015799,1371015793,1371015792,1249102741,1249102738,1249102603,1249102589,1249102579,1249102581,1249102576,1249102550,1249102532 of consignee 53511 consigner WARRANGAL
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 1371015821,1371015822,1249102618,1249102613,1371015545,1249102513
+SMS Already Triggered For consignment 1371015821,1371015822,1249102618,1249102613,1371015545,1249102513 of consignee 60631 consigner WARRANGAL
+count 22******************************************************
+shNo 00000000006100269356 executing _______________________________
+Shipment No: 6100269356
+cnlength: 5
+CnId : cea1c134-4ea3-4a3d-8caa-4896d52251a2,0db9fcb0-bcc6-4555-bd93-f4bfcae68ec2,2f8513fd-f27f-43b0-add7-978f6710e09a,3968892c-0855-4670-82a4-fbfbb7410b38,9fa91afd-3df0-43d8-9f5f-83eb6db09044
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 78925 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 49199 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 39424 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 53795 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 54163 consigner HYDERABAD
+count 23******************************************************
+shNo 00000000006100269443 executing _______________________________
+Shipment No: 6100269443
+cnlength: 1
+CnId : 16c0732a-b302-4647-aec9-19b5dc97f1a5
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84921
+SMS Already Triggered For consignment 84921 of consignee 64030 consigner HYDERABAD
+count 24******************************************************
+shNo 00000000006100269466 executing _______________________________
+Shipment No: 6100269466
+cnlength: 9
+CnId : 8158a708-1512-4f2f-a76a-f313acdd8386,b46e4486-2e39-4264-96db-092346788a03,422892a7-5f26-4ed6-ba7a-76b57405d0b1,d1c8f009-5c76-4f85-b0ed-3a6c08ff5686,26991ef4-1aea-460f-9059-bdf871ead04a,574e70b1-b502-4c92-97fa-86ac90b3cb6e,244c9b61-88bf-4157-a062-4e1dfe84e7db,3f196125-9778-4c4a-ae84-8b63dbedb38d,f8754ba6-32ca-4259-9388-8fe4e8a23ae0
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 96003 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 53104 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 19741 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 3399 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 1218431855
+SMS Already Triggered For consignment 1218431855 of consignee 55000399 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 80435 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 65232 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 80142 consigner HYDERABAD
+count 9
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 93795 consigner HYDERABAD
+count 25******************************************************
+shNo 00000000006100269415 executing _______________________________
+Shipment No: 6100269415
+cnlength: 5
+CnId : 4aabd31f-f344-477a-ad48-649d49407f67,29ce2f42-4a04-4205-91ba-6f62fe3cd3e7,2e02c0a5-f640-4515-abc7-38f4ec0c03f8,c7b01b0b-5455-408a-8d43-fef771676389,bac0ea6a-00fb-4305-8898-32f2bc104db6
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 44164 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 61714 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 41304 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 80273 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85223
+SMS Already Triggered For consignment 85223 of consignee 60849 consigner HYDERABAD
+count 26******************************************************
+shNo 00000000006100269402 executing _______________________________
+Shipment No: 6100269402
+cnlength: 4
+CnId : 43f486ef-5968-45af-8b03-fc07b53a33be,70e6164c-cbc6-40de-a5e2-97d7350608bf,4454335d-cddc-4f71-aea4-25086a6f1775,e067ed0e-804f-4337-956d-8995b2457632
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 53104 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 82911 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 19859 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85222
+SMS Already Triggered For consignment 85222 of consignee 65467 consigner HYDERABAD
+count 27******************************************************
+shNo 00000000006100269995 executing _______________________________
+Shipment No: 6100269995
+cnlength: 8
+CnId : b881a8b0-e926-4c9b-a7c1-79684920b4a6,4b421508-57b5-4784-a9ca-89f5127e4b0e,80db90ac-3257-4ef6-979d-3a92b205328b,f9185616-1866-457d-b3f6-5659c48c6ced,81130f06-c0a8-47df-90c4-5ace6cb92c4f,9c80f020-8cf0-4f6a-b2cd-c990e59b550a,b6f2ea8c-8121-41c6-abc2-ad4ec8a7df4a,0cb28b3d-3387-43f4-aec4-e4b0219b34d7
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 83226 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 98406 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 43192 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 85635 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 45683 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 98462 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 55003175 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85228
+SMS Already Triggered For consignment 85228 of consignee 92519 consigner HYDERABAD
+count 28******************************************************
+shNo 00000000006100269375 executing _______________________________
+Shipment No: 6100269375
+cnlength: 2
+CnId : f303ff8b-5a31-4f3a-82b6-ec2c50875a83,53e3f90d-0da2-4d59-a31d-2af01df74a13
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 3388 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85220
+SMS Already Triggered For consignment 85220 of consignee 8283 consigner HYDERABAD
+count 29******************************************************
+shNo 00000000006100270053 executing _______________________________
+Shipment No: 6100270053
+cnlength: 8
+CnId : 1a8ba66b-56e4-4808-a2ea-ace929be9864,229c6b6b-27d7-448f-b1f5-340b09594832,ae44fca6-aafd-4e9f-9226-da57480c124d,8c8e590b-213c-4efc-9807-20c3484f0f00,0f0ee087-0b0d-4e7d-9d61-c12ad6398d6c,8dc522d8-6c02-4abe-8778-61cf9bb4cc30,de4ba910-7efc-47ad-b8bf-3e8ccc23f920,7de872fa-5534-473a-9be5-3cf5c1db2947
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 39360 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 70710 consigner WARRANGAL
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81444 consigner WARRANGAL
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 47135 consigner WARRANGAL
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81884 consigner WARRANGAL
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 65937 consigner WARRANGAL
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 90119 consigner WARRANGAL
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 45683 consigner WARRANGAL
+count 30******************************************************
+shNo 00000000006100269586 executing _______________________________
+Shipment No: 6100269586
+cnlength: 6
+CnId : 0f53fc78-cbaa-4905-8966-4f9a474fd6b0,d2dc7697-190b-47b3-85c9-a3a5ee1c8d62,78a9e28c-6bf7-4819-90b9-19aa64620b0b,abe6154c-a226-4a76-968a-7ac51c938e98,b0856c82-34bb-49b8-937d-ed5a54f920ea,5d712735-f372-42aa-8788-40029bf4efc4
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 1371015891
+Otp already added to  for consignment 1371015891
+Error in Last Mile function delay is not defined
+count 31******************************************************
+shNo 00000000006100269429 executing _______________________________
+Shipment No: 6100269429
+cnlength: 2
+CnId : 5f3cf7b2-9d44-4ab6-ac49-897480b15d7d,c82345ff-14f3-4645-9894-844a68fd1969
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 46150 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85224
+SMS Already Triggered For consignment 85224 of consignee 32824 consigner HYDERABAD
+count 32******************************************************
+shNo 00000000006100270166 executing _______________________________
+Shipment No: 6100270166
+cnlength: 10
+CnId : bf68cae6-1d18-42fa-a209-b6c5c97786de,8280d047-c5b4-479b-9dfa-88765ab04cbc,b49ea3aa-fd55-4cd9-9c20-cc37971b5c65,cc9fcd92-b468-48a7-99a0-172d7e3afc90,e15f7cff-13f9-4ba4-8215-6202da948a1f,39de64cb-1753-49b1-b5f5-5bf47d9910d2,888fec79-5d22-400d-81b3-6a9524944352,1c4c5c63-63e6-4cf1-99b3-2c7eed7b9020,ba9cd83f-3fb2-42b8-a92c-8e419ea1d1d2,047d06b8-b20d-46be-8812-22b8182aa4d2
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 97656 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 1118279123,1118279124,1218432011,1218432023,1218432022,1218432026,1218432037,1218432049,1218432051,1218432058,1118279134
+SMS Already Triggered For consignment 1118279123,1118279124,1218432011,1218432023,1218432022,1218432026,1218432037,1218432049,1218432051,1218432058,1118279134 of consignee 93795 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 96660 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 31384 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 88612 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 65232 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 200 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 53104 consigner HYDERABAD
+count 9
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 99437 consigner HYDERABAD
+count 10
+Get cn by cnId api res status : 200
+Consignment No: 85233
+SMS Already Triggered For consignment 85233 of consignee 3399 consigner HYDERABAD
+count 33******************************************************
+shNo 00000000006100269354 executing _______________________________
+Shipment No: 6100269354
+cnlength: 4
+CnId : 8555fec8-c6af-454c-b792-e0c6e8ec2da5,00bc4338-3a14-4874-be84-03cb28a79204,8be4235c-ea88-41e0-8a68-9266e4046775,a51125d3-c09e-4ca4-b17c-90711cf6b373
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 78059 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 3399 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 53346 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85219
+SMS Already Triggered For consignment 85219 of consignee 45472 consigner HYDERABAD
+count 34******************************************************
+shNo 00000000006100269954 executing _______________________________
+Shipment No: 6100269954
+cnlength: 4
+CnId : 8e5caf7f-cc9c-48cd-8c62-597941fd043e,620fe3e2-932e-4767-8e45-6838f61bef6d,7fbcaed7-a1df-404b-9325-6e0f07202860,3e6a47ae-11a9-4dbd-8921-9d3fc89a3f64
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 48857 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 98816 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 52629 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85226
+SMS Already Triggered For consignment 85226 of consignee 88607 consigner HYDERABAD
+count 35******************************************************
+shNo 00000000006100269971 executing _______________________________
+Shipment No: 6100269971
+cnlength: 4
+CnId : 18ddd920-945a-4697-8d45-c42d2188b415,e003e58a-56bc-4e22-bfdb-3ca6227309ab,7b1384b0-aa86-46f8-bb39-796c39938f0b,a22b4a09-f8ac-4ec0-ae56-f8d269fa8774
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 46150 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 50031 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 78314 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85227
+SMS Already Triggered For consignment 85227 of consignee 32824 consigner HYDERABAD
+count 36******************************************************
+shNo 00000000006100270101 executing _______________________________
+Shipment No: 6100270101
+cnlength: 2
+CnId : adbc915c-1a3c-43ae-bd15-1cf8ef4d7b09,95c599b4-7995-4ef1-9857-e11dcfe64e0d
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85231
+SMS Already Triggered For consignment 85231 of consignee 61714 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85231
+SMS Already Triggered For consignment 85231 of consignee 83226 consigner HYDERABAD
+count 37******************************************************
+shNo 00000000006100270516 executing _______________________________
+Shipment No: 6100270516
+cnlength: 4
+CnId : 5ed3f2c5-9a2f-4e69-b56c-e91ef034d9d9,2f79657c-b5e1-4676-acc3-94f6ef3686b3,a89f54cf-a9c6-4f8f-94ee-8be57afa0f44,cd359f86-8da5-42d0-a7f8-0a424619a317
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 44379 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 27804 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53104 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 65467 consigner HYDERABAD
+count 38******************************************************
+shNo 00000000006100270120 executing _______________________________
+shNo 00000000006100270000 executing _______________________________
+Shipment No: 6100270000
+cnlength: 4
+CnId : 256a1402-86ad-49b0-bdec-7e5dd577734c,403c39e4-ea7f-43f0-87e7-27cad7b32631,9ac77952-37a1-4779-8a85-854937286f47,86f66eb9-3e73-4583-a014-0b57db59afc4
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 8283 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 79004 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 41123 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85230
+SMS Already Triggered For consignment 85230 of consignee 99437 consigner HYDERABAD
+count 39******************************************************
+shNo 00000000006100270628 executing _______________________________
+shNo 00000000006100270650 executing _______________________________
+Shipment No: 6100270650
+Tracking Status is not enroute for delivery 6100270650
+count 40******************************************************
+shNo 00000000006100270050 executing _______________________________
+Shipment No: 6100270050
+Tracking Status is not enroute for delivery 6100270050
+count 41******************************************************
+shNo 00000000006100270062 executing _______________________________
+Shipment No: 6100270062
+cnlength: 3
+CnId : 6da63a19-9226-4462-a1e4-9b56770076fe,53093803-c665-4d78-bb16-275fc9749118,980216fe-72e7-4c93-9c28-d3f492138559
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 3399 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 1249104935,1249104938,1249104956,1249104959
+Otp already added to  for consignment 1249104935,1249104938,1249104956,1249104959
+Error in Last Mile function delay is not defined
+count 42******************************************************
+shNo 00000000006100270074 executing _______________________________
+Shipment No: 6100270074
+cnlength: 2
+CnId : 4ca10f74-ac7a-4f8e-8bfd-199e9b8673ad,8097a0e7-90a4-4678-83bf-683238a1f2ec
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85229
+SMS Already Triggered For consignment 85229 of consignee 90827 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84927
+SMS Already Triggered For consignment 84927 of consignee 3399 consigner HYDERABAD
+count 43******************************************************
+shNo 00000000006100270476 executing _______________________________
+Shipment No: 6100270476
+cnlength: 4
+CnId : faef56ba-251b-4573-8806-0fb94235dc35,7fd0ae36-2964-4d3f-b132-751d1eaba2bc,c55866e2-1adf-420d-8248-143211cc909a,24702c3a-e6b9-4c68-99a5-7809f4d6754a
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 78398 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 64433 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 59552 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 84931
+SMS Already Triggered For consignment 84931 of consignee 62698 consigner HYDERABAD
+count 44******************************************************
+shNo 00000000006100270777 executing _______________________________
+Shipment No: 6100270777
+cnlength: 6
+CnId : 5e57f985-d911-4424-b4b1-f67ae105fd53,fc0920e4-3153-47f2-87a0-c123ea41b7d0,b2f4baff-59a5-44bb-bc99-35b60995ee42,15a1b3ad-561b-415a-969a-7465d208d381,a3b63f54-416c-422b-96c2-e0777973b5e0,08ccb772-3019-4048-aea2-6cea0cde336e
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56852 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 3428 consigner WARRANGAL
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 54204 consigner WARRANGAL
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 81083 consigner WARRANGAL
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 89458 consigner WARRANGAL
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 64513 consigner WARRANGAL
+count 45******************************************************
+shNo 00000000006100270240 executing _______________________________
+Shipment No: 6100270240
+Tracking Status is not enroute for delivery 6100270240
+count 46******************************************************
+shNo 00000000006100270621 executing _______________________________
+Shipment No: 6100270621
+Tracking Status is not enroute for delivery 6100270621
+count 47******************************************************
+shNo 00000000006100270726 executing _______________________________
+Shipment No: 6100270726
+Tracking Status is not enroute for delivery 6100270726
+count 48******************************************************
+shNo 00000000006100270535 executing _______________________________
+shNo 00000000006100270595 executing _______________________________
+Shipment No: 6100270595
+cnlength: 1
+CnId : 373e985f-1dc8-40e0-913d-2d5dd1e74bb7
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 1371015978,1371015785,1371015984,1371016000
+SMS Already Triggered For consignment 1371015978,1371015785,1371015984,1371016000 of consignee 50358 consigner WARRANGAL
+count 49******************************************************
+shNo 00000000006100268971 executing _______________________________
+Shipment No: 6100268971
+cnlength: 4
+CnId : 7c83def1-62d3-4637-9e4b-9fe535647023,d4fceb70-8980-45d0-bfff-ad5cf08511eb,5c04956c-34cc-4a4f-a054-cd96133edbf5,7cc2e25a-6d5c-44d1-a95e-7959bd9c8d8f
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 1371015784,1371015720,1371015718
+Otp already added to  for consignment 1371015784,1371015720,1371015718
+Error in Last Mile function delay is not defined
+count 50******************************************************
+shNo 00000000006100270021 executing _______________________________
+Shipment No: 6100270021
+Tracking Status is not enroute for delivery 6100270021
+count 51******************************************************
+shNo 00000000006100268736 executing _______________________________
+Shipment No: 6100268736
+cnlength: 1
+CnId : 6f1786ec-5ec4-4007-8d4d-8d36da23954e
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84913
+SMS Already Triggered For consignment 84913 of consignee 3399 consigner HYDERABAD
+count 52******************************************************
+shNo 00000000006100268946 executing _______________________________
+Shipment No: 6100268946
+cnlength: 5
+CnId : 141f7927-543b-4433-9bf0-767c6109df34,c9f1a366-d0a1-4bf3-a76c-32f277afebdd,ef1b8eb8-c2ef-48ed-a07b-e3a8152985db,71a82bc0-dc4a-40da-8bbc-cd5b4a647898,916d84e0-89f9-473a-bc34-577cc13d5e2a
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 43450 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 3389 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 96956 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 99437 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85214
+SMS Already Triggered For consignment 85214 of consignee 41123 consigner HYDERABAD
+count 53******************************************************
+shNo 00000000006100270087 executing _______________________________
+Shipment No: 6100270087
+cnlength: 6
+CnId : 66775d65-b4a9-48e3-9a10-47fdf1e8780d,baeffeed-273d-4ffb-961d-66b549c202fa,4587a6fb-2fb7-45ee-8ee4-ddebf0609815,eec748cf-609d-4046-964a-95cd819e06c7,e88bbe46-8141-4d6f-aded-715dcc413b8b,d9aecffb-2890-4bdd-ba00-ffe63b714501
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 30015 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 55008258 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 74955 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 22210 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 80855 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 84929
+SMS Already Triggered For consignment 84929 of consignee 71330 consigner HYDERABAD
+count 54******************************************************
+shNo 00000000006100269254 executing _______________________________
+Shipment No: 6100269254
+cnlength: 3
+CnId : ef70e447-f983-4de0-9d93-aa3ae9d8127b,e79a049e-583d-4e08-842b-2ee04578ceae,37990ea0-be84-43a4-b423-5bd1b9161c93
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 3432 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 25714 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84920
+SMS Already Triggered For consignment 84920 of consignee 54204 consigner HYDERABAD
+count 55******************************************************
+shNo 00000000006100270575 executing _______________________________
+Shipment No: 6100270575
+cnlength: 4
+CnId : e1f608a6-ab91-40b7-abeb-4224a2fcb596,f617edbc-940d-4335-9b51-d4ac35488e88,56e2b595-b235-4438-b39d-b58a92677990,26bb69ca-212a-4a6d-9e17-2015e9bf8a07
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 3379 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 88612 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 65232 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85237
+SMS Already Triggered For consignment 85237 of consignee 57323 consigner HYDERABAD
+count 56******************************************************
+shNo 00000000006100268972 executing _______________________________
+Shipment No: 6100268972
+cnlength: 3
+CnId : 9e1b22d9-7298-4a11-b85a-4c38efc84b7c,2043a5eb-36d6-450e-9341-3f43f7b06386,bd648251-1df0-457b-a816-4bf957d686a7
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 98406 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 55000399 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85215
+SMS Already Triggered For consignment 85215 of consignee 98462 consigner HYDERABAD
+count 57******************************************************
+shNo 00000000006100270559 executing _______________________________
+Shipment No: 6100270559
+cnlength: 6
+CnId : 871cb3d9-9ec0-4a9a-913d-39feb2d156d6,1a47c9a5-d74a-45fa-ad97-ffc93218434b,040eec51-0a14-4c97-9b8b-d90592ae7c1c,2120d47b-d0c6-405b-b68a-5fb07e3fda10,56eb5693-232e-49a2-8c83-76c441551d5c,03a0b8d9-a529-40bf-92bf-146785858427
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 41304 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 55010029 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 46408 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 90827 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 98462 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85238
+SMS Already Triggered For consignment 85238 of consignee 83226 consigner HYDERABAD
+count 58******************************************************
+shNo 00000000006100269224 executing _______________________________
+Shipment No: 6100269224
+cnlength: 1
+CnId : 4dc92452-3276-4a36-b011-1aadf4e2e522
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84918
+SMS Already Triggered For consignment 84918 of consignee 53104 consigner HYDERABAD
+count 59******************************************************
+shNo 00000000006100269448 executing _______________________________
+Shipment No: 6100269448
+cnlength: 2
+CnId : 1714bbb1-53d6-4500-91f2-9ae692d679fb,b2a42ef5-9697-44b4-a6e9-04150faec726
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84922
+SMS Already Triggered For consignment 84922 of consignee 99437 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84922
+SMS Already Triggered For consignment 84922 of consignee 64812 consigner HYDERABAD
+count 60******************************************************
+shNo 00000000006100269714 executing _______________________________
+Shipment No: 6100269714
+Tracking Status is not enroute for delivery 6100269714
+count 61******************************************************
+shNo 00000000006100269729 executing _______________________________
+Shipment No: 6100269729
+Tracking Status is not enroute for delivery 6100269729
+count 62******************************************************
+shNo 00000000006100270812 executing _______________________________
+Shipment No: 6100270812
+cnlength: 3
+CnId : b1c96f90-a0d2-4a43-9ef1-e384188deedd,43663882-9ac5-4886-b7d9-a806ea99108a,b40b5411-266e-4d8c-ba8d-9f149dab3b0e
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee 64513 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee WARRANGAL consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84935
+SMS Already Triggered For consignment 84935 of consignee 53402 consigner HYDERABAD
+count 63******************************************************
+shNo 00000000006100270439 executing _______________________________
+Shipment No: 6100270439
+cnlength: 7
+CnId : 16eac735-5159-4aee-876f-c6fcb28c4b73,4514e3b9-126f-4e43-9a16-4e8d8e957f4f,7e669af3-101a-45e4-bce7-23f62aff671b,9e4d552d-b971-40bf-8151-6ebc680ad241,65864b61-90d2-417e-9873-2f5913d6f9b2,431a5873-ba98-420e-908b-7c7aca1f81d9,b8794d63-3f90-4156-8dbf-09bbbb17a703
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 55000399 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 79989 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 69184 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 70931 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 82266 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 13977 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85234
+SMS Already Triggered For consignment 85234 of consignee 3388 consigner HYDERABAD
+count 64******************************************************
+shNo 00000000006100270422 executing _______________________________
+shNo 00000000006100270480 executing _______________________________
+Shipment No: 6100270480
+cnlength: 4
+CnId : 4b2664ea-132e-48b0-a499-10b5027ec07f,de64f88d-efe4-4c75-b5d5-4c3525a654ac,c6516132-739a-4734-8e9e-431933a41b16,71b79f31-e644-4fd3-a7ea-f186fa585da5
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 43450 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 8283 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 99437 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85235
+SMS Already Triggered For consignment 85235 of consignee 53757 consigner HYDERABAD
+count 65******************************************************
+shNo 00000000006100270587 executing _______________________________
+Shipment No: 6100270587
+cnlength: 3
+CnId : b54e5622-e21d-40f6-8459-a64c3cceca6b,f9ea8c9b-73e2-40c2-875f-802c5d212266,140e4107-b440-4c71-a2ed-c3ff7f0d2b9f
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 20635 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 53104 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84933
+SMS Already Triggered For consignment 84933 of consignee 97956 consigner HYDERABAD
+count 66******************************************************
+shNo 00000000006100270530 executing _______________________________
+Shipment No: 6100270530
+cnlength: 2
+CnId : 0a621aec-7c9f-4f14-ba5e-f47b1a8ca1f3,05061066-c70d-4e79-9725-acd6dfcb67b1
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56213 consigner WARRANGAL
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 123
+SMS Already Triggered For consignment 123 of consignee 56852 consigner WARRANGAL
+count 67******************************************************
+shNo 00000000006100270824 executing _______________________________
+Shipment No: 6100270824
+cnlength: 7
+CnId : 5498e6d7-9128-4ce6-9090-4fd4161d4853,77393feb-10dc-40af-b879-885225c3be89,6e192ccb-063e-416a-8c74-c230404fcb08,12a098da-e333-42a0-95ac-3ac778673018,32798549-a8aa-47a0-87a6-6cc586da6031,52b76748-1ed4-4d32-86f9-e385ea8adcfe,b44b9f00-e66f-47c8-96ae-6d3cacedf2ac
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 30015 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 5840 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 55010386 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 76214 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 59528 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 95210 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 84936
+SMS Already Triggered For consignment 84936 of consignee 55008258 consigner HYDERABAD
+count 68******************************************************
+shNo 00000000006100270534 executing _______________________________
+Shipment No: 6100270534
+cnlength: 2
+CnId : d99e356c-8047-42a7-abcc-6ed6c7936d90,1e0173e4-218e-4d9f-9dc8-4919eda128b2
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84932
+SMS Already Triggered For consignment 84932 of consignee 64030 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 84932
+SMS Already Triggered For consignment 84932 of consignee 39358 consigner HYDERABAD
+count 69******************************************************
+shNo 00000000006100270796 executing _______________________________
+Shipment No: 6100270796
+cnlength: 12
+CnId : bc98d826-68c1-47dc-96b6-59cdbacd56d6,8d994050-3d9b-4965-a7ca-16b288fbbada,1e21761f-170a-41c4-b890-125a0955e8c6,9e3d562a-d601-4bd3-89e8-63551b8d6750,660791cd-3520-43b1-8028-20f98712e97f,2427bab8-465a-4183-b75d-72011c143295,9a1454ca-a908-4fef-84a6-b36178ea05a9,dd648b3a-1d24-4c6f-b34d-c27995674558,c76e5c97-9bea-4163-af63-0581da7b40c1,f22aab65-a0af-445e-8280-e21256509476,0d584c59-bcb8-49af-b90d-1a940f375d9f,fbb9712f-d71e-4518-89fe-6fa815b58c29
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 98406 consigner HYDERABAD
+count 2
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 43450 consigner HYDERABAD
+count 3
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 81884 consigner HYDERABAD
+count 4
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 73239 consigner HYDERABAD
+count 5
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 61714 consigner HYDERABAD
+count 6
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 39424 consigner HYDERABAD
+count 7
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53402 consigner HYDERABAD
+count 8
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 65232 consigner HYDERABAD
+count 9
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 8283 consigner HYDERABAD
+count 10
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 53346 consigner HYDERABAD
+count 11
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 45683 consigner HYDERABAD
+count 12
+Get cn by cnId api res status : 200
+Consignment No: 85236
+SMS Already Triggered For consignment 85236 of consignee 81653 consigner HYDERABAD
+count 70******************************************************
+shNo 00000000006100270857 executing _______________________________
+Shipment No: 6100270857
+cnlength: 1
+CnId : 2aa52f70-4186-4c6f-980f-e0529fa768eb
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84938
+SMS Already Triggered For consignment 84938 of consignee 52250 consigner HYDERABAD
+count 71******************************************************
+shNo 00000000006100270844 executing _______________________________
+Shipment No: 6100270844
+cnlength: 1
+CnId : f8caad12-c5b4-474c-bfab-32a8810a6f8f
+LAST MILE CASE!!!
+count 1
+Get cn by cnId api res status : 200
+Consignment No: 84937
+SMS Already Triggered For consignment 84937 of consignee 52250 consigner HYDERABAD
+count 72******************************************************

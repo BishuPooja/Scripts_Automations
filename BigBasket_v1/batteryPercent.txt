@@ -1,0 +1,172 @@
+Imei for shipment number : FBD37C00026 is null
+Imei doesn't exist on shipment Number : FBD37C00026
+Imei for shipment number : CHN37U00005 is null
+Imei doesn't exist on shipment Number : CHN37U00005
+Imei for shipment number : VOLVO0000133 is 869689042843821
+number
+Battery for imei : 869689042843821 on shipment Number : VOLVO0000133 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37Z00013 is null
+Imei doesn't exist on shipment Number : SBNG37Z00013
+Imei for shipment number : VOLVO0000132 is 869689042846691
+number
+Battery for imei : 869689042846691 on shipment Number : VOLVO0000132 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00050 is 351742100065822
+number
+Battery for imei : 351742100065822 on shipment Number : SBNG37A00050 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00049 is 351742100065814
+number
+Battery for imei : 351742100065814 on shipment Number : SBNG37A00049 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : KLHPR37A00010 is null
+Imei doesn't exist on shipment Number : KLHPR37A00010
+Imei for shipment number : SBNG37B00019 is null
+Imei doesn't exist on shipment Number : SBNG37B00019
+Imei for shipment number : FBD37C00025 is null
+Imei doesn't exist on shipment Number : FBD37C00025
+Imei for shipment number : VOLVO0000131 is 869689042846394
+number
+Battery for imei : 869689042846394 on shipment Number : VOLVO0000131 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37B00020 is 354018114401734
+number
+Battery for imei : 354018114401734 on shipment Number : SBNG37B00020 is 3.576
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37L00052 is null
+Imei doesn't exist on shipment Number : SBNG37L00052
+Imei for shipment number : SBNG37L00053 is null
+Imei doesn't exist on shipment Number : SBNG37L00053
+Imei for shipment number : VOLVO0000130 is 869689042845727
+number
+Battery for imei : 869689042845727 on shipment Number : VOLVO0000130 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00046 is 354018114441029
+number
+Battery for imei : 354018114441029 on shipment Number : SBNG37A00046 is 3.5300000000000002
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00048 is 354017113143578
+number
+Battery for imei : 354017113143578 on shipment Number : SBNG37A00048 is 4.061
+4
+Bulk Sync api response status : 200
+Imei for shipment number : FBD37C00020 is null
+Imei doesn't exist on shipment Number : FBD37C00020
+Imei for shipment number : SBNG37B00018 is null
+Imei doesn't exist on shipment Number : SBNG37B00018
+Imei for shipment number : SBNG37S00016 is null
+Imei doesn't exist on shipment Number : SBNG37S00016
+Imei for shipment number : CHN37U00004 is null
+Imei doesn't exist on shipment Number : CHN37U00004
+Imei for shipment number : SBNG37L00047 is null
+Imei doesn't exist on shipment Number : SBNG37L00047
+Imei for shipment number : SBNG37L00050 is null
+Imei doesn't exist on shipment Number : SBNG37L00050
+Imei for shipment number : SBNG37L00051 is null
+Imei doesn't exist on shipment Number : SBNG37L00051
+Imei for shipment number : SBNG37A00047 is 354018114157070
+number
+Battery for imei : 354018114157070 on shipment Number : SBNG37A00047 is 4.03
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37P00004 is null
+Imei doesn't exist on shipment Number : SBNG37P00004
+Imei for shipment number : SBNG37P00005 is null
+Imei doesn't exist on shipment Number : SBNG37P00005
+Imei for shipment number : SBNG37Z00012 is null
+Imei doesn't exist on shipment Number : SBNG37Z00012
+Imei for shipment number : SBNG37B00017 is 354017113143768
+number
+Battery for imei : 354017113143768 on shipment Number : SBNG37B00017 is 3.973
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37B00015 is 354017113143412
+number
+Battery for imei : 354017113143412 on shipment Number : SBNG37B00015 is 3.254
+3
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37B00016 is null
+Imei doesn't exist on shipment Number : SBNG37B00016
+Imei for shipment number : PNAR37B00005 is null
+Imei doesn't exist on shipment Number : PNAR37B00005
+Imei for shipment number : SBNG37L00046 is null
+Imei doesn't exist on shipment Number : SBNG37L00046
+Imei for shipment number : CHN37G00050 is null
+Imei doesn't exist on shipment Number : CHN37G00050
+Imei for shipment number : SBNG37S00014 is null
+Imei doesn't exist on shipment Number : SBNG37S00014
+Imei for shipment number : SBNG37S00015 is null
+Imei doesn't exist on shipment Number : SBNG37S00015
+Imei for shipment number : SBNG37L00045 is null
+Imei doesn't exist on shipment Number : SBNG37L00045
+Imei for shipment number : SBNG37L00044 is null
+Imei doesn't exist on shipment Number : SBNG37L00044
+Imei for shipment number : SBNG37L00042 is null
+Imei doesn't exist on shipment Number : SBNG37L00042
+Imei for shipment number : SBNG37L00041 is null
+Imei doesn't exist on shipment Number : SBNG37L00041
+Imei for shipment number : VLGL9330CP064010901 is 869689042847343
+number
+Battery for imei : 869689042847343 on shipment Number : VLGL9330CP064010901 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37S00013 is null
+Imei doesn't exist on shipment Number : SBNG37S00013
+Imei for shipment number : SBNG37A00041 is 359632106782540
+number
+Battery for imei : 359632106782540 on shipment Number : SBNG37A00041 is 3.599
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37L00043 is null
+Imei doesn't exist on shipment Number : SBNG37L00043
+Imei for shipment number : CMB37A00024 is null
+Imei doesn't exist on shipment Number : CMB37A00024
+Imei for shipment number : SBNG37L00037 is null
+Imei doesn't exist on shipment Number : SBNG37L00037
+Imei for shipment number : SBNG37L00040 is null
+Imei doesn't exist on shipment Number : SBNG37L00040
+Imei for shipment number : SBNG37L00038 is null
+Imei doesn't exist on shipment Number : SBNG37L00038
+Imei for shipment number : SBNG37L00039 is null
+Imei doesn't exist on shipment Number : SBNG37L00039
+Imei for shipment number : SBNG37L00036 is null
+Imei doesn't exist on shipment Number : SBNG37L00036
+Imei for shipment number : SBNG37S00011 is null
+Imei doesn't exist on shipment Number : SBNG37S00011
+Imei for shipment number : SBNG37A00044 is 354018113471647
+number
+Battery for imei : 354018113471647 on shipment Number : SBNG37A00044 is 4.086
+4
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00045 is 351742100066358
+number
+Battery for imei : 351742100066358 on shipment Number : SBNG37A00045 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : CHN37U00003 is null
+Imei doesn't exist on shipment Number : CHN37U00003
+Imei for shipment number : SBNG37Z00011 is null
+Imei doesn't exist on shipment Number : SBNG37Z00011
+Imei for shipment number : SBNG37S00012 is null
+Imei doesn't exist on shipment Number : SBNG37S00012
+Imei for shipment number : SBNG37A00042 is 351742100071986
+number
+Battery for imei : 351742100071986 on shipment Number : SBNG37A00042 is 16
+16
+Bulk Sync api response status : 200
+Imei for shipment number : SBNG37A00043 is 351742100070723
+number
+Battery for imei : 351742100070723 on shipment Number : SBNG37A00043 is 100
+100
+Bulk Sync api response status : 200
+Imei for shipment number : FBD37C00018 is null
+Imei doesn't exist on shipment Number : FBD37C00018

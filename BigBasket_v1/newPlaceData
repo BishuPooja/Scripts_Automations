@@ -1,0 +1,170 @@
+[
+    {
+        "data": {
+            "hubId": null,
+            "boundary": null,
+            "address": "398 Rani Sati Nagar Nirman Nagar",
+            "accessibility": null,
+            "addedBy": "be8d91fc-420b-4dd1-9ae2-36f29189469b",
+            "center": {
+                "latitude": 26.8881391,
+                "longitude": 75.76106539999999
+            },
+            "suggestedRadius": 11000,
+            "isOwned": null,
+            "centerCoordinates": [
+                75.76106539999999,
+                26.8881391
+            ],
+            "placeId": "6834dd94-96ba-42ce-92c1-e144fabaa2c2",
+            "geoJsonBoundry": null,
+            "externalId": null,
+            "source": "FRETRON",
+            "places": null,
+            "viewport": {
+                "southwest": {
+                    "latitude": 26.8757403,
+                    "longitude": 75.7253855
+                },
+                "northeast": {
+                    "latitude": 26.9029895,
+                    "longitude": 75.7839054
+                }
+            },
+            "district": null,
+            "name": "JAIPUR-Miracle Well Pack India Private Limited",
+            "state": null,
+            "category": "Place",
+            "subDistrict": null,
+            "controllingBranchId": null
+        },
+        "error": null,
+        "status": 200
+    },
+    {
+        "data": {
+            "hubId": null,
+            "boundary": null,
+            "address": "33Old Nehru Nagar Bhilai Durg",
+            "accessibility": null,
+            "addedBy": "be8d91fc-420b-4dd1-9ae2-36f29189469b",
+            "center": {
+                "latitude": 21.2096036,
+                "longitude": 81.31243409999999
+            },
+            "suggestedRadius": 11000,
+            "isOwned": null,
+            "centerCoordinates": [
+                81.31243409999999,
+                21.2096036
+            ],
+            "placeId": "d8451bc1-83c0-40db-8862-073f9b3d0240",
+            "geoJsonBoundry": null,
+            "externalId": null,
+            "source": "FRETRON",
+            "places": null,
+            "viewport": {
+                "southwest": {
+                    "latitude": 21.1955087,
+                    "longitude": 81.29363219999999
+                },
+                "northeast": {
+                    "latitude": 21.2282015,
+                    "longitude": 81.3409212
+                }
+            },
+            "district": null,
+            "name": "DURG-Mahavir Packaging",
+            "state": null,
+            "category": "Place",
+            "subDistrict": null,
+            "controllingBranchId": null
+        },
+        "error": null,
+        "status": 200
+    },
+    {
+        "data": {
+            "hubId": null,
+            "boundary": null,
+            "address": "Plot No 1352Village  Dapada",
+            "accessibility": null,
+            "addedBy": "be8d91fc-420b-4dd1-9ae2-36f29189469b",
+            "center": {
+                "latitude": 20.1486768,
+                "longitude": 73.1585626
+            },
+            "suggestedRadius": 11000,
+            "isOwned": null,
+            "centerCoordinates": [
+                73.1585626,
+                20.1486768
+            ],
+            "placeId": "d9c110f9-dab4-47ee-9801-95b0be34b456",
+            "geoJsonBoundry": null,
+            "externalId": null,
+            "source": "FRETRON",
+            "places": null,
+            "viewport": {
+                "southwest": {
+                    "latitude": 20.0480079,
+                    "longitude": 72.8626412
+                },
+                "northeast": {
+                    "latitude": 20.3654611,
+                    "longitude": 73.21885689999999
+                }
+            },
+            "district": null,
+            "name": "SILVASSA-TCPL Packaging Limited",
+            "state": null,
+            "category": "Place",
+            "subDistrict": null,
+            "controllingBranchId": null
+        },
+        "error": null,
+        "status": 200
+    },
+    {
+        "data": {
+            "hubId": null,
+            "boundary": null,
+            "address": "D 653196 Shivdaspur Lahartara Varanasi",
+            "accessibility": null,
+            "addedBy": "be8d91fc-420b-4dd1-9ae2-36f29189469b",
+            "center": {
+                "latitude": 25.3141562,
+                "longitude": 82.95822129999999
+            },
+            "suggestedRadius": 11000,
+            "isOwned": null,
+            "centerCoordinates": [
+                82.95822129999999,
+                25.3141562
+            ],
+            "placeId": "31a1eeaa-382c-4fc4-8e18-7368979b1d56",
+            "geoJsonBoundry": null,
+            "externalId": null,
+            "source": "FRETRON",
+            "places": null,
+            "viewport": {
+                "southwest": {
+                    "latitude": 25.303403,
+                    "longitude": 82.9377013
+                },
+                "northeast": {
+                    "latitude": 25.3209021,
+                    "longitude": 82.9746023
+                }
+            },
+            "district": null,
+            "name": "VARANASI-BM & Co",
+            "state": null,
+            "category": "Place",
+            "subDistrict": null,
+            "controllingBranchId": null
+        },
+        "error": null,
+        "status": 200
+    }
+]

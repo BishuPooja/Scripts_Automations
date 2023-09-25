@@ -1,0 +1,890 @@
+159
+[
+  {
+    shId: 'd4927398-642c-45c5-952a-0ce3e4ac933c',
+    shNo: 'FRETSH000002023'
+  },
+  {
+    shId: '6f7346fe-4c92-4259-870d-02a8ea1a9da7',
+    shNo: 'FRETSH000002021'
+  },
+  {
+    shId: 'f593efd0-f2a7-4bb5-9cfa-258f562a4dc0',
+    shNo: 'FRETSH000002015'
+  },
+  {
+    shId: 'a709e5f3-c0e6-4c8f-a5b2-0d5e4f04cf0c',
+    shNo: 'FRETSH000002012'
+  },
+  {
+    shId: '2178fe3f-54fa-4d4a-b416-b6e6955cc98d',
+    shNo: 'FRETSH000002010'
+  },
+  {
+    shId: 'b53e5784-d7ef-4ef4-a010-2757b53cc219',
+    shNo: 'FRETSH000002008'
+  },
+  {
+    shId: '2a97a184-a016-462a-824b-8f724fdf4007',
+    shNo: 'FRETSH000002006'
+  },
+  {
+    shId: '55b57ab7-9c96-40e1-8feb-05f8d7b34215',
+    shNo: 'FRETSH000002005'
+  },
+  {
+    shId: '6ad1258d-ef22-4e1a-9c16-1439b3fc84a4',
+    shNo: 'FRETSH000002004'
+  },
+  {
+    shId: '7260b31a-7d59-42d2-8538-88f308dc45d4',
+    shNo: 'FRETSH000002003'
+  },
+  {
+    shId: '29c21f5a-2f9b-400f-a9b9-513ba1094d6e',
+    shNo: 'FRETSH000002002'
+  },
+  {
+    shId: '37a01946-0580-4adf-943a-4c3246be2d80',
+    shNo: 'FRETSH000002001'
+  },
+  {
+    shId: 'a32d35cf-63b9-43df-b70a-048d9c4c3c93',
+    shNo: 'FRETSH000001999'
+  },
+  {
+    shId: '3936c1c8-f4e3-4d6e-b515-03443f130131',
+    shNo: 'FRETSH000001998'
+  },
+  {
+    shId: '6c1d4c6f-c786-4798-b7cf-15244405a964',
+    shNo: 'FRETSH000001997'
+  },
+  {
+    shId: '1c0904c5-4376-4336-9a53-2b8b9190c73c',
+    shNo: 'FRETSH000001995'
+  },
+  {
+    shId: 'ff86808d-c0b1-4413-8ebb-1bd9019a025a',
+    shNo: 'FRETSH000001994'
+  },
+  {
+    shId: '061de56a-aca1-4990-8d19-55e335ef585c',
+    shNo: 'FRETSH000001993'
+  },
+  {
+    shId: 'cca7e0ce-c78e-45f8-83c6-f4c4ad4cd41b',
+    shNo: 'FRETSH000001992'
+  },
+  {
+    shId: '98a4eac9-6011-456d-9793-991537e451ac',
+    shNo: 'FRETSH000001990'
+  },
+  {
+    shId: '0fb1c798-536c-4fd0-9494-4bc8d49b2222',
+    shNo: 'FRETSH000001989'
+  },
+  {
+    shId: '56d09981-6c19-4d79-b006-eec5ee34c689',
+    shNo: 'FRETSH000001988'
+  },
+  {
+    shId: '1b2a6a6b-6ca0-4301-b821-4891d30c2b92',
+    shNo: 'FRETSH000001987'
+  },
+  {
+    shId: '46d5171c-a67b-47e5-857b-2b519888aab0',
+    shNo: 'FRETSH000001978'
+  },
+  {
+    shId: '4d4e85ba-7916-44a6-abb9-104331ed643b',
+    shNo: 'FRETSH000001976'
+  },
+  {
+    shId: '7e3e8b94-0735-436f-b403-2dc532aa50c4',
+    shNo: 'FRETSH000001973'
+  },
+  {
+    shId: '261001af-42c8-4e21-9594-59900b64162b',
+    shNo: 'FRETSH000001967'
+  },
+  {
+    shId: '5aa75e30-688d-4f6b-bc56-8b19d8d947f3',
+    shNo: 'FRETSH000001963'
+  },
+  {
+    shId: '7d998f84-ab2b-4af1-8ad4-1d0a1e794f0a',
+    shNo: 'FRETSH000001960'
+  },
+  {
+    shId: '25317dad-13e0-462e-9f4a-73531522955d',
+    shNo: 'FRETSH000001958'
+  },
+  {
+    shId: '92220510-4357-44b8-a47f-437804781aa6',
+    shNo: 'FRETSH000001957'
+  },
+  {
+    shId: 'c0ac3a0b-5321-48d1-a82d-945649916752',
+    shNo: 'FRETSH000001956'
+  },
+  {
+    shId: '46e3c448-f802-4707-a452-e122f13eac21',
+    shNo: 'FRETSH000001955'
+  },
+  {
+    shId: '5811cfb4-7c30-4ec7-87ae-fe53221e0eb5',
+    shNo: 'FRETSH000001953'
+  },
+  {
+    shId: '714487b9-4d83-4f35-b3e6-e7b77e6dff9f',
+    shNo: 'FRETSH000001952'
+  },
+  {
+    shId: 'a0b177ad-edac-4329-8740-57cf636fed4d',
+    shNo: 'FRETSH000001951'
+  },
+  {
+    shId: '6c217365-f9fb-4a09-9c0e-235594790b1d',
+    shNo: 'FRETSH000001950'
+  },
+  {
+    shId: '9847a6c8-6c3a-4c5a-9778-22b8bc4a0849',
+    shNo: 'FRETSH000001947'
+  },
+  {
+    shId: '4478a3f7-1905-4e7e-aff6-45b37ad0123e',
+    shNo: 'FRETSH000001946'
+  },
+  {
+    shId: '5465d9fe-aa10-43f6-8fe5-b6094b9837a2',
+    shNo: 'FRETSH000001943'
+  },
+  {
+    shId: 'b72839f5-32b9-45d9-8019-8c6e0403b526',
+    shNo: 'FRETSH000001939'
+  },
+  {
+    shId: '2555d13f-0f95-44f5-b467-3eac1c2f8143',
+    shNo: 'FRETSH000001935'
+  },
+  {
+    shId: '1a22277b-8013-4126-82e9-b86043691558',
+    shNo: 'FRETSH000001932'
+  },
+  {
+    shId: 'db74c055-883b-4dbd-9268-be34a2e0bd1b',
+    shNo: 'FRETSH000001928'
+  },
+  {
+    shId: 'e795fdcb-fbe1-4f95-9d3d-84a5da7c75ce',
+    shNo: 'FRETSH000001926'
+  },
+  {
+    shId: 'e33900e3-ee66-40ca-b3d8-0f906b29cf5f',
+    shNo: 'FRETSH000001916'
+  },
+  {
+    shId: '24dceef6-59d6-49be-a834-f3e134ef1b7b',
+    shNo: 'FRETSH000001914'
+  },
+  {
+    shId: 'c94827de-d16c-40b7-a014-d9c18358ba14',
+    shNo: 'FRETSH000001912'
+  },
+  {
+    shId: '748cf2d9-92d1-4a71-a6d3-b60c77f045d6',
+    shNo: 'FRETSH000001909'
+  },
+  {
+    shId: '574afe95-7728-4308-b192-dab807f9cf3f',
+    shNo: 'FRETSH000001906'
+  },
+  {
+    shId: '80cc1742-4d13-45b6-929a-a1c78a1938c3',
+    shNo: 'FRETSH000001903'
+  },
+  {
+    shId: '85624e3e-5d2b-43a0-93b1-64ff2d4c81c8',
+    shNo: 'FRETSH000001902'
+  },
+  {
+    shId: '71b5bb7a-ca68-4198-abdf-97359c56712e',
+    shNo: 'FRETSH000001901'
+  },
+  {
+    shId: 'b557b32d-4086-4748-9990-0e1e11c10d3b',
+    shNo: 'FRETSH000001898'
+  },
+  {
+    shId: 'de469dba-e511-4fa2-b9b4-8c5ff3624973',
+    shNo: 'FRETSH000001893'
+  },
+  {
+    shId: '62050574-4da5-4f4d-af4b-72147e9a117f',
+    shNo: 'FRETSH000001890'
+  },
+  {
+    shId: '3135b158-6d98-40d0-aaaa-19bcae119cc7',
+    shNo: 'FRETSH000001889'
+  },
+  {
+    shId: '6be0a038-e425-40ee-8ef3-395a59a27221',
+    shNo: 'FRETSH000001887'
+  },
+  {
+    shId: 'd1160b04-1f59-4b87-b4d2-619495463a95',
+    shNo: 'FRETSH000001885'
+  },
+  {
+    shId: '9a6ed01c-08a5-4582-8988-2e53fd82a51b',
+    shNo: 'FRETSH000001884'
+  },
+  {
+    shId: 'b5b9b49d-7980-400b-9d06-1f9024118840',
+    shNo: 'FRETSH000001882'
+  },
+  {
+    shId: '9cd465c6-724d-4969-94c9-402ae1362c99',
+    shNo: 'FRETSH000001879'
+  },
+  {
+    shId: 'f12a8489-a0bb-46d5-afc3-f8ebab9bb987',
+    shNo: 'FRETSH000001877'
+  },
+  {
+    shId: '46d48afa-4def-4271-863e-110355460bb8',
+    shNo: 'FRETSH000001875'
+  },
+  {
+    shId: '4dd9ea65-e337-4997-9fc7-2a849c2c1545',
+    shNo: 'FRETSH000001873'
+  },
+  {
+    shId: '18931e00-3fcb-4d41-960f-b0bff7031bc6',
+    shNo: 'FRETSH000001865'
+  },
+  {
+    shId: '83be8906-d0ca-4b6b-98a8-be45f5613b8a',
+    shNo: 'FRETSH000001863'
+  },
+  {
+    shId: 'ceb2f07d-fe78-4f46-a90d-520172876365',
+    shNo: 'FRETSH000001862'
+  },
+  {
+    shId: '60cb7f81-174e-47c8-86c6-ce95c93d4824',
+    shNo: 'FRETSH000001856'
+  },
+  {
+    shId: '17cf8659-3073-4ce6-b379-16d440416834',
+    shNo: 'FRETSH000001855'
+  },
+  {
+    shId: 'e1677a65-c92a-46ad-b734-780864f6f74c',
+    shNo: 'FRETSH000001854'
+  },
+  {
+    shId: '5ed01942-a45b-4181-8a6a-a96d14b896ba',
+    shNo: 'FRETSH000001849'
+  },
+  {
+    shId: '60271959-1a65-49da-8714-e212f4255e02',
+    shNo: 'FRETSH000001844'
+  },
+  {
+    shId: '19cf9d33-704f-4541-a2bb-b8e86e83908f',
+    shNo: 'FRETSH000001842'
+  },
+  {
+    shId: '4132dcf7-3b85-4ffe-9270-be045366c356',
+    shNo: 'FRETSH000001841'
+  },
+  {
+    shId: 'ac114ec3-6bd7-45ad-8152-75e1407ff48d',
+    shNo: 'FRETSH000001840'
+  },
+  {
+    shId: 'a59519cb-ea07-4816-9385-e7079c140eb7',
+    shNo: 'FRETSH000001832'
+  },
+  {
+    shId: 'bdbeb36f-86c5-4199-84e4-b69071f4f366',
+    shNo: 'FRETSH000001829'
+  },
+  {
+    shId: '4afadd72-f9e1-407b-a270-45b78f9444ce',
+    shNo: 'FRETSH000001827'
+  },
+  {
+    shId: '6886685b-de99-4af2-b280-9815eddca26a',
+    shNo: 'FRETSH000001825'
+  },
+  {
+    shId: 'd8af1354-4811-419c-8a63-aa0b4dbdf0a5',
+    shNo: 'FRETSH000001823'
+  },
+  {
+    shId: '81e1cf5e-18bd-4436-b9ee-571d752b704c',
+    shNo: 'FRETSH000001820'
+  },
+  {
+    shId: '72ac89cb-b196-4c55-b4c3-167f1f331a60',
+    shNo: 'FRETSH000001807'
+  },
+  {
+    shId: 'a98584d3-b64c-4c73-a330-916d1a833437',
+    shNo: 'FRETSH000001803'
+  },
+  {
+    shId: '4e667d9a-f92f-411b-a5fd-1fee6fbaff59',
+    shNo: 'FRETSH000001790'
+  },
+  {
+    shId: '8df594ac-da70-4d3c-b10c-2d4605a5a7e0',
+    shNo: 'FRETSH000001788'
+  },
+  {
+    shId: '0975b9a2-06c7-495d-a8a7-aab9260a5e42',
+    shNo: 'FRETSH000001781'
+  },
+  {
+    shId: 'ef197d33-54d9-46b9-a131-f85a79d4410f',
+    shNo: 'FRETSH000001780'
+  },
+  {
+    shId: 'c36890f2-76eb-4ec7-9a03-fa11ef39b2be',
+    shNo: 'FRETSH000001777'
+  },
+  {
+    shId: '2275e981-7c67-4829-8804-7609d0f3fdb7',
+    shNo: 'FRETSH000001776'
+  },
+  {
+    shId: '8676d250-c382-42c0-a1e3-6b594afd416f',
+    shNo: 'FRETSH000001774'
+  },
+  {
+    shId: 'f88c9ad0-70a1-459e-8153-0ca9b58e7971',
+    shNo: 'FRETSH000001772'
+  },
+  {
+    shId: 'a57a2ab2-ac7e-4fbc-b825-6dfe777eab29',
+    shNo: 'FRETSH000001769'
+  },
+  {
+    shId: '1e75f26f-1095-452c-884b-73687c70ff91',
+    shNo: 'FRETSH000001752'
+  },
+  {
+    shId: '92ae5bc3-bf84-4409-a3ed-035aa37f634b',
+    shNo: 'FRETSH000001741'
+  },
+  {
+    shId: '14dbd5f1-c256-479f-9523-b3804372762a',
+    shNo: 'FRETSH000001736'
+  },
+  {
+    shId: 'b17a256f-3d72-4dc3-9c6b-73d54adc960e',
+    shNo: 'FRETSH000001735'
+  },
+  {
+    shId: '7ba60637-a7d8-452c-938f-1741a6de0505',
+    shNo: 'FRETSH000001734'
+  },
+  {
+    shId: 'dddb9d70-163d-470e-a6b8-cfe6146a12e3',
+    shNo: 'FRETSH000001733'
+  },
+  {
+    shId: '6a9eb392-3bf9-4a31-a7f7-6f0a8a5fee59',
+    shNo: 'FRETSH000001732'
+  },
+  ... 59 more items
+]
+shipmentNo  FRETSH000002023
+shipment already finalized FRETSH000002023
+{"shipmentId":"d4927398-642c-45c5-952a-0ce3e4ac933c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002021
+shipment already finalized FRETSH000002021
+{"shipmentId":"6f7346fe-4c92-4259-870d-02a8ea1a9da7","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002015
+shipmentStatus not created
+{"shipmentId":"f593efd0-f2a7-4bb5-9cfa-258f562a4dc0","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"No","isRemark":false}]}]}
+not finalize case *******************************
+shipmentNo  FRETSH000002012
+shipment already finalized FRETSH000002012
+{"shipmentId":"a709e5f3-c0e6-4c8f-a5b2-0d5e4f04cf0c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002010
+shipment already finalized FRETSH000002010
+{"shipmentId":"2178fe3f-54fa-4d4a-b416-b6e6955cc98d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002008
+invoice No's customfield not found in shipment FRETSH000002008
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000002008
+Mail Sent
+shipmentNo  FRETSH000002006
+shipment already finalized FRETSH000002006
+{"shipmentId":"2a97a184-a016-462a-824b-8f724fdf4007","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002005
+shipment already finalized FRETSH000002005
+{"shipmentId":"55b57ab7-9c96-40e1-8feb-05f8d7b34215","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002004
+shipment already finalized FRETSH000002004
+{"shipmentId":"6ad1258d-ef22-4e1a-9c16-1439b3fc84a4","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002003
+shipment already finalized FRETSH000002003
+{"shipmentId":"7260b31a-7d59-42d2-8538-88f308dc45d4","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002002
+shipment already finalized FRETSH000002002
+{"shipmentId":"29c21f5a-2f9b-400f-a9b9-513ba1094d6e","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000002001
+shipment already finalized FRETSH000002001
+{"shipmentId":"37a01946-0580-4adf-943a-4c3246be2d80","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001999
+shipment already finalized FRETSH000001999
+{"shipmentId":"a32d35cf-63b9-43df-b70a-048d9c4c3c93","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001998
+shipment already finalized FRETSH000001998
+{"shipmentId":"3936c1c8-f4e3-4d6e-b515-03443f130131","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001997
+shipment already finalized FRETSH000001997
+{"shipmentId":"6c1d4c6f-c786-4798-b7cf-15244405a964","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001995
+shipment already finalized FRETSH000001995
+{"shipmentId":"1c0904c5-4376-4336-9a53-2b8b9190c73c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001994
+shipment already finalized FRETSH000001994
+{"shipmentId":"ff86808d-c0b1-4413-8ebb-1bd9019a025a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001993
+shipment already finalized FRETSH000001993
+{"shipmentId":"061de56a-aca1-4990-8d19-55e335ef585c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001992
+shipment already finalized FRETSH000001992
+{"shipmentId":"cca7e0ce-c78e-45f8-83c6-f4c4ad4cd41b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001990
+shipment already finalized FRETSH000001990
+{"shipmentId":"98a4eac9-6011-456d-9793-991537e451ac","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001989
+shipment already finalized FRETSH000001989
+{"shipmentId":"0fb1c798-536c-4fd0-9494-4bc8d49b2222","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001988
+shipment already finalized FRETSH000001988
+{"shipmentId":"56d09981-6c19-4d79-b006-eec5ee34c689","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001987
+shipment already finalized FRETSH000001987
+{"shipmentId":"1b2a6a6b-6ca0-4301-b821-4891d30c2b92","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001978
+shipment already finalized FRETSH000001978
+{"shipmentId":"46d5171c-a67b-47e5-857b-2b519888aab0","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001976
+shipment already finalized FRETSH000001976
+{"shipmentId":"4d4e85ba-7916-44a6-abb9-104331ed643b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001973
+shipment already finalized FRETSH000001973
+{"shipmentId":"7e3e8b94-0735-436f-b403-2dc532aa50c4","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001967
+shipment already finalized FRETSH000001967
+{"shipmentId":"261001af-42c8-4e21-9594-59900b64162b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001963
+shipment already finalized FRETSH000001963
+{"shipmentId":"5aa75e30-688d-4f6b-bc56-8b19d8d947f3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001960
+shipment already finalized FRETSH000001960
+{"shipmentId":"7d998f84-ab2b-4af1-8ad4-1d0a1e794f0a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001958
+shipment already finalized FRETSH000001958
+{"shipmentId":"25317dad-13e0-462e-9f4a-73531522955d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001957
+shipment already finalized FRETSH000001957
+{"shipmentId":"92220510-4357-44b8-a47f-437804781aa6","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001956
+shipment already finalized FRETSH000001956
+{"shipmentId":"c0ac3a0b-5321-48d1-a82d-945649916752","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001955
+shipment already finalized FRETSH000001955
+{"shipmentId":"46e3c448-f802-4707-a452-e122f13eac21","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001953
+shipment already finalized FRETSH000001953
+{"shipmentId":"5811cfb4-7c30-4ec7-87ae-fe53221e0eb5","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001952
+shipment already finalized FRETSH000001952
+{"shipmentId":"714487b9-4d83-4f35-b3e6-e7b77e6dff9f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001951
+shipment already finalized FRETSH000001951
+{"shipmentId":"a0b177ad-edac-4329-8740-57cf636fed4d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001950
+shipment already finalized FRETSH000001950
+{"shipmentId":"6c217365-f9fb-4a09-9c0e-235594790b1d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001947
+shipment already finalized FRETSH000001947
+{"shipmentId":"9847a6c8-6c3a-4c5a-9778-22b8bc4a0849","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001946
+shipment already finalized FRETSH000001946
+{"shipmentId":"4478a3f7-1905-4e7e-aff6-45b37ad0123e","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001943
+shipment already finalized FRETSH000001943
+{"shipmentId":"5465d9fe-aa10-43f6-8fe5-b6094b9837a2","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001939
+shipment already finalized FRETSH000001939
+{"shipmentId":"b72839f5-32b9-45d9-8019-8c6e0403b526","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001935
+invoice No's customfield not found in shipment FRETSH000001935
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000001935
+Mail Sent
+shipmentNo  FRETSH000001932
+shipment already finalized FRETSH000001932
+{"shipmentId":"1a22277b-8013-4126-82e9-b86043691558","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001928
+shipment already finalized FRETSH000001928
+{"shipmentId":"db74c055-883b-4dbd-9268-be34a2e0bd1b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001926
+shipment already finalized FRETSH000001926
+{"shipmentId":"e795fdcb-fbe1-4f95-9d3d-84a5da7c75ce","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001916
+shipment already finalized FRETSH000001916
+{"shipmentId":"e33900e3-ee66-40ca-b3d8-0f906b29cf5f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001914
+shipment already finalized FRETSH000001914
+{"shipmentId":"24dceef6-59d6-49be-a834-f3e134ef1b7b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001912
+shipment already finalized FRETSH000001912
+{"shipmentId":"c94827de-d16c-40b7-a014-d9c18358ba14","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001909
+shipment already finalized FRETSH000001909
+{"shipmentId":"748cf2d9-92d1-4a71-a6d3-b60c77f045d6","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001906
+shipment already finalized FRETSH000001906
+{"shipmentId":"574afe95-7728-4308-b192-dab807f9cf3f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001903
+shipment already finalized FRETSH000001903
+{"shipmentId":"80cc1742-4d13-45b6-929a-a1c78a1938c3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001902
+shipment already finalized FRETSH000001902
+{"shipmentId":"85624e3e-5d2b-43a0-93b1-64ff2d4c81c8","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001901
+shipment already finalized FRETSH000001901
+{"shipmentId":"71b5bb7a-ca68-4198-abdf-97359c56712e","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001898
+shipment already finalized FRETSH000001898
+{"shipmentId":"b557b32d-4086-4748-9990-0e1e11c10d3b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001893
+shipment already finalized FRETSH000001893
+{"shipmentId":"de469dba-e511-4fa2-b9b4-8c5ff3624973","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001890
+shipment already finalized FRETSH000001890
+{"shipmentId":"62050574-4da5-4f4d-af4b-72147e9a117f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001889
+shipment already finalized FRETSH000001889
+{"shipmentId":"3135b158-6d98-40d0-aaaa-19bcae119cc7","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001887
+shipment already finalized FRETSH000001887
+{"shipmentId":"6be0a038-e425-40ee-8ef3-395a59a27221","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":null,"remark":null,"uuid":null,"required":false,"accessType":null,"input":null,"unit":null,"valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001885
+shipment already finalized FRETSH000001885
+{"shipmentId":"d1160b04-1f59-4b87-b4d2-619495463a95","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":["IsFinalization Done_No"],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":"38d08bde-829d-4a1d-a0b2-0981a31300a0","required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001884
+shipment already finalized FRETSH000001884
+{"shipmentId":"9a6ed01c-08a5-4582-8988-2e53fd82a51b","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001882
+shipmentStatus not created
+{"shipmentId":"b5b9b49d-7980-400b-9d06-1f9024118840","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"No","isRemark":false}]}]}
+not finalize case *******************************
+shipmentNo  FRETSH000001879
+shipment already finalized FRETSH000001879
+{"shipmentId":"9cd465c6-724d-4969-94c9-402ae1362c99","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001877
+shipment already finalized FRETSH000001877
+{"shipmentId":"f12a8489-a0bb-46d5-afc3-f8ebab9bb987","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001875
+shipment already finalized FRETSH000001875
+{"shipmentId":"46d48afa-4def-4271-863e-110355460bb8","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001873
+shipment already finalized FRETSH000001873
+{"shipmentId":"4dd9ea65-e337-4997-9fc7-2a849c2c1545","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001865
+shipment already finalized FRETSH000001865
+{"shipmentId":"18931e00-3fcb-4d41-960f-b0bff7031bc6","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001863
+shipment already finalized FRETSH000001863
+{"shipmentId":"83be8906-d0ca-4b6b-98a8-be45f5613b8a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001862
+shipment already finalized FRETSH000001862
+{"shipmentId":"ceb2f07d-fe78-4f46-a90d-520172876365","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001856
+shipment already finalized FRETSH000001856
+{"shipmentId":"60cb7f81-174e-47c8-86c6-ce95c93d4824","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001855
+shipment already finalized FRETSH000001855
+{"shipmentId":"17cf8659-3073-4ce6-b379-16d440416834","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001854
+shipment already finalized FRETSH000001854
+{"shipmentId":"e1677a65-c92a-46ad-b734-780864f6f74c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001849
+shipment already finalized FRETSH000001849
+{"shipmentId":"5ed01942-a45b-4181-8a6a-a96d14b896ba","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001844
+shipment already finalized FRETSH000001844
+{"shipmentId":"60271959-1a65-49da-8714-e212f4255e02","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001842
+shipment already finalized FRETSH000001842
+{"shipmentId":"19cf9d33-704f-4541-a2bb-b8e86e83908f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001841
+shipment already finalized FRETSH000001841
+{"shipmentId":"4132dcf7-3b85-4ffe-9270-be045366c356","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001840
+shipment already finalized FRETSH000001840
+{"shipmentId":"ac114ec3-6bd7-45ad-8152-75e1407ff48d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001832
+shipment already finalized FRETSH000001832
+{"shipmentId":"a59519cb-ea07-4816-9385-e7079c140eb7","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001829
+shipment already finalized FRETSH000001829
+{"shipmentId":"bdbeb36f-86c5-4199-84e4-b69071f4f366","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001827
+not finalize case *******************************
+shipmentNo  FRETSH000001825
+shipment already finalized FRETSH000001825
+{"shipmentId":"6886685b-de99-4af2-b280-9815eddca26a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001823
+shipment already finalized FRETSH000001823
+{"shipmentId":"d8af1354-4811-419c-8a63-aa0b4dbdf0a5","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001820
+shipment already finalized FRETSH000001820
+{"shipmentId":"81e1cf5e-18bd-4436-b9ee-571d752b704c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001807
+shipment already finalized FRETSH000001807
+{"shipmentId":"72ac89cb-b196-4c55-b4c3-167f1f331a60","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001803
+shipment already finalized FRETSH000001803
+{"shipmentId":"a98584d3-b64c-4c73-a330-916d1a833437","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001790
+shipment already finalized FRETSH000001790
+{"shipmentId":"4e667d9a-f92f-411b-a5fd-1fee6fbaff59","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001788
+shipment already finalized FRETSH000001788
+{"shipmentId":"8df594ac-da70-4d3c-b10c-2d4605a5a7e0","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001781
+shipment already finalized FRETSH000001781
+{"shipmentId":"0975b9a2-06c7-495d-a8a7-aab9260a5e42","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001780
+shipment already finalized FRETSH000001780
+{"shipmentId":"ef197d33-54d9-46b9-a131-f85a79d4410f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001777
+shipment already finalized FRETSH000001777
+{"shipmentId":"c36890f2-76eb-4ec7-9a03-fa11ef39b2be","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001776
+shipment already finalized FRETSH000001776
+{"shipmentId":"2275e981-7c67-4829-8804-7609d0f3fdb7","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001774
+shipmentStatus not created
+{"shipmentId":"8676d250-c382-42c0-a1e3-6b594afd416f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"No","isRemark":false}]}]}
+not finalize case *******************************
+shipmentNo  FRETSH000001772
+shipment already finalized FRETSH000001772
+{"shipmentId":"f88c9ad0-70a1-459e-8153-0ca9b58e7971","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001769
+shipment already finalized FRETSH000001769
+{"shipmentId":"a57a2ab2-ac7e-4fbc-b825-6dfe777eab29","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001752
+shipment already finalized FRETSH000001752
+{"shipmentId":"1e75f26f-1095-452c-884b-73687c70ff91","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001741
+not finalize case *******************************
+shipmentNo  FRETSH000001736
+shipment already finalized FRETSH000001736
+{"shipmentId":"14dbd5f1-c256-479f-9523-b3804372762a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001735
+shipment already finalized FRETSH000001735
+{"shipmentId":"b17a256f-3d72-4dc3-9c6b-73d54adc960e","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001734
+shipment already finalized FRETSH000001734
+{"shipmentId":"7ba60637-a7d8-452c-938f-1741a6de0505","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001733
+shipment already finalized FRETSH000001733
+{"shipmentId":"dddb9d70-163d-470e-a6b8-cfe6146a12e3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001732
+shipment already finalized FRETSH000001732
+{"shipmentId":"6a9eb392-3bf9-4a31-a7f7-6f0a8a5fee59","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001731
+shipment already finalized FRETSH000001731
+{"shipmentId":"8566fbfb-78e1-4077-b795-4fdf1f4e254e","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001730
+shipment already finalized FRETSH000001730
+{"shipmentId":"50c42882-6439-472d-9492-f50a026d08a1","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001727
+shipment already finalized FRETSH000001727
+{"shipmentId":"d07eb0c8-2294-4557-8210-e9cbcbafa10c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001723
+shipment already finalized FRETSH000001723
+{"shipmentId":"e9ad3747-457c-454a-97cd-6f014e4305f2","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001717
+shipment already finalized FRETSH000001717
+{"shipmentId":"08577ebb-5bb3-49d7-a3aa-13855e8b05c4","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001716
+shipment already finalized FRETSH000001716
+{"shipmentId":"64ad17d7-7b46-477c-ba65-5be4562956b3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001713
+shipment already finalized FRETSH000001713
+{"shipmentId":"8ac13f06-ba88-41be-8bc0-ece80df25f68","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001712
+shipment already finalized FRETSH000001712
+{"shipmentId":"36569071-21ee-4787-b72b-888b1cc52c6c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001705
+shipment already finalized FRETSH000001705
+{"shipmentId":"3399d017-2749-4edb-b5f0-f32910e7a4af","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001695
+shipment already finalized FRETSH000001695
+{"shipmentId":"437d7f4e-7bd3-4d21-9aa8-34e520b22b75","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001693
+shipment already finalized FRETSH000001693
+{"shipmentId":"35b4df49-3c24-427e-a8bb-fae90400b4f3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001681
+shipmentStatus not created
+{"shipmentId":"0ab31581-18b3-4c8b-8bdb-ca5c75c9c057","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"No","isRemark":false}]}]}
+not finalize case *******************************
+shipmentNo  FRETSH000001661
+shipment already finalized FRETSH000001661
+{"shipmentId":"4ee21c44-cb04-48f0-b908-ed8053b4143f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001647
+shipment already finalized FRETSH000001647
+{"shipmentId":"a62ac217-380f-4473-88d1-86e1d06391eb","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001636
+shipment already finalized FRETSH000001636
+{"shipmentId":"54c6a4f1-0254-4e87-a512-0feffedd4169","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001633
+shipment already finalized FRETSH000001633
+{"shipmentId":"cdd5705a-c941-4bf5-86ea-4c9dc8fa637d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001632
+shipment already finalized FRETSH000001632
+{"shipmentId":"58068a92-b0a6-4ac4-98ed-fbc006009357","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001625
+invoice No's customfield not found in shipment FRETSH000001625
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000001625
+Mail Sent
+shipmentNo  FRETSH000001617
+shipment already finalized FRETSH000001617
+{"shipmentId":"308c07ea-e89a-498d-9ac2-5ecc63511a62","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001607
+shipment already finalized FRETSH000001607
+{"shipmentId":"f97323bd-ee30-46b5-ba7f-cc530f98af93","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001604
+shipment already finalized FRETSH000001604
+{"shipmentId":"5faba438-e952-44cf-b746-22cd79dc7b66","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001598
+invoice No's customfield not found in shipment FRETSH000001598
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000001598
+Mail Sent
+shipmentNo  FRETSH000001584
+shipment already finalized FRETSH000001584
+{"shipmentId":"f9d4a1cb-4e62-4570-8f0a-a51f9c18c8ad","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001582
+shipment already finalized FRETSH000001582
+{"shipmentId":"dc3ade2b-c2eb-4da3-8c55-88e5d597e89d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001577
+shipment already finalized FRETSH000001577
+{"shipmentId":"80b7ac8a-8d3c-4330-bbc8-42f553c9fa99","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001558
+shipment already finalized FRETSH000001558
+{"shipmentId":"7e9bc12f-8274-421b-9a78-47447f2f21cf","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001553
+shipment already finalized FRETSH000001553
+{"shipmentId":"c2b1cb68-ebd1-4f43-a162-3eecfccd4ed7","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001547
+shipment already finalized FRETSH000001547
+{"shipmentId":"de9ec4b5-26c3-415c-ad45-9ce838ce884d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001541
+shipment already finalized FRETSH000001541
+{"shipmentId":"72696f96-9fc0-422a-8924-1b81f88e05da","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001524
+shipment already finalized FRETSH000001524
+{"shipmentId":"68e5a1e5-878a-4e6f-8530-895e32e7f39c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001516
+shipment already finalized FRETSH000001516
+{"shipmentId":"72579bbc-58ef-4263-9370-7328e6b0049f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001509
+shipment already finalized FRETSH000001509
+{"shipmentId":"873bd8cc-1d31-40ec-bb82-d509187fca4d","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001502
+shipment already finalized FRETSH000001502
+{"shipmentId":"00d6cbd3-d06a-4219-86b7-6824485ec3c3","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001456
+shipment already finalized FRETSH000001456
+{"shipmentId":"acf26c07-cced-470f-a689-c401c0be8135","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001437
+shipmentStatus not created
+{"shipmentId":"27f17807-15d1-44b6-8215-6034cb3e2637","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"No","isRemark":false}]}]}
+not finalize case *******************************
+shipmentNo  FRETSH000001421
+shipment already finalized FRETSH000001421
+{"shipmentId":"98689934-9209-45e6-9f33-1296f76d9f6f","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001399
+shipment already finalized FRETSH000001399
+{"shipmentId":"3080f143-be47-4383-b3d2-2f5947f25247","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001398
+shipment already finalized FRETSH000001398
+{"shipmentId":"0e70f481-e92c-4a81-b8ec-e00cfdc7dd70","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001397
+shipment already finalized FRETSH000001397
+{"shipmentId":"8b51aed3-f455-4099-9e3e-8e735cfd6072","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001395
+shipment already finalized FRETSH000001395
+{"shipmentId":"c22d7921-194f-4e1a-8286-02331639ffed","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001383
+shipment already finalized FRETSH000001383
+{"shipmentId":"90eb3875-0cb2-4295-8ac9-bbde695e81c9","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001373
+shipment already finalized FRETSH000001373
+{"shipmentId":"187dbcc5-6a55-4152-acd0-6d898296c337","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001361
+shipment already finalized FRETSH000001361
+{"shipmentId":"9279c1b6-196a-42b8-91dc-5804c339c934","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001360
+shipment already finalized FRETSH000001360
+{"shipmentId":"eb292de3-ae6a-426e-b9f4-23a57e425531","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001358
+shipment already finalized FRETSH000001358
+{"shipmentId":"99e516d3-5176-4123-b9bd-7148f46bf850","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001357
+shipment already finalized FRETSH000001357
+{"shipmentId":"6be6fe7d-97e4-42bf-9b13-07569225cb15","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001335
+shipment already finalized FRETSH000001335
+{"shipmentId":"bb5fe4f5-6a2f-4e02-8170-33421eb7a895","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001317
+shipment already finalized FRETSH000001317
+{"shipmentId":"c29021ee-f59f-4fdb-9533-7f716ba53fe6","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001315
+shipment already finalized FRETSH000001315
+{"shipmentId":"d4666e90-6daa-4bdc-a27a-65ac140ccd54","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001313
+shipment already finalized FRETSH000001313
+{"shipmentId":"8327d8ac-5162-468d-a397-7d65dccc25ba","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001312
+shipment already finalized FRETSH000001312
+{"shipmentId":"97e57afb-9316-4367-bde4-6c4f33a063fb","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001310
+shipment already finalized FRETSH000001310
+{"shipmentId":"b3925e04-8f63-470b-ae7f-3297b7fda117","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001305
+shipment already finalized FRETSH000001305
+{"shipmentId":"0efcb802-3d85-43e1-8201-5df9edded37c","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001294
+shipment already finalized FRETSH000001294
+{"shipmentId":"8d427316-a37a-4d6a-867b-62ad13dbda22","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001274
+shipment already finalized FRETSH000001274
+{"shipmentId":"eec639a4-662d-42d4-acee-4cbf17b7248a","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000001266
+invoice No's customfield not found in shipment FRETSH000001266
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000001266
+Mail Sent
+shipmentNo  FRETSH000001259
+invoice No's customfield not found in shipment FRETSH000001259
+Sending email with SUB: FENA -Invoice Nos Cf Not Found shipmentNo FRETSH000001259
+Mail Sent
+shipmentNo  FRETSH000001026
+shipment already finalized FRETSH000001026
+{"shipmentId":"75c3eded-f5c9-4b87-b2ef-cfee23fb83f2","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}
+shipmentNo  FRETSH000000514
+shipment already finalized FRETSH000000514
+{"shipmentId":"ad773752-6604-45a6-87c3-3df1f9eafecf","updates":[{"keyToUpdate":"customfields","updatedValue":[{"indexedValue":[],"fieldKey":"IsFinalization Done","multiple":false,"description":"","remark":"","uuid":null,"required":false,"accessType":null,"input":"","unit":"","valueType":"string","options":["Yes","No"],"fieldType":"yes-no","value":"Yes","isRemark":false}]}]}

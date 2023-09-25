@@ -1,0 +1,18 @@
+7
+shipment No 2705263
+{"shipmentId":"d6b589c1-f3dc-4d54-926d-a1102259c1a1","updates":[{"keyToUpdate":"departureTime","updatedValue":1687392363338,"stageId":"3fc313b1-a40d-49cd-a52f-48a10e5c4100","markComplete":true}]}
+bulkSyncApi Res Status: 200
+shipment No FRETSH001000000315
+shipment No FRETSH001000000249
+{"shipmentId":"853a4ecd-19af-451a-83e5-99f22e196921","updates":[{"keyToUpdate":"departureTime","updatedValue":1687874088358,"stageId":"504e317d-7bdd-4b8a-89e2-c5208dcf5aa8","markComplete":true}]}
+bulkSyncApi Res Status: 200
+shipment No FRETSH001000000103
+{"shipmentId":"f8ceea78-e457-4412-a6e7-b95d836b4901","updates":[{"keyToUpdate":"departureTime","updatedValue":1686049385772,"stageId":"1bbf6f27-0250-4b6b-9783-9040076ff4e1","markComplete":true}]}
+bulkSyncApi Res Status: 200
+shipment No FRETSH001000000054
+shipment No FRETSH001000000048
+{"shipmentId":"18c2c201-e5ad-4648-9b84-9ca72829f63c","updates":[{"keyToUpdate":"departureTime","updatedValue":1681192020243,"stageId":"e9f340a0-a460-4ca2-ba95-7352344ce991","markComplete":true}]}
+bulkSyncApi Res Status: 200
+shipment No FRETSH000000002
+{"shipmentId":"52edf624-b173-4221-8658-0e88b7c8493f","updates":[{"keyToUpdate":"departureTime","updatedValue":1667027775798,"stageId":"e93bd22c-e42e-4b94-a996-c98525a217b0","markComplete":true}]}
+bulkSyncApi Res Status: 200
